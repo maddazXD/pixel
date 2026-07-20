@@ -1,0 +1,438 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──8週目の朝。\n2ヶ月にわたる施術で、タツ姐の身体は確実に変化していた。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（8週間…タツ姐の身体の反応は、週を追うごとに良くなってる。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（もう完全に、俺の施術に身体が適応してる。今日はどこまでいけるかな...）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（客足も順調...このまま行けば借金も何とか...）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "...おう。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "タツ姐さん！今日も...って、どうしました？なんか顔色が..."
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...別に。ちょっと調子が悪いだけだ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "調子が悪い、ですか。どんな感じなんです？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...その、週末...ずっと身体が熱くて...眠れなかった。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（週末...！じゃあ土曜日も日曜日も、ずっと欲求不満で...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...なんか、身体の奥がムズムズして...落ち着かねぇんだよ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "身体の奥が...ですか。どのあたりが？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "...っ。どのあたりって...そんなの言えるか。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（言えないってことは...やっぱりそこか。完璧だな）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "週末、何か自分で対処しようとしました？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ！な、何でそんなこと聞くんだよ！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "いえ、施術の参考にしたいので。もし自分で対処しようとして、うまくいかなかったなら..."
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "......。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...まぁ、その...色々やってみたけど...全然ダメで...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（きた...！自慰してもダメだったんだ...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "それは...タツ姐の身体が、俺の施術を完全に覚えてしまったからですね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "alert",
+      "text": "覚えた...？どういう意味だ？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "身体には記憶があるんです。特に気持ちいい感覚は、強く記憶される。"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "毎週の施術で、タツ姐の身体は俺の手を完全に覚えてしまった。だから、自分の手じゃ満足できなくなってるんです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。お、お前の手を、覚えたって...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完璧だ...タツ姐の身体、もう俺なしじゃダメになってる...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...まぁ、確かに...お前の施術は...効くからな...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（認めた...！もう完全に俺の手に依存してるじゃん）",
+      "hideCharacter": true
+    },
+    {
+      "id": "choice_massage8",
+      "character": "player",
+      "expression": "normal",
+      "text": "（タツ姐の身体は完全に開発されてきている。ここでどう伝えるか...）",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "それは正常な反応ですよ",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "normal_path"
+        },
+        {
+          "label": "タツ姐は特別に感度が高いんです",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "sensitive_path"
+        },
+        {
+          "label": "俺好みの身体になってきましたね",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "possess_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "これは正常な反応ですよ。毎週施術を受けて、身体がリラックスしやすくなっただけです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "...そういうもんなのか。まぁ、悪いことじゃねぇんだな。",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "continue_conversation"
+    },
+    {
+      "id": "sensitive_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "タツ姐は特別に感度が高い体質なんです。"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "普通の人より神経が敏感で、施術の効果が出やすい。だからこんなに反応してしまうんですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "敏感って...そんなの知らねぇよ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（そうだよ...タツ姐の身体、めちゃくちゃ敏感に開発されてきてる...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...まぁ、確かに...お前の手は、妙に気持ちいいけどな...。",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "continue_conversation"
+    },
+    {
+      "id": "possess_path",
+      "character": "player",
+      "expression": "shy",
+      "text": "俺好みの身体になってきましたね、タツ姐。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "はぁ！？お前好み？ふざけんな。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "だって、タツ姐の身体、もう俺の手にしか反応しないんでしょ？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。それは...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "毎週施術を繰り返して、タツ姐の身体は俺の手に完璧に適応した。"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "もう、俺なしじゃ満足できないんですよね？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...っ。調子に乗んな...。でも...まぁ...効くのは事実だけどよ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完璧だ...もう完全に俺のものだな）",
+      "hideCharacter": true,
+      "next": "continue_conversation"
+    },
+    {
+      "id": "continue_conversation",
+      "character": "player",
+      "expression": "normal",
+      "text": "ところで、タツ姐。身体の奥がムズムズするって言ってましたよね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...ああ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "今日は、その奥の方まで...しっかり施術してあげましょうか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "alert",
+      "text": "...奥の方って...どういう意味だ？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "表面的な筋肉だけじゃなく、もっと深部まで...身体の芯から、ほぐしてあげます。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...深部って...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "タツ姐が求めてるのは、そういう深い施術なんですよ。自分でも分かってるんじゃないですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "......っ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（無言ってことは、認めたってことだな...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...まぁ...お前の施術は、やっぱ本物だからな...。任せるわ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（やった...！完全に期待してるじゃん。今日は本格的にいけるぞ...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "じゃあ、着替えてもらおうか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "...ああ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "タツ姐が着替え始める",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（...今日は、深部まで...って...。）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "（...身体の奥が、もう...疼いてる...。）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（タツ姐、完全に準備できてるな...。今日はどこまで攻めようかな...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（...もう、下着も濡れてる...。やばい、バレるかも...）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "（...でも、正直...もう我慢できねぇ...。）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（ふふ...今日は、タツ姐をもっともっと気持ちよくしてあげよう...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "...着替えた。",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（...目が潤んでる。呼吸も荒い。完璧だ...）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...早く、始めてくれ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（もう限界なんだな...。よし、たっぷり可愛がってあげよう...）",
+      "hideCharacter": true
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "それじゃあ、今日は特別な施術を始めますね。"
+    }
+  ]
+}
