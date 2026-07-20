@@ -1,0 +1,493 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Pagi minggu ke-9. Hubungan antara Tatsu-nee dan terapisnya sudah benar-benar melampaui batas sekadar praktisi dan klien."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Sembilan minggu... Tubuh Tatsu-nee sudah mekar sepenuhnya. Sekarang yang tersisa hanyalah...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Semuanya berjalan lancar... Hutangnya sudah mulai berkurang sedikit demi sedikit. Ini semua berkat Tatsu-nee.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Yo.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Tatsu-nee! Kamu kelihatan hebat hari ini."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Ya. Tidur nyenyak semalam.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Senang mendengarnya. Tubuhmu juga terlihat dalam kondisi yang baik."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "smile",
+      "text": "Yah, begitulah. Berkat perawatanmu, tubuhku terasa ringan akhir-akhir ini.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Dia bilang dia merasa baik... tapi fakta bahwa dia tetap datang hari ini berarti...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Tapi tetap saja, aku ingin mendapatkan perawatanmu setidaknya seminggu sekali.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Terima kasih. Itu karena tubuh Tatsu-nee menerima perawatanku dengan sangat sempurna."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...! Yah... tanganmu memang... punya efek, aku akui itu...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Dia benar-benar sudah ketagihan... Ini sempurna.)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Jadi, soal hari ini.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Ya?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Um, akhir-akhir ini... bagaimana ya mengatakannya...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Hanya hal-hal yang lembut... sudah tidak cukup lagi...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "Tidak cukup...?"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Itu dia...! Dia mendambakan stimulasi yang lebih kuat...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Ya. Lebih... seperti... yang intens, atau...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Kamu ingin stimulasi yang lebih kuat?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Yah, ya. Itu yang aku maksud.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Sempurna... tubuh Tatsu-nee terus meningkat...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Itu perubahan yang luar biasa. Itu bukti kalau tubuhmu mulai menjadi lebih jujur."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "Jujur... Jangan bicara seperti itu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Tapi itu berarti kamu sudah benar-benar terhubung dengan tubuhmu sekarang, Tatsu-nee. Itu bukti kalau perawatanku berhasil."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Yah, perawatanmu memang sungguhan, aku akui itu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Baiklah... hari ini aku akan mendorongnya sampai batas kemampuannya...)",
+      "hideCharacter": true
+    },
+    {
+      "id": "choice_massage9",
+      "character": "player",
+      "expression": "normal",
+      "text": "Aku sudah mendengar permintaanmu dengan jelas, Tatsu-nee.",
+      "choices": [
+        {
+          "label": "Tapi tolong jangan terlalu memaksakan diri.",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "careful_path"
+        },
+        {
+          "label": "Hari ini aku akan melakukannya sekuat yang kamu bisa tahan.",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "limit_path"
+        },
+        {
+          "label": "Tubuhmu sudah sepenuhnya milikku sekarang, bukan?",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "mine_path"
+        }
+      ]
+    },
+    {
+      "id": "careful_path",
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Ya. Baiklah, aku serahkan padamu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Kamu adalah klien berharga, Tatsu-nee. Sebagai profesional, aku akan merawatmu dengan baik.",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "limit_path",
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "Sampai batas kemampuanku...? Hei, apa maksudmu dengan itu?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Aku akan memberikanmu perawatan paling intens yang pernah kamu rasakan, di tingkat mana pun yang kamu inginkan."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! Baiklah... aku serahkan padamu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Heh... Nantikan saja, Tatsu-nee...)",
+      "hideCharacter": true,
+      "next": "prepare_massage"
+    },
+    {
+      "id": "mine_path",
+      "character": "player",
+      "expression": "shy",
+      "text": "Tubuhmu sudah sepenuhnya menjadi milikku sekarang. Kamu tidak bisa merasa puas tanpa perawatanku, kan?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Hah!? Milikmu...? Jangan besar kepala.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Tapi itu benar, kan? Tubuhmu sekarang cuma bereaksi padaku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! Itu...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Yah, aku akui perawatanmu memang manjur... tapi tetap saja...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Dia mengakuinya... Sekarang tidak ada jalan keluar lagi, Tatsu-nee...)",
+      "hideCharacter": true,
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Hei. Sebenarnya... ada sesuatu yang aneh terjadi belakangan ini...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Sesuatu yang aneh?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Seperti... saat aku memikirkan soal perawatan itu... tubuhku langsung... terasa panas dengan sendirinya...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Itu dia...! Ini sudah jadi refleks terkondisi sepenuhnya...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Itu artinya... tubuhmu sedang mendambakan perawatan itu, Tatsu-nee."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "Mendambakan...!? T-Tidak, bukan begitu...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Pernah dengar tentang anjing Pavlov?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Apa itu?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Itu soal refleks terkondisi. Tubuhmu sudah belajar kalau perawatan itu terasa enak, jadi sekarang cuma dengan memikirkannya saja, tubuhmu langsung bereaksi."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! Jadi intinya, kamu sudah melatihku sepenuhnya, begitu ya...?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Dilatih...! Kata itu keluar dari mulut Tatsu-nee... luar biasa...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Dilatih? Bukan...! Itu cuma reaksi alami tubuh saja."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Yah, aku akui perawatanmu memang manjur, tapi...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Sempurna... Tubuh Tatsu-nee sekarang sudah sepenuhnya milikku...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Rasanya aneh. Menjadi... ketergantungan pada seseorang seperti ini... ini pertama kalinya bagiku...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Itu artinya tubuhmu jadi lebih jujur."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Jujur, ya... Yah, terserah deh...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Hari ini, aku akan memanjakan tubuh jujurnya itu sepuasnya...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Kalau begitu, ayo ganti pakaianmu dengan seragam yang biasa."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Ya.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "Tatsu-nee mulai berganti pakaian",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Sial, celana dalamku sudah basah. ...Kenapa sih ini bisa terjadi...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "(...Refleks terkondisi, ya... Tubuhku sudah benar-benar menghafalnya...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Aku sendiri yang bilang kata 'dilatih'... yah, mungkin itu tidak salah...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Tatsu-nee benar-benar terobsesi dengan perawatanku... Imut sekali...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Tadi aku minta yang kasar... apa aku bakal baik-baik saja...?)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "(...Tapi sejujurnya... aku menantikannya...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Hari ini, aku akan membuat tubuh Tatsu-nee jadi lebih berkembang lagi...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Aku sudah selesai berganti pakaian.",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Seharusnya aku sudah terbiasa, tapi... tubuh Tatsu-nee benar-benar memukau...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Cepat mulai saja.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Kamu terlihat luar biasa, Tatsu-nee. Benar-benar cantik."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! Bodoh, jangan bilang hal aneh seperti itu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Tapi dia terlihat senang mendengarnya...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Tolong. Berikan aku... perawatan spesial hari ini.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Dia sendiri yang minta perawatan spesial... Sempurna.)",
+      "hideCharacter": true
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "Tentu saja. Hari ini aku akan melakukannya sedalam dan seintens yang kau mau, Tatsu-nee. Apa kau siap?"
+    }
+  ]
+}
