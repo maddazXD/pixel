@@ -1,0 +1,119 @@
+[
+  {
+    "id": "tatsu_first_climax_awake",
+    "triggerType": "firstClimaxAwake",
+    "triggerCondition": {
+      "isSleeping": false
+    },
+    "priority": 20,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "climax_01",
+        "text": "...!? A-Apa itu tadi...!?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "climax_01",
+        "text": "Ah...ahhh... ♡♡"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Hah...hah..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "........"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(W-Wah... Apa Tatsu-nee baru saja... klimaks...?)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "K-Kau tidak apa-apa? Sepertinya ototmu tiba-tiba melemas..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Jangan lihat"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "M-Maaf...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Itu tadi... pertama kalinya bagiku..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Kalau kau beritahu siapa pun soal ini, kubunuh kau"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "A-Aku tidak akan! Benar-benar tidak akan!"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_climax_sleeping",
+    "triggerType": "firstClimaxSleeping",
+    "triggerCondition": {
+      "isSleeping": true
+    },
+    "priority": 20,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Mmm... ♡"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Ah...hah... ♡"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Hah... Tatsu-nee bereaksi sangat intens padahal dia sedang tidur...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "climax_sleeping_01",
+        "text": "Mmnh... ♡♡"
+      },
+      {
+        "character": "tatsu",
+        "expression": "climax_sleeping_01",
+        "text": "Fwah... ♡"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Zzz... zzz..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee itu... bisa membuat ekspresi seperti itu...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Dia pasti akan membunuhku kalau dia bangun, tapi... untuk saat ini saja, biarkan aku menikmatinya...)"
+      }
+    ]
+  }
+]
