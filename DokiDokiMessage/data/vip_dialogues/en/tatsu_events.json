@@ -1,0 +1,545 @@
+{
+  "half_repaid": {
+    "title": "Perayaan Pelunasan Hutang 50%",
+    "dialogues": [
+      {
+        "character": "player",
+        "text": "Kalau begitu, permisi ya...",
+        "tatsuImage": "fadeout"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Hah...!?",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Otot dadamu tegang sekali.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Aku harus memijatnya dengan benar.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "H-Hei! Jangan di situ...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Ini bagian dari pengobatan. Untuk melancarkan aliran getah bening...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aliran getah bening... tidak ada hubungannya dengan ini!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Dan...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Kenapa aku harus telanjang...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Yah...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Kontak kulit langsung jauh lebih efektif.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Sekarang aku akan menstimulasi areolamu.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "B-Berhenti! Jangan di situ...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Mmm♡",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "player",
+        "text": "Tatsu-nee, ternyata kamu sensitif sekali.",
+        "resetBubbles": true,
+        "tatsuImage": "close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "B-Bodoh! Aku tidak...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Sekarang aku akan menstimulasi putingmu.",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Nn♡ J-Jangan putingku...!",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ahh...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Kenapa... rasanya enak sekali...♡",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "Membuat lingkaran dengan jari-jariku...",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aahh...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "Pelan-pelan, lalu perlahan makin intens...",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Kyaah...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "Mengatur ritme adalah kuncinya.",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "K-Kalau kamu melakukan itu...!",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aku bakal merasa... aneh...!",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "Tidak apa-apa.",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "Itu reaksi alami terhadap kenikmatan.",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Itu... cukup...!",
+        "tatsuImage": "nipple",
+        "resetBubbles": true
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Kamu harus berhenti sekarang...",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "Belum.",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aku bakal merasa... aneh...!",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "Ini imbalanmu, kan?",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "I-Imbalan macam apa ini... aku tidak minta...!",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "Tapi tubuhmu menikmatinya.",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ahh! Di situ...! Jangan...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "Sekarang, mari kita turun lebih bawah...",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Hah...! Itu... benar-benar tidak boleh...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Tapi, imbalannya...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "I-Itu sudah cukup!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Sisanya...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Setelah kamu melunasinya semua.",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "player",
+        "text": "Eh...? Maksudnya...?",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "(Mana mungkin orang ini bisa melunasi semuanya...)",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "T-Tapi sudahlah!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Pastikan kamu melunasi sisanya!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Mengerti!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Aku akan bekerja keras!",
+        "tatsuImage": "default"
+      }
+    ]
+  },
+  "full_repaid": {
+    "title": "Perayaan Pelunasan Hutang Penuh",
+    "dialogues": [
+      {
+        "character": "player",
+        "text": "Oke, berbaringlah di tempat tidur.",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Hah? Apa yang sedang kamu rencanakan!",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "Pijatan spesial untuk merayakan pelunasan utang.",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "Kamu bilang sisanya akan diberikan",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "setelah lunas semua, kan?",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "S-Sial... janji tetaplah janji...",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "Aku akan memasukkannya sekarang.",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "T-Tunggu! Aku butuh persiapan mental...",
+        "tatsuImage": "fadeout"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Nnh!",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "player",
+        "text": "Kamu basah sekali, langsung masuk begitu saja.",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "player",
+        "text": "Apa kamu sudah menantikan ini?",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "T-Tidak mungkin...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Aku akan mulai bergerak sekarang.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Nnh♡ Rasanya dalam sekali...!",
+        "resetBubbles": true,
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ah, ahh...! Payudaraku berguncang...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "Berguncang kencang sekali. Kamu bisa lihat sendiri, kan?",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "D-Diamlah...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "Klitorismu juga sudah keras sekali.",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "Terasa enak, kan?",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "T-Tidak... bukan begitu...",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Nnaaah♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Bagaimana kalau ada yang melihat ini...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "Tenang saja. Hari ini kita tutup.",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "B-Bukan itu masalahnya... Ah!",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "Saat aku menggesek jauh di dalam...",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Di situ...! Kamu mengenai rahimku...!",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ah, ahh...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aku... mau keluar...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "Keluarkan saja sepuasmu.",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Jangan...! Aku tidak bisa...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "Aku akan mengeluarkannya di dalam.",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "J-Jangan di dalam...! Kamu tidak boleh mengeluarkannya di dalam...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "Tidak apa-apa. Aku akan bertanggung jawab.",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "B-Bukan itu masalahnya...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ah...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Tidak... aku mau keluar...!",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aku keeeluuaaar!!",
+        "tatsuImage": "ejaculation_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aaaahhh♡♡",
+        "tatsuImage": "ejaculation"
+      },
+      {
+        "character": "player",
+        "text": "Aku sudah keluar... memenuhimu sepenuhnya, Tatsu-nee.",
+        "tatsuImage": "cum_close_tx"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Haa... haa...",
+        "resetBubbles": true,
+        "tatsuImage": "cum_close_tx"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Kamu benar-benar... mengeluarkannya di dalam...",
+        "resetBubbles": true,
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Rasanya panas sekali... di dalam...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "Kamu terlihat sangat manis saat keluar dengan payudara yang berguncang, Tatsu-nee.",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "J-Jangan panggil aku... manis...!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Sial... aku tidak menyangka akan jadi begini...",
+        "tatsuImage": "cum_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "H-Hei... jangan pernah berhutang lagi!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "Iya! Tidak ada hutang lagi!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "T-Tapi... yah...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Kamu boleh... berkunjung sesekali...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "Tatsu-nee...!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "Datanglah kapan saja untuk pijatan rahim.",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "B-Bodoh! Bukan itu maksudku...!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "Tapi tubuhmu terasa segar kembali, kan?",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "........",
+        "tatsuImage": "cum_close"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "...Yah, tidak buruk juga.",
+        "tatsuImage": "cum"
+      }
+    ]
+  }
+}
