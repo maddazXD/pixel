@@ -1,0 +1,449 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──11주차 아침.\n타츠네의 몸은 이제 시술 없이는 안정을 찾지 못할 정도로 변해 있었다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(11주차... 거의 3개월이 됐구나. 타츠네의 몸, 완전히 개발되고 있어.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(순조롭다... 타츠네 덕분에 경영도 안정되고 있어.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "...왔어.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "타츠네 씨! 오늘도... 어라, 기분이 안 좋아 보이시네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "...그래. 네 탓이야.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "네? 제 탓이요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...저번에 말이야. 부하 혼내고 있는데... 네 시술이 떠올라 버렸어.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "혼내고 있는 중에...?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "그래. 그랬더니... 손이... 약해져 버렸어.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "부하한테 '누나, 오늘은 자상하시네요'라는 소리까지 들었어... 씨발.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(혼내는 것도 약해졌다니... 얼마나 시술 생각을 하고 있는 거야...)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "조직의 보스가 일하면서 그런 생각이나 하고 있으면 안 되잖아...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "그만큼 제 시술이 효과가 있다는 거잖아요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...쯧. 잘난 척하지 마.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...근데 말이야. 진짜 심각해.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "심각하다니요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...이 가게 간판만 봐도... 몸이... 반응해 버려.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "간판만 봐도요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "그래. 저번에 차로 여기 앞을 지나갔을 뿐인데... 보지가 욱신거려서...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "운전사한테 '누나, 얼굴 빨개요'라는 소리 들었어... 최악이었어.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(완전히 파블로프의 개다... 조건반사로 발정하고 있어...)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "너, 나한테 뭘 한 거야...?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "아무것도 안 했는데요. 타츠네의 몸이 제 시술을 기억해 준 것뿐이에요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...쯧. 기억이라니... 그런 뜻이 아니잖아...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "하지만, 그만큼 몸이 솔직해졌다는 뜻이잖아요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...너무 솔직해서 문제라고... 씨발...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...그리고 말이야. 더 심각한 게 있어...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "더요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...네 목소리만... 들어도... 몸이 달아올라.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "목소리만으로요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "그래. 저번에 예약 전화했을 때... 네 목소리 듣자마자...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...그 자리에서... 보지가 젖어 버렸어...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(목소리만으로 젖는다니... 어디까지 개발된 거야...)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "회의 중에 전화 왔을 때는 정말... 최악이었어.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "네 목소리 듣는 순간, 몸이 벌떡 반응해 버려서...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "부하들 앞에서... 얼굴 새빨개져서... 전화 끊을 수밖에 없었어...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "그건... 죄송합니다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "전혀 미안해하는 얼굴이 아니잖아!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(하지만, 그렇게까지 날 생각해 주다니... 기쁘다.)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...그러니까. 오늘은... 제대로 시술해 줘.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "이러다간... 조직의 보스로서... 위엄이 안 서잖아...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "알겠습니다. 오늘도 확실히 케어해 드릴게요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "...그래. 부탁해.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "choice_massage11",
+      "character": "player",
+      "expression": "normal",
+      "text": "그런데, 타츠네.",
+      "choices": [
+        {
+          "label": "그렇게까지 저를 생각해 주셔서 기쁩니다",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "trust_path"
+        },
+        {
+          "label": "완전히 제 시술의 포로가 됐네요",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "develop_path"
+        },
+        {
+          "label": "조직의 보스가 이렇게 음란해지다니",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "slave_path"
+        }
+      ]
+    },
+    {
+      "id": "trust_path",
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...쯧. 생각하는 게 아니라...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...뭐... 몸이 저절로... 떠올려 버리는 것뿐이야.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "그만큼 제 시술이 타츠네한테 잘 맞는다는 뜻이에요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "...그래. 네 실력은... 진짜야.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(진지하게 대답해 줬다... 귀엽네.)",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "develop_path",
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...포로라니... 그런 식으로 말하지 마.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "하지만 사실이잖아요? 이제 제 시술 없이는 안정이 안 되잖아요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...쯧. ...그건... 뭐...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...인정할게. 네 시술은... 필요해.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(솔직하게 인정해 줬다... 좋은 반응이야.)",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "slave_path",
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "음란하다니...! 건방지게!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "하지만 간판만 봐도 젖잖아요? 목소리만 들어도 몸이 벌떡하잖아요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...쯧. 그건...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "완전히 제 전용 몸이 됐어요. 타츠네."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...쯧. ...젠장... 인정할게...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...내 몸은... 이미... 네 거야...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(완전히 빠져들고 있어... 최고다.)",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "normal",
+      "text": "그러면, 오늘도 시술 시작할까요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "그래. 부탁해.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "타츠네가 옷을 갈아입기 시작한다",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(...목소리만으로 젖는다니... 나, 어떻게 된 거야...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "(...하지만... 솔직히... 시술이 기다려져...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(타츠네, 완전히 내 시술에 의존하고 있어... 귀여워.)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "...갈아입었어.",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "오늘도 좋은 모습이네요. 자, 시작할까요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...그래. ...듬뿍... 부탁해.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "맡겨 주세요. 타츠네의 몸, 확실히 케어해 드릴 테니까요."
+    }
+  ]
+}
