@@ -1,0 +1,408 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──12주차 아침.\n시술의 효과가 마침내 나나의 일상생활에 영향을 미치기 시작했다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나의 몸이 엄청나게 민감해졌어...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(이제 다음 단계로 나아갈 때인가...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "안, 안녕... 하세요...",
+      "voiceFile": "story_day12_001"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "오? 오늘 유난히 상기돼 있네..."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "음... 오늘은 여기까지 오는 것만으로도 힘들었어요...",
+      "voiceFile": "story_day12_002"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(걷기만 해도 그렇게 민감해졌다니...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "한 걸음 걸을 때마다... 어떻게... 다리에 힘이 안 들어가요...",
+      "voiceFile": "story_day12_003"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "그거 힘들었겠네."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "오는 길에 여러 번 쉬어야 했어요... 부끄러워요...",
+      "voiceFile": "story_day12_004"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(그렇게 자주 쉬어야 했다니...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "선생님... 음... 중요한 보고가 있어요...",
+      "voiceFile": "story_day12_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "뭔데? 설마 임신한 거야?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "아, 아니에요!",
+      "voiceFile": "story_day12_006"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "하지만... 그것과 가까울지도...",
+      "voiceFile": "story_day12_007"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "뭐!?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "요즘... 가슴이 부어서... 이상한 느낌이에요...",
+      "voiceFile": "story_day12_008"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "가슴이!? (예상 밖이야! 멋져!)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "만지면... 엄청 민감해요...",
+      "voiceFile": "story_day12_009"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "교복도... 답답해요...",
+      "voiceFile": "story_day12_010"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "좋아! 릴랙스의 궁극 상태야!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "릴, 릴랙스!?",
+      "voiceFile": "story_day12_011"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응! 네 몸이 \"절정 상태\"를 최적의 건강 상태로 인식한 거야."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "다시 말해서 나나의 몸이 항상 최상의 컨디션을 유지하려고 하는 거지."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "그, 그런 거예요... 하지만 브래지어가 너무 답답해요...",
+      "voiceFile": "story_day12_012"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "오늘은... 음... 못 입었어요...",
+      "voiceFile": "story_day12_013"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(노브라... 정말!?)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "또... 학교에서 문제가 있었어요...",
+      "voiceFile": "story_day12_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "또?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "체육 시간에... 배구할 때...",
+      "voiceFile": "story_day12_015"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "점프해서 착지하는 순간... 비명을 질렀어요...!",
+      "voiceFile": "story_day12_016"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "점프 착지로?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "진동이... 몸 깊숙이 울려서...",
+      "voiceFile": "story_day12_017"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "달리기도 안 돼요... 허벅지가 부딪힐 때마다... 으음!...",
+      "voiceFile": "story_day12_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "다들 \"다나카 씨 쥐났어?\"라고 물어봤어요...",
+      "voiceFile": "story_day12_019"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(운동만으로 절정을 맞이하다니...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "이제 체육 시간이 무서워요...",
+      "voiceFile": "story_day12_020"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "그거 참 곤란하네."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "선생님... 어떻게 하면 좋을까요...?",
+      "voiceFile": "story_day12_021"
+    },
+    {
+      "id": "choice_massage12_final",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "그렇구나. 오늘이 마침내 최종 단계인가?",
+      "choices": [
+        {
+          "label": "더 나아가면 위험해, 일반 시술 하자",
+          "trustDelta": 3,
+          "developDelta": 0,
+          "next": "safe_ending"
+        },
+        {
+          "label": "완전 각성 코스로 마무리하자",
+          "trustDelta": 1,
+          "developDelta": 3,
+          "next": "awakening_ending"
+        },
+        {
+          "label": "궁극의 비기 \"무한 절정 지옥\"을 해제하자",
+          "trustDelta": 0,
+          "developDelta": 5,
+          "next": "ultimate_ending"
+        }
+      ]
+    },
+    {
+      "id": "safe_ending",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "일반 시술...?",
+      "voiceFile": "story_day12_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응. 이대로면 일상생활에 지장이 생길 거야."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "하지만 걱정 마. 언제든 이 상태로 돌아올 수 있어."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "그, 그렇다면... 조금 안심이에요...",
+      "next": "final_treatment",
+      "voiceFile": "story_day12_023"
+    },
+    {
+      "id": "awakening_ending",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "완전 각성!?",
+      "voiceFile": "story_day12_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응! 네 몸의 잠재력을 100% 끌어낼 거야!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "지금도 이렇게 힘든데... 더 심해지면...",
+      "voiceFile": "story_day12_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "괜찮아! 날 믿어!",
+      "next": "final_treatment"
+    },
+    {
+      "id": "ultimate_ending",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "무, 무한 절정 지옥!?",
+      "voiceFile": "story_day12_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응! 한번 시작하면 멈추지 않는 궁극의 시술!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그, 그거... 무섭게 들려요...",
+      "voiceFile": "story_day12_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "걱정 마! 기절하면 잠깐 멈출게!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "기절이 이미 전제돼 있잖아요!?",
+      "next": "final_treatment",
+      "voiceFile": "story_day12_028"
+    },
+    {
+      "id": "final_treatment",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그럼, 최후의 시술을 준비하자."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "최후라니... 무슨 뜻이에요?",
+      "voiceFile": "story_day12_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "아니, 최고라는 뜻이야. 평생 오게 할 생각이니까."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "다, 다행이에요... {{playerName}}씨 없이는 정상적인 생활을 못 하겠어요...",
+      "voiceFile": "story_day12_030"
+    },
+    {
+      "character": "player",
+      "expression": "blush_nervoussmile",
+      "text": "(평생 고객 확보... 계획대로!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그럼, 갈아입을래?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "네...",
+      "voiceFile": "story_day12_031"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(이 방에 들어오기만 해도 몸이 자동으로...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day12_032"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "갈, 갈아입었어요...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day12_033"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(벌써 한계에 온 것 같아... 대단한 광경이야...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "너, 너무 쳐다보지 말아 주세요... 부끄러워요...",
+      "voiceFile": "story_day12_034"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "괜찮아."
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "자, 지금까지 중 최고의 시술을 시작하자."
+    }
+  ]
+}
