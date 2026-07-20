@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(7주차가 끝났어... 시간 정말 빠르네)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나짱이 친구들을 소개해줘서, 새 고객들이 늘고 있어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(평판도 좋고, 매출도 꾸준히 늘고 있어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(새 장비를 사야 하나)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(기술 향상을 위해 고급 세미나도 듣고 싶어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(아니면 도박으로 대박 내서 빨리 갚아버릴까...?)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(아니야, 그냥 아르바이트를 찾는 게 나을 것 같아...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그럼, 이번 주는 뭘 할까...)"
+    }
+  ]
+}
