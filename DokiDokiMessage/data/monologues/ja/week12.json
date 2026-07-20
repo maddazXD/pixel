@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（12週目…3ヶ月間、本当にあっという間だった）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃんのおかげで店の評判は最高だ）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（毎日のように通ってくれて、本当に感謝している）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（施術の腕も格段に上がったし、新しい技術も開発できた）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（あとは借金だな。返済期限は今週だ。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（もし、返せなかったら…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（…やり残したことが無いようにしないとな。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、これからどうしようか…）"
+    }
+  ]
+}
