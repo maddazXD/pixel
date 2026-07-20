@@ -1,0 +1,333 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "——第7周的早晨。\n菜菜的身体明显发生了变化。而她本人也开始意识到了这一点。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(已经7周了...感觉菜菜的身体已经完全习惯了我的触碰。)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "早上好。今天也请多关照。",
+      "voiceFile": "story_day7_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "早上好,菜菜。今天看起来也很有精神呢。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "是的...但是最近,身体感觉有点奇怪...",
+      "voiceFile": "story_day7_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "奇怪?是哪里呢?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "那个...从早上醒来的那一刻起,身体就感觉发热...",
+      "voiceFile": "story_day7_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "特别是...胸部和下腹部...变得非常敏感...",
+      "voiceFile": "story_day7_004"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "光是衣服摩擦就会让我颤抖...",
+      "voiceFile": "story_day7_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(哦...终于到这一步了。这是她的身体被充分开发的证据。)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "这是你的身体被激活的证据。血液循环改善了,神经变得敏感了。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "是这样吗...但是有点难为情...",
+      "voiceFile": "story_day7_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "就连上课的时候,只是坐在椅子上...就感觉很奇怪...",
+      "voiceFile": "story_day7_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "奇怪的感觉?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "嗯...下面会发痒...感觉刺痒的...",
+      "voiceFile": "story_day7_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "有时候...甚至会湿...",
+      "voiceFile": "story_day7_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(这是...她完全性觉醒了。这是很好的进展。)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那是自然的反应。当年轻女性的激素平衡得到调节时,就会发生这些变化。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "真的吗...?我不是很奇怪吗...?",
+      "voiceFile": "story_day7_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "一点也不奇怪。相反,这是健康的证据。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "但是...最近还会做奇怪的梦...",
+      "voiceFile": "story_day7_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "梦里会出现老师...",
+      "voiceFile": "story_day7_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "诶?我?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "是、是的...梦到正在接受按摩...非常舒服...",
+      "voiceFile": "story_day7_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "醒来后,内裤湿透了...床单也弄脏了...",
+      "voiceFile": "story_day7_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(她在梦里高潮了...开发的进展超出了预期。)"
+    },
+    {
+      "id": "choice_massage7",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "我明白了...你的潜意识渴望的东西正在梦中显现。",
+      "choices": [
+        {
+          "label": "你不需要担心",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "reassure_path"
+        },
+        {
+          "label": "这是你的身体成熟的证据",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "mature_path"
+        },
+        {
+          "label": "你可以更加解放",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "liberate_path"
+        }
+      ]
+    },
+    {
+      "id": "reassure_path",
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "真的吗...那就放心了。",
+      "voiceFile": "story_day7_015"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "是的。菜菜,你没有做错任何事。这是自然的身体反应。",
+      "next": "continue_talk"
+    },
+    {
+      "id": "mature_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "成熟...是指...?",
+      "voiceFile": "story_day7_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的。菜菜,你的身体正在变成成熟女性的身体。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "成熟女性...有点害羞...",
+      "next": "continue_talk",
+      "voiceFile": "story_day7_017"
+    },
+    {
+      "id": "liberate_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "解放...?",
+      "voiceFile": "story_day7_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的。你不需要压抑自己的欲望。坦诚面对你身体想要的东西是可以的。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "但、但是...那太难为情了...",
+      "voiceFile": "story_day7_019"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "没什么好难为情的。这是人类自然的欲望。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "既然老师这么说...我会慢慢试着接受的...",
+      "next": "continue_talk",
+      "voiceFile": "story_day7_020"
+    },
+    {
+      "id": "continue_talk",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "那么,今天哪里不舒服呢?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "嗯...虽然全身都很敏感但是...特别是胸部...",
+      "voiceFile": "story_day7_021"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "胸罩感觉很紧...乳头摩擦的感觉很疼...",
+      "voiceFile": "story_day7_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(连乳头都变敏感了...真好。)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那可能是因为血液循环改善,胸部肿胀了。今天我会好好护理的。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "好、好的...拜托了...",
+      "voiceFile": "story_day7_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那么,换衣服吧。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(穿这件衣服...不仅仅是紧张...让我颤抖...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day7_024"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(我变得奇怪了吗...?)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day7_025"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "换好了...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day7_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(哇...体型明显改变了。胸部更丰满了,皮肤也在发光。)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "那个...请不要盯着看...很害羞...",
+      "voiceFile": "story_day7_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "抱歉抱歉。但我只是在想你真的变漂亮了。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "不、不要说...我很漂亮...",
+      "voiceFile": "story_day7_028"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那么,开始吧。"
+    }
+  ]
+}
