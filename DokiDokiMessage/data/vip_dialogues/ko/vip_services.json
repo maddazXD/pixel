@@ -1,0 +1,713 @@
+{
+  "show_boobs": {
+    "title": "가슴 감상 서비스",
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "text": "어서오세요! 오늘은 '가슴 감상 서비스'를 이용하시는군요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "후후♡ 항상 이용해 주셔서 감사합니다♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "오늘은 특별히 자세하게 보여드릴게요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "오늘은, 평소보다 더 야한 기분이에요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "자, 브래지어를 벗을게요...♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "...자, 짜잔~♡",
+        "vipImage": "bouncing_breasts",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "어떠세요? 제 가슴♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "모양도, 크기도, 부드러움도 자신있어요♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "봐요, 벌써 젖꼭지가 단단해지고 있어요...♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "마음에 드시나요?",
+        "vipImage": "default",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "후후♡ 기뻐요♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "흔들어 보여드릴게요...♡",
+        "vipImage": "bouncing_breasts"
+      },
+      {
+        "character": "Clerk",
+        "text": "이렇게...",
+        "vipImage": "bouncing_breasts"
+      },
+      {
+        "character": "Clerk",
+        "text": "흔들흔들♡",
+        "vipImage": "bouncing_breasts"
+      },
+      {
+        "character": "Clerk",
+        "text": "흔들흔들♡♡",
+        "vipImage": "bouncing_breasts"
+      },
+      {
+        "character": "Clerk",
+        "text": "...시선이 완전히 박혀있네요♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "이렇게 쳐다보시면...♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "저도 흥분돼요♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "그럼 다음은...",
+        "vipImage": "default",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "이렇게 젖꼭지를 꼬집어볼게요...♡",
+        "vipImage": "nipple_tweak"
+      },
+      {
+        "character": "Clerk",
+        "text": "꼬집꼬집...♡",
+        "vipImage": "nipple_tweak"
+      },
+      {
+        "character": "Clerk",
+        "text": "꼬집꼬집...♡♡",
+        "vipImage": "nipple_tweak"
+      },
+      {
+        "character": "Clerk",
+        "text": "...잘 보고 계시나요?♡",
+        "vipImage": "nipple_tweak"
+      },
+      {
+        "character": "Clerk",
+        "text": "후후♡",
+        "vipImage": "nipple_tweak"
+      },
+      {
+        "character": "Clerk",
+        "text": "기뻐요♡",
+        "vipImage": "nipple_tweak"
+      },
+      {
+        "character": "Clerk",
+        "text": "오늘 '가슴 감상 서비스' 이용해 주셔서 감사합니다♡",
+        "vipImage": "nipple_tweak",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "언제든지 다시 와주세요♡",
+        "vipImage": "nipple_tweak"
+      }
+    ]
+  },
+  "show_vagina": {
+    "title": "보지 감상 서비스",
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "text": "어서오세요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "오늘은 '보지 관찰 서비스'를 이용하시는군요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "원하시는 대로, 전부 보여드릴게요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "으, 응... 부탁해...",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "부탁...보지를 보여줘...",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "후후♡ 그렇게 긴장하지 않으셔도 돼요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "당신의 시선을 전부 받아드릴게요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "자, 다리를 벌릴게요...",
+        "vipImage": "default",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "네, 자세히 봐주세요♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "먼저 모양부터, 잘 보이시나요?♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "으, 응...!",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "그럼 다음은...",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "손가락으로 클리토리스 껍질을 벗겨볼게요...",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "봐요, 이렇게 하면 잘 보이죠♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "우와... 클리토리스가...",
+        "vipImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "정말... 예뻐...!",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "에헤헤♡ 고마워요♡",
+        "vipImage": "default",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "자, 더 깊은 곳은...",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "손가락으로 보지 입구를 활짝 벌릴게요...♡",
+        "vipImage": "kupaa"
+      },
+      {
+        "character": "Clerk",
+        "text": "보이시나요?",
+        "vipImage": "kupaa"
+      },
+      {
+        "character": "player",
+        "text": "으, 응... 꿈틀거리고 있어...",
+        "vipImage": "spread"
+      },
+      {
+        "character": "Clerk",
+        "text": "후후♡",
+        "vipImage": "spread"
+      },
+      {
+        "character": "Clerk",
+        "text": "이렇게 보시면...",
+        "vipImage": "spread"
+      },
+      {
+        "character": "Clerk",
+        "text": "제 보지가... 젖어버려요♡",
+        "vipImage": "pussyjuice_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "더 많이 보여드릴게요♡",
+        "vipImage": "pussyjuice_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "쭉 안쪽까지...",
+        "vipImage": "pussyjuice"
+      },
+      {
+        "character": "Clerk",
+        "text": "봐요, 여기가 제 자궁 입구예요♡",
+        "vipImage": "pussyjuice"
+      },
+      {
+        "character": "Clerk",
+        "text": "당신의 자지가 닿는 곳, 제대로 보셨나요?♡",
+        "vipImage": "pussyjuice"
+      },
+      {
+        "character": "player",
+        "text": "으, 응... 전부...",
+        "vipImage": "pussyjuice"
+      },
+      {
+        "character": "player",
+        "text": "정말 잘 봤어...!",
+        "vipImage": "pussyjuice"
+      },
+      {
+        "character": "player",
+        "text": "고, 고마워...!",
+        "vipImage": "pussyjuice"
+      },
+      {
+        "character": "Clerk",
+        "text": "전부 벌려서 보여드리는 게",
+        "vipImage": "pussyjuice",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "제 일이에요♡",
+        "vipImage": "pussyjuice"
+      },
+      {
+        "character": "Clerk",
+        "text": "언제든지 제 보지를 보러 와주세요♡",
+        "vipImage": "pussyjuice"
+      }
+    ]
+  },
+  "paizuri": {
+    "title": "유방 마사지 서비스",
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "text": "손님, 오늘은 '파이즈리' 서비스를 이용하시는군요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "후후, 제 가슴을 지명해주셔서 감사합니다♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "으, 응... 부탁해...",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "네♡ 그럼...",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "가슴으로 끼워드릴게요♡",
+        "vipImage": "nupupu"
+      },
+      {
+        "character": "player",
+        "text": "으음... 부드러워...",
+        "vipImage": "nupupu"
+      },
+      {
+        "character": "player",
+        "text": "기분... 좋아...",
+        "vipImage": "nupupu"
+      },
+      {
+        "character": "Clerk",
+        "text": "음, 벌써 딱딱해지셨네요... 기뻐요♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "그럼... 이렇게",
+        "vipImage": "default",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "미끄럽게 위아래로 움직여드릴게요...♡",
+        "vipImage": "dochu"
+      },
+      {
+        "character": "Clerk",
+        "text": "자지를 듬뿍 쓰다듬어드릴게요♡",
+        "vipImage": "dochu"
+      },
+      {
+        "character": "player",
+        "text": "으으...",
+        "vipImage": "dochu"
+      },
+      {
+        "character": "Clerk",
+        "text": "어떠세요? 제 가슴♡",
+        "vipImage": "dochu"
+      },
+      {
+        "character": "player",
+        "text": "기, 기분 좋아...",
+        "vipImage": "dochu"
+      },
+      {
+        "character": "Clerk",
+        "text": "후후♡ 기뻐요♡",
+        "vipImage": "dochu"
+      },
+      {
+        "character": "player",
+        "text": "아... 안 돼, 그러면...!",
+        "vipImage": "dochu"
+      },
+      {
+        "character": "player",
+        "text": "나...",
+        "vipImage": "dochu"
+      },
+      {
+        "character": "Clerk",
+        "text": "어머♡ 벌써 싸려고 하시나요?",
+        "vipImage": "dochu",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "그럼 가슴을 더 꽉 조여드릴게요♡",
+        "vipImage": "dochu_sweat"
+      },
+      {
+        "character": "Clerk",
+        "text": "어디에도 도망가지 못하게 할 거예요♡",
+        "vipImage": "dochu_sweat"
+      },
+      {
+        "character": "player",
+        "text": "크윽... 이미...",
+        "vipImage": "dochu_sweat"
+      },
+      {
+        "character": "player",
+        "text": "싸...!!",
+        "vipImage": "dochu_sweat"
+      },
+      {
+        "character": "Clerk",
+        "text": "네♡ 많이 싸주세요♡",
+        "vipImage": "dochu_sweat",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "가슴으로 전부 받아드릴게요♡",
+        "vipImage": "dochu_sweat"
+      },
+      {
+        "character": "player",
+        "text": "싼다...!!",
+        "vipImage": "cum",
+        "resetBubbles": true
+      },
+      {
+        "character": "player",
+        "text": "으으...!!",
+        "vipImage": "cum"
+      },
+      {
+        "character": "Clerk",
+        "text": "후후...♡",
+        "vipImage": "bukkake",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "엄청 많이 나왔네요♡",
+        "vipImage": "bukkake"
+      },
+      {
+        "character": "Clerk",
+        "text": "손님, 정말 기분 좋아 보이셨어요♡",
+        "vipImage": "bukkake"
+      },
+      {
+        "character": "Clerk",
+        "text": "오늘 이용해 주셔서 감사합니다♡",
+        "vipImage": "bukkake",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "또 제 가슴이 그리우시면",
+        "vipImage": "bukkake"
+      },
+      {
+        "character": "Clerk",
+        "text": "언제든지 와주세요♡",
+        "vipImage": "bukkake"
+      }
+    ]
+  },
+  "vagina_sex": {
+    "title": "보지 마사지 서비스",
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "text": "어서오세요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "오늘은 '보지 마사지' 서비스를 이용하시는군요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "피로를 확실히 풀어드릴게요♡",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "으, 응... 고마워...",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "Clerk",
+        "text": "자, 준비할게요♡",
+        "vipImage": "insert"
+      },
+      {
+        "character": "Clerk",
+        "text": "자지가 들어가기 쉽도록...",
+        "vipImage": "insert",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "봐요, 보지 입구를 벌려놓았어요...♡",
+        "vipImage": "insert"
+      },
+      {
+        "character": "player",
+        "text": "아아...",
+        "vipImage": "insert_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "으음...♡",
+        "vipImage": "insert_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "쭉...들어왔어요...♡",
+        "vipImage": "sex_tx",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "받아들였어요♡",
+        "vipImage": "sex_tx"
+      },
+      {
+        "character": "player",
+        "text": "아... 따뜻해...",
+        "vipImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "감싸여서... 너무...",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "네♡ 전부 들어왔어요♡",
+        "vipImage": "default",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "그럼, 보지 마사지 시작할게요♡",
+        "vipImage": "default"
+      },
+      {
+        "character": "Clerk",
+        "text": "으음...♡",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "어떠세요...?",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "제 보지의 조임...♡",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "player",
+        "text": "기, 기분 좋아...",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "딱 맞게 형태가 잡혔네요♡",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "깊은 곳, 질 안쪽의...",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "네, 그 부분♡",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "지금, 제 자궁이 키스하고 있어요... 쪽♡",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "player",
+        "text": "안, 안 돼... 쌀 것 같아...",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "player",
+        "text": "안에... 싸고 싶어...",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "네♡ 싸주세요♡",
+        "vipImage": "spanking_tx",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "참지 마세요...",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "정액을 가득 부어주세요♡",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "보지로 전부 받아드릴게요♡",
+        "vipImage": "spanking_tx"
+      },
+      {
+        "character": "player",
+        "text": "나, 나... 안에...!!",
+        "vipImage": "ejaculation",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "으음...♡",
+        "vipImage": "ejaculation_smile"
+      },
+      {
+        "character": "Clerk",
+        "text": "하아♡",
+        "vipImage": "ejaculation_smile"
+      },
+      {
+        "character": "Clerk",
+        "text": "뜨거워... 안에서 뿜어져 나와요...♡",
+        "vipImage": "ejaculation_smile"
+      },
+      {
+        "character": "player",
+        "text": "하아...♡",
+        "vipImage": "cum_tx",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "엄청 많이 나왔어요♡",
+        "vipImage": "cum_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "제 보지도 정말 기뻐요♡",
+        "vipImage": "cum_tx"
+      },
+      {
+        "character": "Clerk",
+        "text": "오늘 제 보지를 이용해주셔서 감사합니다♡",
+        "vipImage": "cum",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "당신의 정액을 깊은 곳에 소중히 간직할게요♡",
+        "vipImage": "cum"
+      },
+      {
+        "character": "Clerk",
+        "text": "몸이 피곤하실 때는...",
+        "vipImage": "cum",
+        "resetBubbles": true
+      },
+      {
+        "character": "Clerk",
+        "text": "언제든지 보지로 환영할게요♡",
+        "vipImage": "cum"
+      },
+      {
+        "character": "Clerk",
+        "text": "다음 방문을 기다릴게요♡",
+        "vipImage": "cum"
+      }
+    ]
+  }
+}
