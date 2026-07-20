@@ -1,0 +1,360 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "──4週目の朝。\nタツ姐との施術も1ヶ月が経過した。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（借金返済はまだ遠いけど、タツ姐は毎週来てくれてる…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（利子猶予のおかげで何とか持ちこたえてる…このまま客が増えれば…！）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（…やっぱり厳しい。早く新規客が来てくれないと…）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "おう。今日も来てやったぞ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タツ姐さん！いつもありがとうございます。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "ま、お前の施術…正直、クセになるな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "え？本当ですか！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "ああ。先週も仕事終わりに肩が軽くてな。いつもなら頭痛がするのに、全然こなかった。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それは良かったです！効果が出ているようで。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "だからよ、部下と取引先にお前の店教えといたぞ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "「腕のいい整体師がいる」ってな。感謝しろよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "本当ですか！？それは助かります！"
+    },
+    {
+      "character": "player",
+      "text": "（どうりで最近、ガラの悪い客が増えたわけだ…）"
+    },
+    {
+      "character": "player",
+      "text": "（しかも全員男…巨乳美少女が来てくれないかな…）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "まぁ、アタシが紹介する客だ。ちゃんとした施術しろよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "は、はい！もちろんです！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "で、今日なんだけどよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "最近、接待飲みが続いててな…腹のあたりが重いんだよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "お腹の張りですか。接待続きだと内臓にも負担がかかりますからね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "あとよ…最近、なんか寝つきが悪いんだよな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "夜中に目が覚めるっつーか…身体が妙に火照るっつーか…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "火照る、ですか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…別に変な意味じゃねぇぞ。ただ、なんか落ち着かねぇんだよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "なるほど…それなら今日は仰向けで施術してみましょうか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "仰向け？今までと違うのか？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "はい。仰向けだとお腹周りの筋肉にアプローチできますし、自律神経のバランスも整えやすいんです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…ふーん。まぁ、効果あるならやってみるか。",
+      "outfit": "suit"
+    },
+    {
+      "id": "choice_massage4",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "お腹の張りも寝つきの悪さも、しっかりケアしていきますね。",
+      "choices": [
+        {
+          "label": "接待続きのストレスが原因ですよ",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "stress_path"
+        },
+        {
+          "label": "施術の効果で身体が変化してきてるんです",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "change_path"
+        },
+        {
+          "label": "身体が何か求めてるんじゃないですか？",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "desire_path"
+        }
+      ]
+    },
+    {
+      "id": "stress_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "接待が続くと内臓も自律神経もやられます。寝つきが悪いのも、身体が緊張状態から抜けられてないんですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…確かに、最近ずっと気が張りっぱなしだな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "社長業ってオンオフの切り替えが難しいですよね。せめてここにいる間はリラックスしてください。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…ま、ここだと不思議と力が抜けるんだよな。お前の前だと。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（タツ姐がそんなこと言ってくれるなんて…ちょっと嬉しいな。）",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "施術を続けてると、身体の血行が良くなって感覚が敏感になるんです。火照りもその影響かもしれません。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "敏感？…つまり、お前の施術のせいってことか？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "せいっていうか…良い変化ですよ。今まで凝り固まってた身体がほぐれて、ちゃんと感じるようになってきたってことです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…ちゃんと感じる、ね。まぁ、確かに最近…前より色々…感じやすくなった気はする。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（タツ姐がちょっと照れてる…珍しいな。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今日の施術でさらに効果出しますよ。楽しみにしてください。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "desire_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "火照りとか寝つきの悪さって…身体が何か求めてるサインかもしれませんよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…求めてる？何をだよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "例えば…人の温もりとか、スキンシップとか。人間って触れ合いが足りないと、身体がサインを出すんですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…はぁ？テメェ、また変なこと言ってんのか。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "医学的な話ですよ！オキシトシンっていうホルモンがあって、触れ合いで分泌されるんです。それが不足すると…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……別に、アタシは…誰かに触れられたいとか…そういうのは……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（あ、この間と同じ反応だ…やっぱりタツ姐、そういう経験が…）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…おい、何ニヤニヤしてんだ。殺すぞ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "してません！真剣です！施術でちゃんとオキシトシン出しますから！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "……余計なこと考えんなよ。",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それでは、施術用のウェアにお着替えをお願いします。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "ああ、わかった。…もう4回目だしな、慣れたよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "（タツ姐が手慣れた様子で着替え始める…）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "（…まぁ、効果あるしな。これくらいは我慢するか…）",
+      "outfit": "suit",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "着替えたぞ。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "（何回見ても慣れないな、このプロポーション…）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今日は仰向けで施術しますので、ベッドに横になってください。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…おう。",
+      "outfit": "bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それでは、施術を始めさせていただきます。"
+    }
+  ]
+}
