@@ -1,0 +1,197 @@
+{
+  "weeks": {
+    "week1": {
+      "trust_1": {
+        "minLevel": 1,
+        "topics": [
+          {
+            "topicId": "talk_first_time",
+            "priority": 5,
+            "oneTimeOnly": true
+          },
+          {
+            "topicId": "talk_weather",
+            "priority": 3,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_sleep",
+            "priority": 2,
+            "oneTimeOnly": false
+          }
+        ]
+      },
+      "trust_2": {
+        "minLevel": 2,
+        "topics": [
+          {
+            "topicId": "talk_hobby",
+            "priority": 2,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week2": {
+      "trust_2": {
+        "minLevel": 2,
+        "topics": [
+          {
+            "topicId": "talk_tired_parts",
+            "priority": 4,
+            "oneTimeOnly": false
+          }
+        ]
+      },
+      "trust_3": {
+        "minLevel": 3,
+        "topics": [
+          {
+            "topicId": "talk_school",
+            "priority": 3,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week3": {
+      "trust_3": {
+        "minLevel": 3,
+        "topics": [
+          {
+            "topicId": "talk_piano_detail",
+            "priority": 6,
+            "oneTimeOnly": false,
+            "requiredEvents": [
+              "heard_talk_hobby"
+            ]
+          },
+          {
+            "topicId": "talk_food",
+            "priority": 2,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week4": {
+        "trust_4": {
+        "minLevel": 4,
+        "topics": [
+          {
+            "topicId": "talk_test_result",
+            "priority": 8,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_summer_plan",
+            "priority": 7,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week5": {
+      "trust_4": {
+        "minLevel": 4,
+        "topics": [
+          {
+            "topicId": "talk_childhood",
+            "priority": 5,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_music_taste",
+            "priority": 4,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week6": {
+      "trust_5": {
+        "minLevel": 5,
+        "topics": [
+          {
+            "topicId": "talk_anime_secret",
+            "priority": 7,
+            "oneTimeOnly": false,
+            "requiredEvents": [
+              "heard_talk_music_taste"
+            ]
+          },
+          {
+            "topicId": "talk_trust",
+            "priority": 6,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week7": {
+        "trust_6": {
+        "minLevel": 6,
+        "topics": [
+          {
+            "topicId": "talk_travel_wish",
+            "priority": 9,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week8": {
+        "trust_7": {
+        "minLevel": 7,
+        "topics": [
+          {
+            "topicId": "talk_massage_habit",
+            "priority": 9,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week9": {
+    },
+   "week10": {
+      "trust_8": {
+      "minLevel": 8,
+        "topics": [
+          {
+            "topicId": "talk_dream",
+            "priority": 5,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week11": {
+    },
+    "week12": {
+      "trust_9": {
+        "minLevel": 9,
+        "topics": [
+          {
+            "topicId": "talk_looking_back",
+            "priority": 10,
+            "oneTimeOnly": false
+          }
+        ]
+      },
+      "trust_10": {
+        "minLevel": 10,
+        "topics": [
+          {
+            "topicId": "talk_best_memory",
+            "priority": 9,
+            "oneTimeOnly": false,
+            "requiredEvents": [
+              "heard_talk_anime_secret"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
