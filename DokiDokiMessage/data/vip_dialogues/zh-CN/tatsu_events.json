@@ -1,0 +1,545 @@
+{
+  "half_repaid": {
+    "title": "50%债务偿还庆祝",
+    "dialogues": [
+      {
+        "character": "player",
+        "text": "那么失礼了...",
+        "tatsuImage": "fadeout"
+      },
+      {
+        "character": "辰姐",
+        "text": "什...！？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "您的胸肌非常紧张呢。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "需要好好按摩一下。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "辰姐",
+        "text": "喂、喂！那里不行...！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "这是治疗的一环。为了改善淋巴流动...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "辰姐",
+        "text": "淋巴流动...跟这个没关系吧！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "辰姐",
+        "text": "而且...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "辰姐",
+        "text": "为什么要脱光...！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "那个...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "直接接触皮肤效果更好。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "现在要刺激乳晕了。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "辰姐",
+        "text": "住、住手！那里不行...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "辰姐",
+        "text": "嗯♡",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "player",
+        "text": "龙姐，您意外地敏感呢。",
+        "resetBubbles": true,
+        "tatsuImage": "close"
+      },
+      {
+        "character": "辰姐",
+        "text": "笨、笨蛋！才没有...！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "接下来要刺激乳头了。",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "辰姐",
+        "text": "嗯♡ 不、不要碰乳头...！",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "啊啊...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "为什么...会这么舒服...♡",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "用手指画圆...",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "辰姐",
+        "text": "啊啊啊...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "轻轻地，然后用力...",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "呀啊...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "改变节奏是关键。",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "辰姐",
+        "text": "如、如果你这样做...！",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "辰姐",
+        "text": "我会...变得奇怪...！",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "没关系的。",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "这是对快感的自然反应。",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "已经...够了...！",
+        "tatsuImage": "nipple",
+        "resetBubbles": true
+      },
+      {
+        "character": "辰姐",
+        "text": "你该停手了...",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "还不够。",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "辰姐",
+        "text": "我会...变得奇怪...！",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "这是奖励，对吧？",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "辰姐",
+        "text": "我、我没有要求...这种奖励...！",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "但是您的身体很享受。",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "辰姐",
+        "text": "啊啊！那里...！不行...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "那么，往下面...",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "辰姐",
+        "text": "什...！那个...真的不行...！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "但是，奖励是...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "辰姐",
+        "text": "够、够了！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "辰姐",
+        "text": "剩下的...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "辰姐",
+        "text": "等你全部还清再说。",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "player",
+        "text": "诶...？那是说...？",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "辰姐",
+        "text": "（这家伙怎么可能还清全部...）",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "辰姐",
+        "text": "总、总之！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "辰姐",
+        "text": "剩下的也要好好还清！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "明白了！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "我会努力的！",
+        "tatsuImage": "default"
+      }
+    ]
+  },
+  "full_repaid": {
+    "title": "全额债务偿还庆祝",
+    "dialogues": [
+      {
+        "character": "player",
+        "text": "好，躺在床上。",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "辰姐",
+        "text": "哈？你想干什么！",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "为了庆祝还清债务的特别按摩。",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "您说过剩下的",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "要等全部还清才给，对吧？",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "辰姐",
+        "text": "可、可恶...约定就是约定...",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "那我要进去了。",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "辰姐",
+        "text": "等、等等！我要做好心理准备...",
+        "tatsuImage": "fadeout"
+      },
+      {
+        "character": "辰姐",
+        "text": "嗯嗯！",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "player",
+        "text": "已经这么湿了，一下就进去了。",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "player",
+        "text": "您一直在期待吗？",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "才、才没有...！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "那我要开始动了。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "辰姐",
+        "text": "嗯嗯♡ 顶到深处了...！",
+        "resetBubbles": true,
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "啊、啊啊...！胸部在晃动...！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "晃得这么厉害。您自己也能看到吧？",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "辰姐",
+        "text": "吵、吵死了...！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "您的阴蒂也硬邦邦的呢。",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "很舒服吧？",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "才、才不是那样...",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "辰姐",
+        "text": "嗯啊啊♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "如果被人看到...！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "放心吧。今天不营业。",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "辰姐",
+        "text": "不、不是这个问题...啊！",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "在深处研磨的话...",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "那里...！顶到子宫了...！",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "辰姐",
+        "text": "啊、啊啊...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "我...要去了...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "尽情高潮吧。",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "辰姐",
+        "text": "不...！不行...！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "我要射在里面了。",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "辰姐",
+        "text": "不、不要射在里面...！不能射在里面...！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "没关系的。我会负责的。",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "辰姐",
+        "text": "不、不是这个问题...！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "辰姐",
+        "text": "啊...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "不行...要去了...！",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "要去了！！",
+        "tatsuImage": "ejaculation_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "啊啊啊啊♡♡",
+        "tatsuImage": "ejaculation"
+      },
+      {
+        "character": "player",
+        "text": "射了...全部射进龙姐里面了。",
+        "tatsuImage": "cum_close_tx"
+      },
+      {
+        "character": "辰姐",
+        "text": "哈啊...哈啊...",
+        "resetBubbles": true,
+        "tatsuImage": "cum_close_tx"
+      },
+      {
+        "character": "辰姐",
+        "text": "真的...射在里面了...",
+        "resetBubbles": true,
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "辰姐",
+        "text": "好烫...在里面...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "龙姐高潮时胸部晃动的样子，真可爱。",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "辰姐",
+        "text": "别、别说...可爱...！",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "辰姐",
+        "text": "可恶...没想到会这样...",
+        "tatsuImage": "cum_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "喂、喂...以后不准再欠债了！",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "是的！不会再欠债了！",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "辰姐",
+        "text": "但、但是...那个...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "辰姐",
+        "text": "你可以...偶尔来看我...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "龙姐...！",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "子宫按摩随时欢迎光临。",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "辰姐",
+        "text": "笨、笨蛋！不是那个意思...！",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "但是您的身体变轻松了吧？",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "辰姐",
+        "text": "........",
+        "tatsuImage": "cum_close"
+      },
+      {
+        "character": "辰姐",
+        "text": "...嗯，还不错。",
+        "tatsuImage": "cum"
+      }
+    ]
+  }
+}
