@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(奈奈酱离开了...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(第4周了...最近她治疗时真的放松多了)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(今天治疗时，她露出了非常真实的反应)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(说着\"老师...那里...\"，身体却很诚实)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(已经建立了信任关系，也许该进入下一阶段了)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(也许她需要更深层的治疗...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(那么，这周该做什么呢...)"
+    }
+  ]
+}
