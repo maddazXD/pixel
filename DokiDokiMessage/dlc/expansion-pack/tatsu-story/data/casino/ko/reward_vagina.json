@@ -1,0 +1,120 @@
+{
+  "intro": {
+    "dialogues": [
+      { "character": "버니 점원", "text": "6연승…♡ 손님, 대단하세요♡", "expression": "happy" },
+      { "character": "버니 점원", "text": "여기까지 이기시는 분, 정말 드물거든요?" },
+      { "character": "player", "text": "그, 그래……?" },
+      { "character": "버니 점원", "text": "네♡ 그러니까, 특별 중의 특별이에요♡", "expression": "happy" },
+      { "character": "버니 점원", "text": "6연승하신 손님께는……" },
+      { "character": "버니 점원", "text": "가슴뿐만 아니라…아래도 자유롭게 만질 수 있답니다♡", "expression": "excited" },
+      { "character": "player", "text": "아래라니……" },
+      { "character": "버니 점원", "text": "보지요♡", "expression": "excited" },
+      { "character": "버니 점원", "text": "그럼…다리 벌릴게요♡", "expression": "excited" },
+      { "character": "버니 점원", "text": "자♡ 원하는 곳, 마음껏 만져주세요♡", "expression": "happy" }
+    ]
+  },
+  "interactive": {
+    "baseImage": "casino/reward_vagina_base.png",
+    "expressions": {
+      "pleasure": "casino/reward_vagina_pleasure.png",
+      "climax": "casino/reward_vagina_climax.png"
+    },
+    "gaugeLabel": "흥분도",
+    "gaugeMax": 100,
+    "characterName": "버니 점원",
+    "idleLines": [
+      "부끄러워하지 않아도 돼요♡",
+      "보지, 보이기만 해도 좀…♡",
+      "만져주지 않으면…외로워요♡"
+    ],
+    "progressLines": [
+      { "gauge": 20, "speech": "응…♡ 많이 만져주시네요…♡" },
+      { "gauge": 40, "speech": "하아…♡ 보지…점점 젖어가고 있어요…♡" },
+      { "gauge": 60, "speech": "앗♡ 이제…흥건해요…♡ 손님 탓이에요…♡" },
+      { "gauge": 80, "speech": "흐아…♡ 이렇게 많이 만져진 건…처음이에요…♡" }
+    ],
+    "hotspots": [
+      {
+        "id": "clitoris",
+        "area": { "x": 42, "y": 48, "width": 16, "height": 12 },
+        "isCorrect": true,
+        "gaugeIncrease": 5,
+        "expression": "climax",
+        "speeches": [
+          "히얏♡ 갑자기 거기…♡",
+          "으응♡ 클리…민감한데…♡",
+          "앗♡ 직접 만지시면…♡",
+          "얏♡ 거기만 계속…못됐어요♡",
+          "흐아…♡ 클리…기분 좋아요…♡",
+          "앗앗♡ 그렇게 만지시면…♡"
+        ]
+      },
+      {
+        "id": "vagina",
+        "area": { "x": 40, "y": 58, "width": 20, "height": 14 },
+        "isCorrect": true,
+        "gaugeIncrease": 4,
+        "expression": "pleasure",
+        "speeches": [
+          "응♡ 입구…만지고 있는 거 알아요…♡",
+          "아…♡ 손가락…넣고 싶으세요?♡",
+          "히긋…♡ 질 입구가 벌름벌름…♡",
+          "젖어오고 있어요…♡ 손님 탓이에요♡",
+          "으응…♡ 안쪽까지 넣고 싶어지죠…♡",
+          "앗♡ 거기…안으로 들어가려고…♡"
+        ]
+      },
+      {
+        "id": "thigh",
+        "area": { "x": 20, "y": 60, "width": 18, "height": 20 },
+        "isCorrect": true,
+        "gaugeIncrease": 3,
+        "expression": "pleasure",
+        "speeches": [
+          "후후♡ 간지러워요…♡",
+          "허벅지부터 공략하시다니…애태우기 달인이시네요♡",
+          "스타킹 너머로도…느껴져요♡",
+          "응…♡ 점점 위로 올라오고 있어요…♡",
+          "안쪽 허벅지 만지시면…보지까지 기대하게 돼요…♡"
+        ]
+      },
+      {
+        "id": "breast",
+        "area": { "x": 30, "y": 20, "width": 40, "height": 22 },
+        "isCorrect": true,
+        "gaugeIncrease": 3,
+        "expression": "pleasure",
+        "speeches": [
+          "거기도 만지시는 거예요?♡ 욕심쟁이♡",
+          "응♡ 보지랑 가슴 동시에…호사스럽네요♡",
+          "하아…♡ 위도 아래도…전부 손님 거예요♡"
+        ]
+      }
+    ]
+  },
+  "climax": {
+    "image": "images/live2devent/vagina_climax.png",
+    "afterImage": "images/live2devent/vagina_climax_after.png",
+    "dialogueDelay": 600,
+    "pulseDuration": 2500,
+    "dialogues": [
+      { "character": "버니 점원", "text": "앗…♡ 으응……♡ 이…이거…가요…♡" },
+      { "character": "버니 점원", "text": "보지…떨리고 있어…♡ 이제…안 돼…♡♡" },
+      { "character": "버니 점원", "text": "가요…♡ 손님 손가락으로……가버려요……♡♡" }
+    ]
+  },
+  "outro": {
+    "dialogues": [
+      { "character": "버니 점원", "text": "하아……하아……♡", "expression": "pleasure" },
+      { "character": "버니 점원", "text": "손님…꽤 대담하게 만지시네요…♡" },
+      { "character": "player", "text": "……미안, 그만 빠져들어서……" },
+      { "character": "버니 점원", "text": "사과하지 마세요♡ 기뻤으니까요♡", "expression": "happy" },
+      { "character": "버니 점원", "text": "보세요…이렇게 젖어버렸어요…♡", "expression": "excited" },
+      { "character": "버니 점원", "text": "테이블까지 젖혀버렸네요…♡" },
+      { "character": "버니 점원", "text": "……저기, 손님♡" },
+      { "character": "버니 점원", "text": "더 위를 노려보지 않으실래요?♡", "expression": "happy" },
+      { "character": "버니 점원", "text": "다음 보상은…만지는 것만으로는 안 끝날지도♡", "expression": "excited" },
+      { "character": "버니 점원", "text": "기대해 주세요♡", "expression": "happy" }
+    ]
+  }
+}
