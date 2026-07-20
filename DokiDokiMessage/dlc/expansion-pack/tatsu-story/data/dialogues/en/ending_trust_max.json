@@ -1,0 +1,519 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3 bulan kemudian. Hari ini tidak ada janji temu yang terdaftar."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Selamat datang... Tatsu-nee? Kamu tidak ada janji temu hari ini."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Terserah. Aku lagi di sekitar sini, jadi aku mampir saja.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Di sekitar sini...? Tidak ada klien rentenir di daerah ini...)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Mau kubuatkan teh?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Ya. Boleh.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Tatsu-nee tidak pergi ke meja perawatan, malah menjatuhkan diri di sofa ruang tunggu. Dia mengenakan setelan jas biasanya, tapi wajahnya tampak sangat lelah."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ini tehnya. ...Ada sesuatu yang terjadi?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Tidak ada.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "............"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "................",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Salah satu anak buahku mengkhianatiku.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "............"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "Seseorang yang sudah kuurus selama 3 tahun kabur membawa uang. Dia membawa dua klien bersamanya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Uangnya tidak masalah. Aku bisa membangun kembali daftar kliennya. Tapi kau tahu sendiri.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Dikhianati oleh seseorang yang kau percaya tidak pernah terasa mudah, tidak peduli berapa kali itu terjadi.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(...Aku belum pernah melihat Tatsu-nee memasang wajah seperti ini sebelumnya. Seseorang yang selalu harus terlihat kuat sebagai bos rentenir...)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Tatsu-nee. Bagaimana kalau aku berikan sesi pijat? Jadwalku kosong."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Apa tidak apa-apa?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tubuhmu pasti tegang sekali sekarang. Stres langsung berpengaruh ke otot."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Selama sesi"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Sudah kuduga. Bahu, leher, punggung — semuanya kaku sekali. Kamu menahan banyak beban, ya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Mm...",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku akan menekan bagian sini."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...!",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(...Tubuhnya tersentak di sekitar punggung bawah. Respons terkondisi dari 12 minggu itu masih ada...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "............",
+      "outfit": "bikini"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Hei.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Aku tidak punya ayah. Dia menghilang saat aku masih kecil.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "............"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "Jadi aku mengambil setiap keputusan sendiri. Uang, orang-orang, segalanya. Aku tidak pernah punya siapa pun untuk diajak bicara soal itu.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "Setelah aku jadi bos, keadaannya makin buruk. Tunjukkan kelemahan dan tamatlah riwayatmu. Tidak mungkin aku bisa mengeluh di depan anak buahku.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(...Aku tidak percaya Tatsu-nee menceritakan semua ini padaku.)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Tapi tetap saja.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Entah kenapa, saat bersamamu, aku jadi banyak bicara seperti ini.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Selama sesi, orang-orang cenderung mengungkapkan perasaan mereka yang sebenarnya. Saat tubuh rileks, hati pun ikut terbuka."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "...Dasar pandai merayu.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ini meja perawatan. Apa pun yang kamu katakan di sini akan tetap di sini. Aku jamin itu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "............",
+      "outfit": "bikini"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Kamu seperti kakak laki-laki bagiku.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Kakak laki-laki?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Iya, seperti... kamu tidak gentar apa pun yang terjadi, dan kamu hanya mendengarkan tanpa banyak bicara. Kalau saja aku punya seseorang sepertimu di keluargaku, mungkin hidupku akan sedikit lebih mudah...",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(Aku tidak pernah membayangkan bos rentenir akan memanggilku 'kakak laki-laki'.)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Aku merasa terhormat. Kalau begitu, izinkan aku mengatakan sesuatu sebagai kakakmu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Apa.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Pria yang mengkhianatimu itu — itu bukan karena kamu salah menilai orang, Tatsu-nee. Orang-orang mengikutimu karena kamu bisa dipercaya. Kamu cuma sedang sial saja, itu saja."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "............",
+      "outfit": "bikini"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "...Sialan. Saat kamu yang mengatakannya, aku benar-benar percaya.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Setelah sesi selesai"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Fiuh... Ya, aku merasa jauh lebih baik. Tubuh dan pikiran.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Senang mendengarnya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Oh ya. Beberapa anak buahku kondisinya sedang buruk. Terlalu sibuk menagih utang, bahu dan punggung mereka jadi hancur.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Boleh aku kirim mereka ke tempatmu?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tentu saja. Aku akan dengan senang hati membantu mereka."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "Bagus. Aku akan membawa beberapa orang mulai minggu depan. Mereka akan membayar dengan benar, jangan khawatir.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Bos rentenir itu mau membawa anak buahnya ke sini... Aku menghargainya, tapi kuharap mereka tidak datang dengan mobil kaca gelap...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "...Oh, dan satu lagi. Tawaran pembelian yang dulu itu? Masih berlaku, lho.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ampun deh. Waktu kamu menggebrak meja saat itu, kupikir jantungku mau copot."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "Heh. Aku bercanda. ...Setengah bercanda.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Setengah bercanda berarti setengah serius, kan...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Ya sudahlah. Kalau kau benar-benar dalam masalah, bilang saja padaku. Uang, orang, apa pun itu — aku yang akan urus.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Terima kasih."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Aku tidak butuh ucapan terima kasihmu. Aku cuma merasa berhutang padamu, itu saja. ...Untuk urusan tubuh itu, dan hal-hal lainnya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(...Dia memang tidak bisa bilang 'aku peduli padamu' secara langsung. Tapi aku melihat ekspresi yang dia tunjukkan di meja perawatan tadi, dan itu sudah cukup.)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Duluan ya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Iya. ...Datanglah kapan saja. Tidak perlu janji temu."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Yasu",
+      "hideCharacter": true,
+      "text": "Bos! Saya datang untuk menjemput Anda!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Iya. Tunggu di sana sebentar.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Yasu",
+      "hideCharacter": true,
+      "text": "...Oh! Apa Anda orang yang sering dikunjungi Bos setiap minggu...?"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ah, iya. Saya terapis pijatnya..."
+    },
+    {
+      "character": "Yasu",
+      "hideCharacter": true,
+      "text": "Kakak Besar! Benar, kan?! Bos tidak pernah pergi ke mana pun secara rutin, jadi kami semua penasaran!"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Hah? Kakak Besar...?"
+    },
+    {
+      "character": "Yasu",
+      "hideCharacter": true,
+      "text": "Anda itu... ya, tahu sendirilah..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Yasu mengangkat jari kelingkingnya dengan seringai licik."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Bukan, bukan begitu...? Kami cuma terapis dan pasien..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...! Bodoh!! Bukan begitu!!",
+      "outfit": "suit"
+    },
+    {
+      "character": "Yasu",
+      "hideCharacter": true,
+      "text": "Ehh~? Tapi Bos, Anda selalu gelisah sebelum ke sini, dan selalu dalam suasana hati yang bagus saat kembali..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Yasu. Mobil. Sekarang. Tutup mulutmu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Yasu",
+      "hideCharacter": true,
+      "text": "B-baik, Bos! Maaf! ...Kakak Besar, tolong jaga Bos baik-baik ya!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "YASU!!",
+      "outfit": "suit"
+    },
+    {
+      "character": "Yasu",
+      "hideCharacter": true,
+      "text": "Iik! Iya, jalan sekarang!"
+    },
+    {
+      "character": "player",
+      "text": "(...Dia benar-benar mengira kita pacaran... Tatsu-nee benar-benar merah padam...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Lupakan semua yang dikatakan si bodoh itu. Paham.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Paham."
+    },
+    {
+      "character": "player",
+      "text": "(...Jadi dia gelisah sebelum ke sini, ya.)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...! ...Sampai nanti. Sampai jumpa minggu depan.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Iya. Sampai jumpa minggu depan."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Sambil menatap punggung Tatsu-nee yang menjauh, sebuah pikiran melintas di benakku."
+    },
+    {
+      "character": "player",
+      "text": "(12 minggu itu. Aku hafal setiap titik di tubuhnya yang bikin suaranya mendesah keluar.)"
+    },
+    {
+      "character": "player",
+      "text": "(...Seandainya aku melangkah lebih jauh, mungkin kesalahpahaman Yasu bukan lagi sekadar kesalahpahaman.)"
+    },
+    {
+      "character": "player",
+      "text": "(...Tapi kalau aku bisa jadi satu-satunya tempat dia melepas penat, itu sudah cukup.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Sesi mingguan, dan sesekali kunjungan mendadak. Berkat dia yang merekomendasikan anak buahnya, bisnis jadi stabil."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Satu-satunya tempat di mana bos rentenir bisa menunjukkan jati dirinya yang asli. Anak buahnya, entah kenapa, memanggilku 'Kakak.'"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "...Kesalahpahaman Yasu, dan ingatan tentang tubuhnya selama 12 minggu itu — semuanya akan tetap jadi rahasia yang tersimpan di meja perawatan.",
+      "triggerEnding": "trust_max"
+    }
+  ]
+}
