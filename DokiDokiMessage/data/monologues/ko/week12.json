@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(12주차... 이 3개월이 정말 빨리 지나갔네)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나짱 덕분에, 가게 평판이 최고조야)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(거의 매일 와주니, 정말 고마워)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(내 치료 기술도 비약적으로 늘었고, 새로운 기법도 개발했어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(이제 빚만 남았어. 상환 기한은 이번 주야.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(만약 못 갚으면...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(후회 없도록 해야 해.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그럼, 지금 뭘 할까...)"
+    }
+  ]
+}
