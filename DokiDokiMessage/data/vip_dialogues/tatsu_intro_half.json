@@ -1,0 +1,125 @@
+{
+  "title": "借金50%返済達成",
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...ふう。やっと借金が半分返せたな。"
+    },
+    {
+      "id": "intro_half_01",
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "id": "intro_half_02",
+      "character": "タツ姐",
+      "text": "よぉ！生きてるか？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "intro_half_03",
+      "character": "player",
+      "text": "タ、タツ姐！？どうしたんですか...？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "intro_half_04",
+      "character": "タツ姐",
+      "text": "何でって、確認に来たに決まってるだろ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "intro_half_05",
+      "character": "タツ姐",
+      "text": "アンタ、借金半分返したんだって？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "intro_half_06",
+      "character": "player",
+      "text": "は、はい！毎日頑張ってます！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "intro_half_07",
+      "character": "タツ姐",
+      "text": "てっきりトンズラすると思ってたが、やるじゃねぇか。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "intro_half_08",
+      "character": "タツ姐",
+      "text": "まさかアンタみたいなひょろひょろが、ここまでやるとはな。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "intro_half_09",
+      "character": "タツ姐",
+      "text": "でもまだ半分だぜ？残りもちゃんと返せよ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "intro_half_10",
+      "character": "タツ姐",
+      "text": "ま、まぁ...半分も返したんだから...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "intro_half_11",
+      "character": "タツ姐",
+      "text": "ちょっとくらい褒美があってもいいか。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "intro_half_12",
+      "character": "player",
+      "text": "褒美か...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_half_13",
+      "character": "player",
+      "text": "じゃあタツ姐のマッサージでもしましょうか。最近お疲れでしょう？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_half_14",
+      "character": "タツ姐",
+      "text": "は？アタシがマッサージ受けるのか？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_half_13",
+      "character": "player",
+      "text": "はい。それが褒美ってことで。...どうですか？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_half_15",
+      "character": "タツ姐",
+      "text": "...まぁ、確かに最近肩凝ってるし...別にいいけど...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "start_event",
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "タツ姐にマッサージする",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "id": "trigger_manga",
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}
