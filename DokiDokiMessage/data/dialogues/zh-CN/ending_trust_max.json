@@ -1,0 +1,219 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──三个月后。\n整体院作为扎根社区的健全整体院稳定了下来。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "老师，你好！",
+      "voiceFile": "ending_trust_max_001"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "呀，奈奈。这周也来了呢。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "是的。我是来见老师的。",
+      "voiceFile": "ending_trust_max_002"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "今天不是预约治疗的吧？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "…是的。嘿嘿…就是想跟您聊聊天…",
+      "voiceFile": "ending_trust_max_003"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（完全熟络起来了呢…）"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "那个…学校里发生了这样的事…",
+      "voiceFile": "ending_trust_max_004"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "嗯嗯。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "奈奈开心地开始讲起最近的学校生活。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "然后呢，我朋友…",
+      "voiceFile": "ending_trust_max_005"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "哦，那真不错。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closemouth",
+      "text": "还有…最近有点烦恼的事…",
+      "voiceFile": "ending_trust_max_006"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "什么事？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "升学啊…未来啊之类的…",
+      "voiceFile": "ending_trust_max_007"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "这样啊。是会想很多的时期呢。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "这种事…不知道该找谁商量…",
+      "voiceFile": "ending_trust_max_008"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "如果我可以的话，随时都愿意听你说。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "…谢谢您。",
+      "voiceFile": "ending_trust_max_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "老师…就像爸爸一样…",
+      "voiceFile": "ending_trust_max_010"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "爸、爸爸？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "啊、不…这样很失礼吧。呃…像…哥哥…那样…？",
+      "voiceFile": "ending_trust_max_011"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "哈哈哈，哪个都没关系啦。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "总之…真的很可靠。",
+      "voiceFile": "ending_trust_max_012"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "只要您在…就让人安心…怎么说呢…",
+      "voiceFile": "ending_trust_max_013"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "听你这么说我很高兴。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "是的。因为有老师在，我才能加油。",
+      "voiceFile": "ending_trust_max_014"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（真是个懂事的好孩子…）"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "那个…老师。",
+      "voiceFile": "ending_trust_max_015"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "嗯？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "我…能遇见老师，真是太好了。",
+      "voiceFile": "ending_trust_max_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "不只是治疗…还像家人一样…温柔地对待我…",
+      "voiceFile": "ending_trust_max_017"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "我才是。能遇见奈奈我也很高兴。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "今后也…请一直多多关照。",
+      "voiceFile": "ending_trust_max_018"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "嗯，彼此彼此。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "奈奈不仅为了接受治疗，也为了分享近况和倾诉烦恼而来到整体院。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "那是超越了施术师与患者关系的、如家人般的羁绊。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【TRUST MAX END - 信赖的羁绊】",
+      "triggerEnding": "trust_max"
+    }
+  ]
+}
