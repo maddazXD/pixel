@@ -1,0 +1,168 @@
+[
+  {
+    "id": "tatsu_trust_level_2",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 2 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…まぁ、前回の施術の後、ちょっとだけ楽になった気がする。" },
+      { "character": "player", "expression": "normal_01", "text": "本当ですか！よかったです。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…ちょっとだけだからな。調子に乗んなよ。" },
+      { "character": "player", "expression": "normal_01", "text": "（ちょっとだけ…って言ってるけど、態度は明らかに軟化してる…）" },
+      { "character": "tatsu", "expression": "normal_02", "text": "…他のとこも触っていいぞ。肩だけじゃなくてな。" },
+      { "character": "player", "expression": "normal_01", "text": "ありがとうございます！より丁寧に施術させていただきますね。" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_3",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 3 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…最近、肩こりが前よりマシになってきた。" },
+      { "character": "player", "expression": "normal_01", "text": "定期的に通っていただいてるおかげですね。" },
+      { "character": "tatsu", "expression": "normal_02", "text": "高級スパに何十万も使ったのに全然ダメだったのによ…" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…お前の方がよっぽど効くじゃねぇか。" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐に褒められた…！殺されずに済んでるだけでもありがたいのに…）" },
+      { "character": "player", "expression": "normal_01", "text": "あ、ありがとうございます…！もっと良くできるよう頑張ります！" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_4",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 4 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…なぁ。" },
+      { "character": "player", "expression": "normal_01", "text": "はい？" },
+      { "character": "tatsu", "expression": "normal_02", "text": "最近、部下に「社長、最近肌ツヤいいっすね」って言われたんだよ。" },
+      { "character": "player", "expression": "normal_01", "text": "血行が良くなってるんだと思います。施術の効果が出てますね。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…化粧ノリもいい気がする。" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐、元々美人なのに…さらに綺麗になってきてる…）" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…なんだその顔は。気持ち悪ぃな。" },
+      { "character": "player", "expression": "normal_01", "text": "す、すみません！何でもないです！" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_5",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 5 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…お前さ、なんで整体師になろうと思ったんだ？" },
+      { "character": "player", "expression": "normal_01", "text": "え…？" },
+      { "character": "tatsu", "expression": "normal_02", "text": "借金してまで開業するってことは、それなりに覚悟があったんだろ。" },
+      { "character": "player", "expression": "normal_01", "text": "…人の体に触れて、楽にしてあげるのが好きなんです。" },
+      { "character": "player", "expression": "normal_01", "text": "（…特に女性の体に触れるのが、とは言えないけど）" },
+      { "character": "tatsu", "expression": "normal_01", "text": "ふぅん…。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…まぁ、アタシは楽になってるから…腕は認めてやる。" },
+      { "character": "player", "expression": "normal_01", "text": "ありがとうございます…！" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐が俺に興味持ってくれてる…？…いや、気のせいだよな…）" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_6",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 6 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…なぁ、ちょっと聞いてくれ。" },
+      { "character": "player", "expression": "normal_01", "text": "はい、何でしょう。" },
+      { "character": "tatsu", "expression": "normal_02", "text": "今日さ、取り立て先でクソみてぇなことがあってよ…" },
+      { "character": "player", "expression": "normal_01", "text": "…大変でしたね。" },
+      { "character": "tatsu", "expression": "normal_02", "text": "…まぁ、仕事だからいいんだけどな。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…ここに来ると、なんか落ち着くんだよ。" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐が…愚痴を言ってくれるようになった…）" },
+      { "character": "player", "expression": "normal_01", "text": "いつでも聞きますよ。施術しながらでよければ。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…ったく、お前に愚痴るなんてな。借金取りの相手に。" },
+      { "character": "tatsu", "expression": "normal_02", "text": "…まぁ、悪くねぇけどな。" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_7",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 7 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…先週、用事で来れなかっただろ。" },
+      { "character": "player", "expression": "normal_01", "text": "はい。お忙しかったんですよね。" },
+      { "character": "tatsu", "expression": "normal_02", "text": "…そしたらさ、体がすげぇ重くてよ。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "肩も首も全然ダメで…仕事にならなかった。" },
+      { "character": "player", "expression": "normal_01", "text": "定期的にほぐしてたのが途切れると、戻りやすいんです。" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐の体、もう俺の施術なしじゃ満足できなくなってる…）" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…もう、1週空けんのはナシだ。" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…べ、別にお前に会いたいとかじゃねぇからな。体の問題だ。" },
+      { "character": "player", "expression": "normal_01", "text": "は、はい！もちろんです！" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_8",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 8 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…なぁ。" },
+      { "character": "player", "expression": "normal_01", "text": "はい？" },
+      { "character": "tatsu", "expression": "normal_02", "text": "他の客にも…こういう施術してんのか？" },
+      { "character": "player", "expression": "normal_01", "text": "え？まぁ…施術自体は同じ技術ですけど…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…ふぅん。" },
+      { "character": "player", "expression": "normal_01", "text": "（…なんか怒ってる？）" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…アタシだけ、特別扱いしろとは言わねぇけどさ。" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…他の女にも同じことしてると思うと…なんかムカつく。" },
+      { "character": "player", "expression": "normal_01", "text": "た、タツ姐さん…？" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…なんでもねぇ。さっさと始めろ。" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐…もしかして…嫉妬…？）" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_9",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 9 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…お前にだけ言うけどさ。" },
+      { "character": "player", "expression": "normal_01", "text": "はい。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "アタシ…こうやって誰かに体預けるの、初めてなんだよ。" },
+      { "character": "player", "expression": "normal_01", "text": "…そうなんですか？" },
+      { "character": "tatsu", "expression": "normal_02", "text": "闇金の社長なんかやってると、誰も信用できなくなるからな。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…でもお前は…なんか、安心するんだよ。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "手が温かいし…施術も丁寧だし…" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐が…こんな弱いところ見せてくれるなんて…）" },
+      { "character": "player", "expression": "normal_01", "text": "…俺も、タツ姐さんを施術できて嬉しいです。" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…キモいこと言うな。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…でも、ありがとな。" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_10",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 10 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…おい。" },
+      { "character": "player", "expression": "normal_01", "text": "はい？" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…アタシの本名、覚えてるか。" },
+      { "character": "player", "expression": "normal_01", "text": "辰巳…麗さん、ですよね。カウンセリングシートに書いてありました。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…うらら。読み方は、うらら。" },
+      { "character": "player", "expression": "normal_01", "text": "うらら…さん…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…気持ち悪ぃ呼び方すんな。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…でも、お前だけは…その名前で呼んでいい。" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐が…本名で呼んでいいって…）" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…他の奴の前では絶対呼ぶなよ。殺すぞ。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…お前のこと…信頼してる。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "体も…全部、任せるから。" },
+      { "character": "player", "expression": "normal_01", "text": "…はい。お任せください、うらら…さん。" },
+      { "character": "tatsu", "expression": "alert_01", "text": "っ…！…だから気持ち悪ぃって…" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "………まぁ…悪くねぇけど…" }
+    ]
+  }
+]
