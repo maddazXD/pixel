@@ -1,0 +1,665 @@
+[
+  {
+    "id": "gift_flowers",
+    "name": "Buket Bunga",
+    "description": "Buket bunga yang cantik. Pasti akan membuat si penerima tersenyum.",
+    "price": 3000,
+    "category": "gift",
+    "effect": {
+      "type": "trust_boost",
+      "value": 2,
+      "duration": "instant"
+    },
+    "icon": "gift_flowers.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 1,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "user": "Jiwa yang Baik",
+        "rating": 5,
+        "comment": "Wanita memang sangat menyukai bunga. Dia sangat bahagia!"
+      },
+      {
+        "user": "Pemula dalam Memberi Hadiah",
+        "rating": 4,
+        "comment": "Klasik yang tidak pernah gagal. Kamu bisa memberikannya dengan percaya diri."
+      },
+      {
+        "user": "Pencinta Bunga",
+        "rating": 5,
+        "comment": "Wanginya enak dan terlihat menggemaskan. Senang sekali melihat senyumnya."
+      },
+      {
+        "user": "Romantis",
+        "rating": 4,
+        "comment": "Gestur kecil yang penuh perhatian. Ini benar-benar meningkatkan hubungan."
+      }
+    ]
+  },
+  {
+    "id": "gift_matcha_chocolate",
+    "name": "Cokelat Segar Matcha Uji Kyoto",
+    "description": "Dibuat secara mewah dengan matcha Uji terbaik dari kedai teh ternama. Meleleh lembut dengan aroma matcha yang pekat.",
+    "price": 7000,
+    "category": "gift",
+    "effect": {
+      "type": "trust_boost",
+      "value": 3,
+      "duration": "instant"
+    },
+    "icon": "gift_matcha_chocolate.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 1,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user": "Penggemar Matcha",
+        "rating": 5,
+        "comment": "Aroma matchanya sangat otentik! Sempurna untuk hadiah mewah."
+      },
+      {
+        "user": "Penggemar Manisan Jepang",
+        "rating": 5,
+        "comment": "Tidak terlalu manis, rasa dewasa yang elegan. Wajib bagi pencinta matcha."
+      },
+      {
+        "user": "Penikmat Kyoto",
+        "rating": 5,
+        "comment": "Rasanya seperti jalan-jalan ke Kyoto. Kemasannya juga cantik."
+      },
+      {
+        "user": "Pemilih Hadiah",
+        "rating": 4,
+        "comment": "Perpaduan sempurna antara rasa Jepang dan Barat. Ideal untuk seseorang yang spesial."
+      }
+    ]
+  },
+  {
+    "id": "gift_teddy_bear",
+    "name": "Boneka Beruang",
+    "description": "Boneka beruang yang lembut dan empuk. Memeluknya memberimu rasa nyaman.",
+    "price": 4000,
+    "category": "gift",
+    "effect": {
+      "type": "trust_boost",
+      "value": 2,
+      "duration": "instant"
+    },
+    "icon": "gift_teddy_bear.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 1,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "user": "Pencari Kenyamanan",
+        "rating": 5,
+        "comment": "Sangat empuk dan lembut! Aku tidur memeluknya setiap malam."
+      },
+      {
+        "user": "Ahli Kado",
+        "rating": 5,
+        "comment": "Semua gadis suka boneka. Kado yang pasti disukai."
+      },
+      {
+        "user": "Pemula",
+        "rating": 4,
+        "comment": "Memilih ini sebagai kado pertamaku. Dia sangat senang menerimanya."
+      },
+      {
+        "user": "Kolektor Boneka",
+        "rating": 5,
+        "comment": "Wajah beruangnya menggemaskan! Terlihat bagus juga sebagai dekorasi kamar."
+      }
+    ]
+  },
+  {
+    "id": "gift_eye_mask",
+    "name": "Penutup Mata",
+    "description": "Penutup mata dengan desain lucu. Menenangkan mata lelah dengan lembut. Dilengkapi aroma lavender.",
+    "price": 3000,
+    "category": "gift",
+    "effect": {
+      "type": "trust_boost",
+      "value": 2,
+      "duration": "instant"
+    },
+    "icon": "gift_eye_mask.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "user": "Kelelahan Bekerja",
+        "rating": 5,
+        "comment": "Sangat ampuh menghilangkan lelah di mata! Suka sekali dengan desainnya yang imut."
+      },
+      {
+        "user": "Tidur Lebih Nyenyak",
+        "rating": 4,
+        "comment": "Tidurku jadi jauh lebih nyenyak sekarang. Aromanya juga sangat enak."
+      },
+      {
+        "user": "Pemula dalam Memberi Hadiah",
+        "rating": 5,
+        "comment": "Praktis dan sangat disukai. Dia menghargai pemberian ini."
+      },
+      {
+        "user": "Perawatan Mata Utama",
+        "rating": 4,
+        "comment": "Nyaman dipakai dan menenangkan mata. Sangat sempurna sebagai kado."
+      }
+    ]
+  },
+  {
+    "id": "gift_aroma_diffuser",
+    "name": "Aroma Diffuser",
+    "description": "Diffuser yang memenuhi ruangan dengan wewangian lembut. Sangat bagus untuk relaksasi dan melepas stres kerja.",
+    "price": 20000,
+    "category": "gift",
+    "effect": {
+      "type": "trust_boost",
+      "value": 4,
+      "duration": "instant"
+    },
+    "icon": "gift_aroma_diffuser.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 3,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user": "Pecinta Aroma",
+        "rating": 5,
+        "comment": "Seluruh ruangan jadi wangi sekali! Bahkan fokus kerjaku jadi meningkat."
+      },
+      {
+        "user": "Relaksasi Utama",
+        "rating": 5,
+        "comment": "Sempurna untuk menghilangkan stres. Aku menggunakannya setiap hari."
+      },
+      {
+        "user": "Pemilih Hadiah",
+        "rating": 4,
+        "comment": "Praktis dan bergaya. Kado ideal untuk para wanita."
+      },
+      {
+        "user": "Sadar Kesehatan",
+        "rating": 5,
+        "comment": "Kompatibel dengan minyak alami jadi aman. Kualitas tidurku juga jadi lebih baik."
+      }
+    ]
+  },
+  {
+    "id": "gift_neck_pillow",
+    "name": "Bantal Leher Pemanas",
+    "description": "Bantal leher elektrik dengan kehangatan lembut. Meredakan bahu dan leher yang kaku.",
+    "price": 5000,
+    "category": "gift",
+    "effect": {
+      "type": "trust_boost",
+      "value": 2,
+      "duration": "instant"
+    },
+    "icon": "gift_neck_pillow.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 1,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "user": "Pekerja Kantoran",
+        "rating": 5,
+        "comment": "Aku menggunakannya saat bekerja. Kehangatannya benar-benar surga. Bahuku yang kaku jadi terasa jauh lebih baik."
+      },
+      {
+        "user": "Bahu Kaku",
+        "rating": 5,
+        "comment": "Bagus untuk perawatan diri di sela-sela sesi terapi. Hangatnya terasa luar biasa."
+      },
+      {
+        "user": "Pemilih Hadiah",
+        "rating": 4,
+        "comment": "Kado sempurna untuk seseorang yang bahunya kaku. Praktis dan selalu disukai."
+      },
+      {
+        "user": "Pembeli Berulang",
+        "rating": 5,
+        "comment": "Beli yang kedua. Satu untuk di rumah, satu untuk di kantor. Tidak bisa hidup tanpanya."
+      }
+    ]
+  },
+  {
+    "id": "gift_whiskey",
+    "name": "Wiski Premium",
+    "description": "Single malt Skotlandia. Cairan berwarna amber yang disimpan selama 25 tahun ini mampu menenangkan tubuh yang lelah.",
+    "price": 18000,
+    "category": "gift",
+    "effect": {
+      "type": "trust_boost",
+      "value": 4,
+      "duration": "instant"
+    },
+    "icon": "gift_whiskey.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 3,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "user": "Ahli Wiski",
+        "rating": 5,
+        "comment": "Kedalaman rasa malt 25 tahun itu luar biasa. Benar-benar nikmat saat diminum langsung."
+      },
+      {
+        "user": "Bartender",
+        "rating": 5,
+        "comment": "Kami menyediakan ini di bar kami. Kado yang tak pernah gagal untuk siapa pun yang suka minuman keras."
+      },
+      {
+        "user": "Peminum Malam",
+        "rating": 5,
+        "comment": "Sejak ini jadi minuman sepulang kerja, setiap hari terasa sangat menyenangkan."
+      },
+      {
+        "user": "Pembeli Kado",
+        "rating": 4,
+        "comment": "Memberikannya kepada bos yang suka alkohol. Dapat balasan 『Kamu memang tahu barang bagus』."
+      }
+    ]
+  },
+  {
+    "id": "gift_luxury_bag",
+    "name": "Tas Brand Mewah",
+    "description": "Tas edisi terbatas dari brand mewah ternama.",
+    "price": 500000,
+    "category": "gift",
+    "effect": {
+      "type": "trust_boost",
+      "value": 10,
+      "duration": "instant"
+    },
+    "icon": "gift_luxury_bag.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 8,
+    "rating": 5.0,
+    "reviews": [
+      {
+        "user": "Miliarder",
+        "rating": 5,
+        "comment": "Uang memang tidak bisa membeli cinta, tapi mungkin ini mendekati...?"
+      },
+      {
+        "user": "Terlilit Hutang",
+        "rating": 5,
+        "comment": "Menghabiskan seluruh tabunganku untuk ini. Tidak menyesal sama sekali!"
+      },
+      {
+        "user": "Pecinta Brand",
+        "rating": 5,
+        "comment": "Tidak percaya mereka benar-benar menjual ini... Aku iri pada siapa pun yang mampu membelinya."
+      },
+      {
+        "user": "Pembeli Barang Unik",
+        "rating": 5,
+        "comment": "Jadi bahan obrolan yang menarik. Apakah sepadan dengan harganya... yah?"
+      }
+    ]
+  },
+  {
+    "id": "gift_diamond_ring",
+    "name": "Cincin Berlian",
+    "description": "Cincin dengan berlian terbaik. Hadiah utama untuk mengikat cinta abadi.",
+    "price": 5000000,
+    "category": "gift",
+    "effect": {
+      "type": "trust_boost",
+      "value": 20,
+      "duration": "instant"
+    },
+    "icon": "gift_diamond_ring.png",
+    "isTrialOnly": false,
+    "stock": 1,
+    "unlockDay": 10,
+    "rating": 5.0,
+    "reviews": [
+      {
+        "user": "Kolektor Perhiasan",
+        "rating": 5,
+        "comment": "Potongan sempurna pada pengaturan platinum. Cincin untuk seumur hidup."
+      },
+      {
+        "user": "Selebriti",
+        "rating": 5,
+        "comment": "Aku sudah terbiasa melihat berlian, tapi kualitas yang satu ini benar-benar asli."
+      },
+      {
+        "user": "Tunangan",
+        "rating": 5,
+        "comment": "Kubeli untuk melamar. Pas sekali di jari manisnya."
+      },
+      {
+        "user": "Konglomerat",
+        "rating": 5,
+        "comment": "Sangat sepadan. Hadiah terbaik untuk seseorang yang kamu sayangi."
+      }
+    ]
+  },
+  {
+    "id": "gift_luxury_watch",
+    "name": "Jam Tangan Mewah",
+    "description": "Jam tangan kelas atas dari pembuat Swiss. Dial bertabur berlian yang berkilau indah.",
+    "price": 1000000,
+    "category": "gift",
+    "effect": {
+      "type": "trust_boost",
+      "value": 25,
+      "duration": "instant"
+    },
+    "icon": "gift_luxury_watch.png",
+    "isTrialOnly": false,
+    "stock": 1,
+    "unlockDay": 9,
+    "rating": 5.0,
+    "reviews": [
+      {
+        "user": "Penggemar Jam Tangan",
+        "rating": 5,
+        "comment": "Presisi mesinnya ada di level lain. Benar-benar puas memilikinya."
+      },
+      {
+        "user": "Pebisnis",
+        "rating": 5,
+        "comment": "Menambah wibawa di setiap rapat. Investasi yang sangat bagus juga."
+      },
+      {
+        "user": "Kolektor",
+        "rating": 5,
+        "comment": "Nilainya terletak pada edisi terbatasnya. Barang yang akan kusimpan seumur hidup."
+      },
+      {
+        "user": "Sosialita",
+        "rating": 5,
+        "comment": "Hadiah dari suamiku. Setiap kali memakainya, aku merasa sangat bahagia."
+      }
+    ]
+  },
+  {
+    "id": "gift_luxury_car",
+    "name": "Mobil Sport Mewah",
+    "description": "Mobil sport mewah Italia. Bodi hitam pekat dengan jok kulit merah tua. Kecepatan maksimal: 330 km/jam.",
+    "price": 10000000,
+    "category": "gift",
+    "effect": {
+      "type": "trust_boost",
+      "value": 30,
+      "duration": "instant"
+    },
+    "icon": "gift_luxury_car.png",
+    "isTrialOnly": false,
+    "stock": 1,
+    "unlockDay": 11,
+    "rating": 5.0,
+    "reviews": [
+      {
+        "user": "Penggemar Mobil",
+        "rating": 5,
+        "comment": "Suara mesinnya saja sudah bikin merinding. Pembelian terbaik dalam hidupku."
+      },
+      {
+        "user": "Pengemudi Akhir Pekan",
+        "rating": 5,
+        "comment": "Akselerasinya saat tancap gas di jalan tol benar-benar luar biasa."
+      },
+      {
+        "user": "Raja Minyak",
+        "rating": 5,
+        "comment": "Koleksi nomor 10 di garasi. Produsen ini tidak pernah mengecewakan."
+      },
+      {
+        "user": "Pengejar Mimpi",
+        "rating": 5,
+        "comment": "Mimpi masa kecil yang jadi nyata. Aku hampir menangis setiap kali memegang setirnya."
+      }
+    ]
+  },
+  {
+    "id": "gift_black_lingerie",
+    "name": "Set Lingerie Renda Hitam",
+    "description": "Desain dewasa yang tipis dan menggoda. Memakainya saja sudah membuat jantungmu berdebar kencang.",
+    "price": 10000,
+    "category": "gift",
+    "effect": {
+      "type": "mixed_effect",
+      "developValue": 4,
+      "duration": "instant"
+    },
+    "icon": "gift_black_lingerie.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "user": "Wanita Dewasa",
+        "rating": 5,
+        "comment": "Memakai sesuatu seperti ini... rasanya langsung bikin suasana hati jadi beda."
+      },
+      {
+        "user": "Pecinta Lingerie",
+        "rating": 5,
+        "comment": "Kualitas hebat dan desain yang cantik. Sempurna untuk acara spesial."
+      },
+      {
+        "user": "Pembelian Pertama",
+        "rating": 4,
+        "comment": "Memalukan sih, tapi... ini punya daya tarik yang sulit ditolak."
+      },
+      {
+        "user": "Pasti Beli Lagi",
+        "rating": 5,
+        "comment": "Dia senang banget. Untung aku belinya!"
+      }
+    ],
+    "unlockCondition": {
+      "developLevel": 3
+    }
+  },
+  {
+    "id": "gift_hemp_rope",
+    "name": "Set Tali Rami",
+    "description": "Set tali rami berkualitas tinggi untuk bondage. Tekstur lembut, mudah digunakan oleh pemula.",
+    "price": 30000,
+    "category": "gift",
+    "effect": {
+      "type": "mixed_effect",
+      "developValue": 4,
+      "duration": "instant"
+    },
+    "icon": "gift_hemp_rope.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "user": "Seniman Tali",
+        "rating": 5,
+        "comment": "Kualitas tali rami ini luar biasa. Lembut di kulit dan nggak ninggalin bekas yang parah."
+      },
+      {
+        "user": "Pasangan",
+        "rating": 4,
+        "comment": "Kami coba bareng-bareng. Rasanya kayak ada pintu baru yang terbuka..."
+      },
+      {
+        "user": "Pemula",
+        "rating": 5,
+        "comment": "Panduan yang disertakan ngebantu banget. Awalnya malu, tapi kayaknya aku ketagihan."
+      },
+      {
+        "user": "Pembeli Berulang",
+        "rating": 5,
+        "comment": "Set ketiga. Makin sering dipakai makin pas di tangan. Pasanganku juga suka banget."
+      }
+    ],
+    "unlockCondition": {
+      "developLevel": 4
+    }
+  },
+  {
+    "id": "gift_pink_rotor",
+    "name": "Vibrator Telur Merah Muda",
+    "description": "Vibrator mungil berwarna merah muda yang lucu. Desainnya sangat senyap — wajib punya untuk permainan solo.",
+    "price": 10000,
+    "category": "gift",
+    "effect": {
+      "type": "mixed_effect",
+      "developValue": 5,
+      "duration": "instant"
+    },
+    "icon": "gift_pink_rotor.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "user": "Pemula Solo Play",
+        "rating": 5,
+        "comment": "Sempurna buat mainan pertama! Klitorisku kedutan parah — ini luar biasa!"
+      },
+      {
+        "user": "Pengguna Rutin Tiap Malam",
+        "rating": 5,
+        "comment": "Aku nggak bisa tidur tanpanya lagi..."
+      },
+      {
+        "user": "Si Sensitif",
+        "rating": 4,
+        "comment": "Terlalu kuat — aku langsung keluar... Padahal di setelan rendah aja udah intens banget!"
+      },
+      {
+        "user": "Penggemar Vibe",
+        "rating": 5,
+        "comment": "Bisa buat puting sama klitoris! Tahan air juga, jadi bisa aku pakai pas mandi!"
+      }
+    ],
+    "unlockCondition": {
+      "developLevel": 5
+    }
+  },
+  {
+    "id": "gift_vibrator",
+    "name": "Alat Pijat Elektrik",
+    "description": "Pijat elektrik wand yang kuat. Bisa digunakan ke seluruh tubuh, tapi tekan ke titik sensitif dan klimaks instan dijamin.",
+    "price": 25000,
+    "category": "gift",
+    "effect": {
+      "type": "mixed_effect",
+      "developValue": 6,
+      "duration": "instant"
+    },
+    "icon": "gift_vibrator.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "user": "Baru Pertama Kali",
+        "rating": 5,
+        "comment": "Getarannya kuat banget sampai pinggulku hampir lemas... tapi aku nggak bisa berhenti!"
+      },
+      {
+        "user": "Pengguna Mahir",
+        "rating": 5,
+        "comment": "Kekuatannya nggak bisa dibandingin sama egg vibe. Aku nggak bisa lepas dari yang satu ini!"
+      },
+      {
+        "user": "Pengguna Seluruh Tubuh",
+        "rating": 5,
+        "comment": "Bukan cuma buat klitoris — bisa buat puting sama paha juga. Luar biasa!"
+      },
+      {
+        "user": "Pecinta Solo Play",
+        "rating": 4,
+        "comment": "Agak berisik sih, tapi efeknya juara. Seneng banget aku belinya!"
+      },
+      {
+        "user": "Latihan Sensitivitas",
+        "rating": 5,
+        "comment": "Setelah latihan pakai ini, seks biasa jadi terasa kurang memuaskan...!"
+      }
+    ],
+    "unlockCondition": {
+      "developLevel": 6
+    }
+  },
+  {
+    "id": "gift_massage_av",
+    "name": "AV 『Perlakuan Kejam ~Wanita Bos yang Takluk pada Terapisnya~』",
+    "description": "Judul hits tentang bos dunia bawah yang ditakuti namun tak bisa menolak tangan terampil seorang terapis. Penjualan seri kumulatif No. 1.",
+    "price": 12000,
+    "category": "gift",
+    "effect": {
+      "type": "mixed_effect",
+      "developValue": 6,
+      "duration": "instant"
+    },
+    "icon": "gift_massage_av.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user": "Penggemar Seri",
+        "rating": 5,
+        "comment": "Cara si bos wanita perlahan-lahan jatuh itu digarap dengan jenius. Yang terbaik di serinya."
+      },
+      {
+        "user": "Koleksi Lengkap",
+        "rating": 5,
+        "comment": "Vol.1 『Arc Simpanan Bos』 juga bagus, tapi yang ini paling juara buat coli."
+      },
+      {
+        "user": "Penggemar Film Yakuza",
+        "rating": 4,
+        "comment": "Kualitasnya tinggi bahkan sebagai drama gangster. Tetap layak tonton meski tanpa konten dewasanya."
+      },
+      {
+        "user": "Penikmat",
+        "rating": 5,
+        "comment": "Adegan saat si bos wanita bilang 『...sudah, hentikan』 sementara pinggulnya masih terus bergerak itu benar-benar klimaks. Sebuah mahakarya."
+      }
+    ],
+    "unlockCondition": {
+      "developLevel": 7
+    }
+  },
+  {
+    "id": "gift_custom_dildo",
+    "name": "Dildo Kustom Khusus Terapis",
+    "description": "Dildo berukuran besar yang meniru persis milik sang terapis. Setiap detail dari bentuk kepala hingga uratnya direproduksi dengan setia. Rasakan kenikmatan penetrasi dalam di rumah.",
+    "price": 50000,
+    "category": "gift",
+    "effect": {
+      "type": "mixed_effect",
+      "developValue": 7,
+      "duration": "instant"
+    },
+    "icon": "gift_custom_dildo.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "unlockCondition": {
+      "developLevel": 9
+    }
+  }
+]
