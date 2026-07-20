@@ -1,0 +1,325 @@
+[
+  {
+    "id": "gift_flowers",
+    "name": "꽃다발",
+    "description": "귀여운 꽃다발. 받는 사람이 기뻐할 것 같다.",
+    "price": 3000,
+    "category": "gift",
+    "effect": { "type": "trust_boost", "value": 2, "duration": "instant" },
+    "icon": "gift_flowers.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 1,
+    "rating": 4.5,
+    "reviews": [
+      { "user": "따뜻한 사람", "rating": 5, "comment": "여성은 역시 꽃을 좋아하죠. 정말 기뻐해줬어요!" },
+      { "user": "선물 초보", "rating": 4, "comment": "정석이지만 틀림없는 선택. 안심하고 선물할 수 있어요." },
+      { "user": "꽃 좋아하는 사람", "rating": 5, "comment": "향기도 좋고 보기에도 예뻐요. 상대의 미소를 볼 수 있어서 행복했어요." },
+      { "user": "로맨티스트", "rating": 4, "comment": "작은 배려가 전해지는 선물. 관계가 좋아집니다." }
+    ]
+  },
+  {
+    "id": "gift_matcha_chocolate",
+    "name": "교토 우지 말차 생초콜릿",
+    "description": "노포 찻집의 최고급 우지 말차를 듬뿍 사용. 부드러운 입안 감촉과 진한 말차 향.",
+    "price": 7000,
+    "category": "gift",
+    "effect": { "type": "trust_boost", "value": 3, "duration": "instant" },
+    "icon": "gift_matcha_chocolate.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 1,
+    "rating": 4.8,
+    "reviews": [
+      { "user": "말차 애호가", "rating": 5, "comment": "말차 향이 본격적! 고급스러워서 선물로 최적이에요." },
+      { "user": "화과자 좋아하는 사람", "rating": 5, "comment": "너무 달지 않고, 어른의 맛. 말차 좋아하는 분께 추천!" },
+      { "user": "교토통", "rating": 5, "comment": "교토에 간 기분이 드는 품격 있는 맛. 패키지도 예뻐요." },
+      { "user": "선물 고르기", "rating": 4, "comment": "화양절충의 절묘한 조화. 특별한 분을 위한 선물에." }
+    ]
+  },
+  {
+    "id": "gift_teddy_bear",
+    "name": "인형",
+    "description": "폭신폭신하고 귀여운 곰 인형. 안으면 안심감에 감싸인다.",
+    "price": 4000,
+    "category": "gift",
+    "effect": { "type": "trust_boost", "value": 2, "duration": "instant" },
+    "icon": "gift_teddy_bear.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 1,
+    "rating": 4.6,
+    "reviews": [
+      { "user": "힐링계 좋아하는 사람", "rating": 5, "comment": "폭신폭신해서 최고! 매일 밤 안고 자고 있어요." },
+      { "user": "선물의 달인", "rating": 5, "comment": "여자는 다 인형을 좋아해요. 철판 선물입니다." },
+      { "user": "초보자", "rating": 4, "comment": "첫 선물로 골랐어요. 정말 기뻐해줬어요." },
+      { "user": "인형 수집가", "rating": 5, "comment": "곰 표정이 귀여워요! 방에 놓아도 힐링됩니다." }
+    ]
+  },
+  {
+    "id": "gift_eye_mask",
+    "name": "아이마스크",
+    "description": "귀여운 디자인의 아이마스크. 피로한 눈을 부드럽게 케어. 라벤더 향 포함.",
+    "price": 3000,
+    "category": "gift",
+    "effect": { "type": "trust_boost", "value": 2, "duration": "instant" },
+    "icon": "gift_eye_mask.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 2,
+    "rating": 4.5,
+    "reviews": [
+      { "user": "업무 피로", "rating": 5, "comment": "눈의 피로가 풀리고 쾌적! 디자인도 귀여워서 마음에 들어요." },
+      { "user": "수면 개선", "rating": 4, "comment": "푹 잘 수 있게 되었어요. 향기도 좋아요." },
+      { "user": "선물 초보", "rating": 5, "comment": "실용적이라 기뻐해줬어요." },
+      { "user": "아이케어 중시", "rating": 4, "comment": "착용감이 좋고 눈이 편해져요. 선물로 최적." }
+    ]
+  },
+  {
+    "id": "gift_aroma_diffuser",
+    "name": "아로마 디퓨저",
+    "description": "방에 은은한 향기를 퍼뜨리는 디퓨저. 릴랙스 효과 뛰어나 업무 피로도 해소.",
+    "price": 20000,
+    "category": "gift",
+    "effect": { "type": "trust_boost", "value": 4, "duration": "instant" },
+    "icon": "gift_aroma_diffuser.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 3,
+    "rating": 4.8,
+    "reviews": [
+      { "user": "아로마 애호가", "rating": 5, "comment": "방 전체가 좋은 향기로! 업무 집중력도 올랐어요." },
+      { "user": "릴랙스 중시", "rating": 5, "comment": "스트레스 해소에 최적. 매일 쓰고 있어요." },
+      { "user": "선물 고르기", "rating": 4, "comment": "실용적이고 세련돼요. 여성에게 주기 좋은 선물." },
+      { "user": "건강 지향", "rating": 5, "comment": "천연 오일 호환이라 안심. 수면의 질도 향상되었어요." }
+    ]
+  },
+  {
+    "id": "gift_neck_pillow",
+    "name": "온열 넥 필로우",
+    "description": "은은하게 따뜻해지는 전동 넥 필로우. 어깨와 목의 결림을 풀어준다.",
+    "price": 5000,
+    "category": "gift",
+    "effect": { "type": "trust_boost", "value": 2, "duration": "instant" },
+    "icon": "gift_neck_pillow.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 1,
+    "rating": 4.7,
+    "reviews": [
+      { "user": "사무직", "rating": 5, "comment": "근무 중에 쓰고 있어요. 은은히 따뜻해서 최고. 어깨 결림이 편해졌어요." },
+      { "user": "어깨 결림 보유자", "rating": 5, "comment": "정체에 다니는 사이 셀프 케어에. 온열이 기분 좋아요." },
+      { "user": "선물 고르기", "rating": 4, "comment": "어깨 결림에 고민하는 분께 주는 선물로 최적. 실용적이라 기뻐해요." },
+      { "user": "리피터", "rating": 5, "comment": "2개째 구매. 집용과 직장용으로 나눠 쓰고 있어요. 놓을 수 없어요." }
+    ]
+  },
+  {
+    "id": "gift_whiskey",
+    "name": "고급 위스키",
+    "description": "스코틀랜드산 싱글 몰트. 25년 숙성의 호박빛 액체가 지친 몸에 스며든다.",
+    "price": 18000,
+    "category": "gift",
+    "effect": { "type": "trust_boost", "value": 4, "duration": "instant" },
+    "icon": "gift_whiskey.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 3,
+    "rating": 4.9,
+    "reviews": [
+      { "user": "위스키통", "rating": 5, "comment": "25년 몰트의 깊이는 각별. 스트레이트로 마시면 지복의 한때." },
+      { "user": "바텐더", "rating": 5, "comment": "저희 가게에서도 취급해요. 술 좋아하시는 분께 선물로 틀림없어요." },
+      { "user": "만찬파", "rating": 5, "comment": "퇴근 후 한잔이 이걸로 바뀌고 나서 매일이 행복해요." },
+      { "user": "선물 구매", "rating": 4, "comment": "술 좋아하는 상사에게 드렸어요. 『알긴 아는구나』라며 대호평." }
+    ]
+  },
+  {
+    "id": "gift_luxury_bag",
+    "name": "고급 명품 가방",
+    "description": "유명 명품 브랜드의 한정 가방.",
+    "price": 500000,
+    "category": "gift",
+    "effect": { "type": "trust_boost", "value": 10, "duration": "instant" },
+    "icon": "gift_luxury_bag.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 8,
+    "rating": 5.0,
+    "reviews": [
+      { "user": "억만장자", "rating": 5, "comment": "돈으로 사랑은 살 수 없지만, 이거라면 얘기가 다를지도…?" },
+      { "user": "빚내서 구매", "rating": 5, "comment": "전 재산을 쏟아서 샀어요. 후회는 없습니다!" },
+      { "user": "명품 좋아하는 사람", "rating": 5, "comment": "정말로 팔고 있다니… 살 수 있는 사람이 부럽다." },
+      { "user": "네타 구매자", "rating": 5, "comment": "화제거리는 됐어요. 가격만큼의 가치가 있는지는…?" }
+    ]
+  },
+  {
+    "id": "gift_diamond_ring",
+    "name": "다이아몬드 반지",
+    "description": "최고급 다이아몬드 반지. 영원한 사랑을 맹세하는 궁극의 선물.",
+    "price": 5000000,
+    "category": "gift",
+    "effect": { "type": "trust_boost", "value": 20, "duration": "instant" },
+    "icon": "gift_diamond_ring.png",
+    "isTrialOnly": false,
+    "stock": 1,
+    "unlockDay": 10,
+    "rating": 5.0,
+    "reviews": [
+      { "user": "쥬얼리 수집가", "rating": 5, "comment": "플래티넘 대좌에 완벽한 커팅. 평생 간직할 반지에요." },
+      { "user": "셀럽", "rating": 5, "comment": "평소에 다이아는 많이 봤지만, 이 품질은 진짜예요." },
+      { "user": "약혼자", "rating": 5, "comment": "프로포즈용으로 구매. 그녀의 약지에 딱 맞았어요." },
+      { "user": "부호", "rating": 5, "comment": "가격 상응의 가치가 있는 일품. 소중한 사람에게 최고의 선물." }
+    ]
+  },
+  {
+    "id": "gift_luxury_watch",
+    "name": "고급 손목시계",
+    "description": "스위스 메이커의 최고급 손목시계. 다이아몬드가 세팅된 문자판이 반짝인다.",
+    "price": 1000000,
+    "category": "gift",
+    "effect": { "type": "trust_boost", "value": 25, "duration": "instant" },
+    "icon": "gift_luxury_watch.png",
+    "isTrialOnly": false,
+    "stock": 1,
+    "unlockDay": 9,
+    "rating": 5.0,
+    "reviews": [
+      { "user": "시계 마니아", "rating": 5, "comment": "무브먼트 정밀도가 차원이 다릅니다. 소유하는 기쁨이 있어요." },
+      { "user": "실업가", "rating": 5, "comment": "비즈니스 자리에서도 주목받는 존재감. 투자로도 우수." },
+      { "user": "수집가", "rating": 5, "comment": "한정품이기에 가치가 있어요. 평생 소중히 할 한 점." },
+      { "user": "셀럽 부인", "rating": 5, "comment": "남편에게 받은 선물. 손목에 찰 때마다 행복을 느껴요." }
+    ]
+  },
+  {
+    "id": "gift_luxury_car",
+    "name": "고급 외제차",
+    "description": "이탈리아제 고급 스포츠카. 칠흑의 바디에 진홍 레더 시트. 최고 시속 330km.",
+    "price": 10000000,
+    "category": "gift",
+    "effect": { "type": "trust_boost", "value": 30, "duration": "instant" },
+    "icon": "gift_luxury_car.png",
+    "isTrialOnly": false,
+    "stock": 1,
+    "unlockDay": 11,
+    "rating": 5.0,
+    "reviews": [
+      { "user": "자동차 마니아", "rating": 5, "comment": "엔진 소리만으로 소름이 돋아요. 인생 최고의 쇼핑이었어요." },
+      { "user": "주말 드라이버", "rating": 5, "comment": "고속에서 밟는 순간의 가속감은 말로 표현할 수 없어요." },
+      { "user": "석유왕", "rating": 5, "comment": "차고의 10번째로 구매. 이 브랜드는 실패가 없어요." },
+      { "user": "꿈을 이룬 사람", "rating": 5, "comment": "어릴 적부터의 꿈. 핸들을 잡을 때마다 눈물이 날 것 같아요." }
+    ]
+  },
+  {
+    "id": "gift_black_lingerie",
+    "name": "블랙 레이스 란제리 세트",
+    "description": "시스루에 어른스러운 디자인. 입는 것만으로 두근두근할 것 같다.",
+    "price": 10000,
+    "category": "gift",
+    "effect": { "type": "mixed_effect", "developValue": 4, "duration": "instant" },
+    "icon": "gift_black_lingerie.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "rating": 4.9,
+    "reviews": [
+      { "user": "어른 여성", "rating": 5, "comment": "이런 거 입으면… 이상한 기분이 될 것 같아요." },
+      { "user": "란제리 좋아하는 사람", "rating": 5, "comment": "품질도 좋고 디자인도 최고. 특별한 날에." },
+      { "user": "첫 구매", "rating": 4, "comment": "부끄럽지만… 입어보고 싶어지는 매력이 있어요." },
+      { "user": "리피트 확정", "rating": 5, "comment": "그도 매우 기뻐했어요. 사길 잘했어요!" }
+    ],
+    "unlockCondition": { "developLevel": 3 }
+  },
+  {
+    "id": "gift_hemp_rope",
+    "name": "삼줄 세트",
+    "description": "상질의 삼줄 긴박용 세트. 초보자도 다루기 쉬운 부드러운 마감.",
+    "price": 30000,
+    "category": "gift",
+    "effect": { "type": "mixed_effect", "developValue": 4, "duration": "instant" },
+    "icon": "gift_hemp_rope.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "rating": 4.6,
+    "reviews": [
+      { "user": "긴박사", "rating": 5, "comment": "이 삼줄의 품질은 훌륭해요. 피부 닿는 느낌이 부드럽고, 자국도 남기 어려워요." },
+      { "user": "커플", "rating": 4, "comment": "둘이서 도전해봤어요. 새로운 문이 열린 기분이에요…" },
+      { "user": "초보자", "rating": 5, "comment": "해설서 포함이라 도움이 됐어요. 처음엔 부끄러웠지만, 빠질 것 같아요." },
+      { "user": "리피터", "rating": 5, "comment": "3세트째. 쓸수록 손에 익어요. 파트너도 마음에 들어해요." }
+    ],
+    "unlockCondition": { "developLevel": 4 }
+  },
+  {
+    "id": "gift_pink_rotor",
+    "name": "핑크 로터",
+    "description": "귀여운 핑크색 소형 바이브레이터. 저소음 설계로 자위의 필수품.",
+    "price": 10000,
+    "category": "gift",
+    "effect": { "type": "mixed_effect", "developValue": 5, "duration": "instant" },
+    "icon": "gift_pink_rotor.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "rating": 4.7,
+    "reviews": [
+      { "user": "자위 초보", "rating": 5, "comment": "첫 장난감으로 딱! 클리가 떨려서 최고예요♡" },
+      { "user": "매일 밤 사용", "rating": 5, "comment": "이거 없이는 잠들 수 없는 몸이 되어버렸어요…♡" },
+      { "user": "민감 여자", "rating": 4, "comment": "너무 세서 금방 가버려요… 약으로 써도 자극이 너무 강해요♡" },
+      { "user": "로터 애호가", "rating": 5, "comment": "유두에도 클리에도 쓸 수 있어요! 욕실에서도 쓸 수 있어서 편리♡" }
+    ],
+    "unlockCondition": { "developLevel": 5 }
+  },
+  {
+    "id": "gift_vibrator",
+    "name": "전동 마사지기",
+    "description": "강력 진동의 전동 마사지기. 전신에 쓸 수 있지만, 민감한 부분에 대면 즉시 절정 확정의 위력.",
+    "price": 25000,
+    "category": "gift",
+    "effect": { "type": "mixed_effect", "developValue": 6, "duration": "instant" },
+    "icon": "gift_vibrator.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "rating": 4.9,
+    "reviews": [
+      { "user": "전마 첫 경험", "rating": 5, "comment": "진동이 너무 세서 허리가 부서질 것 같아… 근데 멈출 수가 없어♡" },
+      { "user": "상급자", "rating": 5, "comment": "로터와는 비교도 안 되는 위력. 이제 놓을 수 없어요♡" },
+      { "user": "전신 사용", "rating": 5, "comment": "클리뿐만 아니라 유두나 허벅지에도 쓸 수 있어서 최고♡" },
+      { "user": "자위 애호가", "rating": 4, "comment": "소리가 좀 크지만, 효과는 발군. 사길 잘했어요♡" },
+      { "user": "감도 개발 중", "rating": 5, "comment": "이걸로 개발하고 나니 이제 보통 섹스로는 만족 못 하는 몸이…♡" }
+    ],
+    "unlockCondition": { "developLevel": 6 }
+  },
+  {
+    "id": "gift_massage_av",
+    "name": "AV『인의 없는 시술 ~정체사에게 빠진 누님~』",
+    "description": "뒷세계에서 두려움의 대상이던 누님이, 정체사의 손기술에 저항할 수 없게 되어가는 화제작. 시리즈 누적 매출 No.1.",
+    "price": 12000,
+    "category": "gift",
+    "effect": { "type": "mixed_effect", "developValue": 6, "duration": "instant" },
+    "icon": "gift_massage_av.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "rating": 4.8,
+    "reviews": [
+      { "user": "시리즈 팬", "rating": 5, "comment": "누님이 타락해가는 과정의 연출이 탁월. 시리즈 최고 걸작." },
+      { "user": "전권 구매자", "rating": 5, "comment": "Vol.1의 『조장의 애인 편』도 좋았지만, 이게 제일 치는 거예요." },
+      { "user": "임협 영화 팬", "rating": 4, "comment": "임협물로서도 완성도가 높아요. 야한 거 빼고도 볼만한 퀄리티." },
+      { "user": "마니아", "rating": 5, "comment": "중반, 누님이 『…그만둬』라면서 허리가 움직이는 씬에서 확신했어요. 신작." }
+    ],
+    "unlockCondition": { "developLevel": 7 }
+  },
+  {
+    "id": "gift_custom_dildo",
+    "name": "정체사의 본뜬 딜도",
+    "description": "정체사의 자지를 완전 재현한 특대 딜도. 귀두 형상부터 혈관의 돌출까지 충실히 재현. 질 깊숙이 찔리는 쾌감을 집에서도.",
+    "price": 50000,
+    "category": "gift",
+    "effect": { "type": "mixed_effect", "developValue": 7, "duration": "instant" },
+    "icon": "gift_custom_dildo.png",
+    "isTrialOnly": true,
+    "stock": 1,
+    "unlockDay": 5,
+    "unlockCondition": { "developLevel": 9 }
+  }
+]
