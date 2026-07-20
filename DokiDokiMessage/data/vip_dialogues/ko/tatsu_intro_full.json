@@ -1,0 +1,92 @@
+{
+  "title": "전액 빚 상환 달성",
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...좋아! 드디어 빚을 전부 갚았어...!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "야! 있어!?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "타츠-누나!? 왜 그래요, 그렇게 급하게...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "정말이야!? 진짜로 다 갚았어!?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "네! 전액 상환 완료입니다!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "진짜... 다 갚았어...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "빚이 없어졌어. 이제 자유야.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "정말 감사합니다! 이건 모두 나나짱... 아니, 손님 덕분이에요!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "하, 하지만... 그...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "전액 상환하면 하기로 한 약속 기억해?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "아, 전액 상환의 특별 축하.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "쳇... 기억하고 있었구나.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "...약속은 약속이야. 지킬게.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "보상을 받는다",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}
