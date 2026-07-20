@@ -1,0 +1,806 @@
+{
+  "gift_flowers": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_smile_openmouth",
+        "text": "哇...!好漂亮的花。",
+        "voiceFile": "gift_flowers_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "我觉得很适合奈奈,所以选了这些。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_openmouth",
+        "text": "咦?给...我的吗?",
+        "voiceFile": "gift_flowers_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "你总是那么努力,想表达我的感谢之情。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_happysmile",
+        "text": "谢谢你。我会好好珍惜的...",
+        "voiceFile": "gift_flowers_003"
+      }
+    ]
+  },
+  "gift_matcha_chocolate": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_smile_openmouth",
+        "text": "哇!抹茶巧克力吗?",
+        "voiceFile": "gift_matcha_chocolate_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "嗯。用的是京都有名店铺的宇治抹茶。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_happysmile",
+        "text": "我最喜欢抹茶了...!谢谢你!",
+        "voiceFile": "gift_matcha_chocolate_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_happysmile",
+        "text": "你喜欢就好。累的时候吃吧。"
+      }
+    ]
+  },
+  "gift_headphones": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_openmouth",
+        "text": "耳机...?而且看起来很贵...",
+        "voiceFile": "gift_headphones_001"
+      },
+      {
+        "character": "奈奈",
+        "expression": "doubt_openmouth_sweat",
+        "text": "这个我真的可以收下吗?",
+        "voiceFile": "gift_headphones_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "当然。我想给奈奈用。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_smile",
+        "text": "我会在练习钢琴时使用的。音质看起来很好...",
+        "voiceFile": "gift_headphones_003"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_happysmile",
+        "text": "真的非常感谢...!",
+        "voiceFile": "gift_headphones_004"
+      }
+    ]
+  },
+  "gift_music_box": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_smile_openmouth",
+        "text": "音乐盒...?哇,好美的旋律...",
+        "voiceFile": "gift_music_box_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "我觉得很适合奈奈温柔的气质。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_closeeyes_smile",
+        "text": "这个旋律,让人心情非常平静...",
+        "voiceFile": "gift_music_box_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closeeyes_smile",
+        "text": "睡觉前听的话,一定能做个好梦。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_smile",
+        "text": "我会珍惜的。谢谢你。",
+        "voiceFile": "gift_music_box_003"
+      }
+    ]
+  },
+  "gift_posture_support": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_openmouth",
+        "text": "这是...姿势矫正器?",
+        "voiceFile": "gift_posture_support_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "有点担心你的姿势。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_nervoussmile",
+        "text": "我的姿势不好,您注意到了啊...",
+        "voiceFile": "gift_posture_support_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_nervoussmile",
+        "text": "作为身体护理专家,我很担心奈奈的健康。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_smile_openmouth",
+        "text": "我会在学习时使用的。谢谢你!",
+        "voiceFile": "gift_posture_support_003"
+      }
+    ]
+  },
+  "gift_book_stand": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_smile_openmouth",
+        "text": "书架吗...?又时尚又可爱。",
+        "voiceFile": "gift_book_stand_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "想保护喜欢读书的奈奈的脖子。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_smile",
+        "text": "读书时脖子有时会疼,真是帮大忙了。",
+        "voiceFile": "gift_book_stand_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "有了这个,长时间阅读也会舒服很多。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_happysmile",
+        "text": "谢谢你。",
+        "voiceFile": "gift_book_stand_003"
+      }
+    ]
+  },
+  "gift_black_lingerie": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "咦...?这是...内衣...?",
+        "voiceFile": "gift_black_lingerie_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "特殊的功能性内衣。设计成能改善淋巴循环的。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_openmouth",
+        "text": "可,可是...是,是透明的...!",
+        "voiceFile": "gift_black_lingerie_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "透气性很重要嘛。用透明材质才不会闷热。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "这,这种东西我不能收!",
+        "voiceFile": "gift_black_lingerie_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "别客气。我很想看奈奈穿上这个的样子..."
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_lookaway_openmouth",
+        "text": "咦...?那是...",
+        "voiceFile": "gift_black_lingerie_004"
+      }
+    ]
+  },
+  "gift_pink_rotor": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_smile",
+        "text": "哇...粉红色的好可爱...",
+        "voiceFile": "gift_pink_rotor_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "小型按摩器。平时按摩也用的正规产品。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_openmouth",
+        "text": "哇,这个会震动。嗡嗡地...",
+        "voiceFile": "gift_pink_rotor_002"
+      },
+      {
+        "character": "奈奈",
+        "expression": "doubt_openmouth_sweat",
+        "text": "用在哪里呢...?",
+        "voiceFile": "gift_pink_rotor_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_openmouth_sweat",
+        "text": "肩膀啊颈部啊...还有,阴...咳,阴蒂用的话特别有效。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "阴,阴蒂...?",
+        "voiceFile": "gift_pink_rotor_004"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "因为那里淋巴集中,用震动按摩的话..."
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "全身血液循环都会变好,会非常舒服。试试看吧。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_openmouth",
+        "text": "舒,舒服...?",
+        "voiceFile": "gift_pink_rotor_005"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_closemouth",
+        "text": "......",
+        "voiceFile": "gift_pink_rotor_006"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "洗澡后或睡觉前用效果最好。隔着内衣用也可以。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "隔,隔着内衣...?",
+        "voiceFile": "gift_pink_rotor_007"
+      }
+    ]
+  },
+  "gift_custom_dildo": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "这个...该不会是...阴,阴茎...",
+        "voiceFile": "gift_custom_dildo_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "对!我的阴...不是,是照着特殊按摩器具做的模型!"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_closemouth",
+        "text": "......",
+        "voiceFile": "gift_custom_dildo_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "有了这个,随时都能自己做深层按摩了。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_openmouth",
+        "text": "自,自己...吗...?",
+        "voiceFile": "gift_custom_dildo_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "对!寂寞的时候或者身体难受的时候用用看。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_lookaway",
+        "text": "......",
+        "voiceFile": "gift_custom_dildo_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_lookaway",
+        "text": "(今晚就会马上用吧...嘿嘿嘿...)"
+      }
+    ]
+  },
+  "gift_massage_av": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_openmouth",
+        "text": "这是...DVD...?",
+        "voiceFile": "gift_massage_av_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "整体按摩的教学DVD。可以学习专业技术。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "doubt_openmouth_sweat",
+        "text": "可是...封面上的女性...表情好奇怪...",
+        "voiceFile": "gift_massage_av_002"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "那是因为按摩太舒服了,才会露出那种表情。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "doubt_openmouth_sweat",
+        "text": "上面写着'变态整体师的手法'...",
+        "voiceFile": "gift_massage_av_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "对,这是有名的教学系列。Vol.7评价特别好。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "还有...其他的吗?",
+        "voiceFile": "gift_massage_av_004"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "一共出了20多卷。不过Vol.7最推荐。详细讲解了对女高中生的按摩技巧。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "doubt_openmouth_sweat",
+        "text": "是,是这样啊...",
+        "voiceFile": "gift_massage_av_005"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "下次在家慢慢看吧。会成为很好的参考资料。"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "也跟我说说感想。哪个场景最有参考价值。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "感,感想...?",
+        "voiceFile": "gift_massage_av_006"
+      }
+    ]
+  },
+  "gift_teddy_bear": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_happysmile",
+        "text": "哇!好可爱的小熊...!",
+        "voiceFile": "gift_teddy_bear_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_happysmile",
+        "text": "希望能放在奈奈的房间里。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_smile_openmouth",
+        "text": "软软的好舒服...!真想抱着它睡觉。",
+        "voiceFile": "gift_teddy_bear_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "累了或者寂寞的时候,抱着它就好。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_happysmile",
+        "text": "好的...!谢谢你。",
+        "voiceFile": "gift_teddy_bear_003"
+      }
+    ]
+  },
+  "gift_aroma_diffuser": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_smile_openmouth",
+        "text": "香薰机...?哇,好时尚的设计...",
+        "voiceFile": "gift_aroma_diffuser_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "学习累的时候可以放松一下。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_happysmile",
+        "text": "我最喜欢香薰的味道了...!",
+        "voiceFile": "gift_aroma_diffuser_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_happysmile",
+        "text": "还有薰衣草和洋甘菊精油。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_smile",
+        "text": "谢谢你...!房间里会充满好闻的香味了。",
+        "voiceFile": "gift_aroma_diffuser_003"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "睡眠质量也会提高,好好休息吧。"
+      }
+    ]
+  },
+  "gift_eye_mask": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_openmouth",
+        "text": "眼罩...?",
+        "voiceFile": "gift_eye_mask_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "学习让眼睛很累吧,希望能用这个休息一下。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_smile_openmouth",
+        "text": "设计也很可爱...!而且有好闻的香味。",
+        "voiceFile": "gift_eye_mask_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "添加了薰衣草香。有放松效果。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_smile",
+        "text": "最近眼睛容易累...真是帮大忙了。",
+        "voiceFile": "gift_eye_mask_003"
+      }
+    ]
+  },
+  "gift_luxury_bag": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "咦...?这是非常高级的包包...",
+        "voiceFile": "gift_luxury_bag_001"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "我觉得很适合奈奈。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "doubt_openmouth_sweat",
+        "text": "那个...这很贵吧...?",
+        "voiceFile": "gift_luxury_bag_002"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "嗯,稍微花了点钱。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "doubt_openmouth_sweat",
+        "text": "这,这么贵的东西......我不能收...",
+        "voiceFile": "gift_luxury_bag_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "没关系。我想让奈奈用。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_openmouth",
+        "text": "真的非常感谢...但是,心里有点过意不去...",
+        "voiceFile": "gift_luxury_bag_004"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "奈奈高兴就好。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_happysmile",
+        "text": "谢谢你...真的,真的很高兴...",
+        "voiceFile": "gift_luxury_bag_005"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_happysmile",
+        "text": "我会好好珍惜的...!",
+        "voiceFile": "gift_luxury_bag_006"
+      }
+    ]
+  },
+  "gift_vibrator": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "normal_openmouth",
+        "text": "这是...什么...?",
+        "voiceFile": "gift_vibrator_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "电动按摩器。对肩膀酸痛和腰痛很有效。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "normal_openmouth",
+        "text": "电动...按摩器...",
+        "voiceFile": "gift_vibrator_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "震动很强,按在酸痛的地方会很舒服。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "doubt_openmouth_sweat",
+        "text": "但是...形状有点...",
+        "voiceFile": "gift_vibrator_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "符合人体工学的设计。全身哪里都能用。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "doubt_openmouth_sweat",
+        "text": "全身...哪里都...?",
+        "voiceFile": "gift_vibrator_004"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "嗯。特别是敏感的部位,据说会非常放松。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "敏,敏感的...部位...?",
+        "voiceFile": "gift_vibrator_005"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "一个人的时候慢慢试试。说明书上有使用方法。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_lookaway",
+        "text": "好,好的...",
+        "voiceFile": "gift_vibrator_006"
+      }
+    ]
+  },
+  "gift_diamond_ring_rejected": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "咦...!?这是...钻石戒指...!?",
+        "voiceFile": "gift_diamond_ring_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "嗯!我努力攒钱买的。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_openmouth",
+        "text": "这,这个给我......?",
+        "voiceFile": "gift_diamond_ring_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "我觉得很适合奈奈。"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "你能收下吗?"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_closeeyes_closemouth",
+        "text": "嗯...... 那个... 对不起...",
+        "voiceFile": "gift_diamond_ring_rejected_001"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_lookaway_openmouth",
+        "text": "您的心意我很感激,但是... 我不能收...",
+        "voiceFile": "gift_diamond_ring_rejected_002"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_openmouth",
+        "text": "这种东西... 应该送给重要的人...",
+        "voiceFile": "gift_diamond_ring_rejected_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "咦......"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closeeyes_closemouth",
+        "text": "(不会吧... 看来信赖度还不够...)"
+      }
+    ]
+  },
+  "gift_diamond_ring_accepted": {
+    "dialogues": [
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "咦...!?这是...钻石戒指...!?",
+        "voiceFile": "gift_diamond_ring_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "嗯!我努力攒钱买的。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_openmouth",
+        "text": "这,这个给我......?",
+        "voiceFile": "gift_diamond_ring_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "我觉得很适合奈奈。"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "你能收下吗?"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_openmouth",
+        "text": "这,这样... 真的可以吗?",
+        "voiceFile": "gift_diamond_ring_accepted_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "嗯。这是为奈奈买的。"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_happysmile",
+        "text": "...谢谢您。我真的很高兴...",
+        "voiceFile": "gift_diamond_ring_accepted_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "我来给你戴上。把手伸出来。"
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "左手无名指上..."
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_surprised_sweat",
+        "text": "咦!?那,那个手指...",
+        "voiceFile": "gift_diamond_ring_accepted_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "(轻轻地把戒指戴在无名指上)",
+        "cutInImage": "diamond_ring"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_nervoussmile",
+        "text": "哇... 正合适...",
+        "cutInImage": "diamond_ring",
+        "voiceFile": "gift_diamond_ring_accepted_004"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_nervoussmile",
+        "text": "好漂亮... 闪闪发光...",
+        "cutInImage": "diamond_ring",
+        "voiceFile": "gift_diamond_ring_accepted_005"
+      },
+      {
+        "character": "奈奈",
+        "expression": "blush_happysmile",
+        "text": "真的非常感谢。我会珍惜的...",
+        "voiceFile": "gift_diamond_ring_accepted_006"
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "(太好了!!这样说不定能和奈奈结婚了... 嘿嘿...)"
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "(无名指上戴戒指... 那里就插我的老二!? 嘿嘿嘿...)"
+      }
+    ]
+  }
+}
