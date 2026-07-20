@@ -1,0 +1,536 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Pagi Minggu ke-8. Setelah 2 bulan perawatan, tubuh Tatsu-nee benar-benar sudah berubah."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Minggu ke-8... Tubuh Tatsu-nee merespons dengan lebih baik setiap minggunya. Tubuhnya sekarang sudah beradaptasi sepenuhnya dengan perawatanku.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Bisnis juga berjalan lancar, dan dengan kecepatan ini, mungkin aku benar-benar bisa melunasi hutangnya...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Hei.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tatsu-nee! Sesi hari ini... tunggu, ada apa? Kamu terlihat kurang sehat..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Bukan apa-apa. Cuma merasa sedikit tidak enak badan.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tidak enak badan? Maksudnya bagaimana?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Yah, selama akhir pekan kemarin... tubuhku terus terasa panas... aku tidak bisa tidur.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Sepanjang akhir pekan...! Baik Sabtu maupun Minggu...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Ada sesuatu jauh di dalam sana yang terus berdenyut... aku tidak bisa tenang.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Apa kamu mencoba melakukan sesuatu untuk mengatasinya selama akhir pekan?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...! Ke-Kenapa kamu menanyakan itu...?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Itu akan membantuku sebagai referensi untuk perawatannya. Kalau kamu mencoba sesuatu, tolong beri tahu aku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Aku mencoba menyibukkan diri dengan pekerjaan. Merapikan dokumen sampai larut malam...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Lalu?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Sama sekali tidak berhasil. Bahkan saat bekerja, tubuhku tiba-tiba berdenyut dan aku tidak bisa konsentrasi...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ada lagi?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Aku mandi air dingin.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Sampai mandi air dingin juga... Dia pasti benar-benar putus asa...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Itu malah membuatnya makin parah. Saat air menyentuh kulitku, tubuhku tersentak... dan itu malah membuatku merasa lebih aneh lagi...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Apa mungkin kamu mencoba sesuatu yang lain selain itu?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...! Berhenti menanyakan setiap hal kecil...!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Seperti menyentuh dirimu sendiri, misalnya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "......!!",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "................",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Aku mencoba segala macam cara... menggosok dan mencubit bagian yang paling sensitif... berulang kali...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Bagian yang paling sensitif, maksudmu... bagian yang menonjol di depan itu?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...! Jangan bicara begitu blak-blakan...! ...Ya... di situ...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Terus apa yang terjadi?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Aku sudah keluar berkali-kali, tapi... aku sama sekali tidak merasa puas... Rasanya langsung berdenyut lagi...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Dia sudah keluar berkali-kali tapi masih belum puas...! Klitorisnya pasti sudah sangat berkembang...)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Kira-kira berapa kali kamu melakukannya?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Aku tidak tahu... Sabtu malam, Minggu pagi... Minggu malam juga... Tidak peduli berapa kali, meskipun aku menggosoknya sampai bengkak, rasanya langsung panas lagi...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Sepanjang akhir pekan... Bahkan menggosok dirinya sampai bengkak pun tidak cukup... Dia pasti sangat putus asa...)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Bagaimana akhirnya?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Tidak pernah reda... Bahkan saat mulai terasa perih karena lecet, aku tidak bisa berhenti... Aku hampir menangis saat akhirnya menyerah... Berpikir, ternyata begini ya... melakukan hal yang sangat menyedihkan ini...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Dia terus melakukannya sampai lecet dan perih... dan itu masih belum cukup. Seseorang yang angkuh seperti dia, sampai hampir menangis...)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Begitu ya... Itu karena tubuh Tatsu-nee sudah benar-benar menghafal gerakan jari-jariku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Menghafal...? Apa maksudmu?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku sudah menstimulasi klitorismu dengan intens setiap minggu, kan? Tubuhmu sudah benar-benar menghafal sensasi itu. Tekanan, ritme, kecepatan... semuanya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...! Jangan asal bicara seperti itu...!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku seorang praktisi, jadi aku harus tepat. ...Dan jarimu sendiri tidak bisa meniru tekanan dan ritme yang pas. Itulah kenapa tidak peduli berapa kali kamu keluar, itu tidak akan cukup."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Tidak akan mempan kalau bukan... jari-jarimu...? Sial...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Bos rentenir itu bilang harus pakai jari-jariku... Ini luar biasa...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Aku tidak mau mengakuinya... tapi perawatanmu... memang manjur...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Seperti yang kubilang minggu lalu, tubuh Tatsu-nee sudah tidak bisa lepas dari perawatanku lagi. Fakta bahwa kamu tidak bisa puas meski sudah keluar berkali-kali sendirian... itu bukti mutlaknya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Aku tidak bisa menyangkalnya... Bahkan, datang ke sini adalah satu-satunya hal yang kunantikan sekarang... Aku sudah menunggu sentuhan tangannya sepanjang minggu...)",
+      "outfit": "suit"
+    },
+    {
+      "id": "choice_massage8",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tubuh Tatsu-nee sudah cukup berkembang selama 8 minggu ini.",
+      "choices": [
+        {
+          "label": "Itu respons yang sangat wajar.",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "normal_path"
+        },
+        {
+          "label": "Kamu sangat sensitif.",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "sensitive_path"
+        },
+        {
+          "label": "Tubuhmu terbentuk persis seperti yang kusuka.",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "possess_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ini respons yang sangat wajar. Kamu sudah menerima perawatan mingguan dan sensitivitas tubuhmu meningkat. Tidak bisa memuaskan dirimu sendiri hanyalah bukti bahwa tubuhmu sudah belajar seperti apa rasanya stimulasi profesional."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Normal...? Padahal aku sudah berdenyut sehebat ini...?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Iya. Malah, itu tandanya pengobatannya berjalan dengan baik. Kalau aku berikan sesi yang menyeluruh hari ini, kamu bakal merasa jauh lebih baik."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "...Begitu ya. Kalau begitu... aku serahkan padamu.",
+      "outfit": "suit",
+      "next": "continue_conversation"
+    },
+    {
+      "id": "sensitive_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tatsu-nee, tubuhmu sangat sensitif. Di saat orang biasa butuh tingkat stimulasi 10 untuk merasakan sesuatu, tubuhmu sudah bereaksi hanya di angka 3."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Di angka 3...? Jadi itu sebabnya aku...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tepat sekali. Makanya saat kamu menyentuh dirimu sendiri, kamu tidak bisa mengukur intensitas yang pas, dan tidak peduli berapa kali kamu mencapai puncak, kamu tidak bisa merasa puas. Tubuh sensitif Tatsu-nee mendambakan seseorang yang paham betul sensitivitas itu luar dalam... dan itu cuma tanganku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Cuma tanganmu... katamu...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Dari sudut pandang praktisi, tubuh Tatsu-nee adalah material terbaik. Begitu sensitif, dan masih punya banyak potensi untuk dikembangkan lebih jauh..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Dikembangkan... Jangan bicara seolah aku ini objek... Tapi... aku tidak bisa menyangkal kalau aku tidak sanggup menanganinya sendiri...",
+      "outfit": "suit",
+      "next": "continue_conversation"
+    },
+    {
+      "id": "possess_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tubuhmu terbentuk persis seperti yang aku suka, Tatsu-nee."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Hah!? Seperti yang kamu suka? Jangan macam-macam denganku.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tapi kamu tidak bisa merasa puas tidak peduli berapa kali kamu melakukannya sendiri, kan? Kamu menggesek dirimu sampai bengkak, tapi tidak ada yang berhasil kecuali jari-jariku. ...Itu artinya titik itu sudah jadi milikku sepenuhnya, bukan?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "............",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku menghabiskan 8 minggu melatih area paling sensitifmu supaya hanya aku yang bisa memuaskannya. Ini adalah keberhasilan pengobatan."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Dilatih... Aku bukan... mainanmu...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku tahu. Tapi faktanya tetap saja... harus jari-jariku, kan?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "............. ...Iya... harus jari-jarimu... dasar brengsek...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Dia mengakuinya... Bos rentenir itu bilang harus jari-jariku... Dia sudah sepenuhnya milikku.)",
+      "next": "continue_conversation"
+    },
+    {
+      "id": "continue_conversation",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ngomong-ngomong... kamu bilang ada sesuatu yang berdenyut jauh di dalam."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Iya. Alasan kenapa itu tidak berhasil saat aku menyentuh permukaannya mungkin karena denyutnya ada jauh di dalam sana...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Benar. Permukaannya saja tidak cukup lagi. Hari ini, mari kita lancarkan aliran darah tidak hanya di sana, tapi juga di area yang jauh lebih dalam."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Area yang lebih dalam... tepatnya di mana...?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku akan mengerjakannya dengan teliti dari pangkal area paling sensitifmu sampai jauh ke dalam daerah panggul. Apa yang berdenyut di dalam dirimu itu adalah lapisan yang lebih dalam tersebut."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Dari pangkal... sampai jauh ke dalam...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Permukaannya saja tidak cukup lagi, kan? Hari ini aku akan meluangkan waktu dan mengerjakannya sampai ke bagian terdalam."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "......",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Hening... Dia sudah tidak punya tenaga untuk melawan lagi. Baiklah, hari ini aku akan habis-habisan.)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Cepat... tolong... aku... sudah... di batas kemampuanku...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "('Di batas kemampuan'... Untuk seseorang yang tangguh seperti Tatsu-nee sampai bilang begitu... Dia benar-benar hampir kehilangan kendali...)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Kalau begitu, ayo kita ganti pakaianmu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Ya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "(Tatsu-nee mulai berganti pakaian...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Dari pangkal sampai jauh ke dalam... dengan jari-jarinya...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Aku tidak tahan lagi... Tidak ada yang berhasil kecuali jari-jarinya, tidak peduli berapa kali pun aku mencoba...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Saat aku menyentuh diriku sendiri, rasanya tidak senikmat jari-jarinya... Titik itu jadi panas dan terus berdenyut...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Menginginkan sesuatu yang lebih dalam... Aku tidak mau mengakuinya...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Bos rentenir sepertiku... benar-benar dijinakkan oleh seorang tukang pijat...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Aku sudah selesai berganti pakaian.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(...Mata Tatsu-nee terlihat sayu hari ini... Kulitnya juga sedikit memerah. Dia sudah dalam kondisi seperti ini bahkan sebelum perawatannya dimulai...)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Silakan berbaring di tempat tidur."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Cepat... mulai sekarang. ...Tolong.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "('Tolong'... Wanita paling angkuh yang kukenal sedang memohon... Tubuhnya benar-benar tidak bisa hidup tanpa tanganku lagi... Ini luar biasa...)"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Kalau begitu, mari kita mulai perawatannya."
+    }
+  ]
+}
