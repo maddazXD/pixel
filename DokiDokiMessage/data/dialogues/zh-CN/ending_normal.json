@@ -1,0 +1,191 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──半年后。\n整体院作为扎根社区的整体院继续营业着。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "老师，你好。这个月也要麻烦您了。",
+      "voiceFile": "ending_normal_001"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "奈奈，欢迎。感觉怎么样？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "最近肩膀又僵硬得厉害...",
+      "voiceFile": "ending_normal_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "果然还是老师的手法最有效。",
+      "voiceFile": "ending_normal_003"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(嗯，这样的关系也算是稳定的吧...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "听到这个我很高兴。今天也是60分钟的疗程吗？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "是的，麻烦您了。",
+      "voiceFile": "ending_normal_004"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "那个...要穿那件特别的衣服吗？",
+      "voiceFile": "ending_normal_005"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "嗯，穿上它效果会更好。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "明白了。一开始很害羞，不过现在已经习惯了...",
+      "voiceFile": "ending_normal_006"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──治疗中"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "嗯...好舒服...",
+      "voiceFile": "ending_normal_007"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "肩膀的僵硬已经缓解很多了。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "老师的手真的像魔法一样。",
+      "voiceFile": "ending_normal_008"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(本来可以更积极一点...不过这个程度比较安全...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──治疗后"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "感觉好多了。非常感谢。",
+      "voiceFile": "ending_normal_009"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "那就好。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "老师，可以预约下个月吗？",
+      "voiceFile": "ending_normal_010"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "当然。第二个星期二可以吗？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "好的，就那天吧。",
+      "voiceFile": "ending_normal_011"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "多亏了老师，我每个月状态都变好了。",
+      "voiceFile": "ending_normal_012"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "有你这样的老顾客真的帮了我大忙。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "哪里...我才是一直受您照顾。",
+      "voiceFile": "ending_normal_013"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──又过了几个月"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "老师，最近店里很忙啊。",
+      "voiceFile": "ending_normal_014"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "托您的福。像奈奈这样定期来的客人增多了。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "那真好。这是因为老师技术好。",
+      "voiceFile": "ending_normal_015"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "谢谢。听你这么说我很高兴。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(这样的关系或许也不错...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "保持适当的距离，良好的关系得以延续。\n这也许也是幸福的一种形式。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【NORMAL END - 良好的客户关系】",
+      "triggerEnding": "normal"
+    }
+  ]
+}
