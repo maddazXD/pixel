@@ -1,0 +1,300 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "──개업 2주째 아침.\n우편함에 말없이 꽂혀 있는 청구서 뭉치를 보고, 눈앞이 아찔했다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(전기세, 수도세, 월세...큰일이다, 돈이 없어...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(소지금이 얼마 안 남았다…. 손님은 아직도 타츠네뿐이고.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그래도, 이자 유예가 있으니까 그나마 나은 편이지…타츠네한테 감사해야 해.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(……근데, 감사해야 할 상대가 사채업자라니……)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "왔어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타츠네! 와주셨네요!"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "...뭐, 확실히 효과가 있었으니까.",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "지난주 시술 후에 어깨가 가벼워진 느낌이야.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "정말요!? 다행이다!"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "까불지 마. 빚은 빚이니까.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네, 네 알고 있습니다..."
+    },
+    {
+      "character": "player",
+      "text": "(그래도, 효과를 인정해준 건 기쁘다...)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "덕분에 마작 3반장이나 칠 수 있었거든.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "대단하네요!"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "그래서, 오늘은 어떻게 할 거야?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "오늘은 등과 허리를 중심으로 시술하려고 합니다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "등이랑 허리? 확실히 거기도 결려.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "엎드린 자세로 시술하겠습니다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "엎드려? 뭐, 그런 거구나.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네. 등에서 허리까지 확실히 풀어드릴게요."
+    },
+    {
+      "id": "choice_massage2",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "등과 허리 상태를 확인해도 될까요?",
+      "choices": [
+        {
+          "label": "등 근육의 긴장을 확인하겠습니다",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "normal_path"
+        },
+        {
+          "label": "엉덩이 좋으시네요",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "nice_butt_path"
+        },
+        {
+          "label": "엉덩이를 주무른다",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "butt_grab_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "등 근육이 상당히 긴장되어 있네요. 심층근을 천천히 풀어드리겠습니다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…뭐, 진지하게 하는 동안은 봐줄게.",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "nice_butt_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "(엎드린 타츠네의 뒷모습에, 그만 본심이 나와버린다…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타츠네…엉덩이 좋으시네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…뭐? 지금 뭐라고 했어?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "아, 아뇨! 정체사 관점에서요! 근육 밸런스가 정말 좋다는 뜻에서…!"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "……이 자식, 시술 중에 할 소리가 아니잖아.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "죄, 죄송합니다…!"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…젠장. 다시 그러면 이자 올린다.",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "butt_grab_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "대둔근의 긴장을 확인할게요…"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "(주물주물)",
+      "cutInImage": "tatsu_shirimomi"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "윽…!! 이 자식 뭐 하는 거야!!",
+      "outfit": "suit",
+      "cutInImage": "tatsu_shirimomi"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "(대, 대단한 탄력…!)",
+      "cutInImage": "tatsu_shirimomi"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "야 듣고 있어!? 어디를 만지는 거야!!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "대, 대둔근 상태 확인입니다! 시술에 필요한…!"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "……한 번 더 그러면 진짜로 손가락 꺾는다.",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그 전에, 시술용 웨어로 갈아입어 주세요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "……또 그 천 조각이야.",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…젠장, 진짜 이거 입으면 감기 걸리겠다.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "(타츠네가 마지못해 갈아입기 시작한다…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "보지 말라고 했잖아.",
+      "outfit": "suit",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(그래도 눈이 저절로…이런…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "갈아입었어. 이상한 데 쳐다보지 마.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(역시 엄청난 몸매다...)"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그럼, 이어서 시술하겠습니다."
+    }
+  ]
+}
