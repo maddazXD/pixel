@@ -1,0 +1,481 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──第三周的早晨。\n上周的按摩一定很成功——我开始感受到奈奈对我的信任了。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(她连续来了两周……这是不是意味着……)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(不,现在判断还太早。但她肯定喜欢我的治疗。)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(也许今天……可以再进一步……)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(但首先,让我检查一下上周的财务状况……)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(……果然如此,固定成本太高了。照这样下去,我不仅赚不到钱,连债都还不起……)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(门铃响了。是奈奈吗?)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "喂,在吗?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "龙-龙姐……!",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(糟了……是高利贷的龙姐。她是来收我上个月借的钱的……)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(不过,那胸部真是不得了……那么大的话,肩膀一定很痛吧……)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "什么表情啊?看到客人来不太高兴吗。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "不-不是……",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "怎么样?这个月的还款准备好了吧?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_choice",
+      "character": "player",
+      "expression": "alert",
+      "text": "那-那个……需要再给我一点时间……",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "找借口",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_excuse"
+        },
+        {
+          "label": "承诺下周一定还",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_promise"
+        },
+        {
+          "label": "请求再借10万",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_borrow"
+        }
+      ]
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "那个,我的客人不多……而且现在经济不景气……",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "我不想听你的借口。我是让你把钱交出来。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "对-对不起……",
+      "hideCharacter": true,
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_promise",
+      "character": "player",
+      "expression": "alert",
+      "text": "我下周一定会全额还款的!",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "下周?你以为你有时间说这种话吗?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "对-对不起……",
+      "hideCharacter": true,
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_borrow",
+      "character": "player",
+      "expression": "alert",
+      "text": "其实……我想再借10万……",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "啊?你连欠的钱都还不上,还想再借更多?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "……行吧。但利息翻倍。如果下次还不上……你知道会怎样,对吧?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(龙姐从胸前口袋里掏出一叠钞票。她身体前倾时,我能看到她的乳沟……)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "给,10万。这样你的债务就变成60万了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "你借了100,000G",
+      "moneyDelta": 100000,
+      "debtDelta": 100000,
+      "playSE": "cash_register",
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_threat",
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "……今天我只是来看看你。下次可不会这么仁慈了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "如果下次还不上,我就让你把器官卖了。只有一个肾也能活,对吧?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(太可怕了……但话说回来,龙姐的肩膀看起来好僵硬。支撑着那么重的胸部……)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "拜拜。下次我来的时候最好做好准备。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(关门的声音……哈……又被威胁了……)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(但就连龙姐看起来也需要治疗……那么巨大的胸部,肩膀痛一定很严重……等等,我在想什么?)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(门铃又响了……这次应该是奈奈了吧?)"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "早上好!今天也请多关照。",
+      "characterImage": null,
+      "voiceFile": "story_day3_001"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "刚才路过了一个看起来很生气的女人……她是客人吗?",
+      "characterImage": null,
+      "voiceFile": "story_day3_002"
+    },
+    {
+      "character": "player",
+      "expression": "doubt_closemouth_sweat",
+      "text": "啊,是的……只是一个顺路过来的熟人。不用担心。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "这样啊……你看起来脸色有点差。没事吧?",
+      "characterImage": null,
+      "voiceFile": "story_day3_003"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "我没事。很高兴你关心我,奈奈。"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "总之,谢谢你今天又来了。感觉怎么样?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "多亏了上周的按摩,我睡得很香。肩膀也感觉很好……",
+      "characterImage": null,
+      "voiceFile": "story_day3_004"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "不过今天……腰部有点沉重……",
+      "characterImage": null,
+      "voiceFile": "story_day3_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "腰部啊。这可不好。是什么样的沉重感?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "嗯……有种钝痛的感觉,有时还会抽痛……坐着的时候会舒服一些。",
+      "characterImage": null,
+      "voiceFile": "story_day3_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "还有……大腿内侧周围,感觉有点僵硬……",
+      "characterImage": null,
+      "voiceFile": "story_day3_007"
+    },
+    {
+      "id": "choice_massage3",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "我明白了。从腰部到大腿的僵硬。我需要仔细处理。",
+      "choices": [
+        {
+          "label": "可能是骨盆错位",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "pelvis_path"
+        },
+        {
+          "label": "那是个敏感的部位",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "sensitive_path"
+        },
+        {
+          "label": "腰痛……该不会是……",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "check_path"
+        }
+      ]
+    },
+    {
+      "id": "pelvis_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "骨盆错位……?",
+      "characterImage": null,
+      "voiceFile": "story_day3_008"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "是的。长时间坐着或姿势习惯会导致骨盆错位,影响腰部和大腿。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "这样啊……我最近确实长时间坐着学习。",
+      "characterImage": null,
+      "next": "change_clothes",
+      "voiceFile": "story_day3_009"
+    },
+    {
+      "id": "sensitive_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "敏-敏感……不-不要说这种话……",
+      "characterImage": null,
+      "voiceFile": "story_day3_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "啊,不,我只是说那是神经集中的部位,所以对刺激很敏感。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "但正因为如此,好好护理那里会感觉非常舒服。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "感-感觉舒服……是这样吗……",
+      "characterImage": null,
+      "next": "change_clothes",
+      "voiceFile": "story_day3_011"
+    },
+    {
+      "id": "check_path",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "腰痛……你最近有做什么剧烈运动吗?"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "诶?没-没有……没有特别的运动……",
+      "characterImage": null,
+      "voiceFile": "story_day3_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那可能是熬夜……或者床上的某个姿势不对……?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "为-为什么问这个!?",
+      "characterImage": null,
+      "voiceFile": "story_day3_013"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "嗯,腰痛的原因可能是意想不到的。比如……你有男朋友吗?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "我-我没有……",
+      "characterImage": null,
+      "voiceFile": "story_day3_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "抱歉抱歉。但有时年轻女性的腰痛是因为……激烈的夜晚……你懂的"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "什……!不要说这种奇怪的话……!",
+      "characterImage": null,
+      "voiceFile": "story_day3_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "对对对,当然。奈奈毕竟是个认真的女孩。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "好的,那么请换上平时的治疗服吧。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "好的……现在已经习惯了……",
+      "characterImage": null,
+      "voiceFile": "story_day3_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(一开始真的很害羞……但也许这套衣服确实更容易按摩……)",
+      "characterImage": null,
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day3_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "换好了。今天也请多关照。",
+      "characterImage": null,
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day3_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "谢谢。今天我会好好护理你的腰部区域。"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "好的,开始治疗吧。"
+    }
+  ]
+}
