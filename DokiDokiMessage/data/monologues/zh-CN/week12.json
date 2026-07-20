@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(第12周了...这3个月真的过得飞快)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(多亏奈奈酱，店里的口碑达到了顶峰)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(她几乎每天都来，真的很感激)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(我的治疗技术也大幅提升，还开发了新技法)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(现在就剩债务了。还款期限就是本周。)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(如果还不上...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(必须确保不留遗憾。)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(那么，现在该做什么呢...)"
+    }
+  ]
+}
