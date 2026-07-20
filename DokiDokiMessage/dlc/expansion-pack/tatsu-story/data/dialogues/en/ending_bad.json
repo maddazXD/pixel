@@ -1,0 +1,241 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Beberapa bulan kemudian. Batas waktu pelunasan utang sudah lama lewat."
+    },
+    {
+      "character": "player",
+      "text": "(Satu bulan lagi dalam kondisi minus. Sudah tidak mungkin lagi aku bisa melunasinya. Kapan terakhir kali Tatsu-nee datang...? Dia benar-benar berhenti datang begitu pembayaranku mulai menunggak.)"
+    },
+    {
+      "character": "player",
+      "text": "(...Yah, tentu saja. Tidak ada alasan untuk terus mengunjungi seseorang yang tidak bisa membayar kembali setiap minggu. 12 minggu itu sekarang terasa seperti mimpi.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Selam..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "………….",
+      "outfit": "suit"
+    },
+    {
+      "character": "Yasu",
+      "hideCharacter": true,
+      "text": "...Permisi."
+    },
+    {
+      "character": "player",
+      "text": "(Tatsu-nee dan... dua anak buahnya. Mereka datang untuk menagih. Aku tahu ini pasti akan terjadi.)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Tatsu-nee. Um, soal pelunasan itu... kalau saja aku bisa minta waktu sedikit lagi..."
+    },
+    {
+      "character": "player",
+      "text": "(...Dia tidak mau menatap mataku. Selama 12 minggu itu, dia selalu menatapku tepat di mata saat sesi kita.)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Yasu. Berkasnya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Yasu",
+      "hideCharacter": true,
+      "text": "...Baik, Nyonya."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Dokumen yang diserahkan Yasu mencantumkan total tunggakan dan bunga dengan detail yang dingin dan kaku."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Sebanyak... sebanyak ini...?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "Itu sesuai kontrak. Periksa saja.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(...Suaranya dingin. Tidak seperti suara yang membisikkan 'itu benar-benar enak...' saat sesi, atau suara yang bilang 'diam' untuk menutupi rasa malunya. Sekarang, itu suara orang asing.)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Tatsu-nee, aku..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "Jangan panggil aku Tatsu-nee.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…………."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "Ini hanya penagihan utang. Kau dan aku adalah debitur dan kreditur. Hanya itu hubungan kita.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "('Hanya itu hubungan kita'... 12 minggu itu... sesi-sesi itu... apakah semuanya sia-sia?)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Kalau saja aku bisa dapat rencana pelunasan... beri aku waktu sedikit lagi..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "Aku sudah menunggu enam bulan.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "………….",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "...Aku sempat berharap, tahu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Hah...?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Tidak. Bukan apa-apa. ...Aku akan menyita klinik ini. Peralatan dan properti ini akan menutupi sebagian dari sisa utangmu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(...Tadi, untuk sepersekian detik... aku pikir aku melihat Tatsu-nee yang dulu. Tapi dia langsung kembali menjadi bos.)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "Sisanya... kau harus membayarnya di tempatku.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Dimengerti."
+    },
+    {
+      "character": "player",
+      "text": "(Aku tidak punya keinginan maupun hak untuk melawan. Ini salahku karena tidak melunasi hutang. Aku tahu itu. Tapi... mengakhiri segalanya dengan Tatsu-nee seperti ini jauh lebih menyakitkan daripada yang kubayangkan.)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "Yasu. Bawa dia.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Yasu",
+      "hideCharacter": true,
+      "text": "...Baik, Nyonya. Ayo, kita pergi."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Tatsu-nee. Satu hal terakhir saja."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "………….",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "...Terima kasih untuk 12 minggu itu. Aku senang bisa merawatmu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "………….",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "………….",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Pergilah.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Tatsu-nee tidak pernah menatap seperti ini. Tidak sampai saat terakhir."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Setelah itu"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Bisnis yang berbeda telah menempati ruangan tempat klinik itu dulu berada."
+    },
+    {
+      "character": "player",
+      "text": "(Menyortir gudang dari pagi sampai malam. Hanya kerja fisik tanpa pikiran yang berulang-ulang. Tapi terkadang ujung jariku tiba-tiba teringat. Kekakuan tulang belikatnya, lekukan punggung bawahnya, cara dia tersentak saat disentuh sedikit saja.)"
+    },
+    {
+      "character": "player",
+      "text": "(Aku mengingat semuanya, tapi aku tidak akan pernah menyentuhnya lagi. Dia mungkin bahkan tidak menganggapku sebagai terapisnya lagi.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Tatsu-nee tidak pernah datang untuk memijat bahunya. Sekali pun tidak."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Selalu meminjam dengan bertanggung jawab.",
+      "triggerEnding": "bad"
+    }
+  ]
+}
