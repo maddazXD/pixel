@@ -1,0 +1,61 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（今日もナナちゃんの施術が終わった……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（2週目か……ナナちゃん、だいぶ慣れてきたみたいだな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（今日なんて、自分から『お願いします』って言ってくれたし……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（あの無防備な姿……たまらんな……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（もっと大胆な施術もしたいけど……まだ早いか）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（でも、このペースじゃ借金返済は……）",
+      "cutInImage": "debt_paper"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（性感整体院の夢のために借金したのに、客はナナちゃんだけ……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（でも、ナナちゃんが来てくれるだけでも……正直、嬉しいんだよな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（あの純粋な反応……もっと色々な反応を見てみたい……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（借金のことは……まあ、何とかなるだろ！）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（とりあえず、今週も何か行動しないと……！）"
+    }
+  ]
+}
