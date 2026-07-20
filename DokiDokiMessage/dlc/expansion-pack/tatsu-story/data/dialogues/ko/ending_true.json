@@ -1,0 +1,467 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3개월 후.\n내 정체원은 타츠네에게 인수당하고 말았다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(\"전속 정체사로 고용해 주지. 급여는 지금의 3배다.\")"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(부하들이 막으려 했던 인수 계획은, 결국 타츠네의 강압적인 성격에 아무도 거역하지 못하고 실행되었다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(덕분에 빚은 완납, 급여도 3배. 경영 걱정도 없다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(…단, 오너에 대한 '특별 시술'이 매주 의무가 되었다.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "왔어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "어서 오세요, 오너. 오늘도 일찍이시네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "오너라고 부르지 마. 타츠네로 충분해.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네네. …그래서 오늘은 어떻게 할까요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…됐으니까 빨리 시작해. 벌써 몸이 이상하다고.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "무슨 일 있으세요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…사무실에서 일하고 있었는데, 문득 네 생각이… 나서.",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그랬더니 몸이 저절로…. 속옷, 이미 엉망이야.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(오기 전부터 이 상태라니…. 인수해서 전속으로 만들어 놓고도 결국 타츠네는 변하지 않는구나…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "오늘도 오일로 할까요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…당연하지. 이젠 보통 시술로는 안 된다고.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그러면 갈아입으세요. 오늘은 듬뿍 쓸 테니까요."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "타츠네는 익숙한 모습으로 옷을 벗기 시작했다."
+    },
+    {
+      "character": "player",
+      "text": "(유두가 벌써 서 있어. 오기 전부터 느끼고 있었구나…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…보지 마.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "봐야죠. 일이니까요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…쳇.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "……"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그럼 엎드려 주세요. 오늘은 듬뿍 쓸게요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "음… 따뜻해…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "대량의 오일이 타츠네의 등에 흘러내리며, 질척, 하는 소리를 내며 퍼져 나갔다."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "견갑골부터 허리까지 꼼꼼히 발라 드릴게요. …역시 좋은 몸이시네요. 오일 바르니까 더 야하네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…미끈미끈해서… 손이 미끄러져서… 기분 좋아…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "허리 아래도 바를게요. 엉덩이에도 듬뿍."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…앗, 거기… 주무르는 방식이 야해…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "제대로 풀어드려야 하니까요. …허벅지 안쪽도 할게요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "응… 오일이 흘러내려서… 앗…… 사타구니까지…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "여기, 이미 오일만은 아니죠. 허벅지 안쪽이 흥건해요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "그러니까, 그런 말 하지 말라니까… 네 시술 때문이잖아…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네네, 제 탓이죠. …그러면 뒤집어 주세요. 앞도 전부 할 테니까요."
+    },
+    {
+      "character": "player",
+      "text": "(오일로 온몸이 번들번들 빛나고 있어…. 매주 보는데도 매번 두근거린다. 정말 야한 몸이야…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "가슴에도 오일 바를게요. …볼 때마다 정말 대단해요."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "질척… 질척… 오일 범벅인 손이 타츠네의 가슴을 감싸 안는다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "앗… 가슴이 미끈미끈해서…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "유두도 오일로 미끌미끌하네요. 손가락이 걸릴 때마다 움찔하는 거, 귀여워요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "응… 귀엽다고 하지 마… 유두가 이렇게 부어서… 이미… 감도가 이상한 거라고…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "매주 오일로 만지고 있으니까요. …근데 이 민감한 거, 저는 좋아요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "네 탓이잖아… 유두가 항상 서 있어서… 브라에 스치기만 해도 소리 나올 것 같다고…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "배 아래쪽도 할게요. 다리 벌려 주세요. …와, 대단하네. 허벅지를 타고 시술대까지 흘러내리고 있어요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…앗, 그러니까 말하지 말라고…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "가장 민감한 곳에도 오일 바를게요. …클리토리스, 벌써 통통하게 부어 있네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "응… 아… 클리토리스에 오일이… 미끌미끌해서 직접 닿는 느낌이…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "안에도 손가락 넣을게요. …오일이랑 타츠네의 즙이 섞여서 엄청 야한 소리가 나요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "앗… 질척질척 소리… 그만해… 부끄럽잖아…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "안도 질척거려서 손가락이 빨려 들어가요. …타츠네의 몸, 정말 솔직해서 좋아요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…앗, 그런 말 하면서 만지지 마… …됐어, 손가락으론 부족해. 넣어.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "오일 범벅인 채로 괜찮아요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "당연히 괜찮지… 미끈미끈한 채로 안 깊숙이 와.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "아아…♡ 들어오고 있어… 오일로 전부 질척질척하면서 안 깊숙이…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "안도 오일이랑 애액으로 질척해… 온몸이 미끈미끈한 타츠네, 최고로 야해요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…앗, 바보… 그런 말 하면… 더 조여지잖아…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "이건 이미 시술이 아니잖아…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "시술이에요. 레이 씨 전용, 특별 코스."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…♡ 지금 그 이름으로 부르지 마… 더 이상해진다고…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "앗♡ 안 깊숙이 닿고 있어…♡ 가슴이 오일로 흔들리고… 유두가 스쳐서… 위아래 동시에 기분 좋아…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타츠네… 안이 점점 조여지고 있어… 가는 표정, 보여 주세요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…♡ 이제… 안 돼…♡ 간다…♡♡ 너도 같이…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "같이 가요. …안에 쏠게요, 레이 씨."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "쏴…♡ 전부 안에…♡♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "앗…♡♡ 으응…♡♡ 안… 뜨거워…♡♡ 가고… 가고 있어… 멈추지 않아…♡♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──잠시 후",
+      "changeBackground": "./dlc/expansion-pack/tatsu-story/assets/images/ending/end_true.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "하아… 하아…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "수고하셨어요. 오늘도 야했어요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…시끄러, 바보…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(…정체원을 인수해서 오너가 됐는데… 매주 오일 범벅이 되러 오고 있을 뿐이잖아. 수건 도둑에서 시작해서, 섬유유연제 조사, AV 전편, 인수… 전부 타츠네 나름의 애정 표현이었을까.)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…레이 씨."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…!? 야, 지금 뭐라고 했어?",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "앞으로 레이 씨라고 불러도… 될까요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "……마음대로 해.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…근데… 다른 사람 앞에서는… 하지 마…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네. 둘만 있을 때만."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closeeyes",
+      "text": "…응.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(인수당한 건 나인데, 왠지 내가 주도권을 쥐고 있는 것 같아…)"
+    },
+    {
+      "character": "player",
+      "text": "(…뭐, 됐지. 이게 우리의 관계니까.)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…야. 다음 주도 부탁한다.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네. 물론이죠."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "사채업자 사장에게 정체원을 인수당하고, 전속 정체사가 된 나."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "빚은 완납, 급여는 3배.\n대신 매주 오너를 온몸 오일 범벅으로 만드는 의무가 있다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "……꽤 나쁘지 않은 거래……인 걸까?"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【TRUE END — 두근두근! 성감 마사지: 타츠네 편】",
+      "triggerEnding": "true"
+    }
+  ]
+}
