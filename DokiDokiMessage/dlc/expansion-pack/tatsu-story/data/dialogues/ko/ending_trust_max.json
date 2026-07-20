@@ -1,0 +1,519 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3개월 후.\n그날은 시술 예약이 없는 날이었다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "어서 오…타츠네? 오늘은 예약이 없는데요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…별거 아냐. 근처에 왔길래 들른 것뿐이야.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(근처에 왔다고…? 이 근처에 사채업 거래처 같은 건 없을 텐데…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "차라도 드릴까요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…그래. 줘.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "타츠네는 시술대가 아니라 대기실 소파에 털썩 앉았다.\n평소의 정장 차림이지만, 어딘가 지친 얼굴이었다."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "여기요. …무슨 일 있었어요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…아무것도.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…………."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…………….",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…부하한테 배신당했어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…………."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "3년이나 챙겨준 놈이 돈 들고 튀었어. 거래처도 2곳 빼갔고.",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…돈은 상관없어. 거래처도 다시 만들면 되고. 근데 있잖아.",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…믿었던 놈한테 배신당하는 건, 몇 번을 겪어도 힘들더라.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(…타츠네가 이런 표정을 짓다니, 처음 봤다. 사채업 사장으로서 항상 강해야만 하는 사람이…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…타츠네. 시술 해드릴까요. 예약 비어있으니까요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…괜찮아?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "몸이 엄청 굳어있을 거예요, 아마. 스트레스는 전부 근육에 오거든요."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──시술 중"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…역시. 어깨, 목, 등, 전부 딱딱하게 뭉쳐있어요. 꽤 많이 참으셨죠."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…응….",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "여기, 누를게요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…!",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(…허리 쪽에서 비쿤했다. 그 12주간의 조건반사가 아직 남아있구나…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "………….",
+      "outfit": "bikini"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…있지.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…나, 아빠가 없어. 어릴 때 사라졌어.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…………."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "그래서 전부 혼자 결정해왔어. 돈도, 사람도. 상담할 상대 같은 건 없었어.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "사장이 되고 나서는 더했지. 약한 모습 보이면 끝이니까. 부하들 앞에서 푸념 같은 거 할 수 없잖아.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(…타츠네가 이런 얘기를 해주다니.)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…근데 말이야.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "왜인지 네 앞에서는 이렇게 주절주절 떠들게 되더라.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…시술 중에는 신기하게 본심이 나오기 쉬워요. 몸이 풀리면 마음도 풀리거든요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closeeyes",
+      "text": "…말 잘하네.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "여기는 시술대 위니까요. 뭘 말해도 밖으로 새지 않아요. 제가 보장합니다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "………….",
+      "outfit": "bikini"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…너, 오빠 같다.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…오빠?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…아니, 뭐랄까…. 무슨 일이 있어도 동요하지 않고, 묵묵히 들어주고. 이런 사람이 가족에 있었다면, 나도 좀 더 편하게 살 수 있었을 텐데….",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(…사채업 사장한테 '오빠'라고 불릴 줄은 몰랐다.)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…영광이네요. 그럼, 오빠로서 한 마디 할게요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…뭔데.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "배신한 놈은, 타츠네의 사람 보는 눈이 틀린 게 아니에요. 타츠네를 믿을 수 있으니까 사람들이 따르는 거예요. 그냥 운 나쁘게 꽝을 뽑은 것뿐이에요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "………….",
+      "outfit": "bikini"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closeeyes",
+      "text": "…짜증나. 네가 말하면 왠지 믿어버리게 되더라.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──시술 후"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "후…. 응, 한결 나아졌다. 몸도 머리도.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "다행이네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…그리고 있잖아. 우리 애들 중에 몸이 엉망인 놈들이 있어. 추심 뛰어다니느라 어깨도 허리도 다 망가졌거든.",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "여기 소개해줘도 돼?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "물론이죠. 기꺼이 봐드릴게요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closeeyes",
+      "text": "그래. 다음 주부터 몇 명 데려올게. 돈은 제대로 내게 할 테니까.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(사채업 사장이 부하를 데려온다고…. 고맙긴 한데, 검은 승용차로 오는 것만은 좀 봐줬으면…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closeeyes",
+      "text": "…그리고 있잖아. 그때 인수 제안, 아직 유효하거든.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "용서해주세요. 그때 탁! 하고 책상 내리쳤을 때 심장 멈추는 줄 알았어요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closeeyes",
+      "text": "흥. 농담이야. …반은.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(반이 농담이라는 건 반은 진심이라는 거잖아…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…뭐 어쨌든. 진짜 곤란한 일 있으면 말해. 돈이든 사람이든, 어떻게든 해줄게.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…감사합니다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "감사 같은 건 필요 없어. 오빠한테 빚이 있을 뿐이야. …몸도, 그 외의 것도.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(…솔직하게 '걱정된다'고 말 못 하는 거구나. 하지만 아까 시술대에서 보여준 표정을 알고 있으니까, 그걸로 충분하다.)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "그럼.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네. …언제든 오세요. 예약 없어도 괜찮으니까요."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "야스",
+      "hideCharacter": true,
+      "text": "사장님! 마중 왔습니다!"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "어. 잠깐 기다려.",
+      "outfit": "suit"
+    },
+    {
+      "character": "야스",
+      "hideCharacter": true,
+      "text": "…앗! 혹시 사장님이 맨날 다니신다는 그…?"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "아, 네. 정골사로…"
+    },
+    {
+      "character": "야스",
+      "hideCharacter": true,
+      "text": "오빠! 맞죠! 사장님이 매주 빠지지 않고 다니시는 건 처음이라서, 저희 모두 궁금했거든요!"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…네? 오빠…?"
+    },
+    {
+      "character": "야스",
+      "hideCharacter": true,
+      "text": "사장님의 이거잖아요?"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "야스는 새끼손가락을 세우며 히죽 웃고 있었다."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "아뇨, 아닌데요…? 그냥 시술사와 환자 사이로…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…! 바보야!! 아니라니까!!",
+      "outfit": "suit"
+    },
+    {
+      "character": "야스",
+      "hideCharacter": true,
+      "text": "에~? 근데 사장님, 여기 오시기 전에 맨날 안절부절못하시고, 돌아오시면 기분 좋으시고…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "야스. 차. 지금 당장. 입 닥쳐.",
+      "outfit": "suit"
+    },
+    {
+      "character": "야스",
+      "hideCharacter": true,
+      "text": "네, 넵! 죄송합니다! …오빠, 사장님 잘 부탁드려요!"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "야스!!",
+      "outfit": "suit"
+    },
+    {
+      "character": "야스",
+      "hideCharacter": true,
+      "text": "히잉! 갑니다 갑니다!"
+    },
+    {
+      "character": "player",
+      "text": "(…완전히 연인으로 오해하고 있어… 타츠네, 새빨개졌다…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…저놈이 한 말은 전부 잊어. 알겠지.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…네."
+    },
+    {
+      "character": "player",
+      "text": "(…여기 오기 전에 안절부절못하는구나.)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…! …그럼. 다음 주에도.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네. 다음 주에도."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "타츠네의 뒷모습을 배웅하면서, 문득 생각했다."
+    },
+    {
+      "character": "player",
+      "text": "(그 12주간. 몸 어디를 만지면 목소리가 새어 나오는지, 전부 외워버렸다.)"
+    },
+    {
+      "character": "player",
+      "text": "(…더 깊이 들어갔다면, 야스의 오해도 오해가 아니게 됐을까.)"
+    },
+    {
+      "character": "player",
+      "text": "(…하지만 저 사람이 유일하게 본심을 보일 수 있는 곳으로 있을 수 있다면, 그걸로 충분하다.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "매주의 시술과, 가끔 예약 없이 불쑥 찾아오는 날.\n부하들을 소개해준 덕분에 경영도 안정됐다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "사채업 사장이 유일하게 본모습을 보이는 곳.\n그 부하들에게는 왜인지 '오빠'라고 불리고 있다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "…야스의 오해와, 그 12주간 외운 몸의 기억은,\n시술대 위만의 비밀로 해두자.",
+      "triggerEnding": "trust_max"
+    }
+  ]
+}
