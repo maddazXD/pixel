@@ -1,0 +1,291 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──수요일. 4주차 아침.\n나나가 오기 시작한 지 3주가 지났다. 그녀의 몸과 마음 모두 꾸준히 변화하고 있다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(이제 매주 오고 있어... 확실히 단골 손님이라고 할 수 있겠네.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(하지만 그녀 혼자만으로는 가게를 유지할 수 없어. 더 많은 손님을 끌어들일 방법을 찾아야 해...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "좋은 아침이에요! 오늘도 잘 부탁드려요.",
+      "voiceFile": "story_day4_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "좋은 아침, 나나씨. 활기차 보여서 다행이에요."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "네! 지난주 마사지가 정말 효과적이었어요... 허리 통증이 거의 완전히 사라졌어요.",
+      "voiceFile": "story_day4_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "그래서... 친구들에게 이곳을 소개했어요.",
+      "voiceFile": "story_day4_003"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "정말요? 소개해 주셨어요?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "네. 정말 좋았다고 말했더니 다들 관심을 보이더라고요...",
+      "voiceFile": "story_day4_004"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "하지만... 옷에 대해서는 잘 말하지 못했어요...",
+      "voiceFile": "story_day4_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(새 손님 가능성...! 이건 좋은 기회야!)"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "그럼, 오늘 컨디션은 어떠세요? 불편한 곳 있나요?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "저... 오늘은... 배 부분이 좀 답답해요...",
+      "voiceFile": "story_day4_006"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "스트레스로 단 걸 많이 먹었더니... 배가 좀 부른 것 같아요...",
+      "voiceFile": "story_day4_007"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "배가 답답하다면... 오늘은 누워서 시술을 해볼까요."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "눕는다고요... 평소와 다른 자세네요.",
+      "voiceFile": "story_day4_008"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "네. 누우면 복부 주변 근육을 제대로 풀고 내장을 조절할 수 있어요."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "또한 몸 앞쪽에서 파동을 보내면 자율신경계의 균형을 맞출 수 있어요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "앞쪽에서... 좀 부끄러운데...",
+      "voiceFile": "story_day4_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "하지만 선생님을 믿어요... 맡길게요.",
+      "voiceFile": "story_day4_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "감사합니다. 분명 효과를 느끼실 거예요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그리고... 요즘 몸이 화끈거려요...",
+      "voiceFile": "story_day4_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "밤에 잠들기 힘들고... 이상한 꿈을 계속 꿔요...",
+      "voiceFile": "story_day4_012"
+    },
+    {
+      "id": "choice_massage4",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "흠... 자율신경계 불균형의 징후일 수 있어요.",
+      "choices": [
+        {
+          "label": "아마 스트레스일 거예요",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "stress_path"
+        },
+        {
+          "label": "호르몬 불균형일 수도 있어요",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "hormone_path"
+        },
+        {
+          "label": "몸이 뭔가를 원하는 걸 수도",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "desire_path"
+        }
+      ]
+    },
+    {
+      "id": "stress_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "맞아요... 최근 시험이 많았어요...",
+      "voiceFile": "story_day4_013"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "스트레스는 만병의 근원이죠. 오늘은 제대로 관리해서 편안하게 해드릴게요.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "hormone_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "호-호르몬 균형... 그게...?",
+      "voiceFile": "story_day4_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "네. 젊은 여성은 특히 영향을 받기 쉬워요. 몸의 변화에 민감해지는 건 자연스러운 거예요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그-그렇군요... 요즘 몸이 이상한 느낌이 들긴 했어요...",
+      "next": "change_clothes",
+      "voiceFile": "story_day4_015"
+    },
+    {
+      "id": "desire_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "네? 몸이 뭔가를 원한다고요...?",
+      "voiceFile": "story_day4_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "몸은 정직해요. 뭔가 부족하면 제대로 된 신호를 보내죠."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "예를 들어... 신체 접촉이나 사람의 온기가 부족하면... 몸이 화끈거릴 수 있어요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "그-그럴 리가...! 저는 그런 거 필요 없어요...!",
+      "voiceFile": "story_day4_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "괜찮아요, 부끄러워할 것 없어요. 자연스러운 인간의 욕구예요.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "그럼 갈아입어 주세요. 오늘은 복부 부위를 확인할 거라 더 꼼꼼하게 할게요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "네-네... 알겠어요.",
+      "voiceFile": "story_day4_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(이 옷에 익숙해졌지만... 오늘은 배도 만지시겠지...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day4_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "갈아입었어요...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day4_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(여전히 멋진 몸매... 그리고 왠지 피부가 전보다 더 빛나는 것 같아...)"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "좋아요, 준비됐네요. 오늘은 새로운 기술을 시도해 볼게요."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "새로운 기술... 이요?",
+      "voiceFile": "story_day4_021"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "네. 내장을 조절하는 특수 수기법이 있어요. 좀 강할 수 있지만..."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "괜-괜찮아요... 선생님을 믿어요...",
+      "voiceFile": "story_day4_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(신뢰... 좋은 말이야.)"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "자, 그럼 시작하죠."
+    }
+  ]
+}
