@@ -1,0 +1,30 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(10주차... 드디어 두 자릿수)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나짱이 소문 내준 덕분에, 가게가 번창하고 있어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(오늘 평가는 \"꿈에 나타나는 치료\"래)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(뭐, 특수 기술을 쓰긴 하지만... 영업 비밀이야)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(이번 주도 확실하게 계획을 세워서 행동해야지)"
+    }
+  ]
+}
