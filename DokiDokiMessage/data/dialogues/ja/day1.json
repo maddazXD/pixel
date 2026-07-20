@@ -1,0 +1,411 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（夢だったんだよな……『性感整体院』ってやつを、自分の手で開業するのが。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（それっぽい理論書き上げて、サイト作って、SEO業者にも大金を払った。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（もちろんチラシも撒いた。『背徳の波動整体』。俺は、本気だった。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……でも、初日の予約数は……たったのひとり。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……銀行にも消費者金融にも断られて、結局『ドラゴン・ファイナンス』なんて闇金から開業資金を借りちまったのに……。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（返済期限は3か月後……12週間か。失敗したら、マジで終わりだ。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……まぁいい。今日来てくれる子が、俺の整体院を救う希望なんだ。）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "……あの、すみません…。",
+      "voiceFile": "story_day1_001"
+    },
+    {
+      "character": "player",
+      "expression": "doubt_closemouth_sweat",
+      "text": "いらっしゃいませ！"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "……チラシを見てきたんですけど……ここ、整体のお店、なんですよね？",
+      "voiceFile": "story_day1_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "うん、そうだよ。さぁ、安心して入って入って。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "…はい。ありがとうございます。",
+      "voiceFile": "story_day1_003"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "それで、今日はどうしたのかな？ 肩とか腰とか、どこか気になるところある？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "えっと…最近、肩こりがひどくて…。",
+      "voiceFile": "story_day1_004"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "肩こり…ね。"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "（そりゃそうだろうな。この子、胸がかなり大きい……。重そうだもんな……ふふ。）"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "詳しく教えてほしいから、まずは荷物を置いてこのカウンセリングシートに記入をお願いできるかな？"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "あと、名前も聞いていい？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "はい。田中ナナです。",
+      "voiceFile": "story_day1_005"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "えっと……気になるところ……。",
+      "voiceFile": "story_day1_006",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "（うわっ！近くで見ると、やっぱりおっぱいでっか…！顔も可愛いし……これは当たりだな、ふふ…。）",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "……あの、すみません。この…体のこととか、お、オーガズムの経験とか……こういうのも、必要なんですか……？",
+      "voiceFile": "story_day1_007",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "もちろんだよ。リラックスしてもらうためには、身体だけじゃなく、感覚の好みも大事だからね。",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そ、そうなんですね……。わ、私……あんまりこういうの、書いたことないので……。",
+      "voiceFile": "story_day1_008",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "大丈夫。思ったまま、素直に書いてくれればいいから。",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "か、書けました……これでいいですか？",
+      "voiceFile": "story_day1_009"
+    },
+    {
+      "character": "",
+      "expression": "blush_closemouth",
+      "text": "……",
+      "docImage": "counseling_sheet",
+      "docNeedConfirm": true
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "（ふふ…処女か……。色々と楽しめそうだな。）",
+      "conditions": {
+        "route": "virgin"
+      }
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "（なんだ、処女じゃないのか……。経験があるなら多少激しくやっても問題なさそうだな。）",
+      "conditions": {
+        "route": "experienced"
+      }
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "ありがとう。……ふむ、なるほどね。"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "じゃあね、念のためなんだけど、こっちの「施術同意書」にもサインだけお願いできるかな？"
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "……",
+      "docImage": "consent_sheet",
+      "docNeedConfirm": true
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "施術同意書…ですか……？",
+      "voiceFile": "story_day1_010"
+    },
+    {
+      "character": "player",
+      "expression": "doubt_closemouth_sweat",
+      "text": "うん、形式的なものだから。みんな書いてもらってるし、特に難しいことはないよ。"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "細かいところは大丈夫だから、名前だけサインしてくれたらOK！"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "な、名前だけ……？わかりました……。",
+      "voiceFile": "story_day1_011"
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "……。",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "書けました。",
+      "voiceFile": "story_day1_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "うん、ありがとう。助かるよ。"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "（くく……これで正式に、何をしても問題なし、か。）"
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "（内心ニヤけるのを必死で堪えながら、施術者欄に自分の名前をサインする。）",
+      "nameInput": true
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "……"
+    },
+    {
+      "id": "choice_massage",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "さて、カウンセリングシートを見せてもらったけど……うん、肩まわり、かなり張ってるね。服の上からでもわかるくらいだよ。",
+      "choices": [
+        {
+          "label": "姿勢のクセかな？",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "posture_path"
+        },
+        {
+          "label": "胸が大きいからかも",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "breast_path"
+        },
+        {
+          "label": "触って確認するね",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "touch_path"
+        }
+      ]
+    },
+    {
+      "id": "posture_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "やっぱり……姿勢が悪いんでしょうか…。授業中、前かがみになっちゃうので…。",
+      "voiceFile": "story_day1_013"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "それはよくないね。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "breast_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "えっ……そ、そんな……胸のせい、なんでしょうか……。",
+      "voiceFile": "story_day1_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "うん、あり得るよ。これだけ立派だと、自然と肩に負担がかかっちゃうからね。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（立派どころじゃねぇ！ぱつぱつやんけ！こんなん、そりゃ肩も凝るわ……）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "り、立派って……。",
+      "voiceFile": "story_day1_015",
+      "next": "change_clothes"
+    },
+    {
+      "id": "touch_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "ひゃっ……！　い、いきなり……っ！？　あっ……。",
+      "voiceFile": "story_day1_016",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ごめんごめん、びっくりした？でも、やっぱりすごいな。カチカチだよ、これ。",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（手のひらに、ダイレクトに温かさと柔らかさが……。）",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "こうして軽く押すだけでも、だいぶ血が巡ってきてる。変な痛みとかない？",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "い、いえ……気持ちいいです……。",
+      "voiceFile": "story_day1_017",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "よかった。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "じゃあ、施術用の専用ウェアに着替えてもらえるかな？"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "着替え…ですか？",
+      "voiceFile": "story_day1_018"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "うん、リラクゼーション効果を高めるための特別なウェアだよ。みんな着てもらってるから、安心してね。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "そ、そうなんですか……わかりました……。",
+      "voiceFile": "story_day1_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "（な、なんでこんなに布が少ないの……！？すごく……恥ずかしい……。）",
+      "voiceFile": "story_day1_020",
+      "cutInImage": "nana_changing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "（……でも、断れないし……。がんばらないと……。）",
+      "voiceFile": "story_day1_021"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "き、着替えました……。これで……大丈夫ですか……？",
+      "voiceFile": "story_day1_022",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（やばい……布面積、少なすぎる……！）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "うん、バッチリ似合ってるよ。"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "よし、それじゃあ施術、始めようか。"
+    }
+  ]
+}
