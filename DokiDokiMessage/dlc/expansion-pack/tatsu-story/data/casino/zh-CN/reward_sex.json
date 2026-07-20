@@ -1,0 +1,120 @@
+{
+  "intro": {
+    "dialogues": [
+      { "character": "兔女郎店员", "text": "十连胜……♡" },
+      { "character": "兔女郎店员", "text": "客人，真的好厉害…♡", "expression": "shocked" },
+      { "character": "兔女郎店员", "text": "说实话，能走到这一步的人几乎没有♡" },
+      { "character": "player", "text": "下一个奖励是……？" },
+      { "character": "兔女郎店员", "text": "呵呵♡ 你已经猜到了吧？", "expression": "happy" },
+      { "character": "兔女郎店员", "text": "十连胜的客人可以……" },
+      { "character": "兔女郎店员", "text": "用我的身体…让你舒服♡", "expression": "excited" },
+      { "character": "player", "text": "……可以吗？" },
+      { "character": "兔女郎店员", "text": "可以的♡ 这里是地下赌场嘛♡", "expression": "happy" },
+      { "character": "兔女郎店员", "text": "就在桌子上，连牌都不收拾就做…" },
+      { "character": "兔女郎店员", "text": "是不是有点心跳加速呢？♡", "expression": "excited" },
+      { "character": "player", "text": "……超级兴奋。" },
+      { "character": "兔女郎店员", "text": "诶嘿嘿♡ 我也是♡", "expression": "happy" },
+      { "character": "兔女郎店员", "text": "那…来♡ 放进来吧♡", "expression": "excited" },
+      { "character": "兔女郎店员", "text": "按客人的节奏…随意动就好♡", "expression": "happy" }
+    ]
+  },
+  "interactive": {
+    "baseImage": "casino/reward_sex_base.png",
+    "expressions": {
+      "pleasure": "casino/reward_sex_pleasure.png",
+      "climax": "casino/reward_sex_climax.png"
+    },
+    "gaugeLabel": "射精值",
+    "gaugeMax": 100,
+    "characterName": "兔女郎店员",
+    "idleLines": [
+      "停下来了？♡ 没关系，慢慢来♡",
+      "里面…紧紧夹着呢♡ 感觉到了吗？♡",
+      "在吊人胃口吗？♡ …坏人♡"
+    ],
+    "progressLines": [
+      { "gauge": 17, "speech": "嗯…♡ 舒服吗？♡" },
+      { "gauge": 33, "speech": "哈…♡ 我也…渐渐…♡" },
+      { "gauge": 50, "speech": "啊♡ 客人…♡ 越来越猛了…♡" },
+      { "gauge": 67, "speech": "呜…♡ 小穴已经一塌糊涂了…♡" },
+      { "gauge": 83, "speech": "会…射在里面吗？♡" }
+    ],
+    "hotspots": [
+      {
+        "id": "vagina",
+        "area": { "x": 35, "y": 50, "width": 30, "height": 20 },
+        "isCorrect": true,
+        "gaugeIncrease": 4,
+        "expression": "pleasure",
+        "speeches": [
+          "嗯♡",
+          "啊♡",
+          "哈…♡ 顶到最里面了…♡",
+          "嗯嗯♡ 客人的…好大…♡",
+          "啊♡ 那里…好舒服…♡",
+          "好舒服…♡",
+          "嗯…♡ 里面紧紧地缠住了…♡"
+        ]
+      },
+      {
+        "id": "vagina_fast",
+        "area": { "x": 38, "y": 55, "width": 24, "height": 12 },
+        "isCorrect": true,
+        "gaugeIncrease": 5,
+        "expression": "climax",
+        "speeches": [
+          "啊啊啊♡",
+          "呀♡ 好快…♡",
+          "嗯嗯♡♡ 这么猛…♡",
+          "啊啊♡ 小穴…湿透了…♡",
+          "呀♡ 肚子深处…在响…♡",
+          "不行♡ 这个速度的话…♡"
+        ]
+      },
+      {
+        "id": "breast",
+        "area": { "x": 25, "y": 20, "width": 50, "height": 25 },
+        "isCorrect": true,
+        "gaugeIncrease": 3,
+        "expression": "pleasure",
+        "speeches": [
+          "嗯♡ 一边做一边揉胸…真贪心♡",
+          "啊♡ 里面和胸部同时…♡",
+          "捏乳头的话…小穴也会紧紧缩起来…♡",
+          "哈…♡ 被揉着胸做的话…好厉害…♡",
+          "呀♡ 乳头立起来了…♡",
+          "下面上面都好舒服…♡ 太过分了…♡"
+        ]
+      }
+    ]
+  },
+  "climax": {
+    "image": "images/live2devent/sex_climax.png",
+    "afterImage": "images/live2devent/sex_climax_after.png",
+    "outroImage": "images/live2devent/sex_climax_cum.png",
+    "dialogueDelay": 600,
+    "pulseDuration": 2500,
+    "dialogues": [
+      { "character": "兔女郎店员", "text": "啊♡ 啊♡ 客人……♡ ……变大了……♡" },
+      { "character": "player", "text": "已经……忍不住了……" },
+      { "character": "兔女郎店员", "text": "诶♡ 要射了吗……?♡" },
+      { "character": "兔女郎店员", "text": "可、可以的……♡ 在最里面……全部射出来吧…♡" },
+      { "character": "兔女郎店员", "text": "把我的小穴……用客人的精液灌满……♡" },
+      { "character": "player", "text": "唔———！！" },
+      { "character": "兔女郎店员", "text": "啊啊啊♡♡♡ 射出来了……好烫……在里面一股一股的……♡♡" },
+      { "character": "兔女郎店员", "text": "嗯嗯♡ 还在射……♡ 肚子深处……好多……♡" }
+    ]
+  },
+  "outro": {
+    "dialogues": [
+      { "character": "兔女郎店员", "text": "哈……♡ 哈……♡" },
+      { "character": "兔女郎店员", "text": "……♡ 客人的……全部……都接住了……♡" },
+      { "character": "兔女郎店员", "text": "啊……♡ 拔出来的话……从里面流出来了……♡" },
+      { "character": "兔女郎店员", "text": "滴滴答答……♡ 滴到桌子上了……♡" },
+      { "character": "player", "text": "……太棒了。" },
+      { "character": "兔女郎店员", "text": "诶嘿嘿……♡ 这么多……♡" },
+      { "character": "兔女郎店员", "text": "牌和筹码都乱七八糟……♡ 我的里面也……乱七八糟……♡" },
+      { "character": "兔女郎店员", "text": "恭喜十连胜…♡ 下次再来玩哦……♡" }
+    ]
+  }
+}
