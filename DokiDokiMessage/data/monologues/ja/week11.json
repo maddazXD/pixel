@@ -1,0 +1,25 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（11週目…そろそろ開院して3か月か…）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃんは相変わらず常連として毎週来てくれている）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（借金の返済期限まであと少しだな。ラストスパートをかけないと）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週は何をしようか…）"
+    }
+  ]
+}
