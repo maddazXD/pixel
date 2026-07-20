@@ -1,0 +1,470 @@
+{
+  "poseInstructions": [
+    {
+      "instructionId": "pose_orientation_front",
+      "instructionName": "让她仰面躺下",
+      "category": "姿势变更",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "front"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "back",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "好的奈奈，现在可以仰面躺下吗？我想从正面给你按摩。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "...好的，我明白了...",
+          "voiceFile": "pose_orientation_front_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_back",
+      "instructionName": "让她趴下",
+      "category": "姿势变更",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "back"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "现在可以趴下吗？我想按摩你的背部和肩胛骨。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "...好的...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_side",
+      "instructionName": "让她侧躺",
+      "category": "姿势变更",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "side"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "back"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "可以侧躺吗？我想从侧面给你按摩。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "...好的，侧躺...",
+          "voiceFile": "pose_orientation_side_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_front",
+      "instructionName": "让她举起手臂",
+      "category": "手臂位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "可以把手臂举起来吗？我想按摩你的腋下和上臂。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...像这样吗？",
+          "voiceFile": "pose_pose_arm_up_front_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "对，就是这样。谢谢。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_front",
+      "instructionName": "让她放下手臂",
+      "category": "手臂位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "现在可以放下手臂，放松一下。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "...好的...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_side",
+      "instructionName": "让她举起手臂（侧面视角）",
+      "category": "手臂位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "可以把手臂举起来吗？我想按摩你的腋下和腹部区域。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...好的，像这样吗？",
+          "voiceFile": "pose_pose_arm_up_front_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "对，就是这样。谢谢。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_side",
+      "instructionName": "让她放下手臂（侧面视角）",
+      "category": "手臂位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "可以放下手臂，放松一下。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "...好的...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_paizuri",
+      "instructionName": "让她压胸（乳交姿势）",
+      "category": "特殊姿势",
+      "priority": 6,
+      "targetPose": {
+        "armPose": "paizuri"
+      },
+      "conditions": {
+        "minTrustLevel": 4,
+        "minDevelopLevel": 3,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "可以把手臂合拢，夹住胸部吗？我想按摩你的锁骨部位。"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_01",
+          "text": "诶...胸部...？像、像这样吗...？",
+          "voiceFile": "pose_pose_arm_paizuri_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "对，就是这个姿势。谢谢。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_front",
+      "instructionName": "让她张开双腿",
+      "category": "腿部位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 3,
+        "minDevelopLevel": 2,
+        "currentOrientation": "front",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "接下来我想按摩你的大腿内侧..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "可以稍微张开双腿吗？"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "我明白了...",
+          "voiceFile": "pose_leg_open_front_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_back",
+      "instructionName": "让她张开双腿",
+      "category": "腿部位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 2,
+        "currentOrientation": "back",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "接下来我想按摩你的大腿内侧..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "可以稍微张开双腿吗？"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "我明白了...",
+          "voiceFile": "pose_leg_open_front_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_front",
+      "instructionName": "让她并拢双腿",
+      "category": "腿部位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "currentLegPose": "open",
+        "states": [
+          "normal",
+          "sleepy",
+          "sleeping"
+        ]
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "可以把双腿并拢吗？"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "好的...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_back",
+      "instructionName": "让她并拢双腿",
+      "category": "腿部位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "可以把双腿并拢吗？"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "好的...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_hipup_open",
+      "instructionName": "让她抬起臀部并张开双腿",
+      "category": "特殊姿势",
+      "priority": 4,
+      "targetPose": {
+        "legPose": "hipup_open"
+      },
+      "conditions": {
+        "minTrustLevel": 5,
+        "minDevelopLevel": 4,
+        "currentOrientation": "back",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "可以抬起臀部，像跪着的姿势吗？我想重点按摩你的腰部。"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_01",
+          "text": "诶...这、这个姿势好羞耻...",
+          "voiceFile": "pose_pose_leg_hipuup_open_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "这是为了治疗。谢谢配合。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_normal_from_hipup",
+      "instructionName": "让她恢复到舒适的姿势",
+      "category": "腿部位置",
+      "priority": 8,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "hipup_open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "好了，现在可以恢复到舒适的姿势了。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "好的...",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "wake_up",
+      "instructionName": "叫醒奈奈",
+      "category": "其他",
+      "priority": 1,
+      "targetPose": null,
+      "effect": "wake_up",
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "displayMode": "sleeping-only"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "奈奈，可以醒一下吗？"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleeping_01",
+          "text": "嗯...呼啊...啊，抱歉...我睡着了...",
+          "voiceFile": "pose_wake_up_001"
+        }
+      ]
+    }
+  ]
+}
