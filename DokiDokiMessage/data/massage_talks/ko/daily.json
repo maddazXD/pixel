@@ -1,0 +1,1019 @@
+{
+  "talks": {
+    "talk_weather": {
+      "topicName": "더운 날이 계속되네요",
+      "trustEffect": 1,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "오늘도 더웠죠. 여기까지 오느라 힘들었겠어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "네... 양산을 썼는데도 걷기만 하면 바로 땀이 나서...",
+          "voiceFile": "talk_wether_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "에어컨으로 시원하게 해뒀으니까 천천히 쉬다 가세요."
+        },
+        {
+          "character": "nana",
+          "expression": "sleeping_02",
+          "text": "...감사합니다. 시원하고 기분 좋아요...",
+          "voiceFile": "talk_wether_002"
+        }
+      ]
+    },
+    "talk_sleep": {
+      "topicName": "잠버릇",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "잘 때는 옆으로 누워서 자는 편이에요, 아니면 똑바로 누워서?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "음... 옆으로 누워서 스마트폰 보다가 그대로 자버리는 경우가 많은 것 같아요...",
+          "voiceFile": "talk_sleep_001"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "옆으로 누워서 스마트폰 보면 목이 구부러져서 안 좋아요."
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "똑바로 누워서 무릎 밑에 베개를 넣으면 허리가 편해져요. 스마트폰은 자기 30분 전에는 끄고 방을 어둡게 하는 게 포인트예요."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "무릎 밑에 베개요... 몰랐어요. 감사합니다, 해볼게요.",
+          "voiceFile": "talk_sleep_002"
+        }
+      ]
+    },
+    "talk_hobby": {
+      "topicName": "취미 이야기",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "나나 씨는 쉬는 날에 뭐 해요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "음... 피아노 연습하거나 책 읽는 경우가 많아요.",
+          "voiceFile": "talk_hobby_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "오, 피아노 칠 줄 아는구나. 어떤 곡 연습해요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "지금은 쇼팽의 녹턴을... 근데 어려워서 잘 안 돼요...",
+          "voiceFile": "talk_hobby_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "오... 녹턴이요. 대단하네요. (대충 맞장구 쳐주자)"
+        }
+      ]
+    },
+    "talk_first_time": {
+      "topicName": "처음 받는 마사지",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "마사지는 처음이에요? 긴장되나요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "네... 처음이라서... 조금 긴장돼요...",
+          "voiceFile": "talk_first_time_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "괜찮아요, 릴랙스하세요. 아픈 건 안 할 거예요."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "...네, 잘 부탁드려요...",
+          "voiceFile": "talk_first_time_002"
+        }
+      ]
+    },
+    "talk_tired_parts": {
+      "topicName": "쉽게 피곤해지는 부위",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "요즘 특히 피로를 느끼는 부위 있어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "어깨랑 허리가... 무거운 느낌이 들어요.",
+          "voiceFile": "talk_tired_parts_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "공부하느라 같은 자세로 오래 있었나봐요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "그럴지도 몰라요... 책상에 앉아 있는 시간이 길어서...",
+          "voiceFile": "talk_tired_parts_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "1시간에 한 번씩은 일어나서 가볍게 스트레칭하는 게 좋아요. 오늘은 제대로 풀어드릴게요."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "감사합니다... 기분 좋아요...",
+          "voiceFile": "talk_tired_parts_003"
+        }
+      ]
+    },
+    "talk_school": {
+      "topicName": "학교 이야기",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "나나 씨는 어느 학교 다녀요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "음... 오만코 학원이에요.",
+          "voiceFile": "talk_school_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "어? 그 '오만코 학원'!?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "아, 네... 맞아요.",
+          "voiceFile": "talk_school_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "엄청 명문이잖아. 대단한데."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "아, 아니에요... 그렇지 않아요...",
+          "voiceFile": "talk_school_003"
+        }
+      ]
+    },
+    "talk_food": {
+      "topicName": "좋아하는 음식",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "나나 씨는 좋아하는 음식 있어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "음... 화과자를 좋아해요. 말차나 떡같은 거...",
+          "voiceFile": "talk_food_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "오, 취향이 차분하네. 젊은데 특이하네요."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "할머니께서 자주 사오셔서... 어릴 때부터 좋아했어요.",
+          "voiceFile": "talk_food_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "나나 씨답네요."
+        }
+      ]
+    },
+    "talk_piano_detail": {
+      "topicName": "피아노에 대한 자세한 이야기",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "그러고 보니 전에 피아노 한다고 했죠?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "아, 기억하고 계셨네요...",
+          "voiceFile": "talk_piano_detail_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "몇 살 때부터 시작했어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "3살 때부터요. 처음엔 싫었는데... 지금은 치는 게 좋아요.",
+          "voiceFile": "talk_piano_detail_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "콩쿠르 같은 거 나간 적 있어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "어릴 때 몇 번... 근데 긴장해서 좋은 결과는 못 냈어요.",
+          "voiceFile": "talk_piano_detail_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "그래도 계속하고 있는 게 대단해요. 다음에 들려주면 좋겠어요."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "어... 들어주실 건가요? 기뻐요...",
+          "voiceFile": "talk_piano_detail_004"
+        }
+      ]
+    },
+    "talk_dream": {
+      "topicName": "장래희망",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "나나 씨는 장래에 뭐가 되고 싶어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "음... 아직 확실히 정하진 못했는데...",
+          "voiceFile": "talk_dream_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "관심 있는 분야 같은 건 있어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "음악 관련이나... 교육 관련 일이 좋을 것 같아요.",
+          "voiceFile": "talk_dream_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "피아노도 칠 줄 알고, 어울릴 것 같은데."
+        },
+        {
+          "character": "player",
+          "expression": "normal_02",
+          "text": "선생님도 잘 어울릴 것 같고."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_01",
+          "text": "그, 그렇나요...? 감사합니다.",
+          "voiceFile": "talk_dream_003"
+        }
+      ]
+    },
+    "talk_music_taste": {
+      "topicName": "좋아하는 음악",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "피아노 말고 평소에 어떤 음악 들어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "클래식이 많은데... 요즘은 다른 곡도 들어요.",
+          "voiceFile": "talk_music_taste_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "오, 어떤 거요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "...음... 애니메이션 노래 같은 거...",
+          "voiceFile": "talk_music_taste_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "의외네요. 애니메이션 자주 봐요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "...많이 보는 건 아닌데... 좋아하는 애니가 있어요...",
+          "voiceFile": "talk_music_taste_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "(이야기하기 부끄러운 모양이네)"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...그렇군요. 다음에 이야기 들려주면 좋겠어요."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "네, 네...",
+          "voiceFile": "talk_music_taste_004"
+        }
+      ]
+    },
+    "talk_childhood": {
+      "topicName": "어릴 적 추억",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "어릴 때는 어떤 아이였어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "엄청 내성적이었어요... 항상 책만 읽었어요.",
+          "voiceFile": "talk_childfood_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "지금도 조금 내성적인가요?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "네... 근데 여기서는 별로 긴장 안 돼요...",
+          "voiceFile": "talk_childfood_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "그건 기쁘네요. 릴랙스하고 있다는 거네요."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "네... 편안해요...",
+          "voiceFile": "talk_childfood_003"
+        }
+      ]
+    },
+    "talk_trust": {
+      "topicName": "신뢰에 대해",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "나나 씨, 요즘 정말 릴랙스하고 있네요."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "그래요?... 확실히 처음보다 훨씬 긴장 안 돼요.",
+          "voiceFile": "talk_trust_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "저를 신뢰해주는 건가요?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "네... 선생님을 신뢰해요.",
+          "voiceFile": "talk_trust_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "고마워요. 그 신뢰에 보답할 수 있도록 열심히 할게요."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "저야말로... 항상 감사합니다.",
+          "voiceFile": "talk_trust_003"
+        }
+      ]
+    },
+    "talk_anime_secret": {
+      "topicName": "비밀 애니메이션 취미",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "전에 애니 노래 듣는다고 했잖아요. 어떤 애니 좋아해요?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "어? 아, 그 이야기 기억하고 계셨어요...",
+          "voiceFile": "talk_anime_secret_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "응. 궁금했거든."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "...사실... 일요일 아침에 하는 '리리큐어'라는 애니가...",
+          "voiceFile": "talk_anime_secret_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "리리큐어? 여자애들이 변신하는 거?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "네, 네... 어려 보이죠...",
+          "voiceFile": "talk_anime_secret_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "언제부터 봤어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "초등학생 때부터... 계속 보고 있어요.",
+          "voiceFile": "talk_anime_secret_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "오, 그렇게 오래 봤다는 건 정말 좋아하는 거네요."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "친구한테 말했더니 이상하게 봐서... 그 뒤로 아무한테도 말 안 했어요...",
+          "voiceFile": "talk_anime_secret_005"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "저는 전혀 이상하게 안 봐요. 좋아하는 건 좋아하는 거잖아요."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "정말요...? 감사합니다...",
+          "voiceFile": "talk_anime_secret_006"
+        }
+      ]
+    },
+    "talk_test_result": {
+      "topicName": "시험 결과",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "오늘 기분 좋아 보이네요. 무슨 일 있었어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "사실... 시험에서 반에서 2등 했어요.",
+          "voiceFile": "talk_test_result_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "오~대단한데. 1등은?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "천재라고 불리는 남학생이... 그 애는 항상 1등이에요.",
+          "voiceFile": "talk_test_result_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "나나 씨도 충분히 대단해요. 상으로 오늘은 특별 서비스 해줄까요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "특, 특별 서비스라니...?",
+          "voiceFile": "talk_test_result_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "어디든 좋아하는 곳을 마사지해드려요!"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "좋아하는 곳...이요...",
+          "voiceFile": "talk_test_result_004"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "그럼... 저...",
+          "voiceFile": "talk_test_result_005"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "머리를... 쓰다듬어 주시면 안 될까요...?",
+          "voiceFile": "talk_test_result_006"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "!"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "물론이죠!"
+        }
+      ]
+    },
+    "talk_travel_wish": {
+      "topicName": "여행 이야기",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "나나 씨는 여행 가고 싶은 곳 있어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "음... 온천이요...",
+          "voiceFile": "talk_travel_wish_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "온천! 차분하네요."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "할머니께서 온천을 좋아하셔서 같이 가다 보니 저도 좋아하게 됐어요...",
+          "voiceFile": "talk_travel_wish_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "온천~좋겠네요. 혼욕탕이요?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "아, 아니에요! 일반 온천이에요!",
+          "voiceFile": "talk_travel_wish_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "그건 아쉽네요. 혼욕이었으면 나나 씨랑 같이 들어갈 수 있었을 텐데~"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "같이...?",
+          "voiceFile": "talk_travel_wish_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "온천 들어가면 피부가 매끈매끈해지잖아요."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "그, 그렇죠...",
+          "voiceFile": "talk_travel_wish_005"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "돌아오면 피부 변화도 체크해야겠네요!"
+        }
+      ]
+    },
+    "talk_summer_plan": {
+      "topicName": "여름 계획",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "여름방학 계획 있어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "가족이랑 바다에 갈 예정이에요.",
+          "voiceFile": "talk_summer_plan_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "바다~좋겠어요. 어떤 수영복 입어요? 비키니?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "어, 음... 원피스 타입으로...",
+          "voiceFile": "talk_summer_plan_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "어? 원피스? 나나 씨 스타일 좋은데 비키니 입어요~"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "그, 그런... 비키니는... 부끄러워요...",
+          "voiceFile": "talk_summer_plan_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "(지금이 더 야한 옷 입고 있는데...)"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "아까워요. 분명 어울릴 텐데... 나나 씨 수영복 차림 보고 싶은데~"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "사진 찍으면 보여줘요. 선탠 자국도 체크 겸해서요."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_01",
+          "text": "사, 사진은 좀... 부끄러워요...",
+          "voiceFile": "talk_summer_plan_004"
+        }
+      ]
+    },
+    "talk_massage_habit": {
+      "topicName": "마사지 효과",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "요즘 피부 윤기가 좋아졌네요~"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "그래요? 잘 모르겠는데...",
+          "voiceFile": "talk_massage_habit_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "저는 매주 보니까 알아요. 특히 여기 피부가... (허벅지를 만진다)"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "햐앗! 거, 거기는...",
+          "voiceFile": "talk_massage_habit_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "혈액 순환이 좋아진 증거예요~. 제 마사지 덕분인가요?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "네, 네... 그럴지도 몰라요...",
+          "voiceFile": "talk_massage_habit_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "다른 변화도 있으면 알려주세요."
+        }
+      ]
+    },
+    "talk_looking_back": {
+      "topicName": "3개월을 돌아보며",
+      "trustEffect": 8,
+      "developEffect": 0,
+      "alertnessEffect": -10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "벌써 3개월이나 다니셨네요."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "그러네요... 처음엔 너무 긴장했었는데...",
+          "voiceFile": "talk_looking_back_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "이제는 완전히 익숙해졌네요."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "지금은 정말 릴랙스할 수 있는 곳이 됐어요.",
+          "voiceFile": "talk_looking_back_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "저한테 몸을 맡겨주게 돼서 기뻐요."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "몸도 마음도 정말 편해졌어요. 선생님 덕분이에요.",
+          "voiceFile": "talk_looking_back_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "앞으로도 건강 관리 함께 열심히 해요."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "네! 잘 부탁드려요.",
+          "voiceFile": "talk_looking_back_004"
+        }
+      ]
+    },
+    "talk_best_memory": {
+      "topicName": "비밀 공유",
+      "trustEffect": 7,
+      "developEffect": 0,
+      "alertnessEffect": -8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "이 3개월 중 가장 인상 깊었던 게 뭐예요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "음...",
+          "voiceFile": "talk_best_memory_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "저는 나나 씨가 리리큐어 이야기 해줬을 때요."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "어!? 그 이야기요...",
+          "voiceFile": "talk_best_memory_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "비밀을 털어놔줘서 기뻤어요. 특별한 관계가 된 기분이라서~"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "그때... 받아들여줘서 정말 기뻤어요.",
+          "voiceFile": "talk_best_memory_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "앞으로도 뭐든 이야기해줘요."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "네... 선생님한테는 뭐든 말할 수 있어요.",
+          "voiceFile": "talk_best_memory_004"
+        }
+      ]
+    },
+    "talk_first_love": {
+      "topicName": "첫사랑 이야기",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "나나 씨 첫사랑은 언제였어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "어!? 갑자기 뭐예요...",
+          "voiceFile": "talk_first_love_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "좋잖아요, 알려줘요~"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "...초등학교 4학년 때요.",
+          "voiceFile": "talk_first_love_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "오~어떤 애였어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "피아노 교실 선배였는데... 친절해서 항상 가르쳐줬어요...",
+          "voiceFile": "talk_first_love_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "고백했어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "그, 그런 건 무리예요! 보기만 해도 벅찼어요...",
+          "voiceFile": "talk_first_love_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "지금은 좋아하는 사람 있어요?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "없, 없어요...! 그럴 여유 없어요...",
+          "voiceFile": "talk_first_love_005"
+        }
+      ]
+    }
+  }
+}
