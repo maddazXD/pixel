@@ -1,0 +1,30 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(第10周了...终于两位数了)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(多亏奈奈酱口口相传，店里生意兴隆)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(听说今天的评价是\"会出现在梦里的治疗\")"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(嘛，确实用了特殊技术...不过这是商业秘密)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(这周也要好好制定计划行动)"
+    }
+  ]
+}
