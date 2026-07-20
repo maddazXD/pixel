@@ -1,0 +1,92 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(지난주 수지를 확인해보자...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(지난주도 손님은 나나짱 한 명뿐이었구나...)",
+      "conditions": {
+        "maxCustomerCount": 1
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(조금씩 손님이 늘어나고 있네. 계속 열심히 하자.)",
+      "conditions": {
+        "minCustomerCount": 2,
+        "maxCustomerCount": 9
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(지난주는 예약이 많았어. 순조로워.)",
+      "conditions": {
+        "minCustomerCount": 10,
+        "maxCustomerCount": 29
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(꽤 손님이 늘어났네. 바빠서 손이 모자랄 정도야. 매출도 순조로워!)",
+      "conditions": {
+        "minCustomerCount": 30,
+        "maxCustomerCount": 79
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(손, 손님이 너무 많아...! 매일 하루 종일 일해도 다 처리할 수 없어... 솔직히 힘들지만, 매출은 최고조야!)",
+      "conditions": {
+        "minCustomerCount": 80
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(빚은 아직 많이 남아있어. 갈 길이 멀구나...)",
+      "conditions": {
+        "maxDebtPaidRatio": 0.3
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(상환은 순조롭지만 아직 절반 정도... 더 열심히 해야겠어.)",
+      "conditions": {
+        "minDebtPaidRatio": 0.3,
+        "maxDebtPaidRatio": 0.6
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(빚도 조금만 더 있으면 상환할 수 있을 것 같아. 힘내서 벌어야지.)",
+      "conditions": {
+        "minDebtPaidRatio": 0.6,
+        "maxDebtPaidRatio": 0.9
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(빚은 완제했다! 이제 당당하게 자유의 몸이야...!)",
+      "conditions": {
+        "minDebtPaidRatio": 1.0
+      }
+    }
+  ]
+}
