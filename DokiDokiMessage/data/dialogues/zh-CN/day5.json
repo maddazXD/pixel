@@ -1,0 +1,265 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──星期四。第5周的早晨。\n与奈奈的关系加深了,治疗也变得更加大胆。而且幸运的是,店铺的经营状况也有了变化……"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(已经第5周了……最近一点一点地有新客人来了。)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(昨天来了3个,前天2个……大家都异口同声地说\"是朋友介绍来的\"。)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "早上好!今天也请多关照。",
+      "voiceFile": "story_day5_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "早上好,奈奈。其实我想谢谢你。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "谢我……为什么?",
+      "voiceFile": "story_day5_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "最近新客人增加了。大家都说\"是朋友介绍的\",我相信你一定为我宣传了店铺。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "哦……是的。我告诉朋友们的时候,大家都很感兴趣……",
+      "voiceFile": "story_day5_003"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "我真的很喜欢这里的按摩……所以想让大家也体验一下。",
+      "voiceFile": "story_day5_004"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "非常感谢。多亏了你,我觉得这家店能继续经营下去了。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "哪里……我只是觉得好才说的……",
+      "voiceFile": "story_day5_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "不过……那套特殊的衣服有点难解释……",
+      "voiceFile": "story_day5_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "哈哈哈,我想也是。但你看起来已经很习惯了。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "嗯……一开始很害羞,但现在已经觉得是治疗的一部分了。",
+      "voiceFile": "story_day5_007"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "那么,今天感觉怎么样?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "其实……最近身体变得非常敏感……",
+      "voiceFile": "story_day5_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "即使只是轻轻触碰也会吓一跳……",
+      "voiceFile": "story_day5_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "这是血液循环改善、神经变得活跃的证据。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "是这样吗……但感觉很奇怪……",
+      "voiceFile": "story_day5_010"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "特别是……胸部和腹部……感觉很麻……",
+      "voiceFile": "story_day5_011"
+    },
+    {
+      "id": "choice_massage5",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "我明白了……这是你的身体正在变化的证据。",
+      "choices": [
+        {
+          "label": "这是健康的反应",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "healthy_path"
+        },
+        {
+          "label": "你的女性荷尔蒙在活化",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "hormone_path"
+        },
+        {
+          "label": "你可能需要更多的开发",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "develop_path"
+        }
+      ]
+    },
+    {
+      "id": "healthy_path",
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "健康的反应……这样啊。那就放心了。",
+      "voiceFile": "story_day5_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "是的。这证明你的身体正常运作,不用担心。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "hormone_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "女-女性荷尔蒙……是说?",
+      "voiceFile": "story_day5_013"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的。按摩改善血液循环时,荷尔蒙平衡也会得到调节。这意味着你变得更有女人味了。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "更有女人味……这么说来,最近皮肤状况也变好了……",
+      "next": "change_clothes",
+      "voiceFile": "story_day5_014"
+    },
+    {
+      "id": "develop_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "开-开发……?",
+      "voiceFile": "story_day5_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "啊,不……我是说提高身体的敏感度。你的身体还有隐藏的潜力。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "这-这么说……有点害羞……",
+      "voiceFile": "story_day5_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "抱歉抱歉。但这意味着你还能感受到更舒服的感觉。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "那么,今天也请换衣服吧。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "好的。我已经相当习惯了。",
+      "voiceFile": "story_day5_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(但是……最近穿上这套衣服的时候,心跳会加速……)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day5_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "换好了。",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day5_019"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(依然是美妙的身体……)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "今天,我会比平时更加仔细地为你治疗。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "诶……比平时更仔细……?",
+      "voiceFile": "story_day5_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的。你是特别的客人。可以说是VIP待遇。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "特-特别……太过了……",
+      "voiceFile": "story_day5_021"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那么,开始吧。"
+    }
+  ]
+}
