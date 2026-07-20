@@ -1,0 +1,277 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──6週目の朝。\n新規顧客も定着し始め、経営は徐々に軌道に乗りつつある。そしてナナちゃんとの関係も新たな段階へ…。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（6週間…長いようで短かった。ナナちゃんはもう完全に常連だ。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（そして彼女の身体も心も、確実に変化している。今日はもう一歩踏み込んでも…）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "おはようございます！",
+      "voiceFile": "story_day6_001"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "あの…今日で6回目ですよね。もうすっかり習慣になっちゃいました。",
+      "voiceFile": "story_day6_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "そうだね。君のおかげで、この店も賑わってきたよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "そんな…でも、友達もみんな満足してるみたいで、私も嬉しいです。",
+      "voiceFile": "story_day6_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "でも…みんな、あのウェアにはびっくりしてました…。",
+      "voiceFile": "story_day6_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ははは、でもみんな最後には納得してくれるだろう？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "はい。効果があるって分かれば、みんな受け入れてくれますから。",
+      "voiceFile": "story_day6_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "ところで、今日の調子はどう？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "実は…最近、夢見が悪くて…。",
+      "voiceFile": "story_day6_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "変な夢ばかり見ちゃうんです。身体が熱くなるような…恥ずかしい夢を…。",
+      "voiceFile": "story_day6_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ほう…どんな夢か、詳しく聞かせてもらえる？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "そ、それは…言えません…！でも、朝起きると、すごく疲れてて…。",
+      "voiceFile": "story_day6_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "それに…下着が…その…濡れてることもあって…。",
+      "voiceFile": "story_day6_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（おお…ついにそこまで来たか。身体が完全に目覚め始めてる…）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それは身体が成熟してきてる証拠だよ。抑圧された欲求が夢に現れてるんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "欲求…ですか？",
+      "voiceFile": "story_day6_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう。人間には誰にでも、満たされたい欲求がある。それを無視し続けると、身体に不調が出るんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "じゃあ…どうすれば…？",
+      "voiceFile": "story_day6_011"
+    },
+    {
+      "id": "choice_massage6",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "今日は特別な施術を試してみようか。",
+      "choices": [
+        {
+          "label": "リラクゼーション重視の施術",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "relax_path"
+        },
+        {
+          "label": "深層心理に働きかける施術",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "psychology_path"
+        },
+        {
+          "label": "性感帯を刺激する施術",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "erogenous_path"
+        }
+      ]
+    },
+    {
+      "id": "relax_path",
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "リラクゼーション…それなら安心です。",
+      "voiceFile": "story_day6_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "心身をリラックスさせることで、自然と欲求も落ち着くはずだよ。",
+      "next": "special_treatment"
+    },
+    {
+      "id": "psychology_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "深層心理…なんだか難しそうですね。",
+      "voiceFile": "story_day6_013"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "身体と心は繋がってるから。心の奥底にある欲求を解放することで、身体も楽になるんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "欲求を解放…なんだかドキドキします…。",
+      "next": "special_treatment",
+      "voiceFile": "story_day6_014"
+    },
+    {
+      "id": "erogenous_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "せ、性感帯！？",
+      "voiceFile": "story_day6_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "驚かないで。これも立派な医学的アプローチなんだ。性感帯への適切な刺激は、ホルモンバランスを整える効果がある。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "で、でも…そんなの恥ずかしすぎます…！",
+      "voiceFile": "story_day6_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "大丈夫。君なら受け入れられるはずだ。今までの施術で、君の身体は十分準備ができてる。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "じゅ、準備って…まるで私の身体が、そういうのを求めてるみたいな言い方…。",
+      "voiceFile": "story_day6_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "実際、求めてるんだよ。君の身体は正直だ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そ、そんな……。",
+      "voiceFile": "story_day6_018",
+      "next": "special_treatment"
+    },
+    {
+      "id": "special_treatment",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "じゃあ、いつものように着替えてくれるかな。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "（際どい部分のマッサージは、やっぱり恥ずかしい…けど…）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day6_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "（…なんだか期待してる自分もいる…これって変なのかな…？）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day6_020"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "着替えました…",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day6_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（完璧だ…今までの施術で、ナナちゃんの身体は見違えるほど色っぽくなった…）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それじゃあ、ベッドに横になって。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "は、はい……。",
+      "voiceFile": "story_day6_022"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それじゃあ始めようか。"
+    }
+  ]
+}
