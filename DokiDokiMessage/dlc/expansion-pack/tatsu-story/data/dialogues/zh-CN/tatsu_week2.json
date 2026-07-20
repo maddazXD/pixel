@@ -1,0 +1,315 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "——开业第二周的早晨。\n看到邮箱里默默塞进来的一沓账单，我头晕目眩。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（电费、水费、房租……糟了，没钱了……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（手头的钱所剩无几……客人还是只有龙姐一个。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（不过，至少有利息宽限……得感谢龙姐才行。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……话说回来，要感谢的对象是高利贷，这算怎么回事……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "哟。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "龙姐！您来了！",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……嗯，确实有效果。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "上周治疗之后，感觉肩膀轻了不少。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "真的吗！太好了！",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "别得意忘形。债还是债。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "我、我知道……",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（不过，她承认效果了，还是挺高兴的……）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "多亏了你，我打了三个半庄的麻将。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "那可太厉害了！",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "那，今天怎么弄？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "今天打算以背部和腰部为主进行治疗。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "背和腰啊。确实，那里也挺僵的。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "请您趴着接受治疗。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "趴着？嗯，大概就是这么回事吧。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "好的。从背部到腰部，我会仔细帮您放松。",
+      "hideCharacter": true
+    },
+    {
+      "id": "choice_massage2",
+      "character": "player",
+      "expression": "normal",
+      "text": "可以让我检查一下背部和腰部的状态吗？",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "检查背肌的紧张程度",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "normal_path"
+        },
+        {
+          "label": "沿着腰到臀部的线条抚摸探查",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "hip_path"
+        },
+        {
+          "label": "慢慢地往大腿内侧……",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "inner_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "背肌绷得很紧呢。我来慢慢放松深层肌肉。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……嗯，只要你认真做，我就不说什么。",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "change_clothes"
+    },
+    {
+      "id": "hip_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "那么……我沿着腰到臀部的线条检查一下。",
+      "hideCharacter": true
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "（慢慢抚摸过去，紧绷的肌肉带着热度回应着……）",
+      "cutInImage": "tatsu_butt_check"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（哇……好有弹性……不愧是H90……）",
+      "hideCharacter": true,
+      "cutInImage": "tatsu_butt_check"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "嗯……喂，别用那种奇怪的方式摸。",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_butt_check"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "对、对不起！我只是在检查臀大肌的紧张程度……",
+      "hideCharacter": true,
+      "next": "change_clothes"
+    },
+    {
+      "id": "inner_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "……失礼了。我检查一下大腿内侧的状况。",
+      "hideCharacter": true
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "（轻轻触碰大腿根部……）",
+      "cutInImage": "tatsu_inner_thigh"
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "唔……！喂、喂……那里……",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_inner_thigh"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "我只是在检查淋巴的流通情况……",
+      "hideCharacter": true,
+      "cutInImage": "tatsu_inner_thigh"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（……好像有点热……？）",
+      "hideCharacter": true,
+      "cutInImage": "tatsu_inner_thigh"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……不是因为那种意思才有反应的啊。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "当、当然！",
+      "hideCharacter": true,
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal",
+      "text": "在那之前，请您换上治疗用的服装。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "……又是那块破布啊。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……真是的，穿这个会着凉的。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "（龙姐不情愿地开始换衣服……）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "都说了别看，你这混蛋。",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（可是眼睛不听使唤……糟了……）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "换好了。别往奇怪的地方看。",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（果然身材太好了……）",
+      "hideCharacter": true
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "那么，我们继续开始治疗吧。"
+    }
+  ]
+}
