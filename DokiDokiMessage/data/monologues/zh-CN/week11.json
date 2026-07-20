@@ -1,0 +1,25 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(第11周了...开业快3个月了...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(奈奈酱还是每周都来，成了固定常客)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(债务还款期限快到了。得最后冲刺一把)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(那么，这周该做什么呢...)"
+    }
+  ]
+}
