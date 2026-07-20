@@ -1,0 +1,339 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "——第11周的早晨。\n菜菜和我之间的信任已经大大加深了。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(菜菜已经相当习惯治疗了...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(最近她身体的反应改善了,很健康)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "早、早上好...",
+      "voiceFile": "story_day11_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "哦...?今天已经湿了?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "诶!?不、不是的...!",
+      "voiceFile": "story_day11_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "从走路的样子就能看出来。双腿夹得紧紧的,对吧?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "那、那是...只是身体不舒服...",
+      "voiceFile": "story_day11_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "嗯...{{playerName}}先生...我有事想商量...",
+      "voiceFile": "story_day11_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "什么事?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "最近,只是正常生活...嗯...就很容易湿...",
+      "voiceFile": "story_day11_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "上课时只是坐在椅子上,下面就会发痒...",
+      "voiceFile": "story_day11_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "上课时?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "椅子...会湿掉...站起来的时候好尴尬...",
+      "voiceFile": "story_day11_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那一定很辛苦。还有其他的吗?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "爬楼梯的时候也...大腿互相摩擦...差点叫出声...",
+      "voiceFile": "story_day11_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "前几天,朋友只是拍了拍我的肩膀...",
+      "voiceFile": "story_day11_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "只是拍肩膀?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "身体猛地一抖...被问\"你还好吗\"...",
+      "voiceFile": "story_day11_010"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "我冲到洗手间...内裤已经湿透了...",
+      "voiceFile": "story_day11_011"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(她的身体完全被开发了...太好了)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "还有,在电车上...",
+      "voiceFile": "story_day11_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "电车上也会发生什么吗?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "必须紧紧抓住吊环...震动...受不了...",
+      "voiceFile": "story_day11_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "前几天,电车突然停车,身体晃动……然后...",
+      "voiceFile": "story_day11_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "然后?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "发出了奇怪的声音...周围的人都看过来...",
+      "voiceFile": "story_day11_015"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "在下一站下车,去了车站厕所...然后...",
+      "voiceFile": "story_day11_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "全身无力了...",
+      "voiceFile": "story_day11_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(在车站厕所高潮了...好色情)"
+    },
+    {
+      "id": "choice_massage11",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "我明白了。今天该怎么办呢?",
+      "choices": [
+        {
+          "label": "做调节敏感度的治疗吧",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "sensitivity_down_path"
+        },
+        {
+          "label": "练习感觉更好吧",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "practice_path"
+        },
+        {
+          "label": "让全身都变成敏感带怎么样",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "full_body_path"
+        }
+      ]
+    },
+    {
+      "id": "sensitivity_down_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "降低敏感度...能做到吗?",
+      "voiceFile": "story_day11_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "当然!用特殊精油可以适当调节你的敏感度。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "太好了...那我就放心了。",
+      "next": "prepare_session",
+      "voiceFile": "story_day11_019"
+    },
+    {
+      "id": "practice_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "练、练习...?",
+      "voiceFile": "story_day11_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的!如果学会控制,就不会有问题了!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "但、但是...很害羞...",
+      "next": "prepare_session",
+      "voiceFile": "story_day11_021"
+    },
+    {
+      "id": "full_body_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "全、全身!?",
+      "voiceFile": "story_day11_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的!这样光是触碰一根头发就会抽搐颤抖!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "那、那样会更糟糕...!",
+      "voiceFile": "story_day11_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "没关系!我会永远照顾你的。",
+      "next": "prepare_session"
+    },
+    {
+      "id": "prepare_session",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "嗯...还有...最近做的梦变好了...",
+      "voiceFile": "story_day11_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那很好。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "有时候会梦到治疗...",
+      "voiceFile": "story_day11_025"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "早上醒来时,身体感觉真的很放松。",
+      "voiceFile": "story_day11_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "这是治疗有效的证明。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "老师的治疗真的很有效...",
+      "voiceFile": "story_day11_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那么,换衣服吧。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(这件衣服...也已经相当习惯了呢...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day11_028"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "换、换好了...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day11_029"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "准备好了吗?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "好、好的...拜托了。",
+      "voiceFile": "story_day11_030"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "现在,让我们认真进行今天的治疗。"
+    }
+  ]
+}
