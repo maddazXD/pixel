@@ -1,0 +1,219 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3개월 후.\n정체원은 지역 밀착형의 건전한 정체원으로 자리 잡았다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "선생님, 안녕하세요!",
+      "voiceFile": "ending_trust_max_001"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "안녕, 나나. 이번 주도 잘 왔네."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "네. 선생님을 만나러 왔어요.",
+      "voiceFile": "ending_trust_max_002"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "오늘은 시술 예약이 아니었지?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "…네. 에헤헤… 잠깐 얘기하고 싶어서…",
+      "voiceFile": "ending_trust_max_003"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(완전히 마음을 열었구나…)"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "저기… 학교에서 이런 일이 있었는데…",
+      "voiceFile": "ending_trust_max_004"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "응응."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "나나는 최근 학교 생활 이야기를 즐겁게 하기 시작했다."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "그래서, 친구가…",
+      "voiceFile": "ending_trust_max_005"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "오, 그거 잘됐네."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closemouth",
+      "text": "그리고… 요즘 좀 고민되는 게 있어서…",
+      "voiceFile": "ending_trust_max_006"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "어떤 건데?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "진로라든가… 장래 같은 거…",
+      "voiceFile": "ending_trust_max_007"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "그렇구나. 이것저것 고민할 시기지."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "이런 건… 누구한테 상담해야 할지 모르겠어서…",
+      "voiceFile": "ending_trust_max_008"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "나로 괜찮다면, 언제든 상담해줄게."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "…감사합니다.",
+      "voiceFile": "ending_trust_max_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "선생님은… 아빠 같아서…",
+      "voiceFile": "ending_trust_max_010"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "아, 아빠?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "아, 아니… 그건 실례겠죠. 음… 오빠… 같은…?",
+      "voiceFile": "ending_trust_max_011"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "하하하, 어느 쪽이든 괜찮아."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "아무튼… 정말 든든해요.",
+      "voiceFile": "ending_trust_max_012"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "그냥 계셔주는 것만으로… 안심이 된다고 할까…",
+      "voiceFile": "ending_trust_max_013"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "그렇게 말해주니 기쁘네."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "네. 선생님이 계셔서 힘낼 수 있어요.",
+      "voiceFile": "ending_trust_max_014"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(참 착하게 자랐구나…)"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "저기… 선생님.",
+      "voiceFile": "ending_trust_max_015"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "응?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "저… 선생님을 만나서 정말 다행이에요.",
+      "voiceFile": "ending_trust_max_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "시술뿐만 아니라… 가족처럼… 다정하게 대해주셔서…",
+      "voiceFile": "ending_trust_max_017"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "나야말로. 나나를 만나서 기뻤어."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "앞으로도… 계속, 잘 부탁드려요.",
+      "voiceFile": "ending_trust_max_018"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "응, 나야말로."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "나나는 시술을 받기 위해서뿐만 아니라, 근황 보고나 고민 상담을 위해서도 정체원을 찾게 되었다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "그것은 시술사와 환자라는 관계를 넘어선, 가족 같은 유대였다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【TRUST MAX END - 신뢰의 유대】",
+      "triggerEnding": "trust_max"
+    }
+  ]
+}
