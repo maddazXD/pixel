@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(第7周结束了...时间过得真快)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(多亏奈奈酱介绍朋友，新客人开始增加了)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(口碑不错，营业额也在稳步增长)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(是不是该买些新设备了)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(也想参加些高级研讨会提升技术)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(或者试试赌博大赢一笔加速还款...?)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(不，还是找个兼职比较好...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(那么，这周该做什么呢...)"
+    }
+  ]
+}
