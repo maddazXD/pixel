@@ -1,0 +1,158 @@
+[
+  {
+    "id": "tatsu_week1_shoulder_stiff",
+    "week": 1,
+    "title": "어깨 결림·목 뻣뻣함",
+    "description": "만성적인 어깨 결림과 목의 뻣뻣함이 있다",
+    "recommendedParts": ["shoulder", "shoulder_back", "neck", "back_upper"],
+    "effectMultiplier": {
+      "recommended": 1.0,
+      "other": 0.5
+    },
+    "backgroundColor": "#E8F4FD",
+    "textColor": "#1E40AF"
+  },
+  {
+    "id": "tatsu_week2_back_pain",
+    "week": 2,
+    "title": "등·허리 뻣뻣함",
+    "description": "데스크워크로 인한 등과 허리의 뻣뻣함이 있다",
+    "recommendedParts": ["back_upper", "back_lower", "waist", "shoulder_back"],
+    "effectMultiplier": {
+      "recommended": 1.0,
+      "other": 0.5
+    },
+    "backgroundColor": "#F0F9E8",
+    "textColor": "#15803D"
+  },
+  {
+    "id": "tatsu_week3_leg_fatigue",
+    "week": 3,
+    "title": "다리 피로",
+    "description": "돌아다니느라 다리 전체의 피로와 부종이 있다",
+    "recommendedParts": ["thigh", "calf", "foot", "outer_thigh", "inner_thigh"],
+    "effectMultiplier": {
+      "recommended": 1.0,
+      "other": 0.5
+    },
+    "backgroundColor": "#FEF3E2",
+    "textColor": "#DC2626"
+  },
+  {
+    "id": "tatsu_week4_stomach_stress",
+    "week": 4,
+    "title": "복부 팽만감",
+    "description": "스트레스로 인한 복부 팽만감과 불쾌감이 있다",
+    "recommendedParts": ["stomach", "waist"],
+    "effectMultiplier": {
+      "recommended": 1.0,
+      "other": 0.5
+    },
+    "backgroundColor": "#F3E8FF",
+    "textColor": "#7C3AED"
+  },
+  {
+    "id": "tatsu_week5_shoulder_again",
+    "week": 5,
+    "title": "어깨 결림 (악화)",
+    "description": "정신적 긴장으로 인한 어깨 결림 악화가 있다",
+    "recommendedParts": ["shoulder", "shoulder_back", "neck", "back_upper"],
+    "effectMultiplier": {
+      "recommended": 1.0,
+      "other": 0.5
+    },
+    "backgroundColor": "#FDF2F8",
+    "textColor": "#BE185D"
+  },
+  {
+    "id": "tatsu_week6_whole_body",
+    "week": 6,
+    "title": "전신 피로",
+    "description": "전신의 피로감과 권태감이 있다",
+    "recommendedParts": ["shoulder", "shoulder_back", "waist", "thigh", "calf", "back_upper", "back_lower"],
+    "effectMultiplier": {
+      "recommended": 1.0,
+      "other": 0.7
+    },
+    "backgroundColor": "#ECFDF5",
+    "textColor": "#059669"
+  },
+  {
+    "id": "tatsu_week7_chest_stiff",
+    "week": 7,
+    "title": "가슴 주변 결림",
+    "description": "가슴 주변 근육의 경직이 있다",
+    "recommendedParts": ["shoulder", "shoulder_back", "back_upper"],
+    "effectMultiplier": {
+      "recommended": 1.0,
+      "other": 0.5
+    },
+    "backgroundColor": "#FEF7CD",
+    "textColor": "#D97706"
+  },
+  {
+    "id": "tatsu_week8_lower_body",
+    "week": 8,
+    "title": "하반신 나른함",
+    "description": "하반신의 나른함과 위화감이 있다",
+    "recommendedParts": ["thigh", "calf", "waist", "outer_thigh", "inner_thigh"],
+    "effectMultiplier": {
+      "recommended": 1.0,
+      "other": 0.5
+    },
+    "backgroundColor": "#E0E7FF",
+    "textColor": "#3730A3"
+  },
+  {
+    "id": "tatsu_week9_cant_sleep",
+    "week": 9,
+    "title": "불면·전신 긴장",
+    "description": "불면과 전신의 근긴장이 있다",
+    "recommendedParts": ["shoulder", "neck", "back_upper", "back_lower", "waist"],
+    "effectMultiplier": {
+      "recommended": 1.0,
+      "other": 0.6
+    },
+    "backgroundColor": "#FCE7F3",
+    "textColor": "#A21CAF"
+  },
+  {
+    "id": "tatsu_week10_sensitive_body",
+    "week": 10,
+    "title": "신체 과민",
+    "description": "전신의 과민과 긴장 상태가 계속되고 있다",
+    "recommendedParts": ["shoulder", "shoulder_back", "thigh", "waist", "back_upper"],
+    "effectMultiplier": {
+      "recommended": 1.2,
+      "other": 0.8
+    },
+    "backgroundColor": "#FFE4E6",
+    "textColor": "#BE123C"
+  },
+  {
+    "id": "tatsu_week11_whole_body2",
+    "week": 11,
+    "title": "전신 케어",
+    "description": "전신에 피로가 축적되어 있다",
+    "recommendedParts": ["shoulder", "shoulder_back", "waist", "thigh", "calf", "back_upper", "back_lower"],
+    "effectMultiplier": {
+      "recommended": 1.2,
+      "other": 0.8
+    },
+    "backgroundColor": "#F0FDF4",
+    "textColor": "#14532D"
+  },
+  {
+    "id": "tatsu_week12_last_session",
+    "week": 12,
+    "title": "마지막 시술",
+    "description": "전신 케어를 희망",
+    "recommendedParts": ["shoulder", "shoulder_back", "waist", "thigh", "calf", "foot", "back_upper", "back_lower"],
+    "effectMultiplier": {
+      "recommended": 1.2,
+      "other": 0.8
+    },
+    "backgroundColor": "#FFF7ED",
+    "textColor": "#C2410C"
+  }
+]
