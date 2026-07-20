@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(두 번째 달에 접어들었어... 빠르네)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나짱은 단골이 돼서, 거의 매일 와)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(요즘 치료 요청이 점점 구체적이어서, 내 전문성이 시험받고 있어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(빚 상환을 잊으면 안 돼)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(상점에서 새 치료 도구를 사야 할까)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자금을 늘리기 위해 아르바이트를 하는 것도 방법이야)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(이번 주는 뭘 할까...)"
+    }
+  ]
+}
