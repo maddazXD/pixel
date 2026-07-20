@@ -1,0 +1,25 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(9주차 끝... 잘 되는 게 무섭기까지 해)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나짱 친구들의 소개가 계속 늘고 있어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(많은 고객들이 \"나나짱이 엄청 칭찬했어요\"라고 와)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그럼, 이번 주는 무엇에 시간을 쓸까)"
+    }
+  ]
+}
