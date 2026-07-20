@@ -1,0 +1,481 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──세 번째 주 아침.\n지난주 마사지가 잘 된 것 같다—나나가 나를 신뢰하기 시작하는 걸 느끼고 있다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(2주 연속으로 왔어... 이건 혹시...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(아니, 판단하기엔 너무 이르다. 하지만 확실히 내 시술을 좋아하는구나.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(어쩌면 오늘은... 좀 더 나아갈 수 있을지도...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(하지만 먼저 지난주 재정 상태를 확인해보자...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(…역시 그렇군, 고정비가 너무 높아. 이대로는 적자는 고사하고 빚도 갚지 못해...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(문 차임 소리가 났다. 나나인가?)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "이봐, 있어?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "타-타츠...!",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(젠장... 고리대금업자 타츠다. 지난달 빌린 돈을 받으러 온 거야...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그래도 정말 대단한 가슴이네... 저렇게 크면 어깨가 많이 아플 텐데...)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "무슨 표정이야? 손님 보고 그리 안 좋아하나.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "아-아니, 그게 아니라...",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "그래서? 이번 달 상환금 준비했지?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_choice",
+      "character": "player",
+      "expression": "alert",
+      "text": "그-그게... 조금 더 시간이 필요해서...",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "변명하기",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_excuse"
+        },
+        {
+          "label": "다음 주까지 갚겠다고 약속하기",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_promise"
+        },
+        {
+          "label": "10만 엔 추가로 빌리기",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_borrow"
+        }
+      ]
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "저, 손님이 많지 않아서... 그리고 요즘 경기도 안 좋고...",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "변명은 듣기 싫어. 돈 내놓으라고.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "죄-죄송합니다...",
+      "hideCharacter": true,
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_promise",
+      "character": "player",
+      "expression": "alert",
+      "text": "다음 주까지 전액 갚겠습니다!",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "다음 주? 너 그런 말 할 시간 있다고 생각해?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "죄-죄송합니다...",
+      "hideCharacter": true,
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_borrow",
+      "character": "player",
+      "expression": "alert",
+      "text": "사실... 10만 엔을 더 빌리고 싶은데...",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "뭐? 갚지도 못하면서 더 빌리겠다고?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "...좋아. 하지만 이자는 두 배야. 다음에도 못 갚으면... 어떻게 되는지 알지?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠가 가슴 주머니에서 지폐 뭉치를 꺼낸다. 몸을 앞으로 숙이자 가슴골이 보이는데...)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "자, 10만 엔. 이제 빚이 60만 엔이 됐어.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "100,000G를 빌렸습니다",
+      "moneyDelta": 100000,
+      "debtDelta": 100000,
+      "playSE": "cash_register",
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_threat",
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "...오늘은 그냥 확인하러 왔어. 다음엔 봐주지 않아.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "다음에 못 갚으면 장기 팔게 할 거야. 신장 하나만 있어도 살 수 있잖아?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(무섭네... 하지만 타츠의 어깨가 정말 뻣뻣해 보여. 저 무거운 가슴을 지탱하려면...)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "그럼. 다음에 올 때는 준비해 놔.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(문 닫히는 소리... 하... 또 협박당했네...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(하지만 타츠도 치료가 필요해 보이는데... 저 거대한 가슴이면 어깨 통증이 심할 텐데... 잠깐, 내가 뭘 생각하는 거야?)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(문 차임이 또 울렸다... 이번엔 나나겠지?)"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "좋은 아침이에요! 오늘도 잘 부탁드려요!",
+      "characterImage": null,
+      "voiceFile": "story_day3_001"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "방금 정말 화난 것 같은 여자분을 지나쳤는데... 손님이었나요?",
+      "characterImage": null,
+      "voiceFile": "story_day3_002"
+    },
+    {
+      "character": "player",
+      "expression": "doubt_closemouth_sweat",
+      "text": "아, 네... 그냥 잠깐 들른 아는 사람이에요. 걱정 마세요."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "그렇군요... 근데 안색이 좀 안 좋아 보여요. 괜찮으세요?",
+      "characterImage": null,
+      "voiceFile": "story_day3_003"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "괜찮아요. 걱정해 주셔서 고마워요, 나나씨."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "아무튼 오늘도 와주셔서 감사해요. 컨디션은 어떠세요?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "지난주 마사지 덕분에 정말 잘 잤어요. 어깨도 좋아졌고...",
+      "characterImage": null,
+      "voiceFile": "story_day3_004"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "하지만 오늘은... 허리가 좀 무거운 느낌이 들어요...",
+      "characterImage": null,
+      "voiceFile": "story_day3_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "허리군요. 걱정되네요. 어떤 무거움인가요?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "저... 묵직한 느낌이고, 가끔 욱신거려요... 앉아 있으면 좀 나아지는데.",
+      "characterImage": null,
+      "voiceFile": "story_day3_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그리고... 허벅지 안쪽이 좀 뻣뻣한 느낌도 들어요...",
+      "characterImage": null,
+      "voiceFile": "story_day3_007"
+    },
+    {
+      "id": "choice_massage3",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "알겠습니다. 허리부터 허벅지까지의 경직. 신중하게 다뤄야겠네요.",
+      "choices": [
+        {
+          "label": "골반 틀어짐일 수도 있어요",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "pelvis_path"
+        },
+        {
+          "label": "민감한 부위네요",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "sensitive_path"
+        },
+        {
+          "label": "허리 통증... 혹시...",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "check_path"
+        }
+      ]
+    },
+    {
+      "id": "pelvis_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "골반 틀어짐...?",
+      "characterImage": null,
+      "voiceFile": "story_day3_008"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "네. 장시간 앉아 있거나 자세 습관 때문에 골반이 틀어지면 허리와 허벅지에 영향을 줄 수 있어요."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "그렇군요... 최근에 오래 앉아서 공부했어요.",
+      "characterImage": null,
+      "next": "change_clothes",
+      "voiceFile": "story_day3_009"
+    },
+    {
+      "id": "sensitive_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "민-민감하다니... 그-그런 말 하지 마세요...",
+      "characterImage": null,
+      "voiceFile": "story_day3_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "아, 아니요, 그냥 신경이 집중된 부위라 자극에 민감하다는 뜻이에요."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "하지만 그렇기 때문에 제대로 관리하면 정말 기분 좋을 수 있어요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "기-기분 좋다니... 그렇군요...",
+      "characterImage": null,
+      "next": "change_clothes",
+      "voiceFile": "story_day3_011"
+    },
+    {
+      "id": "check_path",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "허리 통증... 최근에 격한 운동을 하셨나요?"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "네? 아-아니요... 특별한 운동은...",
+      "characterImage": null,
+      "voiceFile": "story_day3_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그럼 밤늦게까지 깨어 있거나... 침대에서 이상한 자세로...?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "왜-왜 그런 걸 물어보세요!?",
+      "characterImage": null,
+      "voiceFile": "story_day3_013"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "음, 허리 통증의 원인은 예상 밖일 수 있거든요. 예를 들어... 남자친구 있어요?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "없-없어요...",
+      "characterImage": null,
+      "voiceFile": "story_day3_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "미안해요, 미안해요. 하지만 가끔 젊은 여성의 허리 통증은... 격렬한 밤 때문에... 아시죠"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "뭐...! 이상한 소리 하지 마세요...!",
+      "characterImage": null,
+      "voiceFile": "story_day3_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "맞아요, 물론이죠. 나나씨는 진지한 분이니까요.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "좋아요, 그럼 평소처럼 시술복으로 갈아입어 주시겠어요?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "네... 이제 익숙해졌어요...",
+      "characterImage": null,
+      "voiceFile": "story_day3_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(처음엔 정말 부끄러웠는데... 어쩌면 이 옷이 마사지하기 더 편한 걸지도...)",
+      "characterImage": null,
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day3_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "갈아입었어요. 오늘도 잘 부탁드려요.",
+      "characterImage": null,
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day3_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "감사합니다. 오늘은 허리 부위를 잘 관리해 드릴게요."
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "좋아요, 시술을 시작하겠습니다."
+    }
+  ]
+}
