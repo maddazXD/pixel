@@ -1,0 +1,519 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3个月后。\n那天，没有预约的施术。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "欢迎光……龙姐？今天没有预约啊。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……没什么。路过顺便进来看看。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(路过……？这附近又没有高利贷的客户……)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "要喝杯茶吗？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……嗯。来一杯。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "龙姐没有去施术台，而是一屁股坐在了候诊室的沙发上。\n虽然穿着平时的西装，但脸上带着几分疲惫。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "请用。……发生什么事了吗？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……没什么。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…………。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……………。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……手下背叛了我。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…………。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "照顾了3年的人，带着钱跑了。还带走了两个客户。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……钱无所谓。客户再找就行了。但是。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……被信任的人背叛这种事，不管经历多少次都不好受。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(……第一次看到龙姐露出这样的表情。作为高利贷老板，一直不得不表现得很强势的人……)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……龙姐。要做个施术吗？反正预约是空的。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……可以吗。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "身体大概硬得不行吧。压力全都积在肌肉上了。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──施术中"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……果然。肩膀、脖子、后背，全都僵硬得不行。忍了很久吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……嗯……",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "这里，按一下。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……！",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(……腰部那里抖了一下。那12周的条件反射，还残留着呢……)"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "…………。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……我说。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "嗯。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……我没有爸爸。小时候就不见了。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…………。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "所以什么都是自己决定的。钱的事也好，人的事也好。从来没有可以商量的人。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "当了老板之后更甚。示弱就完了。在手下面前怎么可能倒苦水。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(……龙姐竟然会跟我说这些。)"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……可是。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "不知道为什么，在你面前就会这样叭叭地说个不停。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……施术的时候，人很容易说出真心话。身体放松了，心也会跟着放松。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "……挺会说的。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "这里是施术台上。说什么都不会传出去。我保证。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "…………。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……你，像大哥一样。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……大哥？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……不，怎么说呢……不管发生什么都不慌不忙，默默地听着。如果家里有这样的人，我大概能活得轻松一些吧……",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(……没想到会被高利贷老板叫'大哥'。)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……荣幸之至。那，作为大哥说一句。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……什么。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那个背叛你的人，不是龙姐看人的眼光有问题。正因为龙姐值得信赖，人们才会追随你。只是碰巧抽到了一张烂牌而已。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "…………。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "……真是的。你一说，我就莫名地信了。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──施术后"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "呼……嗯，舒服多了。身体和脑子都是。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那就好。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……还有。我手下的小弟们身体都快废了。到处跑着催债，肩膀腰都不行了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "介绍他们来你这里，行不行？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "当然可以。很乐意为他们看看。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "好。下周开始带几个过来。钱会让他们好好付的。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(高利贷老板带手下过来……虽然很感激，但开着黑色轿车来的话就饶了我吧……)"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "……还有。之前那个收购的事，还有效哦。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "饶了我吧。那次您砰地拍桌子的时候，我以为心脏要停了。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "哼。开玩笑的。……一半是。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(一半开玩笑就是一半认真的意思吧……)"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……总之。真遇到麻烦了就跟我说。钱也好人也好，我都能搞定。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……谢谢。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "不用谢。只是欠大哥的而已。……身体上的，还有其他的。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(……就是不肯直说'我在意你'。但是我已经看过她在施术台上的表情了，这就够了。)"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "走了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "好。……随时来。不用预约也没关系。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "阿安",
+      "hideCharacter": true,
+      "text": "老大！来接您了！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "嗯。等一下。",
+      "outfit": "suit"
+    },
+    {
+      "character": "阿安",
+      "hideCharacter": true,
+      "text": "……啊！您就是老大一直在去的那个……？"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "啊，是的。我是整骨师……"
+    },
+    {
+      "character": "阿安",
+      "hideCharacter": true,
+      "text": "大哥！对吧！老大从来没有哪里是每周都去的，我们都好奇着呢！"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……诶？大哥……？"
+    },
+    {
+      "character": "阿安",
+      "hideCharacter": true,
+      "text": "您是老大的这个对吧？"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "阿安伸出小指，一脸坏笑。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "不是啊……？我们只是施术师和患者的关系……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……！蠢货！！不是的！！",
+      "outfit": "suit"
+    },
+    {
+      "character": "阿安",
+      "hideCharacter": true,
+      "text": "诶~？可是老大，每次来这里之前都坐立不安的，回去之后心情又特别好……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "阿安。车。马上。闭嘴。",
+      "outfit": "suit"
+    },
+    {
+      "character": "阿安",
+      "hideCharacter": true,
+      "text": "是、是！对不起！……大哥，老大就拜托您了！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "阿安！！",
+      "outfit": "suit"
+    },
+    {
+      "character": "阿安",
+      "hideCharacter": true,
+      "text": "呜哇！走了走了！"
+    },
+    {
+      "character": "player",
+      "text": "(……完全被当成恋人了……龙姐，脸红透了……)"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……那家伙说的话全部忘掉。听到了吗。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……好。"
+    },
+    {
+      "character": "player",
+      "text": "(……来这里之前会坐立不安吗。)"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……！……走了。下周见。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "好。下周见。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "目送龙姐的背影，心中忽然有了一个想法。"
+    },
+    {
+      "character": "player",
+      "text": "(那12周。她身体的哪里被碰会发出声音，我全都记住了。)"
+    },
+    {
+      "character": "player",
+      "text": "(……如果当时更进一步，阿安的误会也许就不是误会了吧。)"
+    },
+    {
+      "character": "player",
+      "text": "(……但如果能成为她唯一可以卸下伪装的地方，那就足够了。)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "每周的施术，偶尔不预约就突然来访的日子。\n多亏她介绍了手下，经营也稳定了下来。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "高利贷老板唯一展露真实自我的地方。\n她的手下们，不知为什么叫我『大哥』。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "……阿安的误会，和那12周记住的身体记忆，\n就作为施术台上的秘密吧。",
+      "triggerEnding": "trust_max"
+    }
+  ]
+}
