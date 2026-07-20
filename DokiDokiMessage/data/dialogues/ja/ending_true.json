@@ -1,0 +1,302 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3ヶ月後。\n整体院は予約が取れない超人気店になっていた。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "先生、おはようございます…",
+      "voiceFile": "ending_true_001"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ナナちゃん、今日も朝一番だね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "はい…早く施術をお願いしたくて…",
+      "voiceFile": "ending_true_002"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "そんな風に言ってもらえると嬉しいな"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "それに……最近ずっと、体がおかしいんです…",
+      "voiceFile": "ending_true_003"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ん？どうしたの？"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "まだ何もしてないのに…乳首が…痛いくらいで…",
+      "voiceFile": "ending_true_004"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "ブラジャーが擦れるだけで……声が出ちゃって…",
+      "voiceFile": "ending_true_005"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（シャツの上からでも、明らかに突起してるのが分かるな…）"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "下も…歩くだけで摩擦が…太ももまで濡れちゃって…",
+      "voiceFile": "ending_true_006"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（もう着替える前から準備万端か…）"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "昨日の施術の余韻がまだ残ってて…早く次のを…お願いしたいです…",
+      "voiceFile": "ending_true_007"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "しょうがないなぁ。今日も念入りにやってあげるよ。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（完璧だ…もう俺なしじゃ生きられない体に…）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "あの…今日も『特別コース』で…",
+      "voiceFile": "ending_true_008"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ああ、特別性感マッサージコースね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "せ、性感！？",
+      "voiceFile": "ending_true_009"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "あ、間違えた。特別整体マッサージコースだった。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "（…でも、間違ってないかも…）",
+      "voiceFile": "ending_true_010"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "それとも、やっぱり普通のコースにしておく？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そ、そんな…",
+      "voiceFile": "ending_true_011"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "もう、普通のコースじゃ…満足できないです…",
+      "voiceFile": "ending_true_012"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "だから…『特別コース』…お願いします。",
+      "voiceFile": "ending_true_013"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "特別コースをしてほしいなら…"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ナナちゃんが本当にそれを望んでるか、ちゃんと見せてもらわないとね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "え…？",
+      "voiceFile": "ending_true_014"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "わかるよね？何をすべきか。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そ、それは…",
+      "voiceFile": "ending_true_015"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "本当に特別コースを受けたいなら、自分から準備しないと。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "…わかりました…",
+      "voiceFile": "ending_true_016"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "ナナちゃんは震える手で、ゆっくりと服を脱ぎ始めた。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "outfit": "naked",
+      "text": "せ、先生…見てください…",
+      "voiceFile": "ending_true_017"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "全裸になったナナちゃんは、恥ずかしそうに両手で秘部を広げた。",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "こ、ここ…もう…こんなに濡れてます…",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_018"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "特別コース…お願いします…ここに…してください…♡",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_019"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "愛液が太ももを伝い、床に小さな水たまりを作り始めていた。",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "いいね…自分から見せつけて、おねだりできるようになったんだ。",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "だって…もう我慢できないから…",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_020"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "すごいね…まだ触ってもないのに…クリトリスまで勃起して…ビショビショだ…",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "乳首もこんなに腫れちゃって…",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "薄いピンク色だった乳首は、度重なる施術で敏感になり、充血して赤く腫れ上がっていた。",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ふふ。じゃあ今日も特別に念入りにやってあげようかな。",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "ありがとうございます…",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_021"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "はやく…お願いします…♡",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_022"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（完璧だ…もう完全に俺のものだ…！）",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "ナナちゃんの体は、もう普通の生活ができないほど敏感になっていた。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "階段を上るだけで絶頂し、電車の振動で我慢できなくなり、授業中も股間を押さえて耐えている。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "乳首は常に勃起し、秘部は24時間濡れ続け、もはや{{playerName}}の施術なしでは正常な状態を保てない。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "ナナちゃんは、快楽を求めて毎日のように整体院に通い続ける。\nもはや、それが俺と彼女の日常となっていた。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【TRUE END】",
+      "triggerEnding": "true"
+    }
+  ]
+}
