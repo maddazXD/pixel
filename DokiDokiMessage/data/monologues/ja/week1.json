@@ -1,0 +1,46 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃんが帰った後、一人残された施術室……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ふぅ、初めての客、なんとか無事に終わった……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃん、素直で…可愛かったな……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（施術着姿もエロかったな……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……って、何考えてんだ俺は！まずは借金の返済だろ！）",
+      "cutInImage": "debt_paper"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（返済期限まであと12週間か。この調子じゃ、とても間に合わない……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（何か、他にも稼ぐ方法を考えないと……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週は何をして過ごそうか……）"
+    }
+  ]
+}
