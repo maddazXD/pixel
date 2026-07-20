@@ -1,0 +1,536 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──8週目の朝。\n2ヶ月にわたる施術で、タツ姐の身体は確実に変化していた。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（8週目…タツ姐の身体の反応、週を追うごとに良くなってる。もう完全に俺の施術に身体が適応してきてるな。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（客足も順調だし、このまま行けば借金もなんとかなりそうだ…。）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…おう。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タツ姐さん！ 今日も…って、どうしました？ なんか顔色が…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…別に。ちょっと調子が悪いだけだ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "調子が悪い、ですか。どんな感じです？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…その、週末…ずっと身体が熱くて…眠れなかった。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（週末ずっと…！ 土曜も日曜もか…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…なんか、身体の奥がムズムズして…落ち着かねぇんだよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "週末、何か自分で対処しようとしました？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…っ！ な、何でそんなこと聞くんだよ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "施術の参考にしたいので。何か試したなら教えてください。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…仕事に没頭しようとしたんだけどよ。深夜まで資料整理して…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それで？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…全然ダメだった。仕事してても、急に身体が疼いて集中できなくて…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "他には？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…冷水シャワー浴びた。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（冷水シャワーまで…相当追い詰められてたんだな…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…余計ダメだった。水が肌に当たった瞬間、ビクッてなって…逆に変な感じになった…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…もしかして、それ以外にも何か試しました？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…っ！ いちいち聞くな…！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…自分で、触ってみたりとか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "……っ！！",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "………………。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……色々やってみたんだけど……その、一番敏感なとこを……何度も擦ったり、摘まんだりして……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "一番敏感なところ、というと…前の方の、突起した部分ですね？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…っ！ はっきり言うなよ…！ ……まぁ…そこだよ……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それで、どうなりました？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……何回もイッたはずなのに……全然、満足できなくてよ……。すぐにまた疼いてきて……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（何回もイッたのに満足できない…！ それだけクリトリスが開発されてるのか…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…何回くらい試しました？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…っ。……わかんねぇよ……。土曜の夜も、日曜の朝も…日曜の夜も……何回やっても、腫れるくらい弄ったのに、すぐにまた熱くなって……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（週末ずっと…腫れるくらい自分で弄っても足りなかったのか…相当追い詰められてたんだな…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…最後はどうなりました？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……結局、全然収まんなくて……ヒリヒリ痛くなっても止められなくて……もう、泣きそうになりながら諦めた……。アタシが……こんな惨めなことしてんのかって……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（腫れてヒリヒリするまで自分で弄り続けたのに…それでも足りなかった。あのプライドの塊みたいな人が、泣きそうになるくらい追い詰められてたのか…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "なるほど…それはタツ姐さんの身体が、俺の指の動きを完全に記憶してしまったからですね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "覚えた…？ どういう意味だ？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "俺が毎週、タツ姐さんのクリトリスを重点的に刺激してきたでしょう？ 身体がその感覚を完全に覚えてしまったんです。圧力、リズム、速度…全部。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…っ！ さらっとそういう単語使うな…！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "施術者ですからね、正確に話さないと。…で、自分の指だとちょうどいい圧力やリズムが再現できない。だからいくらイッても物足りなくなるんです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……お前の指以外じゃ……ダメなのか……？ くそ……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（闇金の社長が、俺の指以外じゃダメだって…。最高すぎるだろ…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…………認めたくねぇけど…お前の施術は…効くからな…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "先週も言いましたけど、タツ姐さんの身体はもう俺の施術なしじゃいられなくなってます。自分で何回イッても満足できなかった…それが何よりの証拠です。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…否定できねぇ…。実際、ここに来る日だけが楽しみになってる…あいつの手を、ずっと待ってた…。）",
+      "outfit": "suit"
+    },
+    {
+      "id": "choice_massage8",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タツ姐さんの身体、8週間でかなり開発されてきてますね。",
+      "choices": [
+        {
+          "label": "それは正常な反応ですよ",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "normal_path"
+        },
+        {
+          "label": "タツ姐は特別に感度が高いんです",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "sensitive_path"
+        },
+        {
+          "label": "俺好みの身体になってきましたね",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "possess_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "これは正常な反応ですよ。毎週施術を受けて、身体の感度が上がった。自分じゃ満足できないのも、プロの刺激を身体が覚えた証拠です。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…正常…なのか。こんなに疼いてるのに…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ええ。むしろ施術が順調な証拠です。今日しっかりケアすれば、落ち着きますから。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…そうか。じゃあ…頼んだぞ。",
+      "outfit": "suit",
+      "next": "continue_conversation"
+    },
+    {
+      "id": "sensitive_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タツ姐さんは特別に感度が高い体質なんです。普通の人が10の刺激で感じるところを、タツ姐さんの身体は3で感じてしまう。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…3で…？ だからあんなに…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ええ。だから自分で触っても加減が分からなくて、いくらイッても満足できなかった。タツ姐さんの敏感な身体が求めてるのは、その感度を熟知した手…つまり俺の手だけなんですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…お前の手だけ…って…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "施術者から見たら、タツ姐さんの身体は最高の素材ですね。こんなに敏感で、しかもまだまだ開発の余地がある…。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…開発って…モノみたいに言うなよ…。でも…自分じゃどうにもできねぇのは…事実だし…。",
+      "outfit": "suit",
+      "next": "continue_conversation"
+    },
+    {
+      "id": "possess_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "俺好みの身体になってきましたね、タツ姐さん。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "はぁ！？ お前好み？ ふざけんな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "だって、自分で何回イッても足りなかったんでしょう？ 腫れるくらい弄っても、俺の指じゃないとダメだった。…それって、タツ姐さんのあそこがもう俺専用になったってことですよね？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…………っ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "8週間かけて、タツ姐さんの一番敏感な部分を俺だけが満足させられるように育て上げたんですから。これは施術の成功です。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…育て上げた…って…。アタシは…お前のオモチャじゃねぇぞ……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "分かってますよ。でも事実として…俺の指じゃなきゃダメなんですよね？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…………。……そうだよ……お前の指じゃなきゃ、ダメなんだよ……このクソ野郎……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（認めた…。闇金の社長が、俺の指じゃなきゃダメだって…。完全に俺のものじゃん。）",
+      "next": "continue_conversation"
+    },
+    {
+      "id": "continue_conversation",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ところで…身体の奥がムズムズするって言ってましたよね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…ああ。そこを弄ってもダメだったのは…奥の方がムズムズしてるからかもしれねぇ……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "そうですね。表面だけじゃもう足りなくなってきてるんです。今日はそこだけじゃなくて、もっと深い部分の血行も促進してあげましょう。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…深い部分って…どこだよ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "一番敏感な部分の根元から、骨盤の奥の方までしっかりほぐしてあげます。タツ姐さんが疼いてるのは、そのもっと深い層なんですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…根元から…奥まで…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "表面だけじゃもうダメなんでしょう？ 今日はじっくり、奥の奥まで施術してあげますから。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……っ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（無言…もう抵抗する気力がないんだな。よし、今日は本気でいくぞ。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…………早く、してくれ……もう……限界なんだ……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（「限界」…あの強がりなタツ姐がそこまで…。完全に堕ちかけてるな…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "じゃあ、着替えてもらいましょうか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…ああ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "（タツ姐が着替え始める…）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…根元から奥まで…あいつの指で…。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…もう我慢できねぇ……あいつの指じゃないと、何回やっても全然足りねぇ……。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…自分で触ったって、あいつの指みたいに上手く扱えねぇ……あそこが熱くなって、疼いて止まらねぇ……。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（……中の方まで……何か欲しくなるなんて……認めたくねぇ……。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（……闇金の社長が、こんな……施術師に完全に調教されちまったのかよ……。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…着替えた。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "（…今日のタツ姐、目がトロンとしてる…。身体もほんのり上気してるし、施術前からもうこんな状態か…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それでは、ベッドに横になってください。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…早く、始めてくれ。…頼む。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "（「頼む」って…。あのプライドの塊みたいなタツ姐が、懇願してる…。もう完全に俺の手なしじゃいられない身体になったんだな…たまんねぇ…。）"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それでは、施術を始めさせていただきます。"
+    }
+  ]
+}
