@@ -1,0 +1,235 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──几个月后。\n不知为何，我来到了深山里。"
+    },
+    {
+      "character": "player",
+      "text": "(怎么会变成这样来着。开了整体院，有债务，龙姐来光顾……到那里我还记得。之后师父说了句'你的天赋就这样浪费太可惜了'之类的话，等我回过神来，已经收拾好行李被带到山里了。)"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "早上了！起来！今天教你经络的第七阶段，「气的转换」！"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "是，师父！……不过，已经到第七阶段了吗。第一阶段是足底穴位，第二阶段是腰部开放……呃……"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "你记不住吗！第三是「胸部经络开通」，第四是「下腹气的循环」！全都在我身上实践过了！"
+    },
+    {
+      "character": "player",
+      "text": "(确实有在师父身上做过各种事的记忆。不过那到底是施术还是性行为，至今仍分不清。师父一直坚称那是'指导'就是了。)"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "好了，第七阶段「气的转换」──也就是自由操控自身体内气的流向的术法。我之所以能保持这个样子，也是托了这个术法的福。"
+    },
+    {
+      "character": "player",
+      "text": "(师父看起来是萝莉的外表，据说也是因为这个「气的转换」。原本是……算了，原来的样子就别提了。)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "师父……这个……真的在整体的范畴内吗……？"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "「整体」就是「调整身体」的意思。调整的方法怎么会有极限！"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "精通整体之人，无论老幼都能自由变换！我就是活生生的证据！"
+    },
+    {
+      "character": "player",
+      "text": "(道理上完全说不通，但师父就是活生生的证据嘛……)"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "来，你也试试看。把意识集中到丹田……想象气的流向逆转。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──数小时后"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……咦？我的手……变小了……？"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "哦！第一天就能变化到这种程度！果然你有天赋！"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "等等……身高在……缩小……!？等一下，什么，等一下！？"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "嚯！连骨骼都在变化！了不起！"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "师父！！变不回去了啊！？"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "别慌。反方向流转气的话就能恢复。……大概。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "大概！？"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──几周后"
+    },
+    {
+      "character": "player",
+      "text": "(难以置信，但真的越来越得心应手了。仅仅通过改变气的流向，就能自由改变肌肉的形态、骨骼的大小，甚至声带的粗细。可以变成大人也可以变成小孩。我自己都不知道自己在说什么，但这是事实，没办法。)"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "今天是实战。由我来给变成小孩身体的你做施术。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……啊？"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "不体验小的身体就无法领悟身体的构造！这是指导的一环！"
+    },
+    {
+      "character": "player",
+      "text": "(又来了「指导的一环」……但没法反驳。了解被施术一方的感受对整体师来说确实很重要……等等，我是不是正在被一个非常合理的理由说服了？)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……是，师父。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "我集中气息后，身体迅速开始变化。\n肩膀变窄，手脚变短，视线急速降低。"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "嗯。还挺可爱的正太嘛。……那么开始吧。这里的穴位，感觉到了吗？"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "呀……！那、那里……！什么……小孩的身体竟然这么敏感……！？"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "看到了吧。记住这个感觉。身体大小不同的话，穴位的位置和效果也会完全不一样。"
+    },
+    {
+      "character": "player",
+      "text": "(太、太厉害了……用小孩的身体接受施术和用大人的身体接受，感受完全不同。穴位的位置、舒服的点，全都偏移了。知道和不知道这些，确实是天壤之别……！)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "师父……整体……真是太厉害了……！"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "哼。当然了。都这时候了还说这种话。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──又过了几个月"
+    },
+    {
+      "character": "player",
+      "text": "(已经完全适应了山里的生活。早上起来修炼，练习施术，和师父一起吃饭，再修炼。偶尔换个心情变成正太去爬树。……如果客观地读这段文字，肯定会觉得完全是个疯子，但这就是日常，没办法。)"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "你进步不少嘛。大人和小孩都能自如切换了，施术的精度也判若两人了。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "谢谢您，师父。都是师父的功劳。"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "……哼。不过，你知道吗。这还只是入门而已。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "啊……这还只是入门吗……？"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "终极的整体嘛……不仅是自己，连别人的身体也能仅凭触碰就自由改变。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……………………什么？"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "什么表情啊。你能做到的。再多修炼一点就行了。"
+    },
+    {
+      "character": "师父",
+      "hideCharacter": true,
+      "text": "来，别在那张着嘴发愣了，开始早课！"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "在深山中继续着不可思议的修行日子。\n整体院的事，债务的事，早就忘得一干二净了。"
+    },
+    {
+      "character": "player",
+      "text": "(不过，有一件事我深信不疑。)"
+    },
+    {
+      "character": "player",
+      "text": "(整体……真的很厉害。)",
+      "triggerEnding": "shishou"
+    }
+  ]
+}
