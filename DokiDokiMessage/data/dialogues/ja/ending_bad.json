@@ -1,0 +1,380 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──数か月後。\n整体院は借金まみれで崩壊寸前だった。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "今月も赤字…もうダメだ…"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "最後にナナちゃんが来たのは3ヶ月前。\nそれ以来、一度も姿を見せていない。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃん…もっと積極的にアプローチしていれば…）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "おい！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "タ、タツ姐…！",
+      "hideCharacter": true
+    },
+    {
+      "character": "組員A",
+      "hideCharacter": true,
+      "text": "姐さん、こいつが例の整体師ですかい？"
+    },
+    {
+      "character": "組員B",
+      "hideCharacter": true,
+      "text": "やせ細ってひょろひょろじゃねぇか。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "だ、誰ですか、この人たち！？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "こいつらはアタシの組のモンだ。それより…",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "借金、もう半年も滞納してるじゃないか。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "す、すみません…！もう少しだけ時間を…！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…時間？もう十分待った。どうやら、アタシの見込み違いだったみたいだな。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "金が返せないなら…体で払ってもらうしかない。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "か、体で…！？"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "わ、わかりました…覚悟はできてます…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "surprised",
+      "text": "は？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "そ、そっち方面での自信は無いですけど…尻穴を差し出す覚悟はあります！"
+    },
+    {
+      "character": "組員A",
+      "hideCharacter": true,
+      "text": "は！？何言ってんだこいつ！？"
+    },
+    {
+      "character": "組員B",
+      "hideCharacter": true,
+      "text": "誰がお前の汚い尻なんか要るか！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…ったく、何考えてんだか。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "おい、連れてけ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "組員A",
+      "hideCharacter": true,
+      "text": "へい！ほら、行くぞ！"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "い、いやだ！俺の臓器を売るつもりだろ！？…せめて尻にして！尻ならいくらでもどうぞ！"
+    },
+    {
+      "character": "組員A",
+      "hideCharacter": true,
+      "text": "だから要らねぇっつってんだろ！気持ち悪い！"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "そんな…俺の尻、そんなに価値ないですか…"
+    },
+    {
+      "character": "組員B",
+      "hideCharacter": true,
+      "text": "逆に何であると思ってんだ？"
+    },
+    {
+      "character": "組員A",
+      "hideCharacter": true,
+      "text": "さあ、車に乗りな。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "うわああああ！せめて尻を！尻だけでも！"
+    },
+    {
+      "character": "組員B",
+      "hideCharacter": true,
+      "text": "うるせぇ！まだ言ってんのか！"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}}は組の男たちに引きずられていった。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ああ…俺はこのまま終わるのか……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（せめて…ナナちゃんにもう一度会いたかったな……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──数日後"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "整体院があった場所には『テナント募集中』の看板が掲げられていた。"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "あれ…？ここに整体院があったはずなのに…",
+      "characterImage": null,
+      "voiceFile": "ending_bad_001"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "先生…どこに行っちゃったんだろう…",
+      "characterImage": null,
+      "voiceFile": "ending_bad_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "最近忙しくて、全然来れなかったけど…",
+      "characterImage": null,
+      "voiceFile": "ending_bad_003"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "もっと通えばよかったかな…",
+      "characterImage": null,
+      "voiceFile": "ending_bad_004"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "先生の施術、変わってたけど…すごく体が楽になったのにな…",
+      "characterImage": null,
+      "voiceFile": "ending_bad_005"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "ナナちゃんは少し寂しそうに、整体院があった場所を見つめていた。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──とある地下施設"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "薄暗い地下で、汗だくになりながら荷物を運ぶ男の姿があった。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "はぁ…はぁ…重い…"
+    },
+    {
+      "character": "組員A",
+      "hideCharacter": true,
+      "text": "おい新人！休憩なんかしてんじゃねぇぞ！"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "す、すみません…"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "タツ姐の組で働くことになった{{playerName}}。\n毎日、倉庫で違法な品物の仕分けや運搬をさせられていた。"
+    },
+    {
+      "character": "組員B",
+      "hideCharacter": true,
+      "text": "まあ、臓器売られるよりマシだと思えよ。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（うう…しんどい…。あと何年ここで働けばいいんだ…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（でも、たまにいいこともあるんだよな…）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──その夜、タツ姐の事務所"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "おい。ちょっと来な。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "は、はい！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "tired",
+      "text": "肩がこってんだ。揉んでくれ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "…！任せてください！これでも元プロですから！"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}}はタツ姐の後ろに回り、肩を揉み始めた。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "satisfied",
+      "text": "んっ……なかなかいいじゃないか。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（チャンス…！少しずつ手を下に…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "姐さん、胸筋も凝ってるようですね。こちらも…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…おい。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "どこ触ろうとしてんだ？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "い、いえ！純粋に施術を…！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "調子に乗ってんじゃねぇ。次やったら指折るからな。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "は、はい！肩だけにします！"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（…もっとリラックスさせて…。次はおっぱいを…！）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "地下労働者として働くことになった{{playerName}}。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "重労働の日々だが、懲りずにおっぱいを狙い続ける。\nこれはこれで、ある意味幸せなのかもしれない。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【BAD? END - 地下労働者END】",
+      "triggerEnding": "bad"
+    }
+  ]
+}
