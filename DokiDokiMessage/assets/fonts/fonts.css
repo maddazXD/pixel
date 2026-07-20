@@ -1,0 +1,57 @@
+/* public/assets/fonts/fonts.css */
+
+/* BIZ UDPGothic - メインUI用 */
+@font-face {
+  font-family: 'BIZ UDPGothic';
+  src: url('./BIZ_UDPGothic/BIZUDPGothic-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BIZ UDPGothic';
+  src: url('./BIZ_UDPGothic/BIZUDPGothic-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Zen Maru Gothic - カウンセリング・通常マッサージセリフ用 */
+@font-face {
+  font-family: 'Zen Maru Gothic';
+  src: url('./Zen_Maru_Gothic/ZenMaruGothic-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Hachi Maru Pop - マッサージセリフ（絶頂時）用 */
+@font-face {
+  font-family: 'Hachi Maru Pop';
+  src: url('./Hachi_Maru_Pop/HachiMaruPop-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Noto Sans SC - 中国語（簡体字）用 */
+@font-face {
+  font-family: 'Noto Sans SC';
+  src: url('./Noto_Sans_SC/NotoSansSC-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/*
+ * 使用中のフォント:
+ * - BIZ UDPGothic: メインUI（400, 700のみ）
+ *   注意: 500を指定した場合、ブラウザが自動で400または700を選択
+ * - Zen Maru Gothic: 会話・クリエイティブテキスト（500）
+ * - Hachi Maru Pop: 絶頂時セリフ・ファンタジー（400）
+ * - Noto Sans SC: 中国語用Variable Font（100-900）
+ *
+ * これらのフォントはすべてSIL Open Font Licenseで提供されており、
+ * 商用利用・再配布が可能です。
+ */
