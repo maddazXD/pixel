@@ -1,0 +1,38 @@
+{
+  "purchase_success": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Terima kasih♡ Kamu memilih barang yang sangat bagus♡"
+      }
+    ]
+  },
+  "purchase_insufficient_money": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Oh, sepertinya uangmu tidak cukup... Silakan kembali lagi kalau sudah menabung lebih banyak ya♡"
+      }
+    ]
+  },
+  "item_cancel": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Oh? Kamu tidak jadi membelinya? Kami akan di sini menunggu kapan pun kamu siap♡"
+      }
+    ]
+  },
+  "farewell": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Silakan datang lagi ya♡ Kami akan menyiapkan barang-barang sempurna untukmu lain kali♡"
+      }
+    ]
+  }
+}
