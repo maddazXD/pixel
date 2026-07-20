@@ -1,0 +1,275 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──开业后第二周的早晨。\n看着上周默默塞进邮箱的一堆账单,我感到一阵眩晕。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "哇……这是……"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(剩下的钱这么少了……而且还是只有一个患者。)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(但我知道——坚持就是力量。波动永不背叛。这是师父常说的话。)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(……但说实话,比起波动我现在更想要现金……)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "你好。我……又来了……",
+      "voiceFile": "story_day2_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "……欢迎光临。真的很高兴。你今天能来……真是救了我。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "诶,那个……没有那么夸张……",
+      "voiceFile": "story_day2_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "上周的按摩感觉很舒服……肩膀轻松多了。",
+      "voiceFile": "story_day2_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "不过……那套衣服还是有点害羞……",
+      "voiceFile": "story_day2_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "我明白。不过很适合你。今天也请放松享受吧。"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "那么,今天身体感觉怎么样?有什么不舒服的地方吗?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "嗯……最近腿部有点麻……我觉得可能是水肿……",
+      "voiceFile": "story_day2_005"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "最近一直坐着……小腿和臀部周围感觉有点沉重……",
+      "voiceFile": "story_day2_006"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "腿部水肿啊。这样的话,今天试着趴着进行治疗吧。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "趴着……是指?",
+      "voiceFile": "story_day2_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的。趴着的话更容易按摩大腿后侧和臀部肌肉。也有助于改善血液循环。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "这-这样啊……但是那个姿势的话……屁股会……更明显……",
+      "voiceFile": "story_day2_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "没关系的。我会专业地好好为你治疗,不用担心。"
+    },
+    {
+      "id": "choice_massage2",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "那么,准备好了就开始吧。",
+      "choices": [
+        {
+          "label": "久坐真的会影响血液循环",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "serious_path"
+        },
+        {
+          "label": "你的屁股很可爱",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "cute_butt_path"
+        },
+        {
+          "label": "我能摸一下检查吗?",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "touch_path"
+        }
+      ]
+    },
+    {
+      "id": "serious_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "是的……我确实觉得最近姿势一直不太好……",
+      "voiceFile": "story_day2_009"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "这些小习惯会积累并反映在身体上。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "cute_butt_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "可-可爱……!?不-不要突然说这种话……!",
+      "voiceFile": "story_day2_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "啊,抱歉。不小心说出了真心话。我是好意,好吗?",
+      "next": "change_clothes"
+    },
+    {
+      "id": "touch_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "诶……!?",
+      "voiceFile": "story_day2_011",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "嗯。我明白了……",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "那-那个……?",
+      "voiceFile": "story_day2_012",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "这叫做臀大肌。实际上是身体里最大的肌肉。",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "久坐的话这块肌肉会变硬,血液循环变差。",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "呀……!那-那个……但是……!",
+      "voiceFile": "story_day2_013",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "大多数腰痛其实都是臀部肌肉引起的。如果不放松这里就很难改善。",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "这-这样啊……我不知道……",
+      "voiceFile": "story_day2_014",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "嗯,确实挺硬的。难怪腿会水肿。好好放松这里吧。",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "是-是的……其实,身体确实比之前暖和了……\n这就是血液循环改善了吗……?",
+      "voiceFile": "story_day2_015",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "好的,今天也请换上治疗服吧。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "好-好的……",
+      "voiceFile": "story_day2_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(又要……穿那套害羞的衣服了……)",
+      "voiceFile": "story_day2_017",
+      "cutInImage": "nana_changing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "……",
+      "voiceFile": "story_day2_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "换好了……",
+      "voiceFile": "story_day2_019",
+      "outfit": "micro_bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "好,那么开始治疗吧。"
+    }
+  ]
+}
