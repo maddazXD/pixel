@@ -1,0 +1,500 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "——第三周的早晨。\n和龙姐的治疗也进入了第三周。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（真是不可思议……没想到我会开始每周期待高利贷的人来。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（不过说实话，和龙姐的治疗并不讨厌。虽然可怕……但总觉得她本性不坏。）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……看到余额又被拉回现实了。果然还是得想办法增加客人啊……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "哟。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "龙姐！今天也谢谢您来。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "那，还债的事进展如何了？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那、那个……客人还是没增加……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "客人没增加？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "是、是的……一直很困难……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "我都帮你宽限利息了，你得拿出成果来。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "angry",
+      "text": "（可恶……要是有更多钱就好了……）"
+    },
+    {
+      "id": "borrow_choice",
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……要不在这里再借一点……？）",
+      "choices": [
+        {
+          "label": "想借10万日元",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "borrow_10"
+        },
+        {
+          "label": "想借50万日元",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "borrow_50"
+        },
+        {
+          "label": "不借",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "no_borrow"
+        }
+      ]
+    },
+    {
+      "id": "borrow_10",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那、那个……龙姐。能不能……再借10万日元左右……？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "啊？还都还不上还想再借？",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……算了。10万的话就当零花钱了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "借了100,000G",
+      "moneyDelta": 100000,
+      "debtDelta": 100000,
+      "playSE": "cash_register"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "不过下次得连本带息一起还。",
+      "outfit": "suit",
+      "next": "after_borrow"
+    },
+    {
+      "id": "borrow_50",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那、那个……龙姐。想再借50万日元……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……50万？……你认真的？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "如果用来投资设备的话，客人应该会增加的……！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……哼。算了，你的治疗手艺不差。就当投资了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "诶！？真的吗！？（天哪，还真行啊……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "借了500,000G",
+      "moneyDelta": 500000,
+      "debtDelta": 500000,
+      "playSE": "cash_register"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "不过要是还不上的话……你懂的吧？",
+      "outfit": "suit",
+      "next": "after_borrow"
+    },
+    {
+      "id": "no_borrow",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "对、对不起！我会努力的！",
+      "next": "after_borrow"
+    },
+    {
+      "id": "after_borrow",
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……嗯，多亏了你的治疗，我工作倒是顺利了不少。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "真的吗！？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "上周工作的时候连续站了3个小时。\n因为之前做过你的治疗，肩膀还扛得住。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那太好了。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "每天都是压力……催债也好，管理手下也好……",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "当老板可不轻松啊。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "",
+      "playSE": "phone_ring"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……等一下。来电话了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "喂阿安，那件事怎么样了？……啊？还没收回来？",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "你在干什么！！今天之内收回来，做不到的话……你懂的吧？",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……抱歉。工作电话。那，说到哪了来着。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（好可怕……千万不能惹她生气……）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那、那个……今天哪里比较不舒服？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "肩膀和背。还有……腰也酸。站了3个小时之后第二天开始，腰就一直不舒服。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "肩胛骨周围和腰部啊。长时间站立的话，骨盆也会有负担。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "骨盆？会影响到那里？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "是的。骨盆歪了的话会导致腰痛，大腿根部也容易出现紧绷。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……嗯。确实腿也觉得紧。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "不过，没效果的话……你懂的吧？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（好怕……）"
+    },
+    {
+      "id": "choice_massage3",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今天连腰部周围也一起，好好给您治疗。",
+      "choices": [
+        {
+          "label": "可能是骨盆歪了导致的",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "pelvis_path"
+        },
+        {
+          "label": "大腿内侧似乎很紧啊",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "thigh_path"
+        },
+        {
+          "label": "男人肯定不会放过您吧",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "men_path"
+        }
+      ]
+    },
+    {
+      "id": "pelvis_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "站3个小时的话，骨盆负担会很大。可能已经有些歪了。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "骨盆歪了啊。原来是这样。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "穿高跟鞋长时间站立的话特别容易歪。不只会腰痛，还会导致腿部浮肿。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……确实，到了傍晚腿就会肿得厉害。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "不是年纪的问题。配合骨盆矫正把腰部周围放松的话，应该会舒服很多。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "……好吧，你的手艺我信了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（哦，龙姐肯坦率地信任我，挺开心的。）",
+      "next": "change_clothes"
+    },
+    {
+      "id": "thigh_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "腰酸的话，大腿内侧应该也很紧。让我检查一下。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "大腿？嗯，确实觉得紧，但是……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "我检查一下内收肌的紧张度。这里硬的话会拉扯骨盆——"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "喂，你想摸哪里。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "对、对不起！内收肌在大腿内侧，所以不可避免地会碰到比较敏感的地方……！"
+    },
+    {
+      "character": "player",
+      "text": "（……算了，等会按摩的时候再慢慢摸个够……）",
+      "next": "change_clothes"
+    },
+    {
+      "id": "men_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "不过龙姐，胸又大……身材又好脸蛋又漂亮……男人肯定不会放过您吧。（虽然可怕）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……啊？你突然说什么呢。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "不是嘛，这么有魅力的人，晚上应该也很忙吧……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "你小子在说什么——",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "腰痛的原因有很多嘛！剧烈运动啦，夜间活动啦……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "我杀了你。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "对、对不起！我只是作为治疗师想确定原因……！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……又不是说，那种事……我从来没做过……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（诶……？刚才，她说什么……？）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "……没什么。",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那么，请换上治疗专用的衣服。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "好好好……这块破布我也习惯了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "（龙姐开始换衣服……）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……说了别看。",
+      "outfit": "suit",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "换好了。……快开始吧。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（每次都不知道该往哪看……）"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那么，开始治疗。"
+    }
+  ]
+}
