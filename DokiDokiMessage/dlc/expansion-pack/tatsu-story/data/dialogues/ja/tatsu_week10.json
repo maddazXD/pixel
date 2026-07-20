@@ -1,0 +1,711 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──10週目の朝。\nタツ姐の身体は、もはや施術なしでは満足できない状態になっていた。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（10週間...タツ姐は完全に俺に依存してる。最高だな...）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（今日はどんな反応を見せてくれるかな...？）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（おかげで客足も安定してきた...全部タツ姐のおかげだ）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...おう。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "タツ姐さん！...あれ、今日はなんか顔色が...。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "alert",
+      "text": "...っ。別に、何でもねぇよ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "でも、顔が赤いですよ？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...暑かっただけだ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（絶対嘘だな...。もう施術のこと考えて興奮してるんだろ...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "体調は大丈夫ですか？ちょっと顔色を見せてください。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "整体師がタツ姐に近づく"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "alert",
+      "text": "...っ！近づくな...！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "え？どうしました？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...あんまり近づくと...その...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "近づくと...？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...お前の...匂い...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "匂い...？俺の匂いがどうかしましたか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...覚えちまってんだよ...！お前の体臭...！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（きた...！俺の匂いを覚えてる...！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...その匂い思い出すだけで...身体が...熱くなって...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "俺の匂いで、身体が反応するんですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "反応するって...！まるで発情期のメスみたいじゃねぇか...！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（発情期のメス...！タツ姐の口からそんな言葉が...最高だ...！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...仕事中でも...ふと匂いを思い出すと...下が...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "下が...？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...濡れんだよ...！もう、すぐビショビショになって...！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（ビショビショ...！タツ姐がそんな卑猥な言葉を...！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...最近、下着の替え持ち歩くようになっちまった...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "下着の替えを！？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...1日に何回も替えなきゃなんねぇんだよ...！お前の匂い思い出すたびに...！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（やばい...興奮する...！1日に何回も濡らして...！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "それは...完全にフェロモンに反応してますね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "alert",
+      "text": "フェロモン！？何だそれ！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "動物が異性を惹きつけるために出す匂いの成分です。タツ姐は完全に俺のフェロモンに反応する身体になってるんですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。じゃあアタシ、完全に雌犬じゃねぇか...！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（雌犬...！タツ姐が自分でそう言うなんて...！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...だからここに入った瞬間から...もう...ダメなんだよ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "もうダメ、ってことは...？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...下着、もう濡れてる...。お前の匂い嗅いだだけで...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（最高だ...！匂いだけでもう濡らしてる...！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "じゃあ今日は、タツ姐にたっぷり俺の匂いを嗅がせてあげますね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "alert",
+      "text": "はぁ！？嗅がせるって...！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "ほら、タツ姐の身体が求めてるんでしょ？俺の匂いを。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。...まぁ...そうだけど...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "今日は密着して施術してあげますから。俺の匂い、たっぷり堪能してくださいね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...っ。...バカ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（ふふ...完全に俺の匂いで発情する雌犬になってる...）",
+      "hideCharacter": true
+    },
+    {
+      "id": "choice_massage10",
+      "character": "player",
+      "expression": "shy",
+      "text": "（ここでどう言うか...）",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "大丈夫ですよ、自然なことです",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "gentle_path"
+        },
+        {
+          "label": "完全にフェロモンに反応してますね",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "pheromone_path"
+        },
+        {
+          "label": "まるで発情期の雌犬ですね",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "bitch_path"
+        }
+      ]
+    },
+    {
+      "id": "gentle_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "大丈夫ですよ。これは自然な身体の反応です。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "...自然って...。まぁ、お前がそう言うなら...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "タツ姐の身体が、施術を求めてるってことですから。",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "pheromone_path",
+      "character": "player",
+      "expression": "smile",
+      "text": "これは完全にフェロモンに反応してますね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "alert",
+      "text": "フェロモン...？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "動物が異性を惹きつけるために出す匂いの成分です。タツ姐の身体は、完全に俺のフェロモンに反応するようになってるんですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。動物って...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "でも、それだけタツ姐の身体が正直ってことです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...正直すぎて困るっつってんだよ...。",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "bitch_path",
+      "character": "player",
+      "expression": "shy",
+      "text": "まるで発情期の雌犬ですね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "はぁ！？雌犬だと！？ふざけんな！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "でも事実ですよね。俺の匂いを嗅いだだけでビショビショに濡らして。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。それは...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "1日に何回も下着を替えなきゃいけないんでしょ？俺の匂いを思い出すたびに。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...っ。...そうだけどよ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "それってまさに、飼い主の匂いで発情する雌犬そのものですよね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "...っ。飼い主って...！アタシはお前のペットじゃねぇ！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "じゃあ、今日は施術やめておきましょうか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "alert",
+      "text": "...っ！お、おい！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "だって、タツ姐は雌犬じゃないんですよね？だったら俺の匂いも、施術も必要ないはずですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。それは...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "それとも...本当は欲しいんですか？俺の施術。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...っ。...欲しい...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "じゃあちゃんと認めてください。タツ姐は何ですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。...雌犬...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "誰の雌犬ですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...っ。...お前の...雌犬...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "もっと具体的に言ってください。俺の匂いでどうなるんですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。...濡れる...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "どこが濡れるんですか？ちゃんと言ってください。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...っ。...まんこ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（きた...！タツ姐の口から「まんこ」って...！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "もっとちゃんと言ってください。俺の匂いを嗅ぐとどうなるのか、全部。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。...お前の匂い嗅ぐと...まんこが...濡れる...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "まだ足りませんね。クリトリスはどうなってますか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...っ！そ、そんなこと...！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "言えないなら、今日は施術なしですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。...クリトリスが...勃起...してる...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（最高だ...！タツ姐がこんな卑猥な言葉を...！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "全部つなげて言ってください。俺の匂いを嗅ぐと、どうなるのか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...っ。...お前の匂い嗅ぐと...まんこがビショビショに濡れて...クリトリスがビンビンに勃起する...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完璧だ...！タツ姐がこんなに卑猥な告白を...！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "最後に。タツ姐は何ですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。...アタシは...お前の匂いで発情する...雌犬...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（最高だ...！完全に言葉責めで堕とした...！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "いい子ですね。じゃあ今日は、雌犬のタツ姐をたっぷり可愛がってあげますよ。",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "normal",
+      "text": "じゃあ、着替えてもらおうか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "...ああ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "タツ姐が着替え始める",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "（...やば、もう下着ビショビショだ...。）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（...この部屋...お前の匂いが充満してやがる...。）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "（...息するたびに...匂い入ってきて...まんこがキュンってなる...。）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（タツ姐の呼吸が荒い...。部屋の匂いだけで完全に発情してやがる...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（...クリトリスも...もうビンビンだ...。匂い嗅いでるだけなのに...。）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "（...雌犬って言われたけど...マジでそうかもしんねぇ...。匂いだけで、こんなに...。）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完璧だ...。もう俺の匂いなしじゃ生きていけない身体になってる...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "...着替えた。",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（すごい...太ももから愛液が垂れてる...。部屋の匂いだけでここまで...）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...見んな...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "部屋の匂いだけで、こんなに濡らしちゃったんですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。...お前の匂いが...充満してて...我慢できねぇ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "そんなに俺の匂いが好きなんですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...っ。...好き、っていうか...身体が...勝手に...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完璧だ...。もう俺の匂いの虜になってる...）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...早く...施術...してくれ...。もう...限界だ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "そんなに我慢できないんですか？可愛いですね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "可愛いとか言ってんじゃねぇ...！早く...！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（もう完全に発情してる...。今日はたっぷり可愛がってあげよう...）",
+      "hideCharacter": true
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "それでは、今日は密着して施術してあげますね。俺の匂い、たっぷり堪能してください。"
+    }
+  ]
+}
