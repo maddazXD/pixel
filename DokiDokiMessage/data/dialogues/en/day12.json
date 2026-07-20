@@ -1,0 +1,408 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Pagi di minggu ke-12. Efek dari perawatan akhirnya mulai memengaruhi kehidupan sehari-hari Nana."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tubuh Nana jadi sangat sensitif...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Mungkin sudah waktunya untuk lanjut ke tahap berikutnya...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "S-selamat... pagi...",
+      "voiceFile": "story_day12_001"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Oh? Wajahmu terlihat sangat merona hari ini..."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Um... tadi sulit sekali untuk bisa sampai ke sini...",
+      "voiceFile": "story_day12_002"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(Dia jadi sepeka itu hanya karena berjalan...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Setiap melangkah... entah kenapa... kakiku lemas sekali...",
+      "voiceFile": "story_day12_003"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Pasti sulit sekali ya."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Aku harus istirahat berkali-kali di jalan... memalukan sekali...",
+      "voiceFile": "story_day12_004"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(Harus istirahat sesering itu...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Sensei... um... aku punya laporan penting...",
+      "voiceFile": "story_day12_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Apa? Jangan bilang kau hamil?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "B-bukan, bukan itu!",
+      "voiceFile": "story_day12_006"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Tapi... mungkin hampir mirip seperti itu...",
+      "voiceFile": "story_day12_007"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Apa!?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Akhir-akhir ini... payudaraku membengkak... dan rasanya aneh...",
+      "voiceFile": "story_day12_008"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Payudaramu!? (Itu tidak terduga! Luar biasa!)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Saat aku menyentuhnya... rasanya sangat sensitif...",
+      "voiceFile": "story_day12_009"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Bahkan seragam sekolahku... terasa sesak...",
+      "voiceFile": "story_day12_010"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Itu luar biasa! Itu adalah kondisi relaksasi yang paling maksimal!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "R-relaksasi!?",
+      "voiceFile": "story_day12_011"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ya! Tubuhmu telah mengenali 'kondisi klimaks' sebagai kondisi kesehatan yang paling optimal."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Dengan kata lain, tubuh Nana sedang berusaha mempertahankan kondisi puncaknya setiap saat."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "B-begitu ya... tapi bra-ku jadi sangat sesak...",
+      "voiceFile": "story_day12_012"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Hari ini... um... aku tidak pakai...",
+      "voiceFile": "story_day12_013"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(Tanpa bra... beneran!?)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Lagipula... ada masalah di sekolah tadi...",
+      "voiceFile": "story_day12_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Lagi?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Pas pelajaran olahraga... waktu kami main voli...",
+      "voiceFile": "story_day12_015"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Pas aku mendarat setelah melompat... aku sampai mengerang...!",
+      "voiceFile": "story_day12_016"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Cuma gara-gara mendarat setelah melompat?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Getarannya... terasa sampai ke dalam tubuhku...",
+      "voiceFile": "story_day12_017"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Lari juga nggak bisa... tiap kali pahaku bergesekan... nnh!...",
+      "voiceFile": "story_day12_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Semua orang nanya 'Tanaka-san, kamu kram ya?'...",
+      "voiceFile": "story_day12_019"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(Dia sampai klimaks cuma gara-gara olahraga...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Aku jadi takut pelajaran olahraga sekarang...",
+      "voiceFile": "story_day12_020"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Itu memang merepotkan."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Sensei... aku harus bagaimana...?",
+      "voiceFile": "story_day12_021"
+    },
+    {
+      "id": "choice_massage12_final",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Begitu ya. Apa hari ini akhirnya tahap terakhir?",
+      "choices": [
+        {
+          "label": "Melangkah lebih jauh itu berbahaya, mari lakukan perawatan normal saja",
+          "trustDelta": 3,
+          "developDelta": 0,
+          "next": "safe_ending"
+        },
+        {
+          "label": "Mari kita selesaikan dengan kursus kebangkitan penuh",
+          "trustDelta": 1,
+          "developDelta": 3,
+          "next": "awakening_ending"
+        },
+        {
+          "label": "Mari buka teknik rahasia pamungkas 'Infinite Climax Hell'",
+          "trustDelta": 0,
+          "developDelta": 5,
+          "next": "ultimate_ending"
+        }
+      ]
+    },
+    {
+      "id": "safe_ending",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Perawatan normal...?",
+      "voiceFile": "story_day12_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ya. Kalau dibiarkan, ini akan mengganggu kehidupan sehari-harimu."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Tapi jangan khawatir. Kita bisa kembali ke sini kapan saja."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "K-kalau begitu... aku merasa sedikit lega...",
+      "next": "final_treatment",
+      "voiceFile": "story_day12_023"
+    },
+    {
+      "id": "awakening_ending",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Kebangkitan penuh!?",
+      "voiceFile": "story_day12_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ya! Aku akan mengeluarkan 100% potensi tubuhmu!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Sekarang saja sudah susah... kalau makin parah...",
+      "voiceFile": "story_day12_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Nggak apa-apa! Percaya deh sama aku!",
+      "next": "final_treatment"
+    },
+    {
+      "id": "ultimate_ending",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "I-Infinite Climax Hell!?",
+      "voiceFile": "story_day12_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Iya! Begitu dimulai, nggak bakal berhenti - perawatan paling pamungkas!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-itu kedengarannya... menakutkan...",
+      "voiceFile": "story_day12_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Tenang aja! Kalau kamu pingsan, aku bakal berhenti sebentar kok!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Jadi pingsan itu sudah termasuk dalam rencana!?",
+      "next": "final_treatment",
+      "voiceFile": "story_day12_028"
+    },
+    {
+      "id": "final_treatment",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Baiklah, mari kita bersiap untuk perawatan terakhir."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Terakhir... maksudmu?",
+      "voiceFile": "story_day12_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Bukan, maksudku yang paling hebat. Aku berniat membuatmu terus mencapai puncak selamanya."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Sy-syukurlah... aku nggak bisa hidup normal tanpa {{playerName}}-san...",
+      "voiceFile": "story_day12_030"
+    },
+    {
+      "character": "player",
+      "expression": "blush_nervoussmile",
+      "text": "(Pelanggan seumur hidup... semuanya berjalan sesuai rencana!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Nah, sekarang bisa tolong ganti baju?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Iya...",
+      "voiceFile": "story_day12_031"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(Baru masuk ke ruangan ini saja, tubuhku sudah otomatis...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day12_032"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "A-aku sudah selesai ganti...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day12_033"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(Dia kelihatannya sudah mencapai batas... pemandangan yang luar biasa...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "J-jangan menatap terus... memalukan...",
+      "voiceFile": "story_day12_034"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Nggak apa-apa."
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "Sekarang, mari kita mulai perawatan paling hebat yang pernah ada."
+    }
+  ]
+}
