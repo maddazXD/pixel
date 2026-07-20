@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(6주차 치료가 끝났어...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나짱은 요즘 일주일에 두 번씩 오기 시작했어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(치료 중 반응이... 꽤 민감해졌어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나갈 때 다리가 휘청거렸으니, 효과가 확실한가 봐)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(\"죄송해요... 아직 여운이...\"라고 부끄러워하던 모습)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(내 치료에 꽤 의존하기 시작한 것 같아)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그럼, 이번 주는 뭘 할까...)"
+    }
+  ]
+}
