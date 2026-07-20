@@ -1,0 +1,380 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──수개월 후.\n정체원은 빚더미에 앉아 붕괴 직전이었다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "이번 달도 적자... 이제 끝이야..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "나나가 마지막으로 온 건 3개월 전.\n그 이후로 한 번도 모습을 보이지 않았다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나... 좀 더 적극적으로 어필했어야 했는데...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "normal",
+      "text": "이봐!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "타, 타츠 언니...!",
+      "hideCharacter": true
+    },
+    {
+      "character": "조직원A",
+      "hideCharacter": true,
+      "text": "언니, 이 녀석이 그 정체사입니까?"
+    },
+    {
+      "character": "조직원B",
+      "hideCharacter": true,
+      "text": "말라비틀어져서 빼빼하네."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "누, 누구세요, 이 사람들은!?"
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "angry",
+      "text": "이 녀석들은 내 조직 사람들이야. 그건 그렇고...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "angry",
+      "text": "빚, 벌써 반년이나 연체했잖아.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "죄, 죄송합니다...! 조금만 더 시간을...!"
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "angry",
+      "text": "...시간? 충분히 기다렸어. 내가 잘못 봤나 보네.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "normal",
+      "text": "돈을 못 갚겠다면... 몸으로라도 갚아야겠어.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "몸, 몸으로...!?"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "알, 알겠습니다... 각오는 됐습니다..."
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "surprised",
+      "text": "뭐?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "그, 그쪽 방면은 자신 없지만... 엉덩이를 바칠 각오는 되어 있습니다!"
+    },
+    {
+      "character": "조직원A",
+      "hideCharacter": true,
+      "text": "뭐!? 무슨 소리야 이 자식!?"
+    },
+    {
+      "character": "조직원B",
+      "hideCharacter": true,
+      "text": "누가 네 더러운 엉덩이를 원해!"
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "normal",
+      "text": "...아이고, 무슨 생각을 하는 거야.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "normal",
+      "text": "야, 데려가.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "조직원A",
+      "hideCharacter": true,
+      "text": "예이! 자, 가자!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "싫, 싫어! 내 장기를 팔 거지!?... 그럼 엉덩이로! 엉덩이는 얼마든지 드릴게요!"
+    },
+    {
+      "character": "조직원A",
+      "hideCharacter": true,
+      "text": "그러니까 필요 없다니까! 징그럽게!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "그렇게... 내 엉덩이, 그렇게 가치가 없나요..."
+    },
+    {
+      "character": "조직원B",
+      "hideCharacter": true,
+      "text": "오히려 왜 가치가 있다고 생각하는 거야?"
+    },
+    {
+      "character": "조직원A",
+      "hideCharacter": true,
+      "text": "자, 차에 타."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "으아아아아! 그럼 엉덩이를! 엉덩이만이라도!"
+    },
+    {
+      "character": "조직원B",
+      "hideCharacter": true,
+      "text": "시끄러워! 아직도 그 소리야!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}}는 조직의 남자들에게 끌려갔다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(아... 나는 이대로 끝나는 건가...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(적어도... 나나를 한 번만 더 보고 싶었는데...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──며칠 후"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "정체원이 있던 자리에는 '임대 모집 중' 간판이 걸려 있었다."
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "어...? 여기에 정체원이 있었는데...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_001"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "선생님... 어디로 가신 걸까...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "요즘 바빠서 전혀 못 왔는데...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_003"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "더 자주 왔어야 했나...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_004"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "선생님의 시술, 특이했지만... 정말 몸이 편해졌었는데...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_005"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "나나는 조금 쓸쓸한 표정으로 정체원이 있던 곳을 바라보았다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──어느 지하 시설"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "어두운 지하에서 땀을 뻘뻘 흘리며 짐을 나르는 남자의 모습이 있었다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "하아... 하아... 무거워..."
+    },
+    {
+      "character": "조직원A",
+      "hideCharacter": true,
+      "text": "야 신입! 쉬지 마!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "죄, 죄송합니다..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "타츠 언니의 조직에서 일하게 된 {{playerName}}.\n매일 창고에서 불법 물품을 분류하고 운반하는 일을 강요당했다."
+    },
+    {
+      "character": "조직원B",
+      "hideCharacter": true,
+      "text": "뭐, 장기 팔리는 것보단 낫다고 생각해."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(으... 힘들어... 여기서 몇 년이나 더 일해야 하는 거야...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(하지만 가끔 좋은 일도 있긴 하지...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──그날 밤, 타츠 언니의 사무실"
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "normal",
+      "text": "야. 좀 와봐.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "네, 네!"
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "tired",
+      "text": "어깨가 뻐근해. 좀 주물러줘.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...! 맡겨주세요! 전직 프로니까요!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}}는 타츠 언니의 뒤로 돌아가 어깨를 주무르기 시작했다."
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "satisfied",
+      "text": "음... 꽤 괜찮네.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(기회다...! 조금씩 손을 아래로...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "언니, 가슴 근육도 뭉쳐있는 것 같은데요. 여기도..."
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "angry",
+      "text": "...야.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "!"
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "angry",
+      "text": "어디를 만지려는 거야?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "아, 아닙니다! 순수하게 시술을...!"
+    },
+    {
+      "character": "타츠 언니",
+      "expression": "angry",
+      "text": "까불지 마. 다음에 또 그러면 손가락 부러뜨릴 거야.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "네, 네! 어깨만 하겠습니다!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...좀 더 릴랙스시켜서... 다음엔 가슴을...!)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "지하 노동자로 일하게 된 {{playerName}}."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "중노동의 나날이지만 굴하지 않고 가슴을 계속 노린다.\n이것도 어떤 의미에서는 행복일지도 모른다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【BAD? END - 지하 노동자 END】",
+      "triggerEnding": "bad"
+    }
+  ]
+}
