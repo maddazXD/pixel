@@ -1,0 +1,365 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "——第10周的早晨。\n{{playerName}}的妄想已经没有止境了。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(嘿嘿嘿...菜菜的身体完全是我的了...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(最近她连梦里都在寻求我...嘿嘿嘿...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "早、早上好...",
+      "voiceFile": "story_day10_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "哎呀,今天脸红得厉害呢。发生什么事了?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "嗯...昨晚又做了奇怪的梦...",
+      "voiceFile": "story_day10_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(来了!她连梦里都在寻求我!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "哦是吗?什么样的梦?详细告诉我。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "老师有...好多只手...",
+      "voiceFile": "story_day10_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "像、像千手观音一样……被触摸着……",
+      "voiceFile": "story_day10_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "千手观音!?(我连这个都没想到...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "今天早上醒来时...嗯...出了很多汗...",
+      "voiceFile": "story_day10_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "我妈妈很担心我...",
+      "voiceFile": "story_day10_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "这是健康的证明。你的新陈代谢很活跃。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "但是...有点难为情...",
+      "voiceFile": "story_day10_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(湿到什么程度呢...太棒了...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "而且...最近在学校也有麻烦...",
+      "voiceFile": "story_day10_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "在学校?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "上课的时候...嗯...身体会发热...",
+      "voiceFile": "story_day10_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "他们问我要不要去保健室...太尴尬了...",
+      "voiceFile": "story_day10_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(她在上课时想着我就湿了!这太疯狂了!好兴奋!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那是...可能刺激有点太强了。今天我会适度一些。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "诶?适度?",
+      "voiceFile": "story_day10_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "那、那个...但是...",
+      "voiceFile": "story_day10_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "诶?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "没有老师的治疗...我会感到不安...",
+      "voiceFile": "story_day10_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "上次缺席的时候也...感觉很难受...",
+      "voiceFile": "story_day10_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(边哭边自慰...这是新的...记一下记一下...)"
+    },
+    {
+      "id": "choice_massage10",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "我明白了。那今天该怎么办呢?",
+      "choices": [
+        {
+          "label": "我会正常治疗你(谎言)",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "normal_lie_path"
+        },
+        {
+          "label": "试试新开发的特殊精油吧",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "special_oil_path"
+        },
+        {
+          "label": "今天集中在下半身...嘿嘿嘿",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "lower_focus_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_lie_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "正常治疗...那就放心了。",
+      "voiceFile": "story_day10_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(那是谎言!我会比以往任何时候都更激烈!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的,正常地、温柔地、彻底地治疗你。",
+      "next": "prepare_crazy"
+    },
+    {
+      "id": "special_oil_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "新开发的精油?",
+      "voiceFile": "story_day10_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的!叫做\"扭动天堂油\"..."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "扭、扭动!?",
+      "voiceFile": "story_day10_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "啊,说错了。是\"极乐净土油\"。听起来很像,对吧?",
+      "next": "prepare_crazy"
+    },
+    {
+      "id": "lower_focus_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "集、集中在下半身...是指...?",
+      "voiceFile": "story_day10_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的,骨盆区域很重要。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "是、是啊...",
+      "next": "prepare_crazy",
+      "voiceFile": "story_day10_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(感觉他刚才笑得很奇怪...)",
+      "next": "prepare_crazy",
+      "voiceFile": "story_day10_020"
+    },
+    {
+      "id": "prepare_crazy",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "嗯...最近我在想...",
+      "voiceFile": "story_day10_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "嗯?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "老师的诊所有独特的香味...",
+      "voiceFile": "story_day10_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "香味?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "该怎么说呢...很神秘...",
+      "voiceFile": "story_day10_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(那是我欲望的味道!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "啊,那是特殊的香料。有放松的效果。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "香料...这么说。很独特...",
+      "voiceFile": "story_day10_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是从印度直接进口的\"恒河香\"。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "恒河!?那安全吗!?",
+      "voiceFile": "story_day10_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "没事没事。来,换衣服,换衣服。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(已经习惯了...这个香味...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day10_026"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(让人平静...却又不安...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day10_027"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "换、换好了...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day10_028"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(哦...光是换衣服,大腿上就有什么在发亮...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "嗯...这有点害羞...",
+      "voiceFile": "story_day10_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "很健康,很好。现在,是时候开始今天愉快的治疗了。"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "嘿嘿嘿...今天让我们试验一下你能到什么程度..."
+    }
+  ]
+}
