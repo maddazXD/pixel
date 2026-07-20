@@ -1,0 +1,302 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3 bulan kemudian. Klinik ini telah menjadi tempat yang sangat populer hingga sulit untuk mendapatkan reservasi."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Sensei, selamat pagi...",
+      "voiceFile": "ending_true_001"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Nana, kamu lagi yang datang paling pagi hari ini."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Iya... aku ingin segera mendapatkan perawatan...",
+      "voiceFile": "ending_true_002"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Aku senang mendengarnya."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Dan juga... belakangan ini, tubuhku terasa aneh...",
+      "voiceFile": "ending_true_003"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Hmm? Ada apa?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Padahal belum terjadi apa-apa... tapi putingku sakit sekali...",
+      "voiceFile": "ending_true_004"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Hanya karena gesekan bra saja... membuatku mengeluarkan suara...",
+      "voiceFile": "ending_true_005"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Bahkan lewat kemejanya, aku bisa melihat tonjolannya dengan jelas...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Di bawah sana juga... hanya dengan berjalan saja sudah menimbulkan gesekan... aku jadi basah sampai ke paha...",
+      "voiceFile": "ending_true_006"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia sudah benar-benar siap bahkan sebelum berganti pakaian...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Sisa kenikmatan dari perawatan kemarin masih terasa... aku ingin segera yang berikutnya... tolong...",
+      "voiceFile": "ending_true_007"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Yah, kurasa aku tidak punya pilihan. Aku akan memberikan perawatan menyeluruh untukmu hari ini juga."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Sempurna... tubuh yang tidak bisa hidup tanpaku...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Um... hari ini juga, 'kursus spesial'-nya...",
+      "voiceFile": "ending_true_008"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Ah, kursus pijat erotis spesial."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "E-erotis!?",
+      "voiceFile": "ending_true_009"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Oh, salah bicara. Maksudku kursus pijat terapi spesial."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "(...tapi mungkin itu tidak salah juga...)",
+      "voiceFile": "ending_true_010"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Atau kamu lebih memilih kursus normal saja?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "T-tidak...",
+      "voiceFile": "ending_true_011"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Kursus normal... sudah tidak memuaskan lagi...",
+      "voiceFile": "ending_true_012"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Jadi... 'kursus spesial'-nya... tolong.",
+      "voiceFile": "ending_true_013"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Kalau kamu menginginkan kursus spesial..."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Aku perlu melihat dengan jelas bahwa kau benar-benar menginginkannya, Nana."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Eh...?",
+      "voiceFile": "ending_true_014"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Kau tahu apa yang harus kau lakukan, kan?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-itu artinya...",
+      "voiceFile": "ending_true_015"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Jika kau benar-benar ingin menerima kursus spesial itu, kau harus mempersiapkan dirimu."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "...Aku mengerti...",
+      "voiceFile": "ending_true_016"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Nana perlahan mulai melepas pakaiannya dengan tangan yang gemetar."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "outfit": "naked",
+      "text": "S-sensei... tolong lihat...",
+      "voiceFile": "ending_true_017"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Kini benar-benar telanjang, Nana membuka bagian pribadinya dengan kedua tangan, merasa malu.",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "D-di sini... sudah... sangat basah...",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_018"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Kursus spesial... tolong... lakukan di sini...♡",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_019"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Cairan cinta menetes ke pahanya, mulai membentuk genangan kecil di lantai.",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Bagus... kau sudah belajar untuk menunjukkan dirimu dan memohon dengan keinginanmu sendiri.",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Karena... aku tidak bisa menahannya lagi...",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_020"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Luar biasa... aku bahkan belum menyentuhmu... klitorismu sudah menegang... basah kuyup...",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Putingmu juga sangat bengkak...",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Puting yang tadinya berwarna merah muda pucat telah menjadi sensitif akibat perawatan berulang, kini bengkak dan memerah karena terisi penuh.",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Hehe. Baiklah kalau begitu, hari ini aku akan memberimu perawatan yang sangat menyeluruh.",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Terima kasih...",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_021"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Cepatlah... tolong...♡",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_022"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Sempurna... dia benar-benar milikku sekarang...!)",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Tubuh Nana telah menjadi sangat sensitif hingga kehidupan sehari-hari yang normal pun mustahil baginya."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Dia mencapai klimaks hanya karena menaiki tangga, tidak tahan dengan getaran kereta, dan menghabiskan waktu di kelas dengan menekan selangkangannya untuk menahan diri."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Putingnya terus-menerus menegang, bagian pribadinya basah 24/7, dan dia tidak bisa lagi mempertahankan kondisi normal tanpa perawatan {{playerName}}."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Nana terus mengunjungi klinik setiap hari, mencari kenikmatan. Ini telah menjadi rutinitas harian mereka."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【AKHIR SEJATI】",
+      "triggerEnding": "true"
+    }
+  ]
+}
