@@ -1,0 +1,251 @@
+{
+  "intro": {
+    "dialogues": [
+      {
+        "character": "Bunny Clerk",
+        "text": "10 kali menang berturut-turut...♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Kamu benar-benar luar biasa...♡",
+        "expression": "shocked"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Sejujurnya, hampir tidak ada orang yang bisa sampai sejauh ini♡"
+      },
+      {
+        "character": "player",
+        "text": "Apa hadiah selanjutnya...?"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Hehe♡ Kamu sudah tahu, kan?",
+        "expression": "happy"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Untuk pelanggan yang menang 10 kali berturut-turut..."
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Aku akan membuatmu merasa nikmat... dengan tubuhku♡",
+        "expression": "excited"
+      },
+      {
+        "character": "player",
+        "text": "...Apa itu boleh?"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Tentu saja♡ Ini kan kasino bawah tanah♡",
+        "expression": "happy"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Tepat di atas meja ini, bahkan tanpa membereskan kartu-kartunya..."
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Bukankah itu membuat jantungmu berdebar kencang?♡",
+        "expression": "excited"
+      },
+      {
+        "character": "player",
+        "text": "...Itu sangat panas."
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Ehehe♡ Aku juga♡",
+        "expression": "happy"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Kalau begitu... ini♡ Masukkanlah♡",
+        "expression": "excited"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Ikuti temponya saja... lakukan sesukamu♡",
+        "expression": "happy"
+      }
+    ]
+  },
+  "interactive": {
+    "baseImage": "casino/reward_sex_base.png",
+    "expressions": {
+      "pleasure": "casino/reward_sex_pleasure.png",
+      "climax": "casino/reward_sex_climax.png"
+    },
+    "gaugeLabel": "Indikator Ejakulasi",
+    "gaugeMax": 100,
+    "characterName": "Bunny Clerk",
+    "idleLines": [
+      "Apa kamu berhenti?♡ Tidak apa-apa, pelan-pelan saja♡",
+      "Aku meremas kuat di dalam...♡ Bisa kamu rasakan?♡",
+      "Apa kamu sedang menggodaku?♡ ...Jahat sekali♡"
+    ],
+    "progressLines": [
+      {
+        "gauge": 17,
+        "speech": "Mm...♡ Apa itu terasa enak?♡"
+      },
+      {
+        "gauge": 33,
+        "speech": "Haa...♡ Aku juga... aku mulai...♡"
+      },
+      {
+        "gauge": 50,
+        "speech": "Ahh♡ Kamu... jadi makin intens...♡"
+      },
+      {
+        "gauge": 67,
+        "speech": "Ahh...♡ Vaginaku benar-benar berantakan...♡"
+      },
+      {
+        "gauge": 83,
+        "speech": "Maukah kamu... membuangnya di dalam?♡"
+      }
+    ],
+    "hotspots": [
+      {
+        "id": "vagina",
+        "area": {
+          "x": 35,
+          "y": 50,
+          "width": 30,
+          "height": 20
+        },
+        "isCorrect": true,
+        "gaugeIncrease": 4,
+        "expression": "pleasure",
+        "speeches": [
+          "Mm♡",
+          "Ahh♡",
+          "Haa...♡ Masuknya dalam sekali...♡",
+          "Mmm♡ Kamu... besar sekali...♡",
+          "Ahh♡ Di situ... terasa enak...♡",
+          "Rasanya... luar biasa...♡",
+          "Mm...♡ Aku meremasmu begitu erat di dalam...♡"
+        ]
+      },
+      {
+        "id": "vagina_fast",
+        "area": {
+          "x": 38,
+          "y": 55,
+          "width": 24,
+          "height": 12
+        },
+        "isCorrect": true,
+        "gaugeIncrease": 5,
+        "expression": "climax",
+        "speeches": [
+          "Ah ah ahh♡",
+          "Ahh♡ Cepat sekali...♡",
+          "Mmm♡♡ Kasar sekali...♡",
+          "Aahh♡ Vaginaku... rasanya meleleh...♡",
+          "Hyah♡ Aku bisa merasakannya jauh di dalam perutku...♡",
+          "Jangan♡ Jangan secepat itu...♡"
+        ]
+      },
+      {
+        "id": "breast",
+        "area": {
+          "x": 25,
+          "y": 20,
+          "width": 50,
+          "height": 25
+        },
+        "isCorrect": true,
+        "gaugeIncrease": 3,
+        "expression": "pleasure",
+        "speeches": [
+          "Mm♡ Meremas payudaraku sambil menghentak... rakus sekali ya♡",
+          "Ahh♡ Di dalam dan payudaraku secara bersamaan...♡",
+          "Saat kau mencubit putingku... vaginaku juga ikut menegang...♡",
+          "Haa...♡ Dibelai saat kau menghentak... rasanya luar biasa...♡",
+          "Ahh♡ Putingku jadi menegang...♡",
+          "Baik di bawah sana maupun di sini rasanya enak sekali...♡ Curang sekali...♡"
+        ]
+      }
+    ]
+  },
+  "climax": {
+    "image": "images/live2devent/sex_climax.png",
+    "afterImage": "images/live2devent/sex_climax_after.png",
+    "outroImage": "images/live2devent/sex_climax_cum.png",
+    "dialogueDelay": 600,
+    "pulseDuration": 2500,
+    "dialogues": [
+      {
+        "character": "Bunny Clerk",
+        "text": "Ahh♡ Ahh♡ Kamu... membesar di dalam diriku...♡"
+      },
+      {
+        "character": "player",
+        "text": "Aku... sudah mencapai batas..."
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Ah♡ Apa kamu akan keluar...?♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "T-Tidak apa-apa...♡ Keluarkan semuanya... jauh di dalam diriku...♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Penuhi vaginaku... dengan semua spermamu...♡"
+      },
+      {
+        "character": "player",
+        "text": "Ugh———!!"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Aaahh♡♡♡ Keluar... rasanya panas sekali... berdenyut di dalam diriku...♡♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Mmm♡ Masih keluar...♡ Jauh di dalam perutku... banyak sekali...♡"
+      }
+    ]
+  },
+  "outro": {
+    "dialogues": [
+      {
+        "character": "Bunny Clerk",
+        "text": "Haa...♡ Haa...♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "...♡ Aku menerima semuanya... sampai tetes terakhir...♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Ahh...♡ Saat kamu mencabutnya... cairan itu menetes keluar dari dalam...♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Menetes...♡ Ke mana-mana di atas meja...♡"
+      },
+      {
+        "character": "player",
+        "text": "...Itu tadi luar biasa."
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Ehehe...♡ Banyak sekali...♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Kartu dan kepingannya jadi berantakan semua...♡ Begitu juga denganku... di dalam sini...♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Selamat atas 10 kemenangan beruntunmu...♡ Datanglah bermain lagi kapan-kapan...♡"
+      }
+    ]
+  }
+}
