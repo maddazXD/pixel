@@ -1,0 +1,46 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나짱이 나간 후, 나 혼자 치료실에...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(휴, 첫 고객... 어떻게든 무사히 넘겼네...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나짱은 정말 순수하고... 귀엽고...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(치료복 입은 모습이 너무 섹시했어...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(아니, 내가 지금 무슨 생각을! 먼저 빚부터 갚아야 해!)",
+      "cutInImage": "debt_paper"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(상환 기한까지 12주. 이대로라면 절대 못 갚아...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(다른 돈 벌 방법을 생각해야 해...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그럼, 이번 주는 뭘 할까...)"
+    }
+  ]
+}
