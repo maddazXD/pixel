@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Perawatan hari ini selesai...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Minggu ke-5... tubuh Nana-chan sudah berubah banyak sekali)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Aku senang saat dia bilang 'Aku tidak bisa hidup tanpa perawatan sensei')"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia bahkan sudah siap sepenuhnya sebelum perawatannya dimulai...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia juga bilang ingin mengenalkan teman-temannya)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia pasti benar-benar memercayai keahlianku)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Baiklah kalau begitu, apa yang harus kulakukan minggu ini...)"
+    }
+  ]
+}
