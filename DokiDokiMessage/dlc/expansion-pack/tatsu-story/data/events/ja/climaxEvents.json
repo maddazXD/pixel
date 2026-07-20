@@ -1,0 +1,39 @@
+[
+  {
+    "id": "tatsu_first_climax_awake",
+    "triggerType": "firstClimaxAwake",
+    "triggerCondition": { "isSleeping": false },
+    "priority": 20,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "climax_01", "text": "っ…！？な、なんだ…今の…！" },
+      { "character": "tatsu", "expression": "climax_01", "text": "あ…ぁぁっ……♡♡" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "はぁ…はぁ……" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "………" },
+      { "character": "player", "expression": "normal_01", "text": "（す、すごい…タツ姐がイっちゃった…？）" },
+      { "character": "player", "expression": "normal_01", "text": "あ、あの…大丈夫ですか？筋肉が一気に弛緩したみたいで…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…見んな" },
+      { "character": "player", "expression": "normal_01", "text": "す、すみません…！" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…こんなの…初めてだ…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…今のこと、誰かに言ったらぶっ殺すからな" },
+      { "character": "player", "expression": "normal_01", "text": "い、言いません！絶対に！" }
+    ]
+  },
+  {
+    "id": "tatsu_first_climax_sleeping",
+    "triggerType": "firstClimaxSleeping",
+    "triggerCondition": { "isSleeping": true },
+    "priority": 20,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "んぅ……♡" },
+      { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "あ……はぁ……♡" },
+      { "character": "player", "expression": "normal_01", "text": "（え…タツ姐、寝てるのにすごい反応…）" },
+      { "character": "tatsu", "expression": "climax_sleeping_01", "text": "んんっ……♡♡" },
+      { "character": "tatsu", "expression": "climax_sleeping_01", "text": "ふぁ……♡" },
+      { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "すぅ……すぅ……" },
+      { "character": "player", "expression": "normal_01", "text": "（あのタツ姐が…こんな顔するんだ…）" },
+      { "character": "player", "expression": "normal_01", "text": "（起きてたら絶対殺されるけど…今だけは見せてもらおう…）" }
+    ]
+  }
+]
