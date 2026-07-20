@@ -1,0 +1,371 @@
+{
+  "lotion_basic": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "로션이시네요♡ 이거, 정말 부드럽게 해준답니다♡\n사용법도 친절하게 설명해드릴게요♡"
+      }
+    ]
+  },
+  "secret_book": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "트윈테일 교경전이요...? 후후♡ 손님, 의외로 대담하시네요♡\n이 책에는 정말 야한 내용이 가득하답니다♡"
+      }
+    ]
+  },
+  "pillow_comfort": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "안면베개시네요♡ 이 베개, 정말 푹신푹신해서 기분이 좋아요♡\n수면의 질이 확 좋아진답니다♡"
+      }
+    ]
+  },
+  "medical_equipment": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "가운과 인체모형 세트시네요♡\n이걸 입으면 실력 좋은 정체사처럼 보인답니다♡"
+      }
+    ]
+  },
+  "drop_bed": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "와♡ 드롭 베드를 고민하고 계세요?\n프로 사양의 고급품이지만 시술 효과가 정말 달라요♡"
+      }
+    ]
+  },
+  "relax_oil": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "릴랙스 오일이시네요♡ 좋은 향기로 마음이 편안해져요♡\n긴장을 잘 하시는 손님께 딱 맞아요♡"
+      }
+    ]
+  },
+  "energy_drink": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "에너지 드링크세요♡\n이걸 마시면 하루 종일 기운 넘치게 시술할 수 있어요♡"
+      }
+    ]
+  },
+  "sleep_powder": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "천연 안면 파우더시네요♡ 라벤더의 은은한 향이 나요♡\n바로 깊은 잠에 빠질 수 있답니다♡"
+      }
+    ]
+  },
+  "chili_powder": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "천연 고추 파우더세요♡ 강력한 졸음 방지제지만 자극이 꽤 강하니까 사용법에 주의해주세요♡"
+      }
+    ]
+  },
+  "aphrodisiac_herb": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "어... 이건 비전의 허브 엑기스예요♡\n정말 강력한 효과가 있으니까 사용하실 때 조심하세요♡"
+      }
+    ]
+  },
+  "beast_charge_drink": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "후후♡ 비스트 차지 Z세요...♡\n사용 후 바로... 기운이 넘치신대요♡"
+      }
+    ]
+  },
+  "sleep_guard_tablet": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "슬립 킵 정이시네요♡\n한 번 잠들면 계속 깊은 잠을 유지하는 약이에요♡"
+      }
+    ]
+  },
+  "climax_blocker": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "촌지 로션이세요...♡\n이걸 바르면 아무리 기분 좋아도 갈 수가 없게 돼버린대요...♡"
+      }
+    ]
+  },
+  "incense_toroinkо": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "최음제 향의 '토로인코'시네요...♡\n달콤한 향기가 방 안 가득 퍼져서... 정말 민감해진대요♡"
+      }
+    ]
+  },
+  "part_time_magazine": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "아르바이트 정보지시네요♡ 알짜배기 알바 정보가 실려있어요♡\n새로운 일의 선택지가 늘어나요♡"
+      }
+    ]
+  },
+  "keiba_magazine": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "경마 정보지시네요♡ 최신 경주마 데이터가 가득해요♡\n대박 찬스가 열리겠네요♡"
+      }
+    ]
+  },
+  "erotic_manual_nipple": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "...성감 마사지 대전의 유두 편이시네요♡\n전문적인 기술서니까 열심히 공부해서... 손님께 기쁨을 드려주세요♡"
+      }
+    ]
+  },
+  "erotic_manual_vagina": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "와...♡ 성감 마사지 대전의 질 편이시네요♡ 이건 꽤 고급자용 책이에요♡\n이 책으로 열심히 공부해서... 손님을 만족시켜드리세요♡"
+      }
+    ]
+  },
+  "erotic_manual_clitoris": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "성감 마사지 대전의... 클리토리스 편이시네요♡ 이건 섬세한 기술이 필요한 내용이에요♡\n열심히 공부해서 손님을 기쁘게 해드리세요♡"
+      }
+    ]
+  },
+  "erotic_manual_anal": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "성감 마사지 대전의... 애널 편이시네요♡ 꽤 고도의 기술이 필요한 시술이지만...\n일류의 {{playerName}}에게는 필요한 지식이죠♡ 파이팅하세요♡"
+      }
+    ]
+  },
+  "gift_flowers": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "꽃다발이시네요♡ 여성에게 선물하는 정석이죠♡\n소중한 분께 드릴 선물이세요?"
+      }
+    ]
+  },
+  "gift_matcha_chocolate": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "교토 우지 말차 초콜릿이세요♡ 정말 맛있겠어요♡\n말차를 좋아하시는 분에게는 최고의 선물이에요♡"
+      }
+    ]
+  },
+  "gift_headphones": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "헤드폰이세요♡ 음악 좋아하시는 분께 최고의 선물이네요♡\n조금 비싸긴 하지만 음질은 정말 환상적이에요♡"
+      }
+    ]
+  },
+  "gift_music_box": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "오르골이세요♡ 로맨틱하고 멋진 선물이네요♡\n부드러운 음색에 마음이 편안해져요♡"
+      }
+    ]
+  },
+  "gift_posture_support": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "자세 교정 서포터시네요♡ 건강을 생각하는 따뜻한 선물이에요♡\n장시간 공부나 사무 업무를 하시는 분께 인기 있어요♡"
+      }
+    ]
+  },
+  "gift_book_stand": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "목제 북스탠드세요♡ 독서를 좋아하시는 분께 센스있는 선물이네요♡\n천연목의 따뜻함이 멋져요♡"
+      }
+    ]
+  },
+  "gift_black_lingerie": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "블랙 레이스 란제리 세트세요...♡\n정말 어른스럽고 멋지죠♡ 특별한 분께 드릴 선물이세요?♡"
+      }
+    ]
+  },
+  "gift_pink_rotor": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "핑크 로터시네요...♡ 작고 귀엽지만 진동이 정말 강력해요♡\n저도 애용하고 있어요...♡"
+      }
+    ]
+  },
+  "gift_custom_dildo": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "이건 정체사님의...? 정말... 당당한 사이즈네요♡ 핏줄까지 재현되어 있고...♡\n특별한 분께 드릴 선물이세요? 분명 기뻐하실 거예요♡"
+      }
+    ]
+  },
+  "gift_massage_av": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "이 시리즈, 정말 인기 있어요♡ 시술 장면이 너무 리얼해서...\n여배우가 진짜로 느끼는 것 같아서... 보기만 해도 두근두근해져요♡"
+      }
+    ]
+  },
+  "banner_flag": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "깃발이시네요! 이걸 설치하면 지나가시는 분들도 쉽게 알아볼 수 있어요♡\n저렴한 가격으로 집객 효과 만점이에요!"
+      }
+    ]
+  },
+  "plant_decoration": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "관엽식물은 가게 분위기를 확 좋게 만들어줘요♡\n손님들도 편안해하시고 재방문율도 올라간답니다! 관리도 간단해요♡"
+      }
+    ]
+  },
+  "premium_speaker": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "고급 스피커시네요. 음질이 완전히 달라요♡\n힐링 음악을 틀면 마치 고급 살롱 같은 분위기가 돼요!"
+      }
+    ]
+  },
+  "air_purifier": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "공기청정기는 필수 아이템이죠! 플라즈마 클러스터 탑재로 공기가 정말 깨끗해져요♡\n청결감이 있으면 손님들의 신뢰도도 확 올라간답니다!"
+      }
+    ]
+  },
+  "led_signboard": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "LED 간판은 최고의 투자예요! 밤에도 반짝반짝 빛나서 정말 눈에 띄거든요♡\n설치한 가게들은 매출이 크게 올랐다고 들었어요!"
+      }
+    ]
+  },
+  "gift_teddy_bear": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "와, 귀여운 곰돌이 인형이시네요♡\n여자애들은 모두 좋아해요♡ 안고 자면 마음이 편안해질 것 같아요♡"
+      }
+    ]
+  },
+  "gift_aroma_diffuser": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "아로마 디퓨저세요♡ 정말 실용적인 선물이네요♡\n방 안이 좋은 향기로 가득해져서 릴랙스 효과도 만점이에요♡"
+      }
+    ]
+  },
+  "gift_eye_mask": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "아이마스크시네요♡ 공부로 피곤한 눈을 쉬게 하는 데 딱이에요♡\n라벤더 향이 들어있어서 수면의 질도 좋아져요♡"
+      }
+    ]
+  },
+  "gift_luxury_bag": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "이건 고급 브랜드의...\n이런 멋진 선물을 받으면 누구나 기뻐할 거예요♡"
+      }
+    ]
+  },
+  "gift_vibrator": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "전동 마사지기세요♡ 이건 꽤 강력한 타입이에요♡\n전신에... 사용할 수 있대요...♡"
+      }
+    ]
+  },
+  "gift_diamond_ring": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "다이아몬드 반지시네요♡ 정말 멋져요...♡\n소중한 분께 선물하시는 거예요?"
+      }
+    ]
+  }
+}
