@@ -1,0 +1,406 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "──Pagi di minggu ketiga. Sekarang sudah minggu ketiga perawatan dengan Tatsu-nee."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tekanan untuk melunasi hutang memang ada, tapi Tatsu-nee datang seminggu sekali...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Penangguhan bunganya sangat membantu. Tapi sampai kapan ini akan bertahan...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Biaya tetapnya benar-benar berat. Tidak mungkin aku bisa melunasinya tanpa pelanggan tambahan...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tapi setidaknya aku harus terus merawat Tatsu-nee... Kalau penangguhan bunganya habis, tamatlah aku.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Yo.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Tatsu-nee! Terima kasih sudah datang lagi hari ini.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Jadi, bagaimana perkembangan pelunasan utangmu?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "T-Tentang itu... Aku masih belum mendapatkan pelanggan baru...",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Tidak ada pelanggan baru, ya?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "I-Iya... Memang sulit...",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Aku sudah menangguhkan bungamu, jadi sebaiknya kau tunjukkan hasil.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "M-Maafkan aku! Aku akan berusaha semampuku!",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Gawat... Tatsu-nee sedang dalam suasana hati yang buruk...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Yah, perawatanmu memang membantuku menyelesaikan pekerjaan, itu harus kuakui.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Benarkah!? Senang mendengarnya!",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Minggu lalu, aku harus berdiri selama tiga jam penuh untuk mengurus anak buahku.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Karena aku sudah mendapatkan perawatanmu sebelumnya, bahuku jadi kuat.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Aku senang mendengarnya.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Setiap hari isinya cuma stres... Menagih hutang, mengurus anak buah...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Jadi bos itu tidak mudah, tahu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Pekerjaanmu terdengar sangat berat, Tatsu-nee...",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Yah, namanya juga pekerjaan. Memang begitu adanya.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Bagian mana yang terasa mengganggu hari ini?",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Bahu dan punggung. Terutama di sekitar belikat—kaku sekali rasanya.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Di sekitar belikat, oke. Kalau begitu, mungkin bagus juga kalau kita kerjakan otot dadanya.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "Otot dada?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Iya. Belikat dan otot dada itu saling terhubung. Saat otot pektoral tegang, belikat tidak bisa bergerak dengan benar.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Huh. Yah, kalau memang ada alasan medisnya.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "choice_massage3",
+      "character": "player",
+      "expression": "normal",
+      "text": "Baiklah, biarkan aku menyiapkan semuanya untuk perawatannya.",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "Pekerjaanmu pasti berat sekali ya, Tatsu-nee.",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "sympathy_path"
+        },
+        {
+          "label": "Dengan payudara sebesar itu, pasti bikin otot tegang, ya?",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "kcup_path"
+        },
+        {
+          "label": "Boleh aku periksa dengan menyentuhnya langsung?",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "chest_check_path"
+        }
+      ]
+    },
+    {
+      "id": "sympathy_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "Bekerja di bawah tekanan setiap hari sebagai bos... Itu pasti sangat berat.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Yah, namanya juga pekerjaan.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "(Dia selalu mengerutkan kening jadi sulit ditebak, tapi sebenarnya dia masih cukup muda...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Tapi, jadi bos di usiamu itu sangat mengesankan, lho.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Yah... dengar itu rasanya tidak buruk juga, sih.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Aku akan berusaha sebaik mungkin membantumu rileks dengan perawatan menyeluruh.",
+      "hideCharacter": true,
+      "next": "change_clothes"
+    },
+    {
+      "id": "chest_check_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "Boleh aku periksa kekakuan di otot dadamu dengan menyentuhnya langsung?",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "...Hei, sebenarnya bagian mana yang mau kamu sentuh?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Aku akan memeriksa ketegangan di otot pectoralis major. Bahu kaku sering kali berawal dari sana.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Yah, kalau memang itu tujuannya, baiklah.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "(Menekan dengan lembut tepat di bawah tulang selangka.)",
+      "cutInImage": "tatsu_chest_check"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Nn. Iya... memang kaku.",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_chest_check"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "Mencoba menekan sedikit lebih rendah... tapi jariku terpeleset dan——",
+      "cutInImage": "tatsu_chest_check"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "Nnh...! H-Hei...! Bagian mana yang kamu sentuh...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "M-Maaf! Tanganku terpeleset...!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Astaga... Awas ya kalau itu tadi disengaja."
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "Sama sekali tidak! Ini murni untuk perawatan!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Kalau mau melakukannya, lakukan dengan benar dan buat itu berarti.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "B-Baik! Aku akan mengerahkan segalanya!",
+      "hideCharacter": true,
+      "next": "change_clothes"
+    },
+    {
+      "id": "kcup_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "Dengan payudara sebesar itu, pasti bikin otot tegang, ya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Hei. Apa yang baru saja kamu katakan?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "T-Tidak! Maksudku... secara medis! Semakin besar dadanya, semakin besar beban pada otot pektoral..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "...Hah. Jadi maksudmu ini yang jadi masalahnya?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "T-Tidak tidak tidak tidak! Justru sebaliknya, aku malah bersyukur punya ini!!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "smile",
+      "text": "...Dasar bodoh. Yah, memang kaku sih, aku akui itu.",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal",
+      "text": "Baiklah kalau begitu, silakan ganti pakaian perawatanmu.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Iya, iya... aku sudah terbiasa pakai kain secuil ini sekarang.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "(Tatsu-nee mulai berganti pakaian...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "...Sudah kubilang jangan dilihat.",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Sudah selesai ganti. ...Cepat mulai.",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Setiap kali begini, aku selalu bingung harus melihat ke mana...)"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "Baiklah, mari kita mulai perawatannya."
+    }
+  ]
+}
