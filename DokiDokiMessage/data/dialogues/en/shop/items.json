@@ -1,0 +1,371 @@
+{
+  "lotion_basic": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Losion pijat♡ Ini membuat semuanya terasa sangat mulus♡ Aku akan jelaskan cara pakainya secara mendetail ya♡"
+      }
+    ]
+  },
+  "secret_book": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Kitab Suci Kultus Twintail...? Hehe♡ Kamu lebih berani dari yang kukira♡ Buku ini berisi hal-hal yang sangat nakal di dalamnya♡"
+      }
+    ]
+  },
+  "pillow_comfort": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Bantal nyaman♡ Bantal ini sangat empuk dan rasanya enak sekali♡ Ini benar-benar meningkatkan kualitas tidur♡"
+      }
+    ]
+  },
+  "medical_equipment": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Set jas lab dan model anatomi♡ Memakainya membuatmu terlihat seperti terapis ahli♡"
+      }
+    ]
+  },
+  "drop_bed": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Wow♡ Kamu mempertimbangkan tempat tidur drop? Itu barang mewah kelas profesional, tapi benar-benar membuat perbedaan dalam efektivitas perawatan♡"
+      }
+    ]
+  },
+  "relax_oil": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Minyak relaksasi♡ Aromanya enak dan menenangkan pikiran♡ Sempurna untuk pelanggan yang mudah gugup♡"
+      }
+    ]
+  },
+  "energy_drink": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Minuman energi♡ Minum ini dan kamu bisa merawat pasien seharian penuh dengan energi maksimal♡"
+      }
+    ]
+  },
+  "sleep_powder": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Bubuk tidur alami♡ Aromanya lavender yang lembut♡ Kamu akan langsung jatuh ke tidur yang nyenyak♡"
+      }
+    ]
+  },
+  "chili_powder": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Bubuk cabai alami♡ Ini alat bantu bangun yang ampuh, tapi stimulasinya cukup kuat, jadi tolong hati-hati sekali saat menggunakannya♡"
+      }
+    ]
+  },
+  "aphrodisiac_herb": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Hmm... ini ekstrak herbal rahasia♡ Efeknya sangat kuat, jadi tolong berhati-hati saat menggunakannya ya♡"
+      }
+    ]
+  },
+  "beast_charge_drink": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Hehe♡ Beast Charge Z...♡ Setelah menggunakannya, kamu akan... langsung berenergi♡"
+      }
+    ]
+  },
+  "sleep_guard_tablet": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Tablet Sleep Keep♡ Begitu kamu tertidur, kamu akan tetap tidur nyenyak sepanjang waktu♡"
+      }
+    ]
+  },
+  "climax_blocker": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Losion edging...♡ Oleskan ini dan tidak peduli seberapa nikmat rasanya, kamu tidak akan bisa klimaks...♡"
+      }
+    ]
+  },
+  "incense_toroinkо": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Dupa afrodisiak 'Toro Inko'...♡ Wangi manisnya memenuhi ruangan... dan membuatmu jadi sangat sensitif♡"
+      }
+    ]
+  },
+  "part_time_magazine": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Majalah lowongan kerja paruh waktu♡ Isinya informasi tentang pekerjaan yang bagus♡ Kamu akan punya lebih banyak pilihan pekerjaan♡"
+      }
+    ]
+  },
+  "keiba_magazine": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Majalah pacuan kuda♡ Isinya penuh dengan data kuda pacu terbaru♡ Peluangmu untuk menang besar jadi makin terbuka♡"
+      }
+    ]
+  },
+  "erotic_manual_nipple": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "...Ensiklopedia Pijat Erotis, edisi puting♡ Karena ini buku teknis, pelajari dengan sungguh-sungguh... dan buat pelangganmu senang♡"
+      }
+    ]
+  },
+  "erotic_manual_vagina": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Wow...♡ Ensiklopedia Pijat Erotis, edisi vagina♡ Ini buku yang cukup tingkat lanjut♡ Pelajari ini dengan sungguh-sungguh... dan puaskan pelangganmu♡"
+      }
+    ]
+  },
+  "erotic_manual_clitoris": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Ensiklopedia Pijat Erotis... edisi klitoris♡ Ini membutuhkan teknik yang lembut♡ Belajarlah dengan giat dan puaskan pelangganmu♡"
+      }
+    ]
+  },
+  "erotic_manual_anal": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Ensiklopedia Pijat Erotis... edisi anal♡ Ini membutuhkan teknik yang cukup mahir, tapi... Seorang {{playerName}} kelas satu butuh pengetahuan ini♡ Semoga berhasil♡"
+      }
+    ]
+  },
+  "gift_flowers": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Buket bunga♡ Hadiah klasik untuk wanita♡ Apakah itu hadiah untuk seseorang yang spesial?"
+      }
+    ]
+  },
+  "gift_matcha_chocolate": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Cokelat matcha Uji Kyoto♡ Kelihatannya enak sekali♡ Hadiah yang tak tertahankan bagi pecinta matcha♡"
+      }
+    ]
+  },
+  "gift_headphones": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Headphone♡ Hadiah sempurna untuk pecinta musik♡ Harganya agak mahal, tapi kualitas suaranya benar-benar luar biasa♡"
+      }
+    ]
+  },
+  "gift_music_box": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Kotak musik♡ Hadiah yang sangat romantis dan manis♡ Melodinya yang lembut menyembuhkan hati♡"
+      }
+    ]
+  },
+  "gift_posture_support": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Penyangga postur tubuh♡ Hadiah penuh perhatian untuk kesehatan♡ Orang yang belajar atau bekerja di meja dalam waktu lama pasti akan menghargainya♡"
+      }
+    ]
+  },
+  "gift_book_stand": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Rak buku kayu♡ Hadiah yang sangat perhatian untuk para pecinta buku♡ Kehangatan kayu alaminya sungguh luar biasa♡"
+      }
+    ]
+  },
+  "gift_black_lingerie": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Set pakaian dalam renda hitam...♡ Terlihat sangat dewasa dan cantik♡ Apakah ini untuk seseorang yang spesial?♡"
+      }
+    ]
+  },
+  "gift_pink_rotor": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Rotor merah muda...♡ Bentuknya kecil dan lucu, tapi getarannya sangat kuat♡ Ini juga salah satu favoritku...♡"
+      }
+    ]
+  },
+  "gift_custom_dildo": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Ini milik sang terapis...? Ukurannya sangat... mengesankan♡ Bahkan urat-uratnya pun dibuat mirip...♡ Apakah ini hadiah untuk seseorang yang spesial? Mereka pasti akan sangat senang♡"
+      }
+    ]
+  },
+  "gift_massage_av": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Seri ini sangat populer♡ Adegan perawatannya terasa begitu nyata... Para aktrisnya terlihat benar-benar menikmatinya... melihatnya saja membuat jantungku berdebar♡"
+      }
+    ]
+  },
+  "banner_flag": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Bendera banner! Memasang ini membuat orang yang lewat jadi lebih mudah melihat toko kita♡ Harganya terjangkau dengan efek menarik pelanggan yang luar biasa!"
+      }
+    ]
+  },
+  "plant_decoration": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Tanaman pot benar-benar meningkatkan suasana toko♡ Pelanggan jadi bisa bersantai, dan tingkat kunjungan kembali pun naik! Perawatannya juga mudah♡"
+      }
+    ]
+  },
+  "premium_speaker": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Speaker premium. Kualitas suaranya benar-benar berbeda♡ Putar musik yang menenangkan dan suasananya akan terasa seperti salon mewah!"
+      }
+    ]
+  },
+  "air_purifier": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Penjernih udara adalah barang wajib! Dengan teknologi Plasmacluster, udaranya jadi sangat bersih♡ Tampilan yang bersih sangat meningkatkan kepercayaan pelanggan!"
+      }
+    ]
+  },
+  "led_signboard": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Papan LED adalah investasi terbaik! Bersinar terang bahkan di malam hari dan sangat mencolok♡ Aku dengar toko yang memasangnya mengalami peningkatan penjualan yang drastis!"
+      }
+    ]
+  },
+  "gift_teddy_bear": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Wah, boneka beruang yang lucu♡ Semua gadis pasti menyukainya♡ Pasti terasa menenangkan saat dipeluk ketika tidur♡"
+      }
+    ]
+  },
+  "gift_aroma_diffuser": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Aroma diffuser♡ Hadiah yang sangat praktis♡ Ruangan jadi penuh dengan wewangian yang enak, dan efek relaksasinya luar biasa♡"
+      }
+    ]
+  },
+  "gift_eye_mask": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "normal",
+        "text": "Penutup mata♡ Sempurna untuk menenangkan mata lelah setelah belajar♡ Dengan aroma lavender, kualitas tidur juga jadi meningkat♡"
+      }
+    ]
+  },
+  "gift_luxury_bag": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Ini merek mewah... Siapa pun pasti akan senang menerima hadiah yang begitu luar biasa♡"
+      }
+    ]
+  },
+  "gift_vibrator": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "shy",
+        "text": "Pijat elektrik♡ Ini tipe yang cukup kuat♡ Bisa digunakan... di seluruh bagian tubuh...♡"
+      }
+    ]
+  },
+  "gift_diamond_ring": {
+    "dialogues": [
+      {
+        "character": "Clerk",
+        "expression": "smile",
+        "text": "Cincin berlian♡ Sangat cantik...♡ Apakah kamu akan memberikannya kepada seseorang yang spesial?"
+      }
+    ]
+  }
+}
