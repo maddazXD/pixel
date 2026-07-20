@@ -1,0 +1,408 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "——第12周的早晨。\n治疗的效果终于开始影响菜菜的日常生活了。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(菜菜的身体变得非常敏感了...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(也许是时候进入下一阶段了...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "早、早上...好...",
+      "voiceFile": "story_day12_001"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "哦?今天看起来特别红润呢..."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "嗯...今天光是来这里就很辛苦...",
+      "voiceFile": "story_day12_002"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(光是走路就变得那么敏感...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "每走一步...不知怎么的...腿就使不上力...",
+      "voiceFile": "story_day12_003"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "那一定很辛苦。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "路上必须休息很多次...好尴尬...",
+      "voiceFile": "story_day12_004"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(需要那么频繁地休息...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "老师...嗯...我有重要的报告...",
+      "voiceFile": "story_day12_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "什么?别告诉我你怀孕了?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "不、不是那样的!",
+      "voiceFile": "story_day12_006"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "但是...可能接近那样...",
+      "voiceFile": "story_day12_007"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "什么!?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "最近...胸部肿胀...感觉很奇怪...",
+      "voiceFile": "story_day12_008"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "胸部!?(没想到!太棒了!)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "碰触的时候...非常敏感...",
+      "voiceFile": "story_day12_009"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "就连校服...都感觉很紧...",
+      "voiceFile": "story_day12_010"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "太棒了!这是放松的终极状态!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "放、放松!?",
+      "voiceFile": "story_day12_011"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的!你的身体已经把\"高潮状态\"认定为最佳健康状况了。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "换句话说,菜菜的身体正在试图随时保持巅峰状态。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "是、是这样吗...但是胸罩好紧...",
+      "voiceFile": "story_day12_012"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "今天...嗯...没法穿...",
+      "voiceFile": "story_day12_013"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(没穿胸罩...真的!?)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "还有...在学校出了问题...",
+      "voiceFile": "story_day12_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "又?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "在体育课...打排球的时候...",
+      "voiceFile": "story_day12_015"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "跳起来落地的瞬间...发出了尖叫...!",
+      "voiceFile": "story_day12_016"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "跳起来落地?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "震动...在身体深处共鸣...",
+      "voiceFile": "story_day12_017"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "跑步也不行...每次大腿摩擦...嗯!...",
+      "voiceFile": "story_day12_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "大家都问\"田中同学,你抽筋了吗\"...",
+      "voiceFile": "story_day12_019"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(光是运动就高潮了...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "我现在害怕体育课了...",
+      "voiceFile": "story_day12_020"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "那确实很麻烦。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "老师...我该怎么办...?",
+      "voiceFile": "story_day12_021"
+    },
+    {
+      "id": "choice_massage12_final",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "我明白了。今天终于是最后阶段了吗?",
+      "choices": [
+        {
+          "label": "再进一步很危险,做正常治疗吧",
+          "trustDelta": 3,
+          "developDelta": 0,
+          "next": "safe_ending"
+        },
+        {
+          "label": "用完全觉醒课程结束吧",
+          "trustDelta": 1,
+          "developDelta": 3,
+          "next": "awakening_ending"
+        },
+        {
+          "label": "解锁终极秘技\"无限高潮地狱\"吧",
+          "trustDelta": 0,
+          "developDelta": 5,
+          "next": "ultimate_ending"
+        }
+      ]
+    },
+    {
+      "id": "safe_ending",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "正常治疗...?",
+      "voiceFile": "story_day12_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的。照这样下去会妨碍你的日常生活。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "但不用担心。我们随时可以回到这个状态。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "如、如果是这样...我有点放心了...",
+      "next": "final_treatment",
+      "voiceFile": "story_day12_023"
+    },
+    {
+      "id": "awakening_ending",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "完全觉醒!?",
+      "voiceFile": "story_day12_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的!我会引出你身体100%的潜力!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "现在已经很辛苦了...如果变得更糟...",
+      "voiceFile": "story_day12_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "没关系!相信我!",
+      "next": "final_treatment"
+    },
+    {
+      "id": "ultimate_ending",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "无、无限高潮地狱!?",
+      "voiceFile": "story_day12_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的!一旦开始就停不下来的终极治疗!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "那、那听起来...很可怕...",
+      "voiceFile": "story_day12_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "不用担心!如果你昏过去了,我会暂时停下来的!"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "已经假设会昏过去了!?",
+      "next": "final_treatment",
+      "voiceFile": "story_day12_028"
+    },
+    {
+      "id": "final_treatment",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那么,准备最后的治疗吧。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "最后...是指?",
+      "voiceFile": "story_day12_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "不,我是说最棒的。我打算让你永远来。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "太、太好了...没有{{playerName}}先生我无法过正常生活...",
+      "voiceFile": "story_day12_030"
+    },
+    {
+      "character": "player",
+      "expression": "blush_nervoussmile",
+      "text": "(终身保证客户...正如计划!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那么,能换衣服吗?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "好...",
+      "voiceFile": "story_day12_031"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(光是进入这个房间,身体就自动...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day12_032"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "换、换好了...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day12_033"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(她看起来已经到极限了...真是景象...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "请、请不要盯着看...很害羞...",
+      "voiceFile": "story_day12_034"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "没关系。"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "现在,让我们开始有史以来最棒的治疗。"
+    }
+  ]
+}
