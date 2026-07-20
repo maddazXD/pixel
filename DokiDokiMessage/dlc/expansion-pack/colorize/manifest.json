@@ -1,0 +1,13 @@
+{
+  "directories": [
+    "character/",
+    "backgrounds/",
+    "cutin/",
+    "ending/",
+    "ui/",
+    "shop/vip/",
+    "tatsu/events/",
+    "cross_section/"
+  ],
+  "files": []
+}
