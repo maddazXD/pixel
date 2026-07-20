@@ -1,0 +1,357 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Pagi di minggu ke-9. Hubunganku dengan Nana sudah benar-benar melampaui batasan antara terapis dan pelanggan."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(9 minggu... tubuh Nana sudah mekar sepenuhnya. Begitu juga hatinya...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Selamat pagi... sensei...",
+      "voiceFile": "story_day9_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Selamat pagi, Nana. Kamu terlihat sehat hari ini."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Itu... mungkin karena aku tidur nyenyak semalam...",
+      "voiceFile": "story_day9_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Kamu tidur nyenyak? Baguslah."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Iya... belakangan ini, tubuhku jadi lebih mudah rileks...",
+      "voiceFile": "story_day9_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Tapi tetap saja, aku ingin menerima perawatanmu, sensei...",
+      "voiceFile": "story_day9_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Jujur sekali ya. Nana yang jujur seperti ini membuat perawatannya jadi sepadan."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Perawatanmu itu... benar-benar spesial, sensei...",
+      "voiceFile": "story_day9_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Itu karena tubuhmu menerima perawatanku dengan sempurna, Nana."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Tubuhku jadi... tidak bisa merasa puas tanpa tanganmu, sensei...",
+      "voiceFile": "story_day9_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Dia benar-benar bergantung pada perawatanku... ini kondisi yang sempurna.)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... aku punya permintaan hari ini...",
+      "voiceFile": "story_day9_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Apa itu?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Aku ingin kau... merawatku lebih... intens lagi...",
+      "voiceFile": "story_day9_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Terakhir kali kau lembut padaku tapi... hari ini aku ingin lebih...",
+      "voiceFile": "story_day9_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Aku ingin kau... menekannya dengan keras... dengan intens...",
+      "voiceFile": "story_day9_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Intens? Apa kamu yakin bisa tahan sekuat itu?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Belakangan ini, perawatan yang lembut saja... tidak cukup...",
+      "voiceFile": "story_day9_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Aku mulai menginginkan... stimulasi yang lebih kuat...",
+      "voiceFile": "story_day9_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Itu perubahan yang luar biasa. Itu bukti kalau kamu menghadapi tubuhmu dengan jujur."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "Itu berkat kau, sensei... Kau yang membangunkan tubuhku...",
+      "voiceFile": "story_day9_013"
+    },
+    {
+      "id": "choice_massage9",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Permintaanmu kuterima, Nana.",
+      "choices": [
+        {
+          "label": "Tapi jangan terlalu memaksakan diri.",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "careful_path"
+        },
+        {
+          "label": "Hari ini aku akan melakukannya seintens yang bisa kamu tahan.",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "limit_path"
+        },
+        {
+          "label": "Sekarang kamu benar-benar tubuh eksklusif milikku.",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "mine_path"
+        }
+      ]
+    },
+    {
+      "id": "careful_path",
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "Iya... Sensei baik sekali.",
+      "voiceFile": "story_day9_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Kamu pelanggan yang penting, Nana. Sebagai profesional, aku harus merawatmu dengan benar.",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "limit_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Seintens yang bisa kutahan...?",
+      "voiceFile": "story_day9_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Iya. Dengan intensitas yang kamu inginkan, aku akan memberimu perawatan paling intens yang pernah ada."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "I-iya... tolong ya...",
+      "next": "prepare_massage",
+      "voiceFile": "story_day9_016"
+    },
+    {
+      "id": "mine_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Tubuhmu sekarang benar-benar milikku sepenuhnya. Kamu tidak bisa puas tanpa perawatanku, kan?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "M-milikmu sepenuhnya...?",
+      "voiceFile": "story_day9_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Mengatakannya seperti itu... memalukan sekali...",
+      "voiceFile": "story_day9_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Tapi itu kenyataannya, kan? Tubuhmu sekarang hanya merespons sentuhanku."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "...Mungkin... benar begitu...",
+      "next": "prepare_massage",
+      "voiceFile": "story_day9_019"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... aku punya satu permintaan lagi...",
+      "voiceFile": "story_day9_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Apa?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Hari ini... pakaian spesial itu... apakah ada yang lebih kecil lagi...?",
+      "voiceFile": "story_day9_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Lebih kecil lagi?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Iya... aku ingin memperlihatkan lebih banyak kulit...",
+      "voiceFile": "story_day9_022"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Aku ingin Sensei melihat semuanya... dan menyentuh semuanya...",
+      "voiceFile": "story_day9_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Dia sendiri yang meminta untuk lebih terbuka... dia benar-benar sudah berkembang pesat.)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Kalau kamu sampai sejauh itu, bagaimana kalau tanpa pakaian sama sekali?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Hah...? I-itu...",
+      "voiceFile": "story_day9_024"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Itu masih... terlalu memalukan...",
+      "voiceFile": "story_day9_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Bercanda. Tapi karena kamu memintanya, aku akan cari sesuatu yang lebih kecil lain kali."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "B-benarkah...? Terima kasih banyak...",
+      "voiceFile": "story_day9_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Baiklah kalau begitu, untuk hari ini kita pakai pakaian yang biasa saja."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(Pakaian yang biasa... sudah tidak cukup untuk memuaskanku lagi...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day9_027"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(Aku ingin lebih... ingin lebih dilihat... ingin lebih disentuh... aku sedikit... takut pada diriku sendiri...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day9_028"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "A-aku sudah selesai ganti...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day9_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Meskipun aku seharusnya sudah terbiasa melihatnya... tubuh Nana yang sudah berkembang ini benar-benar memikat...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Sensei... tolong jaga aku juga hari ini ya...",
+      "voiceFile": "story_day9_030"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Sempurna. Kamu benar-benar cantik, Nana."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "T-terima kasih...",
+      "voiceFile": "story_day9_031"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "...Tolong... Hari ini aku ingin... perlakuan yang spesial...",
+      "voiceFile": "story_day9_032"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Iya. Hari ini aku akan memanjakanmu sedalam yang kamu inginkan. Kamu siap?"
+    }
+  ]
+}
