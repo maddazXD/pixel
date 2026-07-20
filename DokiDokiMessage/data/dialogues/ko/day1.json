@@ -1,0 +1,411 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자신의 \"성감대 마사지 클리닉\"을 여는 것이... 나의 꿈이었다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(설득력 있는 이론을 만들고, 웹사이트를 구축하고, SEO 회사에 엄청난 돈을 지불했다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(당연히 전단지도 배포했다. \"음란 파동 요법\". 나는 진지했다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(......하지만 개업일의 예약 수는... 단 하나.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(......은행과 소비자 금융회사에 모두 거절당하고, 결국 \"드래곤 파이낸스\"라는 고리대금업자에게서 창업 자금을 빌렸다...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(상환 기한은 3개월 후... 12주. 실패하면 정말로 끝이다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(......뭐, 상관없다. 오늘 오는 여자애가 내 클리닉의 유일한 희망이다.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "......저, 실례합니다...?",
+      "voiceFile": "story_day1_001"
+    },
+    {
+      "character": "player",
+      "expression": "doubt_closemouth_sweat",
+      "text": "어서 오세요!"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "......전단지를 봤는데요... 여기가 마사지샵 맞나요?",
+      "voiceFile": "story_day1_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "네, 맞습니다. 들어오세요, 걱정 마시고요."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "...네. 감사합니다.",
+      "voiceFile": "story_day1_003"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "그럼, 오늘 무슨 일로 오셨나요? 어떤 고민이 있으신가요? 어깨, 허리, 어디 불편한 곳이라도?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "저... 요즘 어깨가 너무 뻐근해서...",
+      "voiceFile": "story_day1_004"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "어깨 결림... 알겠습니다."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(뭐, 당연하지. 이 여자애 가슴이 꽤 크네... 무거울 텐데... 헤헤.)"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "좀 더 자세한 내용을 알고 싶으니, 먼저 짐을 내려놓고 이 상담서를 작성해 주시겠어요?"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "그리고 이름도 알려주시겠어요?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "네. 다나카 나나입니다.",
+      "voiceFile": "story_day1_005"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "어디 보자... 고민 사항...",
+      "voiceFile": "story_day1_006",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(와! 가까이서 보니 가슴이 정말 크네...! 그리고 얼굴도 귀여워... 대박이잖아, 헤헤...)",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "......저, 실례지만요. 이거... 신체 정보랑, 오-오르가즘 경험... 이런 정보가 정말 필요한 건가요...?",
+      "voiceFile": "story_day1_007",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "물론이죠. 릴랙스하시도록 돕기 위해서는 몸뿐만 아니라 - 감각 선호도를 이해하는 것도 중요합니다.",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그-그렇군요... 저는... 이런 걸 작성해본 적이 없어서...",
+      "voiceFile": "story_day1_008",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "괜찮아요. 솔직하게, 생각나는 대로 쓰시면 됩니다.",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "다-다 썼는데요... 이렇게 하면 되나요?",
+      "voiceFile": "story_day1_009"
+    },
+    {
+      "character": "",
+      "expression": "blush_closemouth",
+      "text": "......",
+      "docImage": "counseling_sheet",
+      "docNeedConfirm": true
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(헤헤... 처녀구나... 여러 의미로 재미있겠는걸.)",
+      "conditions": {
+        "route": "virgin"
+      }
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(뭐야, 처녀가 아니네... 뭐, 경험이 있다면 좀 더 거칠게 해도 문제없겠지.)",
+      "conditions": {
+        "route": "experienced"
+      }
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "감사합니다. ...음, 알겠네요."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "좋아요, 그럼 형식적이긴 하지만 이 \"시술 동의서\"에도 서명해 주시겠어요?"
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "......",
+      "docImage": "consent_sheet",
+      "docNeedConfirm": true
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "시술 동의서...?",
+      "voiceFile": "story_day1_010"
+    },
+    {
+      "character": "player",
+      "expression": "doubt_closemouth_sweat",
+      "text": "네, 그냥 형식이에요. 다들 서명하는 거라 복잡한 건 아닙니다."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "세부 사항은 신경 쓰지 말고 이름만 써주시면 돼요!"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "이-이름만...? 네...",
+      "voiceFile": "story_day1_011"
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "......",
+      "cutInImage": "nana_writing"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "다 썼습니다.",
+      "voiceFile": "story_day1_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "좋아요, 감사합니다. 큰 도움이 됐어요."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "(헤헤... 이제 공식적으로 문제없이 뭐든 할 수 있어.)"
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "(간신히 웃음을 억누르며, 그는 치료사란에 자신의 이름을 서명했다.)",
+      "nameInput": true
+    },
+    {
+      "character": "",
+      "expression": "normal_closemouth",
+      "text": "......"
+    },
+    {
+      "id": "choice_massage",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "자, 그럼 상담서를 보니... 네, 어깨가 꽤 긴장되어 있네요. 옷 위로도 느껴지는걸요.",
+      "choices": [
+        {
+          "label": "자세가 안 좋은 건 아닐까요?",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "posture_path"
+        },
+        {
+          "label": "가슴 때문일 수도 있어요",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "breast_path"
+        },
+        {
+          "label": "만져보고 확인해볼까요",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "touch_path"
+        }
+      ]
+    },
+    {
+      "id": "posture_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "그럴 줄 알았어요... 제 자세가 안 좋은가요...? 수업 시간에 앞으로 기울어지는 경향이 있어서...",
+      "voiceFile": "story_day1_013"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "그건 안 좋네요.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "breast_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "네... 그-그런가요... 가슴 때문에...?",
+      "voiceFile": "story_day1_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "네, 가능성이 있어요. 이렇게 대단하면 당연히 어깨에 부담이 가겠죠."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(대단하다는 말로는 부족해! 터질 것 같잖아! 이런 가슴이면 당연히 어깨가 아프겠지...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "대-대단하다니...",
+      "voiceFile": "story_day1_015",
+      "next": "change_clothes"
+    },
+    {
+      "id": "touch_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "햐아...! 너-너무 갑자기...! 아...",
+      "voiceFile": "story_day1_016",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "죄송해요, 놀라셨어요? 하지만 네, 역시 그렇네요. 돌처럼 딱딱해요.",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(손바닥에 직접 느껴지는 온기와 부드러움...)",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "이렇게 가볍게 누르기만 해도 혈액순환이 좋아지고 있어요. 이상한 통증은 없나요?",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "없-없어요... 기분 좋아요...",
+      "voiceFile": "story_day1_017",
+      "cutInImage": "nana_massage"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "좋아요.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "좋아요, 그럼 전용 시술복으로 갈아입어 주시겠어요?"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "옷을 갈아입는다고요...?",
+      "voiceFile": "story_day1_018"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "네, 릴랙스 효과를 높이기 위해 디자인된 특수 의상이에요. 다들 입으니까 걱정 마세요."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "그-그렇군요... 알겠어요...",
+      "voiceFile": "story_day1_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "(왜-왜 이렇게 천이 적은 거야...!? 너무... 부끄러워...)",
+      "voiceFile": "story_day1_020",
+      "cutInImage": "nana_changing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(......하지만 거절할 수 없어... 열심히 해야 해...)",
+      "voiceFile": "story_day1_021"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "갈-갈아입었어요... 이렇게... 괜찮나요...?",
+      "voiceFile": "story_day1_022",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(젠장... 천으로 가려진 부분이 너무 적잖아...!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "네, 완벽하게 잘 어울려요."
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "좋아요, 그럼 시술을 시작하겠습니다."
+    }
+  ]
+}
