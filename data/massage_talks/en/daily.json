@@ -1,0 +1,1019 @@
+{
+  "talks": {
+    "talk_weather": {
+      "topicName": "Hari-hari yang Panas Terus Berlanjut",
+      "trustEffect": 1,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Hari ini panas lagi ya. Pasti capek banget kan perjalanan ke sini?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Iya... Padahal sudah pakai payung, tapi aku tetap keringatan cuma gara-gara jalan kaki...",
+          "voiceFile": "talk_wether_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "AC-nya sudah aku nyalakan, jadi santai saja dan istirahatlah dulu."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleeping_02",
+          "text": "...Terima kasih. Rasanya sejuk dan nyaman sekali...",
+          "voiceFile": "talk_wether_002"
+        }
+      ]
+    },
+    "talk_sleep": {
+      "topicName": "Kebiasaan Tidur",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "Kalau tidur, kamu lebih suka miring atau telentang?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Hmm... Aku seringnya malah ketiduran pas lagi miring sambil main HP...",
+          "voiceFile": "talk_sleep_001"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "Main HP sambil miring itu nggak bagus buat lehermu, lho."
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "Coba deh tidur telentang terus taruh bantal di bawah lutut, itu bisa bantu meringankan punggung bawahmu. Kuncinya, berhenti main HP 30 menit sebelum tidur dan redupkan lampunya."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Pakai bantal di bawah lutut... Aku baru tahu. Makasih ya, nanti aku coba.",
+          "voiceFile": "talk_sleep_002"
+        }
+      ]
+    },
+    "talk_hobby": {
+      "topicName": "Hobi",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kalau hari libur, kamu biasanya ngapain, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Hmm... Aku sering latihan piano atau baca buku.",
+          "voiceFile": "talk_hobby_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh, kamu bisa main piano? Lagi latihan lagu apa sekarang?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Aku lagi belajar Nocturne-nya Chopin... Tapi susah banget, aku belum bisa mainnya dengan lancar...",
+          "voiceFile": "talk_hobby_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh... Nocturne, ya. Keren juga. (Aku iyain saja deh)"
+        }
+      ]
+    },
+    "talk_first_time": {
+      "topicName": "Pertama Kali di Klinik",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ini pertama kalinya kamu ke tempat pijat? Kamu gugup ya?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "I-iya... Ini pertama kalinya... Aku agak gugup...",
+          "voiceFile": "talk_first_time_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tenang saja, santai saja. Aku nggak akan melakukan hal yang menyakitkan kok."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...Oke, terima kasih...",
+          "voiceFile": "talk_first_time_002"
+        }
+      ]
+    },
+    "talk_tired_parts": {
+      "topicName": "Bagian Tubuh yang Lelah",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ada bagian tubuh yang belakangan ini terasa pegal banget?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Bahu sama punggung bawahku... Rasanya berat banget.",
+          "voiceFile": "talk_tired_parts_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Mungkin karena terlalu lama duduk dengan posisi yang sama pas belajar?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Mungkin juga ya... Aku memang menghabiskan banyak waktu di meja belajar...",
+          "voiceFile": "talk_tired_parts_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Coba deh berdiri dan lakukan peregangan ringan setiap satu jam. Hari ini aku bakal pastikan ototmu jadi rileks."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Terima kasih... Rasanya enak sekali...",
+          "voiceFile": "talk_tired_parts_003"
+        }
+      ]
+    },
+    "talk_school": {
+      "topicName": "Tentang Sekolah",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu sekolah di mana, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Um... Akademi Omanko.",
+          "voiceFile": "talk_school_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Eh? Akademi Omanko yang itu!?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Ah, iya... Benar sekali.",
+          "voiceFile": "talk_school_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu sekolah yang sangat bergengsi. Keren sekali."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "T-tidak... Tidak ada yang spesial kok...",
+          "voiceFile": "talk_school_003"
+        }
+      ]
+    },
+    "talk_food": {
+      "topicName": "Makanan Favorit",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa ada makanan favoritmu, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Um... Aku suka camilan Jepang. Matcha, dango...",
+          "voiceFile": "talk_food_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh, selera yang dewasa ya. Tidak biasa untuk anak seusiamu."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Nenekku sering membelikannya untukku... Aku sudah menyukainya sejak kecil.",
+          "voiceFile": "talk_food_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu sangat cocok untukmu, Nana."
+        }
+      ]
+    },
+    "talk_piano_detail": {
+      "topicName": "Lebih Banyak Tentang Piano",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ngomong-ngomong, tadi kamu bilang kamu bisa main piano, kan?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Ah, kamu ingat ya...",
+          "voiceFile": "talk_piano_detail_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Umur berapa kamu mulai belajar?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Umur 3 tahun. Awalnya aku tidak suka... Tapi sekarang aku senang memainkannya.",
+          "voiceFile": "talk_piano_detail_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu pernah ikut kompetisi?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Beberapa kali waktu kecil... Tapi aku gugup dan hasilnya kurang bagus.",
+          "voiceFile": "talk_piano_detail_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tapi hebat sekali kamu tetap menekuninya. Aku ingin sekali mendengarmu bermain suatu saat nanti."
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "Eh... Kamu mau mendengarku? Aku akan senang sekali...",
+          "voiceFile": "talk_piano_detail_004"
+        }
+      ]
+    },
+    "talk_dream": {
+      "topicName": "Impian Masa Depan",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu punya impian untuk masa depan, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Um... Aku belum memutuskannya dengan pasti...",
+          "voiceFile": "talk_dream_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa ada bidang yang kamu minati?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Sesuatu yang berhubungan dengan musik... atau pendidikan, kurasa.",
+          "voiceFile": "talk_dream_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu bisa main piano, jadi itu sepertinya pilihan yang bagus."
+        },
+        {
+          "character": "player",
+          "expression": "normal_02",
+          "text": "Kamu juga pasti akan jadi guru yang baik."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "B-benarkah...? Terima kasih.",
+          "voiceFile": "talk_dream_003"
+        }
+      ]
+    },
+    "talk_music_taste": {
+      "topicName": "Selera Musik",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Selain piano, jenis musik apa yang biasanya kamu dengarkan?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Kebanyakan musik klasik... Tapi akhir-akhir ini aku juga mendengarkan hal lain.",
+          "voiceFile": "talk_music_taste_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh? Seperti apa?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...Um... Lagu-lagu anime...",
+          "voiceFile": "talk_music_taste_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu mengejutkan. Apa kamu sering menonton anime?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...Aku tidak terlalu sering menonton... Tapi ada satu anime yang sangat kusukai...",
+          "voiceFile": "talk_music_taste_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "(Dia tampak malu untuk membicarakannya)"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Begitu ya. Aku ingin mendengar lebih banyak tentang itu kapan-kapan."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "I-iya...",
+          "voiceFile": "talk_music_taste_004"
+        }
+      ]
+    },
+    "talk_childhood": {
+      "topicName": "Kenangan Masa Kecil",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Seperti apa dirimu saat masih kecil?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Aku sangat pemalu... Selalu membaca buku.",
+          "voiceFile": "talk_childfood_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu masih sedikit pemalu sekarang?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Iya... Tapi aku tidak merasa segugup itu di sini...",
+          "voiceFile": "talk_childfood_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu membuatku senang. Jadi kamu merasa santai bersamaku."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Iya... Aku merasa tenang...",
+          "voiceFile": "talk_childfood_003"
+        }
+      ]
+    },
+    "talk_trust": {
+      "topicName": "Tentang Kepercayaan",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu terlihat sangat santai akhir-akhir ini, Nana."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Benarkah...? Aku jelas tidak segugup saat pertama kali datang.",
+          "voiceFile": "talk_trust_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa itu berarti kamu memercayaiku?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Iya... Aku memercayaimu, sensei.",
+          "voiceFile": "talk_trust_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Terima kasih. Aku akan berusaha sebaik mungkin untuk terus menjaga kepercayaan itu."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Terima kasih juga... untuk semuanya.",
+          "voiceFile": "talk_trust_003"
+        }
+      ]
+    },
+    "talk_anime_secret": {
+      "topicName": "Hobi Rahasia Menonton Anime",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu sempat menyebutkan mendengarkan lagu anime tadi. Anime apa yang kamu suka?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Eh... K-kamu mengingatnya...",
+          "voiceFile": "talk_anime_secret_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Iya. Aku penasaran."
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "...Sebenarnya... Ada anime di Minggu pagi berjudul 'Lily Cure' yang...",
+          "voiceFile": "talk_anime_secret_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Lily Cure? Yang gadis-gadisnya berubah wujud itu?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "I-iya... Kedengarannya kekanak-kanakan, ya...",
+          "voiceFile": "talk_anime_secret_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Sudah berapa lama kamu menontonnya?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Sejak SD... Aku sudah menontonnya sejak saat itu.",
+          "voiceFile": "talk_anime_secret_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Wah, kalau kamu sudah menontonnya selama itu, berarti kamu benar-benar menyukainya."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Waktu aku cerita ke teman-temanku, mereka pikir itu aneh... Jadi aku tidak pernah cerita ke siapa pun lagi sejak saat itu...",
+          "voiceFile": "talk_anime_secret_005"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Menurutku itu sama sekali tidak aneh. Kamu harus menyukai apa yang kamu sukai."
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "Benarkah...? Terima kasih...",
+          "voiceFile": "talk_anime_secret_006"
+        }
+      ]
+    },
+    "talk_test_result": {
+      "topicName": "Hasil Tes",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu terlihat sedang dalam suasana hati yang baik hari ini. Ada sesuatu yang terjadi?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Sebenarnya... Aku dapat peringkat 2 di kelas saat ujian kemarin.",
+          "voiceFile": "talk_test_result_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Wah, hebat sekali! Siapa yang dapat peringkat pertama?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Seorang cowok yang mereka sebut jenius... Dia selalu dapat peringkat pertama.",
+          "voiceFile": "talk_test_result_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu juga sudah sangat hebat, Nana. Sebagai hadiah, bagaimana kalau aku berikan layanan spesial hari ini?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "L-layanan spesial...?",
+          "voiceFile": "talk_test_result_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku akan memijat bagian mana pun yang kamu mau!"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Bagian mana pun yang aku mau...?",
+          "voiceFile": "talk_test_result_004"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "Kalau begitu... um...",
+          "voiceFile": "talk_test_result_005"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "Bisakah kamu... mengelus kepalaku...?",
+          "voiceFile": "talk_test_result_006"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "!"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tentu saja!"
+        }
+      ]
+    },
+    "talk_travel_wish": {
+      "topicName": "Tentang Bepergian",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ada tempat yang ingin kamu kunjungi untuk liburan, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Yah... Pemandian air panas, kurasa...",
+          "voiceFile": "talk_travel_wish_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Pemandian air panas! Pilihan yang dewasa sekali."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Nenekku suka sekali pemandian air panas, dan aku jadi ikut menyukainya setelah pergi bersamanya...",
+          "voiceFile": "talk_travel_wish_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Pemandian air panas, ya~ Kedengarannya menyenangkan. Pemandian campur?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "T-tidak! Pemandian air panas biasa saja!",
+          "voiceFile": "talk_travel_wish_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Sayang sekali. Kalau saja pemandiannya campur, aku bisa mandi bareng kamu, Nana~"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Berdua...?",
+          "voiceFile": "talk_travel_wish_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Pemandian air panas bikin kulit jadi halus, ya kan?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "I-iya...",
+          "voiceFile": "talk_travel_wish_005"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Nanti pas kamu balik, aku harus cek apakah kulitmu ada perubahan!"
+        }
+      ]
+    },
+    "talk_summer_plan": {
+      "topicName": "Rencana Musim Panas",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu ada rencana buat liburan musim panas?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Keluargaku berencana pergi ke pantai.",
+          "voiceFile": "talk_summer_plan_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Pantai~ Kedengarannya asyik. Kamu bakal pakai baju renang apa? Bikini?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "E-em... Baju renang terusan...",
+          "voiceFile": "talk_summer_plan_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Eh, terusan? Nana, badanmu kan bagus - harusnya pakai bikini dong~"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "T-tidak... Kalau bikini rasanya terlalu... memalukan...",
+          "voiceFile": "talk_summer_plan_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "(Padahal yang kamu pakai sekarang malah lebih terbuka...)"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Sayang banget. Kamu pasti kelihatan cantik banget kalau pakai itu... Aku pengen lihat kamu pakai baju renang, Nana~"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Kalau kamu ambil foto, tunjukin ke aku ya. Buat ngecek bekas kulit belang, maksudnya."
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_01",
+          "text": "F-foto itu agak... memalukan...",
+          "voiceFile": "talk_summer_plan_004"
+        }
+      ]
+    },
+    "talk_massage_habit": {
+      "topicName": "Efek Pijatan",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kulitmu kelihatan makin bagus belakangan ini~"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Benarkah? Aku sendiri tidak sadar...",
+          "voiceFile": "talk_massage_habit_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku kan ketemu kamu tiap minggu, jadi aku tahu. Apalagi kulit di bagian sini... (menyentuh paha)"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Ah! J-jangan di situ...",
+          "voiceFile": "talk_massage_habit_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu bukti kalau sirkulasi darahmu membaik~ Mungkin ini hasil pijatanku?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "I-iya... Mungkin saja...",
+          "voiceFile": "talk_massage_habit_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kalau kamu sadar ada perubahan lain, kasih tahu aku ya."
+        }
+      ]
+    },
+    "talk_looking_back": {
+      "topicName": "Mengenang 3 Bulan Terakhir",
+      "trustEffect": 8,
+      "developEffect": 0,
+      "alertnessEffect": -10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Sudah 3 bulan sejak kamu mulai datang ke sini."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Benar juga... Awalnya aku gugup sekali...",
+          "voiceFile": "talk_looking_back_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Sekarang kamu sudah benar-benar terbiasa."
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "Sekarang tempat ini sudah jadi tempat di mana aku bisa benar-benar rileks.",
+          "voiceFile": "talk_looking_back_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku senang kamu merasa nyaman mempercayakan tubuhmu di tanganku."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Tubuh dan pikiranku terasa jauh lebih baik. Itu semua berkat kamu, sensei.",
+          "voiceFile": "talk_looking_back_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Mari terus bekerja sama demi kesehatanmu."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Iya! Terima kasih.",
+          "voiceFile": "talk_looking_back_004"
+        }
+      ]
+    },
+    "talk_best_memory": {
+      "topicName": "Berbagi Rahasia",
+      "trustEffect": 7,
+      "developEffect": 0,
+      "alertnessEffect": -8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa momen yang paling berkesan selama 3 bulan ini?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Hmm...",
+          "voiceFile": "talk_best_memory_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bagiku, itu saat kamu bercerita tentang Lily Cure."
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Eh!? Cerita itu...?",
+          "voiceFile": "talk_best_memory_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku senang kamu membagikan rahasiamu denganku. Rasanya kita jadi lebih dekat~"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "Saat kamu menerimaku waktu itu... Aku benar-benar bahagia.",
+          "voiceFile": "talk_best_memory_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Jangan ragu untuk menceritakan apa pun padaku mulai sekarang juga."
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Iya... Aku bisa cerita apa pun padamu, sensei.",
+          "voiceFile": "talk_best_memory_004"
+        }
+      ]
+    },
+    "talk_first_love": {
+      "topicName": "Cinta Pertama",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kapan cinta pertamamu, Nana?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "Eh!? Kenapa tiba-tiba tanya begitu...",
+          "voiceFile": "talk_first_love_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ayolah, beri tahu aku~"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "...Waktu kelas 4 SD.",
+          "voiceFile": "talk_first_love_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh~ Seperti apa orangnya?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "Kakak kelas di tempat les piano... Dia baik dan selalu membantuku...",
+          "voiceFile": "talk_first_love_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu menyatakan perasaanmu?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "A-aku tidak mungkin bisa melakukan itu! Cukup dengan melihatnya saja sudah cukup...",
+          "voiceFile": "talk_first_love_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa ada seseorang yang kamu sukai sekarang?"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "T-tidak ada...! Aku tidak punya waktu untuk itu...",
+          "voiceFile": "talk_first_love_005"
+        }
+      ]
+    }
+  }
+}

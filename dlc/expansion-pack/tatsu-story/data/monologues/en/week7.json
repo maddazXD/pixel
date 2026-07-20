@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia memimpikanku... dan terbangun dengan celana dalamnya yang basah kuyup...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tubuhnya benar-benar mulai berubah.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia bilang putingnya jadi sensitif, dan tubuhnya tiba-tiba terasa panas di siang hari.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Bahkan sebelum perawatannya dimulai, dia sudah... siap.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Siapa sangka bos rentenir akhirnya berakhir seperti ini?)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Perawatanku mengubahnya sampai sejauh ini. Sebagai terapis, aku tidak bisa bilang itu perasaan yang buruk.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, apa yang harus kulakukan minggu ini...)"
+    }
+  ]
+}

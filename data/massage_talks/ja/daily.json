@@ -1,0 +1,1019 @@
+{
+  "talks": {
+    "talk_weather": {
+      "topicName": "暑い日が続くね",
+      "trustEffect": 1,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "今日も暑かったね。ここまで来るの大変だったでしょ？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "はい…日傘をさしても、歩くだけですぐ汗をかいちゃって…",
+          "voiceFile": "talk_wether_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "エアコンで涼しくしてるから、ゆっくり休んでいってね。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleeping_02",
+          "text": "……ありがとうございます。涼しくて気持ちいいです…",
+          "voiceFile": "talk_wether_002"
+        }
+      ]
+    },
+    "talk_sleep": {
+      "topicName": "寝方のクセ",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "寝るときって、横向き派？仰向け派？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "えっと…横向きでスマホいじって、そのまま寝ちゃうことが多いかもしれません…",
+          "voiceFile": "talk_sleep_001"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "横向きでスマホは首が曲がるから良くないんだ。"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "仰向けで膝の下に枕を入れると腰が楽になるよ。スマホは寝る30分前にはやめて、部屋を暗くするのがコツ。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "膝の下に枕ですか…知りませんでした。ありがとうございます、試してみますね。",
+          "voiceFile": "talk_sleep_002"
+        }
+      ]
+    },
+    "talk_hobby": {
+      "topicName": "趣味の話",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃんって休みの日は何してるの？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "えっと…ピアノの練習をしたり、本を読んだりすることが多いです。",
+          "voiceFile": "talk_hobby_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "へぇ、ピアノ弾けるんだ。どんな曲を練習してるの？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "今はショパンのノクターンを…でも難しくて、なかなか上手く弾けなくて…",
+          "voiceFile": "talk_hobby_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "へぇ…ノクターンか。すごいね。（適当に話を合わせておこう）"
+        }
+      ]
+    },
+    "talk_first_time": {
+      "topicName": "初めての整体",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "整体は初めて？緊張してる？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "は、はい…初めてで…ちょっと緊張してます…",
+          "voiceFile": "talk_first_time_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "大丈夫、リラックスして。痛いことはしないから。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "…はい、よろしくお願いします…",
+          "voiceFile": "talk_first_time_002"
+        }
+      ]
+    },
+    "talk_tired_parts": {
+      "topicName": "疲れやすい部位",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "最近、特に疲れを感じる部位はある？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "肩と腰が…重たい感じがします。",
+          "voiceFile": "talk_tired_parts_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "勉強で同じ姿勢が続いてるのかな？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "そうかもしれません…机に向かってる時間が長くて…",
+          "voiceFile": "talk_tired_parts_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "1時間に1回は立ち上がって、軽くストレッチするといいよ。今日はしっかりほぐしてあげるね。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "ありがとうございます…気持ちいいです…",
+          "voiceFile": "talk_tired_parts_003"
+        }
+      ]
+    },
+    "talk_school": {
+      "topicName": "学校の話",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃんはどこの学校に通ってるの？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "えっと…御漫湖学園です。",
+          "voiceFile": "talk_school_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "え？あの「御漫湖（おまんこ）学園」！？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "あ、はい…そうです。",
+          "voiceFile": "talk_school_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "超名門じゃん。すごいなぁ。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "い、いえ…そんなことないですよ…",
+          "voiceFile": "talk_school_003"
+        }
+      ]
+    },
+    "talk_food": {
+      "topicName": "好きな食べ物",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃんは好きな食べ物とかある？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "えっと…和菓子が好きです。抹茶とか、お団子とか…",
+          "voiceFile": "talk_food_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "へぇ、渋い好みだね。若いのに珍しい。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "おばあちゃんがよく買ってきてくれて…小さい頃から大好きなんです。",
+          "voiceFile": "talk_food_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "なんかナナちゃんらしいね。"
+        }
+      ]
+    },
+    "talk_piano_detail": {
+      "topicName": "ピアノの詳しい話",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "そういえば、前にピアノやってるって言ってたよね？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "あ、覚えててくれたんですね…",
+          "voiceFile": "talk_piano_detail_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "何歳から始めたの？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "3歳からです。最初は嫌だったけど…今は弾くのが好きです。",
+          "voiceFile": "talk_piano_detail_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "コンクールとか出たことある？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "小さい頃に何度か…でも緊張しちゃって、いい結果は出せませんでした。",
+          "voiceFile": "talk_piano_detail_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "でも続けてるのがすごいよ。今度聴かせてもらえたら嬉しいな。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "え…聴いてくれるんですか？嬉しいです…",
+          "voiceFile": "talk_piano_detail_004"
+        }
+      ]
+    },
+    "talk_dream": {
+      "topicName": "将来の夢",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃんは将来何になりたいとかある？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "えっと…まだはっきりとは決まってないんですけど…",
+          "voiceFile": "talk_dream_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "何か興味がある分野とかは？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "音楽関係か…教育関係のことがいいかなって思ってます。",
+          "voiceFile": "talk_dream_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ピアノも弾けるし、向いてそうだね。"
+        },
+        {
+          "character": "player",
+          "expression": "normal_02",
+          "text": "先生も向いてそうだし。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_01",
+          "text": "そ、そうですか…？ありがとうございます。",
+          "voiceFile": "talk_dream_003"
+        }
+      ]
+    },
+    "talk_music_taste": {
+      "topicName": "好きな音楽",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ピアノ以外で、普段どんな音楽聴くの？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "クラシックが多いですけど…最近は他の曲も聴きます。",
+          "voiceFile": "talk_music_taste_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "へぇ、どんなの？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "…えっと…アニメの曲とか…",
+          "voiceFile": "talk_music_taste_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "意外だね。アニメとかよく見るの？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "…たくさん見てるわけじゃないんですけど…好きなアニメがあって…",
+          "voiceFile": "talk_music_taste_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "（話すのが恥ずかしいみたいだな）"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "…そうなんだ。今度話聞かせてくれると嬉しいな。 "
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "は、はい…",
+          "voiceFile": "talk_music_taste_004"
+        }
+      ]
+    },
+    "talk_childhood": {
+      "topicName": "子供の頃の思い出",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "子供の頃はどんな子だった？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "すごく人見知りで…いつも本ばかり読んでました。",
+          "voiceFile": "talk_childfood_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "今もちょっと人見知り？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "はい…でも、ここではあまり緊張しなくて…",
+          "voiceFile": "talk_childfood_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "それは嬉しいな。リラックスしてくれてるんだね。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "はい…。落ち着きます…",
+          "voiceFile": "talk_childfood_003"
+        }
+      ]
+    },
+    "talk_trust": {
+      "topicName": "信頼について",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃん、最近すごくリラックスしてるね。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "そうですか？…確かに、最初の頃より全然緊張しなくなりました。",
+          "voiceFile": "talk_trust_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "信頼してくれてるってことかな？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "はい…先生のこと、信頼してます。",
+          "voiceFile": "talk_trust_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ありがとう。その信頼に応えられるよう頑張るよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "こちらこそ…いつもありがとうございます。",
+          "voiceFile": "talk_trust_003"
+        }
+      ]
+    },
+    "talk_anime_secret": {
+      "topicName": "秘密のアニメ趣味",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "前にアニメの曲聴くって言ってたよね。どんなアニメが好きなの？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…あ、あの話覚えてたんですか…",
+          "voiceFile": "talk_anime_secret_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "うん。気になってたんだ。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "…実は…日曜朝にやってる『リリキュア』っていうアニメが…",
+          "voiceFile": "talk_anime_secret_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "リリキュア？女の子が変身するやつ？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "は、はい…子供っぽいですよね…",
+          "voiceFile": "talk_anime_secret_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "いつから見てるの？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "小学生の時から…ずっと見てます。",
+          "voiceFile": "talk_anime_secret_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "へぇ、それだけ長く見てるってことは、本当に好きなんだね。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "友達に話したら引かれちゃって…それから誰にも言ってなくて…",
+          "voiceFile": "talk_anime_secret_005"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "俺は全然引かないよ。好きなものは好きでいいじゃん。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "本当ですか…？ありがとうございます…",
+          "voiceFile": "talk_anime_secret_006"
+        }
+      ]
+    },
+    "talk_test_result": {
+      "topicName": "テストの結果",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "なんか今日機嫌いいね。何かあった？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "実は…テストでクラス2位だったんです。",
+          "voiceFile": "talk_test_result_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "へぇ〜すごいじゃん。1位は？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "天才って呼ばれてる男の子で……その子はいつも1位なんです。",
+          "voiceFile": "talk_test_result_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃんも十分すごいよ。ご褒美に今日は特別サービスしちゃおうかな？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "と、特別サービスって…？",
+          "voiceFile": "talk_test_result_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "どこでも好きなところをマッサージしてあげちゃうよ！"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "好きなところ…ですか…",
+          "voiceFile": "talk_test_result_004"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "じゃあ…あの……",
+          "voiceFile": "talk_test_result_005"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "頭を…なでてもらってもいいですか…？",
+          "voiceFile": "talk_test_result_006"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "！"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "もちろんだよ！"
+        }
+      ]
+    },
+    "talk_travel_wish": {
+      "topicName": "旅行の話",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃんって、旅行とかでどこか行きたいところある？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "うーん…温泉ですかね…。",
+          "voiceFile": "talk_travel_wish_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "温泉か！渋いね。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "おばあちゃんが温泉好きで、一緒に行っているうちに私も好きになって…",
+          "voiceFile": "talk_travel_wish_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "温泉か〜いいなぁ。混浴？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "ち、違います！普通の温泉です！",
+          "voiceFile": "talk_travel_wish_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "それは残念。混浴だったらナナちゃんと一緒に入れるのにな～"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "一緒に…？",
+          "voiceFile": "talk_travel_wish_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "温泉って入ると肌スベスベになるよね。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "そ、そうですね…",
+          "voiceFile": "talk_travel_wish_005"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "帰ってきたら肌の変化もチェックしないとね！"
+        }
+      ]
+    },
+    "talk_summer_plan": {
+      "topicName": "夏の予定",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "夏休みの予定とかある？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "家族で海に行く予定です。",
+          "voiceFile": "talk_summer_plan_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "海かぁ〜いいなぁ。どんな水着着るの？ビキニ？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "え、えっと……ワンピースタイプのを…",
+          "voiceFile": "talk_summer_plan_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "えー、ワンピース？ナナちゃんスタイルいいんだからビキニ着なよ〜"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "そ、そんな…ビキニなんて…恥ずかしいです…",
+          "voiceFile": "talk_summer_plan_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "(今の方がもっと際どい格好してると思うけど…)"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "もったいないなぁ。絶対似合うのに…。ナナちゃんの水着姿、見てみたいなぁ〜"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "写真とか撮ったら見せてよ。日焼け跡のチェックも兼ねてね。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_01",
+          "text": "し、写真はちょっと……恥ずかしいです…",
+          "voiceFile": "talk_summer_plan_004"
+        }
+      ]
+    },
+    "talk_massage_habit": {
+      "topicName": "マッサージの効果",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "最近、肌つやが良くなってきたね〜"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "そうですか？自分では分からないです…",
+          "voiceFile": "talk_massage_habit_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "俺は毎週見てるからわかるよ。特にここの肌が…（太ももを触る）"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "ひゃっ！そ、そこは…",
+          "voiceFile": "talk_massage_habit_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "血行が良くなってる証拠だよ〜。俺のマッサージの成果かな？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "は、はい…そうかもしれません…",
+          "voiceFile": "talk_massage_habit_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "他にも変化があったら教えてね。"
+        }
+      ]
+    },
+    "talk_looking_back": {
+      "topicName": "3ヶ月を振り返って",
+      "trustEffect": 8,
+      "developEffect": 0,
+      "alertnessEffect": -10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "もう3ヶ月も通ってくれてるんだね。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "そうですね…最初はすごく緊張してました…",
+          "voiceFile": "talk_looking_back_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "今じゃすっかり慣れちゃったね。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "今では本当にリラックスできる場所になりました。",
+          "voiceFile": "talk_looking_back_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "俺の手に体を預けてくれるようになって嬉しいよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "体も心も、すごく楽になりました。先生のおかげです。",
+          "voiceFile": "talk_looking_back_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "これからも健康管理、一緒に頑張ろう。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "はい！よろしくお願いします。",
+          "voiceFile": "talk_looking_back_004"
+        }
+      ]
+    },
+    "talk_best_memory": {
+      "topicName": "秘密の共有",
+      "trustEffect": 7,
+      "developEffect": 0,
+      "alertnessEffect": -8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "この3ヶ月で一番印象に残ってることって何？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "えっと…",
+          "voiceFile": "talk_best_memory_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "俺はナナちゃんがリリキュアの話してくれた時かな。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "え！？あの話ですか…？",
+          "voiceFile": "talk_best_memory_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "秘密を打ち明けてくれて嬉しかったよ。特別な関係になった気がして。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "あの時…受け入れてくれて本当に嬉しかったです。",
+          "voiceFile": "talk_best_memory_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "これからも何でも話してね。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "はい…先生になら何でも話せます。",
+          "voiceFile": "talk_best_memory_004"
+        }
+      ]
+    },
+    "talk_first_love": {
+      "topicName": "初恋の話",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃんって初恋はいつ？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "え！？いきなり何ですか…",
+          "voiceFile": "talk_first_love_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "いいじゃん、教えてよ〜"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "…小学4年生の時です。",
+          "voiceFile": "talk_first_love_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "へぇ〜どんな子だった？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "ピアノ教室の先輩で…優しくて、いつも教えてくれて…",
+          "voiceFile": "talk_first_love_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "告白した？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "そ、そんなの無理です！見てるだけで精一杯でした…",
+          "voiceFile": "talk_first_love_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "今は好きな人いる？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "い、いません…！そんな余裕ないです…",
+          "voiceFile": "talk_first_love_005"
+        }
+      ]
+    }
+  }
+}

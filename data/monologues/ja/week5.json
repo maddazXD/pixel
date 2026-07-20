@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（今日も施術が終わった…）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（5週目…ナナちゃんの体も随分変わってきたな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『先生の施術じゃないとダメなんです』って言ってくれたのは嬉しかった）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（施術前から既に準備万端な状態だったし…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（友達を紹介したいって話もしてたな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（純粋に俺の腕を信頼してくれてるんだろう）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週はどうしようかな…）"
+    }
+  ]
+}

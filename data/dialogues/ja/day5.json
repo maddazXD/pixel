@@ -1,0 +1,265 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──木曜日。5週目の朝。\nナナちゃんとの関係も深まり、施術もより大胆になってきた。そして嬉しいことに、経営状況にも変化が…。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（もう5週目か…。最近少しずつだが、新規のお客さんが来るようになった。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（昨日も3人、一昨日は2人…。みんな口を揃えて「友達から聞いて」と言っていた。）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "おはようございます！今日もよろしくお願いします。",
+      "voiceFile": "story_day5_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "おはよう、ナナちゃん。実は君にお礼を言いたくて。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "お礼…ですか？",
+      "voiceFile": "story_day5_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "最近、新しいお客さんが増えてきたんだ。みんな「友達から聞いて」って言ってるから、きっと君が宣伝してくれたんだろう？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "あ…はい。友達に話したら、みんな興味を持ってくれて…。",
+      "voiceFile": "story_day5_003"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "私、ここのマッサージを本当に気に入ってるので…みんなにも体験してもらいたくて。",
+      "voiceFile": "story_day5_004"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "本当にありがとう。君のおかげで、この店も何とか続けていけそうだよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "そんな…私は自分が良いと思ったから話しただけで…。",
+      "voiceFile": "story_day5_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "でも…あの特別なウェアのことは、ちょっと説明しづらくて…。",
+      "voiceFile": "story_day5_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ははは、そうだよね。でも君はもうすっかり慣れたみたいだけど。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "まあ…最初は恥ずかしかったけど、今は施術の一部だと思ってますから。",
+      "voiceFile": "story_day5_007"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "それで、今日の調子はどう？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "実は…最近、身体がすごく敏感になってきたような気がして…。",
+      "voiceFile": "story_day5_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "ちょっと触れられただけでも、ビクッとしちゃうというか…。",
+      "voiceFile": "story_day5_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それは血行が良くなって、神経が活性化してる証拠だよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そうなんですか…でも、なんだか変な感じで…。",
+      "voiceFile": "story_day5_010"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "特に…胸とか、お腹のあたりとか…すごくムズムズして…。",
+      "voiceFile": "story_day5_011"
+    },
+    {
+      "id": "choice_massage5",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "なるほど…それは身体が変化してきてる証拠だね。",
+      "choices": [
+        {
+          "label": "健康的な反応だよ",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "healthy_path"
+        },
+        {
+          "label": "女性ホルモンが活性化してるね",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "hormone_path"
+        },
+        {
+          "label": "もっと開発が必要かもね",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "develop_path"
+        }
+      ]
+    },
+    {
+      "id": "healthy_path",
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "健康的な反応…なんですね。安心しました。",
+      "voiceFile": "story_day5_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "うん。身体が正常に機能してる証拠だから、心配しなくていいよ。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "hormone_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "じょ、女性ホルモン…ですか？",
+      "voiceFile": "story_day5_013"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう。マッサージで血行が良くなると、ホルモンバランスも整うんだ。より女性らしい身体になってきてるってことだよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "女性らしく…確かに最近、肌の調子も良くなってきた気がします…。",
+      "next": "change_clothes",
+      "voiceFile": "story_day5_014"
+    },
+    {
+      "id": "develop_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "か、開発…？",
+      "voiceFile": "story_day5_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "あ、いや…身体の感度を高めるという意味でね。まだまだ君の身体には可能性が秘められてるってこと。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そ、そんな言い方…なんか恥ずかしいです…。",
+      "voiceFile": "story_day5_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ごめんごめん。でも、もっと気持ちよくなれる余地があるってことだよ。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "じゃあ、今日も着替えてもらおうか。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "はい。もう慣れっこです。",
+      "voiceFile": "story_day5_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "（でも…最近この服を着ると、なんだかドキドキしちゃう…）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day5_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "着替えました。",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day5_019"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（相変わらず素晴らしい体だ…。）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "今日は特別に、いつもより丁寧に施術させてもらうよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "え…いつもより丁寧に…ですか？",
+      "voiceFile": "story_day5_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "うん。君は特別な顧客だからね。VIP待遇ってやつだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "と、特別だなんて…そんな…。",
+      "voiceFile": "story_day5_021"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それじゃあ、始めようか。"
+    }
+  ]
+}

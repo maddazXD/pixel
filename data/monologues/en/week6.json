@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Perawatan Minggu ke-6 sudah selesai...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Akhir-akhir ini Nana-chan mulai datang dua kali seminggu)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Reaksinya selama perawatan... jadi makin sensitif)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Kakinya gemetar saat dia pergi, sepertinya perawatannya benar-benar efektif)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia kelihatan malu saat bilang 'Maaf... sisa rasanya masih...')"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Sepertinya dia mulai agak ketergantungan dengan perawatanku)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Baiklah kalau begitu, apa yang harus kulakukan minggu ini...)"
+    }
+  ]
+}

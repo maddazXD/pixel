@@ -1,0 +1,235 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──数ヶ月後。\nなぜか俺は、山奥にいた。"
+    },
+    {
+      "character": "player",
+      "text": "（どうしてこうなったんだっけ。整体院を開いて、借金があって、タツ姐が通ってきて…そこまでは覚えてる。そのあと師匠に「お主の才能、このまま腐らせるのは惜しい」とか言われて、気がついたら荷物まとめて山に連れてこられていた。）"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "朝じゃ！起きるのじゃ！今日は経絡の第七段階、「気の転換」を教えてやるぞ！"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "はい師匠！…って、もう第七段階ですか。第一が足ツボで、第二が腰の解放で…えっと…"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "覚えておらんのか！第三は「胸の経絡開通」、第四は「下腹の気の循環」じゃ！全部ワシの身体で実践したじゃろうが！"
+    },
+    {
+      "character": "player",
+      "text": "（確かに師匠の身体で色々やった記憶はある。ただ、あれが施術だったのか性行為だったのか、未だに判別がつかない。師匠は一貫して「指導じゃ」と言い張っているが。）"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "さて、第七段階「気の転換」──すなわち、自分の身体の気の流れを自在に操る術じゃ。ワシがこの姿でおるのもこの術のおかげじゃからな。"
+    },
+    {
+      "character": "player",
+      "text": "（師匠がロリの見た目をしているのも、この「気の転換」のおかげらしい。元々は…いや、元の姿のことはもういい。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "師匠…これ…整体の範疇なんですか…？"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "整体とは「体を整える」と書くのじゃ。整え方に限界などあるものか！"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "整体を極めし者ならば、老いも若きも自由自在に変化できるのじゃ！ワシがその証拠じゃろうが！"
+    },
+    {
+      "character": "player",
+      "text": "（理屈としてはめちゃくちゃなのに、師匠が生きた証拠なんだよな…。）"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "さあ、お主もやってみるのじゃ。丹田に意識を集中して…気の流れを逆転させるイメージじゃ。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──数時間後"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…あれっ？俺の手が…小さくなって…？"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "おお！初日でそこまで変えられるとは！やはりお主、才能があるのう！"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "いやっ…身長が…縮んで…！？ちょっと、え、ちょっと待って！？"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "ほう！骨格まで変化しておるのか！素晴らしいぞ！"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "師匠！！元に戻らないんですけど！？"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "慌てるでない。逆方向に気を流せば戻る。…多分な。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "多分！？"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──数週間後"
+    },
+    {
+      "character": "player",
+      "text": "（信じられないけど、本当にできるようになってきた。気の流れを変えるだけで、筋肉の付き方、骨格の大きさ、声帯の太さまで自在に変わる。大人にも子供にもなれる。何を言ってるのか自分でも分からないけど、事実なんだから仕方ない。）"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "今日は実践じゃ。子供の身体になったお主に、ワシが施術してやる。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…え？"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "小さな身体を体験せずして、身体の仕組みは極められんのじゃ！これは指導の一環じゃ！"
+    },
+    {
+      "character": "player",
+      "text": "（また「指導の一環」が出た…。でも否定できない。施術される側の感覚を知ることは整体師として確かに大事だし…って、あれ？俺今すごいまともな理由で納得しかけてないか？）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…はい、師匠。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "俺が気を集中すると、身体がみるみる変化していく。\n肩幅が狭まり、手足が短くなり、目線がぐんと低くなっていく。"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "ふむ。なかなか可愛らしいショタじゃな。…では始めるぞ。ここのツボ、分かるか？"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ひゃっ…！そ、そこ…！えっ…子供の身体って、こんなに感度が…！？"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "ほれ見い。この感覚を覚えておくのじゃ。身体の大きさが違えば、ツボの位置も効き方もまるで変わるのじゃ。"
+    },
+    {
+      "character": "player",
+      "text": "（す、すごい…。子供の身体で施術を受けるのと、大人の身体で受けるのでは、感じ方がまるで違う。ツボの位置も、気持ちいいポイントも、全部ズレてる。これを知ってるのと知らないのとでは確かに大違いだ…！）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "師匠…整体って…すごいですね…！"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "ふん。当たり前じゃ。何を今さら言うておるのじゃ。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──さらに数ヶ月後"
+    },
+    {
+      "character": "player",
+      "text": "（山の暮らしにもすっかり慣れた。朝起きて修行して、施術の練習をして、師匠と飯を食って、また修行。たまに気分転換でショタになって木登りする。…この文章を客観的に読んだら完全に頭がおかしいと思われるだろうけど、これが日常なんだから仕方ない。）"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "お主、随分と上達したのう。大人でも子供でも自在に切り替えられるようになったし、施術の精度も見違えるほどじゃ。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ありがとうございます、師匠。全部師匠のおかげです。"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "…ふん。だがな、お主。まだまだ序の口じゃぞ。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "え…これで序の口なんですか…？"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "究極の整体はな…自分だけでなく、他人の身体も、触れただけで自在に変えられるようになるのじゃ。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……………………えっ？"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "なんじゃその顔は。お主ならできるぞ。もう少し修行を積めばな。"
+    },
+    {
+      "character": "師匠",
+      "hideCharacter": true,
+      "text": "ほれ、口をぽかんと開けておらんで、朝の鍛錬を始めるのじゃ！"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "山奥で続く、摩訶不思議な修行の日々。\n整体院のことも、借金のことも、もうとっくに忘れた。"
+    },
+    {
+      "character": "player",
+      "text": "（でも、ひとつだけ確信していることがある。）"
+    },
+    {
+      "character": "player",
+      "text": "（整体って……本当にすごい。）",
+      "triggerEnding": "shishou"
+    }
+  ]
+}

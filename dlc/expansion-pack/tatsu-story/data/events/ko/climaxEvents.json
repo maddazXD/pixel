@@ -1,0 +1,39 @@
+[
+  {
+    "id": "tatsu_first_climax_awake",
+    "triggerType": "firstClimaxAwake",
+    "triggerCondition": { "isSleeping": false },
+    "priority": 20,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "climax_01", "text": "…!? 뭐, 뭐야…방금…!?" },
+      { "character": "tatsu", "expression": "climax_01", "text": "아…아아…♡♡" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "하아…하아…" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "………" },
+      { "character": "player", "expression": "normal_01", "text": "(대, 대단해…타츠네가 간…거야…?)" },
+      { "character": "player", "expression": "normal_01", "text": "저, 저기…괜찮으세요? 근육이 갑자기 이완된 것 같은데…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…보지 마" },
+      { "character": "player", "expression": "normal_01", "text": "죄, 죄송합니다…!" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…이런 거…처음이야…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…지금 일, 누구한테 말하면 죽여버린다" },
+      { "character": "player", "expression": "normal_01", "text": "말, 말 안 합니다! 절대로!" }
+    ]
+  },
+  {
+    "id": "tatsu_first_climax_sleeping",
+    "triggerType": "firstClimaxSleeping",
+    "triggerCondition": { "isSleeping": true },
+    "priority": 20,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "음…♡" },
+      { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "아…하아…♡" },
+      { "character": "player", "expression": "normal_01", "text": "(에…타츠네, 자고 있는데 이렇게 반응이…)" },
+      { "character": "tatsu", "expression": "climax_sleeping_01", "text": "으응…♡♡" },
+      { "character": "tatsu", "expression": "climax_sleeping_01", "text": "흐아…♡" },
+      { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "쿨…쿨…" },
+      { "character": "player", "expression": "normal_01", "text": "(저 타츠네가…이런 표정을 짓다니…)" },
+      { "character": "player", "expression": "normal_01", "text": "(깨어 있으면 확실히 죽겠지만…지금만은 보게 해주세요…)" }
+    ]
+  }
+]

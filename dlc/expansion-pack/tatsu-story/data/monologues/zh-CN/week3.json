@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐离开后……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（她说让手下站了3个小时肩膀都没问题……这是什么用法啊）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（不过，这说明治疗效果已经体现在日常生活中了。这是好兆头）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……话说回来，刚才那下真是吓死了。检查胸肌的时候手滑了……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（她只说了句『认真点』就算了，但差一点可能就被剁手指了）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（经营依然困难。不增加客人的话，还款就只是痴人说梦）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那么，这周做点什么呢……）"
+    }
+  ]
+}

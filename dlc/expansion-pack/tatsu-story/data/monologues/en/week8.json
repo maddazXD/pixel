@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Sudah dua bulan. Tubuhnya... benar-benar sudah hafal dengan sentuhan tanganku.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia bilang dia sudah coba menanganinya sendiri, tapi tidak berhasil...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('Lebih dalam lagi perawatannya'... Dia sendiri yang memintanya.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Bos sindikat itu, menyerahkan tubuhnya padaku. Aku tak pernah membayangkan ini sebelumnya.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Aku bisa merasakan dinamika kekuasaan... perlahan mulai bergeser.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, bagaimana sebaiknya aku menghabiskan minggu ini...)"
+    }
+  ]
+}

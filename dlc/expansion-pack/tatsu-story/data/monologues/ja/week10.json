@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が帰った後……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（俺の匂いを覚えて、思い出すだけで……か）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（部屋に入った瞬間から、もう身体が反応してた）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（1日に何度も下着を替えなきゃいけないって……相当だな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（あの人は自分のことを『発情期のメスみたい』って笑ってたけど）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……俺がここまでしたんだ。責任は感じてる）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（残り2週間……色々と決着をつけないとな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週はどう過ごそうか……）"
+    }
+  ]
+}

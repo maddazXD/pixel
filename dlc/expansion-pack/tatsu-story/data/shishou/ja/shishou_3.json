@@ -1,0 +1,81 @@
+{
+  "title": "師匠の特別指導 第3段階「胸の経絡開通」",
+  "intro": {
+    "dialogues": [
+      { "character": "師匠", "text": "……ふむ。おぬし、ここまでよくやってきたのじゃ" },
+      { "character": "師匠", "text": "じゃが、まだまだ半人前よ。今日は上級テクニックを教えてやるのじゃ" },
+      { "character": "師匠", "text": "そのためには……ちと、準備がいるのでな" },
+      { "character": "師匠", "text": "目ん玉かっぽじってよく見ておくのじゃ。これがワシの整体の真髄よ" },
+      { "character": "師匠", "text": "経絡を開き……乳腺を活性化させ……脂肪の流れを……こう、じゃ" },
+      { "character": "師匠", "text": "ん……っ" },
+      { "character": "師匠", "text": "ふぅ……っ" },
+      { "character": "師匠", "text": "これが整体による肉体操作の極意。……おぬし、口が開いておるぞ", "image": "images/live2devent/shishou_3_intro.png" },
+      { "character": "師匠", "text": "っ……こ、この感覚……男にはわからんじゃろうな……重いのに、敏感で……触れるだけでぞくぞくするのじゃ……", "textWoman": "ふん……若い頃はこのくらいあったのじゃぞ？", "image": "images/live2devent/shishou_3_intro.png" },
+      { "character": "player", "text": "（……さっきまで小さかった胸が、とんでもないことになってる）" },
+      { "character": "player", "text": "（チャイナドレスの生地がぱつぱつに張って、今にもはちきれそうだ）" },
+      { "character": "師匠", "text": "ふん。おぬしもこれくらいできるようになれば一人前なのじゃが……" },
+      { "character": "師匠", "text": "まぁよい。今日は特別に、この体で実技指導してやるのじゃ" },
+      { "character": "師匠", "text": "……感謝するのじゃぞ？" },
+      { "character": "師匠", "text": "ほれ、出すのじゃ" },
+      { "character": "player", "text": "え……ここで、ですか？" },
+      { "character": "師匠", "text": "当たり前じゃろう。胸を使った施術の基本を教えてやると言うておるのじゃ" },
+      { "character": "師匠", "text": "な、なにを恥ずかしがっておる……ワシは指導者じゃぞ……早くせんか" },
+      { "character": "player", "text": "（……すごい。両手じゃ収まりきらないくらいの爆乳が、どぷんと零れ出た）" },
+      { "character": "player", "text": "（さっき自分で弄ったせいか、乳首がもう少し尖ってる気がする……）" },
+      { "character": "師匠", "text": "ほれ……こうやって挟むのじゃ。しっかり見ておれ", "image": "images/live2devent/shishou_3_paizuri.png" },
+      { "character": "師匠", "text": "っ……！" },
+      { "character": "player", "text": "し、師匠？" },
+      { "character": "師匠", "text": "な、なんでもないのじゃ……。挟む角度と圧力が重要でな……" },
+      { "character": "師匠", "text": "上下にこう……ゆっくりと……" },
+      { "character": "師匠", "text": "っ、ぅ……" },
+      { "character": "師匠", "text": "こ、こうやって……経絡に沿って……刺激を……" },
+      { "character": "player", "text": "（説明してるけど、師匠の声が明らかに震えてきてる……）" }
+    ]
+  },
+  "climax": {
+    "image": "images/live2devent/shishou_3_paizuri.png",
+    "afterImage": "images/live2devent/shishou_3_paizuri.png",
+    "dialogueDelay": 600,
+    "pulseDuration": 2500,
+    "dialogues": [
+      { "character": "師匠", "text": "はぁ……っ、はぁ……っ……ま、まだ終わっておらんぞ……っ" },
+      { "character": "師匠", "text": "整体で乳腺を活性化させたからの……多少の、反応は……正常なのじゃ……っ" },
+      { "character": "player", "text": "（さっきの実技で散々触られて、もうかなり感じてるみたいだけど……）" },
+      { "character": "師匠", "text": "っ……う、うるさい……！ おぬしの、が……硬いから……胸に、響くのじゃ……っ" },
+      { "character": "師匠", "text": "ぁ……っ、ぅんっ……" },
+      { "character": "player", "text": "（挟んでるだけなのに、師匠がどんどんトロけていく……）", "image": "images/live2devent/shishou_3_paizuri2.png" },
+      { "character": "師匠", "text": "は、はやく覚えるのじゃ……何度もやってやる義理は……んっ……ないのじゃから、な……っ" },
+      { "character": "師匠", "text": "ぁっ……女の胸というのは……こんなに感じるものなのか……っ♡ 男に戻れんくなりそうじゃ……っ♡", "textWoman": "ぁっ……若い体の胸は……感度が段違いなのじゃ……♡ こんなに気持ちよいとは……♡" },
+      { "character": "player", "text": "っ……師匠、俺も……そろそろ……" },
+      { "character": "師匠", "text": "ふん……もう限界か……情けないのじゃ……っ" },
+      { "character": "師匠", "text": "っ、ぁ……、む、無駄に硬いのじゃ、おぬしの……っ！"},
+      { "character": "師匠", "text": "ワシの胸が……勝手に、反応して……っ" },
+      { "character": "player", "text": "師匠……もう、無理です……っ！" },
+      { "character": "師匠", "text": "っ……！ ワシも……胸が……熱くて……止まらん……っ" },
+      { "character": "師匠", "text": "い、一緒に……出すのじゃ……っ！ これも……指導の……っ！" },
+      { "character": "player", "text": "っ———！！" },
+      { "character": "師匠", "text": "———っっ！！！ の、のじゃぁああ……っ！！！", "image": "images/live2devent/shishou_3_climax.png" }
+    ],
+    "afterDialogues": [
+      { "character": "師匠", "text": "はぁ……っ……はぁ……っ……", "image": "images/live2devent/shishou_3_climax_after.png" },
+      { "character": "player", "text": "…………" },
+      { "character": "師匠", "text": "……っ、おぬし……ワシの胸に……全部……" },
+      { "character": "player", "text": "す、すみません……" },
+      { "character": "師匠", "text": "……べ、別に怒っておらんのじゃ。これも実技の一環じゃからの……" },
+      { "character": "師匠", "text": "……い、今のは……じゃな……" },
+      { "character": "師匠", "text": "おぬしの施術に対する……模範的な、反応を……見せてやったのじゃ……" },
+      { "character": "player", "text": "（……師匠も完全にイッてたけど……言わないでおこう）" }
+    ]
+  },
+  "outro": {
+    "dialogues": [
+      { "character": "師匠", "text": "……こほん" },
+      { "character": "師匠", "text": "……ま、まあよい。今日の実技はここまでじゃ" },
+      { "character": "師匠", "text": "おぬし、なかなか……筋は悪くない。……認めてやるのじゃ" },
+      { "character": "師匠", "text": "……次の実技も、ワシの体で練習してよいぞ。特別にな" },
+      { "character": "player", "text": "（……おかわりだ、これ）" },
+      { "character": "師匠", "text": "な、なんじゃその顔は！ 弟子の成長のためじゃ！ 他意はないのじゃ！" },
+      { "character": "師匠", "text": "……絶対にないのじゃからなっ！" }
+    ]
+  }
+}

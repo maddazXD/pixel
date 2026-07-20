@@ -1,0 +1,64 @@
+{
+  "random_talks": [
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "您在找什么吗?\n如果可以的话让我来为您推荐吧♡"
+    },
+    {
+      "character": "店員",
+      "expression": "shy",
+      "text": "呵呵♡ 客人，您的脸红了哦?\n难道是紧张了吗?"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "每一件商品都是我能自信推荐的♡\n使用方法我也会仔细为您说明的♡"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "哇♡ 客人真的很棒呢♡\n要不要看看更特别的商品?"
+    },
+    {
+      "character": "店員",
+      "expression": "shy",
+      "text": "真是的♡ 被您这样一直盯着看...\n我会害羞的♡"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "今天特别只为您提供服务♡\n请保密哦♡"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "客人喜欢什么类型的呢?\n想作为今后的参考♡"
+    },
+    {
+      "character": "店員",
+      "expression": "shy",
+      "text": "难道您觉得我很可爱吗?\n好开心♡"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "如果您不介意的话，我可以准备更特别的服务哦♡"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "呵呵♡ 客人的反应真可爱♡"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "呵呵♡ 客人的视线一直盯着我的胸部呢♡\n那么在意吗?"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "呵呵♡ 一直这样盯着看的话，胸部会被看穿的哦?"
+    }
+  ]
+}

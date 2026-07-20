@@ -1,0 +1,445 @@
+{
+  "poseInstructions": [
+    {
+      "instructionId": "pose_orientation_front",
+      "instructionName": "仰向けになってもらう",
+      "category": "体位変更",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "front"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "back",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "タツ姐さん、今度は仰向けになってもらえますか？前から施術したいので。"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…わかった。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_back",
+      "instructionName": "うつぶせになってもらう",
+      "category": "体位変更",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "back"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "今度はうつぶせになってもらえますか？背中と肩甲骨周りをほぐしたいので。"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…あぁ。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_side",
+      "instructionName": "横向きになってもらう",
+      "category": "体位変更",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "side"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "back"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "横向きになってもらえますか？横から施術したいので。"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…横向きな。わかった。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_front",
+      "instructionName": "腕を上げてもらう",
+      "category": "腕の位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "腕を上に上げてもらえますか？脇の下や二の腕の方までほぐしたいので。"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…こうか？"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "はい、その感じです。ありがとうございます。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_front",
+      "instructionName": "腕を下ろしてもらう",
+      "category": "腕の位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "腕を下ろして楽にしてもらえますか？"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "…あぁ。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_side",
+      "instructionName": "腕を上げてもらう（横向き）",
+      "category": "腕の位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "腕を上げてもらえますか？脇とお腹の方もマッサージしたいので。"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…こうか？"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "はい、そのままでお願いします。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_side",
+      "instructionName": "腕を下ろしてもらう（横向き）",
+      "category": "腕の位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "腕を下ろして楽にしてもらえますか？"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "…あぁ。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_paizuri",
+      "instructionName": "胸を寄せてもらう（パイズリポーズ）",
+      "category": "特殊姿勢",
+      "priority": 6,
+      "targetPose": {
+        "armPose": "paizuri"
+      },
+      "conditions": {
+        "minTrustLevel": 4,
+        "minDevelopLevel": 3,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "胸を寄せるような感じで腕を内側にしてもらえますか？デコルテのマッサージをしたいので。"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "…は？胸を…？こ、こうかよ…"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "はい、その姿勢です。ありがとうございます。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_front",
+      "instructionName": "脚を開いてもらう",
+      "category": "脚の位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 3,
+        "minDevelopLevel": 2,
+        "currentOrientation": "front",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "太ももの内側もほぐしていきたいんですが…ちょっと脚を開いてもらっていいですか？"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…ったく、仕方ねぇな。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_back",
+      "instructionName": "脚を開いてもらう",
+      "category": "脚の位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 2,
+        "currentOrientation": "back",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "太ももの内側もほぐしていきたいんですが…ちょっと脚を開いてもらっていいですか？"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…わかった。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_front",
+      "instructionName": "脚を閉じてもらう",
+      "category": "脚の位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "currentLegPose": "open",
+        "states": [
+          "normal",
+          "sleepy",
+          "sleeping"
+        ]
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "脚を閉じてもらえますか？"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "…あぁ。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_back",
+      "instructionName": "脚を閉じてもらう",
+      "category": "脚の位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "脚を閉じてもらえますか？"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "…あぁ。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_hipup_open",
+      "instructionName": "お尻を上げて脚を開いてもらう",
+      "category": "特殊姿勢",
+      "priority": 4,
+      "targetPose": {
+        "legPose": "hipup_open"
+      },
+      "conditions": {
+        "minTrustLevel": 5,
+        "minDevelopLevel": 4,
+        "currentOrientation": "back",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "お尻を上げて、膝立ちみたいな感じになってもらえますか？腰回りを集中的にやりたいので。"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "…は？こんな格好…恥ずかしいだろ…"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "施術のためですので。ありがとうございます。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_normal_from_hipup",
+      "instructionName": "楽な姿勢に戻してもらう",
+      "category": "脚の位置",
+      "priority": 8,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "hipup_open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "楽な姿勢に戻して大丈夫ですよ。"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "…ったく、やっとか。"
+        }
+      ]
+    },
+    {
+      "instructionId": "wake_up",
+      "instructionName": "タツ姐を起こす",
+      "category": "その他",
+      "priority": 1,
+      "targetPose": null,
+      "effect": "wake_up",
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "displayMode": "sleeping-only"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "タツ姐さん、起きてもらっていいですか？"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "…んぁ…？…あぁ…寝てたか…"
+        }
+      ]
+    }
+  ]
+}

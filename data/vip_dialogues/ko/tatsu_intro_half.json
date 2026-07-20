@@ -1,0 +1,107 @@
+{
+  "title": "50% 빚 상환 달성",
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...휴. 드디어 빚의 절반을 갚았다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "이봐! 살아있어!?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "타츠-누나!? 무슨 일로...?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "무슨 일로라니? 확인하러 온 거지, 당연히.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "빚의 절반을 갚았다고 들었는데?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "네, 네! 매일 열심히 일했어요!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "도망갈 줄 알았는데, 의외로 잘하고 있네.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "너 같은 약골이 여기까지 올 줄은 몰랐어.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "하지만 아직 절반이잖아? 나머지도 제대로 갚으라고.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "뭐... 절반을 갚았으니까...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "약간의 보상 정도는 해줘도 되겠네.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "보상...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "그럼 제가 타츠-누나를 마사지해 드릴게요. 요즘 피곤하시죠?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "응? 내가 마사지를 받는다고?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "네. 그게 보상이에요. ...어떠세요?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠 누나",
+      "text": "...뭐, 요즘 어깨가 좀 뻐근하긴 한데... 그래...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "타츠-누나를 마사지한다",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}

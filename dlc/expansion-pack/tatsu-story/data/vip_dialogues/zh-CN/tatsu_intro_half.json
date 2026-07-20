@@ -1,0 +1,530 @@
+{
+  "title": "偿还50%债务达成 - 赛马约会",
+  "dialogues": [
+    {
+      "character": "龙姐",
+      "text": "哟。正好还了一半了。",
+      "characterImage": "tatsu/tatsu_normal_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "是的。托您的福。",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "哼。'托您的福'可不是对我说的话吧。",
+      "characterImage": "tatsu/tatsu_normal_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "……那个，龙姐。为了庆祝还了一半，下次休息的时候能陪我出去一趟吗？",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "…………哈？",
+      "characterImage": "tatsu/tatsu_sweat_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "说约会的话有点夸张了，就当是平时的感谢吧。",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……约、约会？",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "啊，不是什么大不了的。就是去个好玩的地方。",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "…………。",
+      "characterImage": "tatsu/tatsu_closeeyes_suit.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "（约会……这家伙刚才说约会了吗……？）",
+      "characterImage": "tatsu/tatsu_sweat_suit.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "（和债务人约会什么的太离谱了……！可是……好玩的地方是……）",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "（水族馆……？游乐园……？难不成是能看夜景的餐厅……？）",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……啧。没办法了。陪你去吧。",
+      "characterImage": "tatsu/tatsu_closeeyes_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "谢谢！那就周日见。",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "才、才没有在期待什么！",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（好，她答应了。周日的赛马，和龙姐一起的话一定很有趣。）"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "前往赛马场约会",
+          "next": "keiba_start"
+        }
+      ]
+    },
+    {
+      "id": "keiba_start",
+      "character": "龙姐",
+      "text": "……喂。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png",
+      "background": "keiba_bg",
+      "changeBGM": "zawameki"
+    },
+    {
+      "character": "player",
+      "text": "怎么了？",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……这里，是赛马场吧。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "是啊。我不是说了去好玩的地方嘛。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "（我到底……在期待什么……为什么还特意打扮了一下来了……）",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "我偶尔会来这里赚还款的钱，但一个人来挺寂寞的。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "从高利贷借的钱用赛马来还……你脑子有问题吧。",
+      "characterImage": "tatsu/tatsu_date_sweat.png"
+    },
+    {
+      "character": "player",
+      "text": "哈哈哈……",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……算了，我也喜欢赌博。来都来了没办法。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "不过马票钱你出。这不是'约会'吗？",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "好、好的……",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "给我看看。出赛表。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "好，给您。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "…………。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……6号。不用看赛前展示也知道。血统好。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "诶，我觉得3号那匹后追马——",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "哈？3号跑法根本不对。今天赛道很重。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "……您很了解啊？",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "干高利贷的数据分析能力当然有。看人的还款能力和看马的能力，本质是一样的。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "这比喻可真厉害……",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "哼。那就来个对赌吧。你的3号对我的6号。输的人去买啤酒。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "好啊。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "比赛开始了。",
+      "hideCharacter": true,
+      "changeBGM": "hoserase"
+    },
+    {
+      "character": "龙姐",
+      "text": "……最后一个弯……好，6号追上来了……！",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "冲啊！超过去！超过去啊！！",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "（龙姐也太认真了吧……比催债时的表情还可怕……）",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "太好了啊啊啊！！",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "诶，6号赢了……！？",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "说了吧！别小看我的眼光！",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "好了，啤酒。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "……好吧。我去了。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "",
+      "text": "……",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "好。下一场8号。独赢。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "8号？那可是第10热门啊？",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "所以才好啊。赔率很香。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "不是吧，这也太——",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "…………来了。来了。8号来了。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "不会吧！？",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "25倍……嘿嘿~",
+      "characterImage": "tatsu/tatsu_date_happysmile.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "看到了吧。靠的是数据和直觉。高利贷的老板对钱的嗅觉可是很灵敏的。",
+      "characterImage": "tatsu/tatsu_date_happysmile.png"
+    },
+    {
+      "character": "player",
+      "text": "……简直是职业水准了吧。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "那当然。……我的分析在最后一场才会拿出真本事。到现在为止只是热身。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "……",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……啧。偏偏在最后一场。",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "但总的来说赢了不少吧？",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……嗯，倒是。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "饿不饿？这里面有餐厅。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png",
+      "changeBGM": "tatsu",
+      "bgmFadeDuration": 3000
+    },
+    {
+      "character": "player",
+      "text": "用赢的钱请您吃。多亏了龙姐的预测我也赚了不少。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……哼。那是当然的。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "……",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……意外地还不错。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "要来杯啤酒吗？",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "嗯。……话说回来，你的预测真不行。选3号那时候就完全是外行了。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "抱歉……",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "下次我好好帮你分析。两个人一起预测准确率会更高吧。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "那个……是说还会再来吗？",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……闭嘴。怎么可能。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "也是。啊，筷子……",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "你在干什么。真是笨手笨脚的。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "我捡一下。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "(……嗯？)",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "(哦哦……！龙姐的内裤……！)",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "(原来如此。天蓝色的……)",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "……。",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "喂。你在傻笑什么？",
+      "characterImage": "tatsu/tatsu_date_sweat.png"
+    },
+    {
+      "character": "player",
+      "text": "没有，就是觉得天蓝色的啊。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……哈？……喂。",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "啊。",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "你在看什么！",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "不小心！不小心看到的……！",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "什么不小心！别开玩笑了！！",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "对、对不起……！实在是太美了不由自主看呆了……！",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……你在说什么呢？",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……算了。那，今天……嗯……",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "很开心呢。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "别、别误会了！只是赢了所以心情好而已！",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "才不是因为和你在一起才开心的！",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "player",
+      "text": "(……我又没说到那份上。)",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "那我走了。剩下的一半，给我老老实实还上。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……下周的预约也记得定好。治疗的。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……赛马的话，我看看日程再联系你。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "诶，真的吗？（刚才明明说不去的……）",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……输着不管不是我的风格。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(……还有'下次'啊。和债务催收无关的下次。)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(高利贷和债务人啊。这个关系，也许也在悄悄改变着吧。)"
+    }
+  ]
+}

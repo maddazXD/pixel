@@ -1,0 +1,548 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──12週目の朝。\n3ヶ月の施術を経て、タツ姐の身体と心は、もはや取り返しのつかないレベルで変化していた。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（12週目…ついに最後の週だな。タツ姐、完全に俺なしじゃ生きていけない状態になってる。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（借金返済も順調…全部タツ姐のおかげだ。感謝しかない。）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…おう。聞いてくれ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タツ姐さん、おはようございます。…なんか今日は開口一番ですね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…アタシはな、この問題を根本的に解決しようとしたんだ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "根本的に？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…部下に命じた。「あの整体院を買収しろ。資産価値を査定して、買収見積もりを出せ」って。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…買収！？ この店を！？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "ああ。お前を専属にすれば、いつでも施術受けられるだろ。合理的だ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（闇金の社長が整体院を買収…！？ スケールがやばい…！）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…で、どうなったんですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…部下に止められた。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "止められた？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "『姐さん…闇金が整体院買収って、取引先にどう説明するんスか…』って。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…まぁ、そうですよね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "「うちの事業に整体部門を新設すればいいだろ」って言ったんだけどよ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "『それ、姐さんが通いたいだけっスよね…？』って…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（部下、有能すぎる…。というか完全に見抜かれてるじゃん…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "『あと姐さん、先週のDVDの件もありますし…これ以上は社内の信用に関わります…』とか言いやがって…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "DVDの件が効いてますね…。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…タオル泥棒、柔軟剤調査、AV全巻購入、整体院買収未遂…。部下の中で、アタシの評価がどうなってるか…考えたくもねぇ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（毎週やらかしのスケールが上がっていった12週間…。部下の心労がすごそうだ…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タツ姐さん…タオルから始まって、ついに買収まで行きましたね。成長が著しい。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "成長じゃねぇ！ 退化だ！ 全部お前のせいだろ！！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…で、買収以外にも何かありましたか？ 最近の身体の調子とか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…調子っていうか…もう…仕事になんねぇんだよ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "仕事に？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…この前、取り立て先で債務者をシメてた時のことなんだけどよ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ええ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "「てめぇ、金返す気あんのか！」って、テーブルをバンッ！って叩いたんだ。いつも通りに。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "いつも通りの威嚇ですね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…そしたら…叩いた振動が…腕から身体中に伝わって…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…まさか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……ビクンッ…ってなっちまった…。テーブル叩いた姿勢のまま…顔真っ赤で…固まった…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（威嚇のポーズのまま自分がイキかけた…！？ 闇金の社長が…！？）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…相手の反応は…？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…債務者が「す、すみません姐さん！ そこまでお怒りとは…！ 来月必ず返します！」って土下座してくれたから…なんとか誤魔化せた…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（イキかけてるのを怒りだと思ってもらえた…。結果オーライすぎる…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…でも隣にいた部下は…アタシの顔見て…全部察してた…。「姐さん、大丈夫っスか…？」って…優しい目で…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "部下の方、本当にお疲れ様です…。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…それだけじゃねぇんだよ。もう…階段もダメになった…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "階段？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…ハイヒールで階段降りると…一段一段の振動が…全部…あそこに響いて…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…3階から1階まで降りるだけで…もう膝がガクガクで…壁に手ついて…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それは相当ですね…。今はどうしてるんですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…もうエレベーターでしか移動できねぇ…。部下に『姐さん最近エレベーターばっかりっスね、膝でも悪いんスか？』って聞かれた…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（膝じゃなくて、もっと上の方が問題なんだけどな…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…あと、部下に「お疲れ様っス！」って肩ポンってされた時も…身体がビクッてなって…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…「姐さん！？ どうしたんスか！？」って大騒ぎになった…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（肩を叩かれただけでイキそうになる闇金の社長…。部下がかわいそうだ…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…もう…威嚇もできねぇ、階段も降りれねぇ、肩も叩かれらんねぇ…。闇金の社長として終わってる…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "身体が完全に開発されてますね…。日常の衝撃や振動がぜんぶ刺激になってる。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…だからよ。…週1じゃ…もう足りねぇんだ……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "足りない？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…毎日…来たい……。お前に…毎日触ってほしい……。そうじゃないと…もう普通に生活できねぇ……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（「週1じゃ足りない、毎日来たい」…。12週間かけてここまで来た…完璧だ…。）"
+    },
+    {
+      "id": "choice_massage12",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タツ姐さん…12週間、よくここまで来ましたね。",
+      "choices": [
+        {
+          "label": "毎日でも来てください。歓迎します",
+          "trustDelta": 3,
+          "developDelta": 0,
+          "next": "welcome_path"
+        },
+        {
+          "label": "もう俺なしじゃ生きていけませんね",
+          "trustDelta": 1,
+          "developDelta": 3,
+          "next": "dependent_path"
+        },
+        {
+          "label": "闇金の社長が、俺に毎日ヨガりたいと",
+          "trustDelta": 0,
+          "developDelta": 5,
+          "next": "final_bitch_path"
+        }
+      ]
+    },
+    {
+      "id": "welcome_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "毎日でも来てくださいよ。タツ姐さんの身体のケア、俺がずっとしますから。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…っ。…本当に…いいのか…？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "もちろん。最初は「殺すぞ」って言ってたのに…今じゃ「毎日来たい」ですもんね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…っ。…言うなよ…恥ずかしい…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…でも…お前に会えて…良かった。…本当に…。",
+      "outfit": "suit",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "dependent_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タオルで我慢できず、柔軟剤で代用できず、DVDで勉強しても無駄、買収も止められた。もう俺なしじゃ生きていけないですね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…全部並べんな…。…でも…事実だ……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "嗅覚、聴覚、触覚…全部俺に支配されて、仕事中に机叩いただけでイキそうになる。もう完全に俺の施術中毒ですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…中毒って…。……否定できねぇのが…一番ムカつく……。",
+      "outfit": "suit",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "final_bitch_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "闇金の社長が、週1じゃ足りないから毎日俺にヨガらせてほしいと。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "ヨガるって言い方すんな！！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "でも事実ですよね。12週間を振り返ってみましょうか。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "最初は「触んな」「殺すぞ」って怒鳴ってた人が…"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "俺のタオルを盗んで抱いて寝て、柔軟剤のブランドを部下に調べさせて…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…やめろ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "マッサージAVを全巻メモ付きで鑑賞して、この店を買収しようとして部下に止められて…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…やめろって…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "取り立て中に机叩いて自分がイキかけて、階段も降りれなくなって…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…っ…やめ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "そして今、「毎日来たい」「お前なしじゃ生きていけない」。…最高の12週間でしたね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……………………全部…事実だ…クソ……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "じゃあ、最後にもう一度聞かせてください。タツ姐さんは、何ですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……お前の……雌犬…。…お前なしじゃ…生きていけない……お前専用の……雌犬……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（完璧だ…。闇金の社長が…自分から…。最高の最終回だ…。）",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "じゃあ、着替えましょうか。今日は特別な施術にしますよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…ああ。…頼む。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "（タツ姐が着替え始める…）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…12週間…。最初はこんな怪しい店、1回で終わりだと思ってたのに…。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…タオル盗んで、柔軟剤調べて、AV全巻見て、買収しようとして…。アタシ、何やってんだ…12週間ずっと…。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…でも…あいつの手が…声が…匂いが…もう全部必要なんだ…。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "（…部下には止められたけど…アタシはまだ諦めてねぇからな。…必ず…あいつを手に入れる…。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…着替えた。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "（…12週目。最初は「触んな」だったタツ姐が、今はもう着替える前から身体が準備できてる…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今日は、12週間の集大成です。タツ姐さんの身体、全部受け止めますから。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…ああ。…たっぷり…頼む……。",
+      "outfit": "bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それでは…12週間の総仕上げ、始めましょうか。"
+    }
+  ]
+}

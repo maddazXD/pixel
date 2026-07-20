@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi, aku sendirian di ruang perawatan...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...aku benar-benar baru saja memberikan perawatan pada bos rentenir.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dan sebagai ganti penundaan bunga, tidak kurang dari itu... Kesepakatan yang nekat sekali.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tapi kekakuan bahunya itu nyata. Tingkat ketegangan setinggi itu benar-benar serius.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Meskipun formulir persetujuan yang ditulis ulang sepenuhnya itu sempat membuatku takut...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Yah, perawatannya sendiri berjalan lancar. Kalau dia kembali minggu depan, mungkin masih ada harapan.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(12 minggu sampai pinjaman jatuh tempo... Aku harus membuat ini berhasil bagaimanapun caranya.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, apa yang harus kulakukan minggu ini...)"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+[
+  {
+    "id": "tatsu_develop_level_2",
+    "triggerType": "developLevel",
+    "triggerCondition": { "developLevel": 2 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…おい。ちょっと聞きたいんだけどよ。" },
+      { "character": "player", "expression": "normal_01", "text": "はい、何でしょう？" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…施術の後、体がずっと熱いんだけど。これ、普通なのか？" },
+      { "character": "player", "expression": "normal_01", "text": "血行が改善されて、体温が上がってる証拠ですね。良い反応ですよ。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…そういうもんか。" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐の体、だんだん敏感になってきてる…）" }
+    ]
+  },
+  {
+    "id": "tatsu_develop_level_3",
+    "triggerType": "developLevel",
+    "triggerCondition": { "developLevel": 3 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…なぁ。" },
+      { "character": "player", "expression": "normal_01", "text": "はい？" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…肩触られてるだけなのに、変なとこまでゾクゾクすんだけど。" },
+      { "character": "player", "expression": "normal_01", "text": "神経の繋がりが活性化されてるんだと思います。全身が連動するようになってきた証拠です。" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…お前、わざとやってねぇだろうな。" },
+      { "character": "player", "expression": "normal_01", "text": "め、滅相もないです！" },
+      { "character": "player", "expression": "normal_01", "text": "（…わざとです）" }
+    ]
+  },
+  {
+    "id": "tatsu_develop_level_4",
+    "triggerType": "developLevel",
+    "triggerCondition": { "developLevel": 4 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…おい、ちょっと待て。" },
+      { "character": "player", "expression": "normal_01", "text": "どうしました？" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…最近、お前に触られると…声が出そうになる。" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…変な薬とか塗ってねぇよな？" },
+      { "character": "player", "expression": "normal_01", "text": "塗ってません！施術用のオイルだけです！" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…ならいいけど。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…声、出ても…笑うなよ。" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐が声出していいって許可くれた…？）" }
+    ]
+  },
+  {
+    "id": "tatsu_develop_level_5",
+    "triggerType": "developLevel",
+    "triggerCondition": { "developLevel": 5 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…最近さ…" },
+      { "character": "player", "expression": "normal_01", "text": "はい。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…家で風呂入ってる時、お前の手を思い出すんだよ。" },
+      { "character": "player", "expression": "normal_01", "text": "え…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "変な意味じゃねぇ！肩を触られた感触がさ…残ってんだよ。" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐が…家で俺のこと思い出してる…）" },
+      { "character": "player", "expression": "normal_01", "text": "筋膜が施術の感覚を記憶してるんですね。体が施術を求めてる状態です。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…体が求めてる、ね…。" }
+    ]
+  },
+  {
+    "id": "tatsu_develop_level_6",
+    "triggerType": "developLevel",
+    "triggerCondition": { "developLevel": 6 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…おい。今日は…もうちょっと強くやってくれ。" },
+      { "character": "player", "expression": "normal_01", "text": "強く、ですか？" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…最近、普通の力じゃ…物足りねぇんだよ。" },
+      { "character": "player", "expression": "normal_01", "text": "（もっと強い刺激を求めるようになってきた…体がどんどん開発されてる…）" },
+      { "character": "player", "expression": "normal_01", "text": "わかりました。少し深い施術に切り替えますね。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…あぁ。頼む。" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐の口から「頼む」なんて…よっぽどだ…）" }
+    ]
+  },
+  {
+    "id": "tatsu_develop_level_7",
+    "triggerType": "developLevel",
+    "triggerCondition": { "developLevel": 7 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…お前に言っとくことがある。" },
+      { "character": "player", "expression": "normal_01", "text": "…何でしょう？" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…最近、下着が…濡れてることがある。施術の後。" },
+      { "character": "player", "expression": "normal_01", "text": "…！" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…笑うな。殺すぞ。" },
+      { "character": "player", "expression": "normal_01", "text": "わ、笑ってません！…自律神経が活性化して、分泌が促進されてるんです。体が健康になってる証拠ですよ。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…こんなの、今まで無かったんだよ…" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…お前のせいだからな。" },
+      { "character": "player", "expression": "normal_01", "text": "（…責任、取りたいです…とは言えない…）" }
+    ]
+  },
+  {
+    "id": "tatsu_develop_level_8",
+    "triggerType": "developLevel",
+    "triggerCondition": { "developLevel": 8 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…なぁ。" },
+      { "character": "player", "expression": "normal_01", "text": "はい。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…乳首が…ずっと立ってんだけど。" },
+      { "character": "player", "expression": "normal_01", "text": "…っ！" },
+      { "character": "tatsu", "expression": "alert_01", "text": "見んな！…ブラ越しでもわかるから困ってんだよ…" },
+      { "character": "player", "expression": "normal_01", "text": "…乳腺周りの血行が良くなりすぎて、常に敏感な状態になってるんだと思います。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…会議中もずっとこうだぞ。部下の視線が気になって仕方ねぇ…" },
+      { "character": "player", "expression": "normal_01", "text": "（Kカップで乳首立ちっぱなし…そりゃ目立つだろうな…）" },
+      { "character": "player", "expression": "normal_01", "text": "…施術で調整してみますね。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…頼む。マジで。" }
+    ]
+  },
+  {
+    "id": "tatsu_develop_level_9",
+    "triggerType": "developLevel",
+    "triggerCondition": { "developLevel": 9 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…お前のこと考えるだけで…体が疼くようになった。" },
+      { "character": "player", "expression": "normal_01", "text": "…タツ姐さん…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…お前が変な施術するから…こんな体にされたんだ。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…仕事中も、お前の手を思い出して…集中できねぇ…" },
+      { "character": "player", "expression": "normal_01", "text": "（タツ姐の体も心も…完全に俺に…）" },
+      { "character": "player", "expression": "normal_01", "text": "…責任持って、ケアし続けますから。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…当たり前だ。お前が始めたんだからな…" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…最後まで…面倒見ろよ…" }
+    ]
+  },
+  {
+    "id": "tatsu_develop_level_10",
+    "triggerType": "developLevel",
+    "triggerCondition": { "developLevel": 10 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…なぁ。もう…隠すのやめる。" },
+      { "character": "player", "expression": "normal_01", "text": "…？" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…お前に触られるの、気持ちいい。マッサージとか関係なく。" },
+      { "character": "player", "expression": "normal_01", "text": "タツ姐…" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "体中が…お前の手を覚えてる。お前じゃないとダメになっちまった。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…闇金の社長が、こんな…みっともねぇな…" },
+      { "character": "player", "expression": "normal_01", "text": "…みっともなくないですよ。" },
+      { "character": "player", "expression": "normal_01", "text": "…俺も、タツ姐さんの体に触れるのが…好きです。" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…っ！" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "……バカ。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…もっと…触れよ。今日は…全部、好きにしていい。" }
+    ]
+  }
+]

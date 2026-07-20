@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nggak bisa tidur, terus mimpi aneh-aneh... Tubuhnya mulai menginginkannya.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Waktu aku usul buat ngerangsang zona sensitifnya, jujur aku pikir dia bakal nonjok aku.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tapi dia setuju dengan enggan, katanya 'hasilnya memang terbukti sendiri'.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Sepertinya ekspresinya sedikit berubah pas dia lagi ganti baju.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Bos rentenir... menantikan perawatanku...?)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Kita sudah sampai di titik tengah. Pekerjaan yang sesungguhnya mungkin baru dimulai dari sini.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, apa yang harus kulakukan minggu ini...)"
+    }
+  ]
+}

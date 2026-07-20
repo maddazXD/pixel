@@ -1,0 +1,711 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──第10周的早晨。\n龙姐的身体已经到了没有治疗就无法满足的地步。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（十周了……龙姐已经完全依赖上我了。太棒了……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（今天她会给我看什么样的反应呢……？）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（多亏了她，客源也稳定下来了……全是托龙姐的福。）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……嗯。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "龙姐！……咦，今天脸色好像有点……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "……！没什么，别大惊小怪的。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "可是您脸好红啊？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……只是外面太热了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（肯定在撒谎……已经在想着治疗的事兴奋起来了吧……）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "身体没问题吧？让我看看您的脸色。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "整体师向龙姐走近。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "……！别靠过来……！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "诶？怎么了？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……你靠太近的话……那个……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "靠近的话……？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……你的……味道……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "味道……？我的味道怎么了？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……身体已经记住了……！你的体味……！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（来了……！她记住了我的味道……！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……只是想起那个味道……身体就……变得好热……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "我的味道会让您身体起反应吗？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "起反应……！你这么说好像我是发情的母狗一样……！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（发情的母狗……！龙姐嘴里说出这种话……！太棒了……！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……工作的时候也……突然想起你的味道……下面就……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "下面……？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……就湿了……！马上就湿透了……！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（湿透……！龙姐说出这么淫荡的话……！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……最近开始随身带备用内裤了……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "备用内裤！？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……一天要换好几次……！每次想起你的味道……！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（太刺激了……！一天湿好几次……！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "这是……完全是费洛蒙反应啊。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "费洛蒙！？那是什么！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "是动物为了吸引异性而释放的气味成分。龙姐您的身体已经完全变成了对我的费洛蒙起反应的体质了。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……！那我岂不是完全成了一条母狗……！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（母狗……！龙姐自己这么说……！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……所以一进这间房……就已经……不行了……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "已经不行了，是说……？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……内裤已经湿了……只是闻到你的味道……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（太棒了……！光是味道就已经湿透了……！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "那今天就让龙姐好好闻个够我的味道吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "哈！？让我闻……！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "龙姐的身体在渴望嘛，我的味道。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……！……嗯……是这样没错……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "今天我会贴身给您治疗的。尽情享受我的味道吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……！……笨蛋……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（呵呵……已经完全变成被我的味道弄得发情的母狗了……）",
+      "hideCharacter": true
+    },
+    {
+      "id": "choice_massage10",
+      "character": "player",
+      "expression": "shy",
+      "text": "（这里该怎么说……）",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "没关系，这是自然的反应",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "gentle_path"
+        },
+        {
+          "label": "您完全在对费洛蒙起反应呢",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "pheromone_path"
+        },
+        {
+          "label": "简直就像发情期的母狗",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "bitch_path"
+        }
+      ]
+    },
+    {
+      "id": "gentle_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "没关系。这是身体的自然反应。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……自然啊……嗯，你这么说的话……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "说明龙姐的身体在渴望治疗。",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "pheromone_path",
+      "character": "player",
+      "expression": "smile",
+      "text": "您完全在对费洛蒙起反应呢。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "费洛蒙……？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "是动物为了吸引异性而释放的气味成分。龙姐的身体已经完全变成对我的费洛蒙起反应的体质了。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……！动物什么的……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "但这说明龙姐的身体变得很诚实了。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……太诚实了才困扰啊……",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "bitch_path",
+      "character": "player",
+      "expression": "shy",
+      "text": "简直就像发情期的母狗。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "哈！？母狗！？你少给我胡说八道！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "但这是事实吧。光是闻到我的味道就湿透了。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……！那是……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "一天要换好几次内裤吧？每次想起我的味道就得换。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……！……是这样没错……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "这不就是一闻到主人味道就发情的母狗嘛。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……！主人什么的……！我又不是你的宠物！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "那今天就不治疗了吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "……！喂，喂！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "龙姐不是母狗嘛，对吧？那应该不需要我的味道，也不需要治疗才是。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……！那是……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "还是说……其实很想要？我的治疗。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……！……想要……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "那就好好承认吧。龙姐是什么？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……！……母狗……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "谁的母狗？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……！……你的……母狗……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "再具体一点。闻到我的味道会怎样？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……！……会湿……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "哪里会湿？好好说。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……！……小穴……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（来了……！龙姐嘴里说出'小穴'这个词……！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "再完整地说。闻到我的味道会怎样，全部说出来。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……！……闻到你的味道……小穴就……湿透了……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "还不够。阴蒂呢？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……！这、这种事……！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "说不出来的话，今天就不治疗了。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……！……阴蒂……勃起了……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（太棒了……！龙姐说出这么淫荡的话……！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "连起来说。闻到我的味道会怎样。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……！……闻到你的味道……小穴就湿透了……阴蒂也硬邦邦地勃起了……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完美……！龙姐做出了这么淫荡的告白……！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "最后一个。龙姐是什么？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……！……我是……闻到你的味道就发情的……母狗……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（太棒了……！完全用言语调教驯服了……！）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "真乖。那今天就好好疼爱一下母狗龙姐吧。",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "normal",
+      "text": "好，去换衣服吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……嗯。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "龙姐开始换衣服。",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "（……糟了，内裤已经湿透了……）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "（……这间房……到处都是他的味道……）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "（……每呼吸一次……味道就进来……小穴就一阵收缩……）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（龙姐呼吸变得好急促……光是房间的味道就完全发情了……）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "（……阴蒂也……已经硬邦邦的了……明明只是闻着味道而已……）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "（……虽然被叫了母狗……但说不定真的是……光是味道就已经这样了……）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完美……已经离不开我的味道了……）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……换好了。",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（天……爱液都顺着大腿流下来了……光是房间的味道就到了这种地步……）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……别看……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "光是房间的味道就湿成这样了吗？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……！……你的味道……充满了整个房间……忍不住了……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "这么喜欢我的味道吗？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……！……不是喜不喜欢……身体自己……就……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完美……已经完全被我的味道俘虏了……）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……快点……治疗……求你了……我已经……到极限了……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "这么忍不住吗？真可爱。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "别说什么可爱……！快点……！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（已经完全发情了……今天要好好疼爱她……）",
+      "hideCharacter": true
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "那今天我会贴身给您治疗。尽情享受我的味道吧。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐离开后，只剩我一个人的治疗室……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……我居然真的给高利贷老板做了治疗）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（而且还是用利息宽限来交换……真是疯狂的谈判）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（不过她的肩膀酸痛是真的。那种僵硬程度相当严重）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（同意书被全部改写的时候确实吓了一跳……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（算了，治疗本身还算顺利。要是下周她还来的话，就能看到一点希望了）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（距离还款还有12周……无论如何都得想办法）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那么，这周做点什么好呢……）"
+    }
+  ]
+}

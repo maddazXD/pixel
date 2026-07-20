@@ -1,0 +1,265 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──목요일. 5주차 아침.\n나나와의 관계가 깊어지고 시술도 점점 대담해지고 있다. 그리고 다행히도 가게 상황에도 변화가..."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(벌써 5주차... 최근 조금씩 새 손님들이 오고 있어.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(어제 3명, 그저께 2명... 다들 입을 모아 \"친구한테 들었어요\"라고 했지.)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "좋은 아침이에요! 오늘도 잘 부탁드려요.",
+      "voiceFile": "story_day5_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "좋은 아침, 나나씨. 사실 감사 인사를 드리고 싶어요."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "감사 인사... 무슨?",
+      "voiceFile": "story_day5_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "최근 새 손님이 늘고 있어요. 다들 \"친구한테 들었어요\"라고 하니까 나나씨가 가게를 홍보해 주신 것 같아서요."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "아... 네. 친구들에게 말했더니 다들 관심을 보이더라고요...",
+      "voiceFile": "story_day5_003"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "저는 여기 마사지를 정말 좋아해서... 다들 경험해 봤으면 했어요.",
+      "voiceFile": "story_day5_004"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "정말 감사해요. 나나씨 덕분에 이 가게를 계속 운영할 수 있을 것 같아요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "아니에요... 좋다고 생각해서 말한 것뿐인데...",
+      "voiceFile": "story_day5_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "하지만... 그 특별한 옷은 설명하기가 좀...",
+      "voiceFile": "story_day5_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "하하하, 그렇겠네요. 하지만 꽤 익숙해진 것 같은데요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "음... 처음엔 부끄러웠지만 이제는 시술의 일부라고 생각해요.",
+      "voiceFile": "story_day5_007"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "그럼, 오늘 컨디션은 어떠세요?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "사실... 요즘 몸이 너무 민감해진 것 같아요...",
+      "voiceFile": "story_day5_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "가볍게 스치기만 해도 깜짝 놀라요...",
+      "voiceFile": "story_day5_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "혈액순환이 개선되고 신경이 활성화된 증거예요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그런가요... 하지만 이상한 느낌이에요...",
+      "voiceFile": "story_day5_010"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "특히... 가슴이랑 배 부분이... 너무 간질거려요...",
+      "voiceFile": "story_day5_011"
+    },
+    {
+      "id": "choice_massage5",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "알겠어요... 몸이 변화하고 있다는 증거네요.",
+      "choices": [
+        {
+          "label": "건강한 반응이에요",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "healthy_path"
+        },
+        {
+          "label": "여성 호르몬이 활성화되고 있어요",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "hormone_path"
+        },
+        {
+          "label": "더 개발이 필요할 수도 있어요",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "develop_path"
+        }
+      ]
+    },
+    {
+      "id": "healthy_path",
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "건강한 반응... 그렇군요. 안심이에요.",
+      "voiceFile": "story_day5_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "네. 몸이 제대로 기능하고 있다는 증거니까 걱정 마세요.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "hormone_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "여-여성 호르몬... 이요?",
+      "voiceFile": "story_day5_013"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "네. 마사지로 혈액순환이 개선되면 호르몬 균형도 조절돼요. 더 여성스러워지고 있다는 뜻이에요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "더 여성스럽게... 그러고 보니 요즘 피부 상태도 좋아진 것 같아요...",
+      "next": "change_clothes",
+      "voiceFile": "story_day5_014"
+    },
+    {
+      "id": "develop_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "개-개발...?",
+      "voiceFile": "story_day5_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "아, 아니요... 몸의 민감도를 높인다는 뜻이에요. 몸에는 아직 숨겨진 잠재력이 있어요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그-그렇게 말하니까... 좀 부끄러운데...",
+      "voiceFile": "story_day5_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "미안해요, 미안해요. 하지만 더 기분 좋아질 여지가 있다는 뜻이에요.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "자, 그럼 오늘도 갈아입어 주세요."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "네. 이제 꽤 익숙해졌어요.",
+      "voiceFile": "story_day5_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(하지만... 요즘 이 옷을 입으면 심장이 두근거려...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day5_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "갈아입었어요.",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day5_019"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(여전히 멋진 몸매...)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "오늘은 평소보다 더 꼼꼼하게 시술해 드릴게요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "에... 평소보다 더 꼼꼼하게...?",
+      "voiceFile": "story_day5_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "네. 특별한 손님이니까요. VIP 대우라고 할까요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "특-특별하다니... 너무 과분해요...",
+      "voiceFile": "story_day5_021"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "자, 그럼 시작하죠."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "purchase_success": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "감사합니다♡ 멋진 상품을 선택해주셨네요♡"
+      }
+    ]
+  },
+  "purchase_insufficient_money": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "앗, 돈이 부족한 것 같아요...\n다시 모으고 나서 와주세요♡"
+      }
+    ]
+  },
+  "item_cancel": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "어? 구입 안 하시는 거예요?\n언제든지 기다리고 있을게요♡"
+      }
+    ]
+  },
+  "farewell": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "또 꼭 와주세요♡\n다음에도 손님께 딱 맞는 상품을 준비해서 기다리고 있을게요♡"
+      }
+    ]
+  }
+}

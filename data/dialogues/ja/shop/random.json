@@ -1,0 +1,64 @@
+{
+  "random_talks": [
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "何かお探しでしょうか？\nよろしければ、私がおすすめさせていただきますね♡"
+    },
+    {
+      "character": "店員",
+      "expression": "shy",
+      "text": "ふふっ♡ お客様、お顔が赤くなってますよ？\nもしかして緊張されてますか？"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "どの商品も、私が自信を持っておすすめできるものばかりです♡\n使い方も丁寧にご説明させていただきますね♡"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "わぁ♡ お客様って素敵ですね♡\nもっと特別なお品物、ご覧になりますか？"
+    },
+    {
+      "character": "店員",
+      "expression": "shy",
+      "text": "もう♡ そんなにじっと見つめられると…\n恥ずかしくなってしまいます♡"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "今日は特別に、お客様だけにサービスさせていただきます♡\n内緒にしてくださいね♡"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "お客様は、どのようなタイプがお好みですか？\n今後の参考にさせていただきたくて♡"
+    },
+    {
+      "character": "店員",
+      "expression": "shy",
+      "text": "もしかして私のこと、かわいいと思ってくださってるんですか？\nうれしいです♡"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "お客様がよろしければ、もっと特別なサービスもご用意できますよ♡"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "ふふっ♡ お客様の反応、かわいらしいですね♡"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "ふふっ♡ お客様の視線、私の胸に釘付けですね♡\nそんなに気になりますか？"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "ふふっ♡ そんなにじっとご覧になっていると、おっぱいに穴があいてしまいますよ？"
+    }
+  ]
+}

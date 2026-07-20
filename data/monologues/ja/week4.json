@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃんが帰っていった…）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（4週目か…最近は本当にリラックスしてくれるようになったな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（今日の施術中も、かなり素直な反応を見せてくれた）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『先生…そこ…』って言いながら、体は正直に反応してたし）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（信頼関係もできてきたし、そろそろ次の段階に進めるかもしれない）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（もう少し深い部分の施術も必要かもしれないな…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週はどうしようかな…）"
+    }
+  ]
+}

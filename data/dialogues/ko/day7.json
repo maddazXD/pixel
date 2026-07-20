@@ -1,0 +1,333 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──7주차 아침.\n나나의 몸이 확실히 변화하고 있다. 그리고 그녀 자신도 그것을 인식하기 시작했다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(벌써 7주차... 나나의 몸이 완전히 내 손길에 익숙해진 것 같아.)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "안녕하세요. 오늘도 잘 부탁드립니다.",
+      "voiceFile": "story_day7_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "안녕, 나나. 오늘도 건강해 보이네."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "네... 하지만 요즘 몸이 좀 이상해요...",
+      "voiceFile": "story_day7_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "이상해? 어떻게?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그게... 아침에 일어날 때부터 몸이 화끈거려요...",
+      "voiceFile": "story_day7_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "특히... 가슴이랑 아랫배가... 너무 민감해졌어요...",
+      "voiceFile": "story_day7_004"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "옷이 스치기만 해도 찌릿찌릿...",
+      "voiceFile": "story_day7_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(오... 드디어 이 단계에 왔구나. 몸이 충분히 개발되고 있다는 증거야.)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그건 네 몸이 활성화되고 있다는 증거야. 혈액순환이 좋아지고 신경이 민감해진 거지."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그런가요... 하지만 좀 부끄러워요...",
+      "voiceFile": "story_day7_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "수업 중에도, 그냥 의자에 앉아 있기만 해도... 이상한 느낌이...",
+      "voiceFile": "story_day7_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "이상한 느낌?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "음... 아래가 간질간질하고... 근질근질하고...",
+      "voiceFile": "story_day7_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "가끔은... 젖기도 하고...",
+      "voiceFile": "story_day7_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(이건... 완전히 성적으로 각성하고 있어. 좋은 진전이야.)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그건 자연스러운 반응이야. 젊은 여성의 호르몬 균형이 조절되면 이런 변화가 일어나거든."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "정말요...? 저 이상한 거 아니에요...?",
+      "voiceFile": "story_day7_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "전혀 이상하지 않아. 오히려 건강하다는 증거지."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "하지만... 요즘 이상한 꿈도 꿔요...",
+      "voiceFile": "story_day7_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "선생님이 나오는 꿈을...",
+      "voiceFile": "story_day7_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응? 내가?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "네, 네... 마사지 받는 꿈인데... 너무 기분이 좋아서...",
+      "voiceFile": "story_day7_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "꿈에서 깨면 속옷이 흠뻑 젖어 있고... 시트도 얼룩이...",
+      "voiceFile": "story_day7_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(꿈에서 절정에 도달하고 있어... 개발이 예상 이상으로 진행되고 있군.)"
+    },
+    {
+      "id": "choice_massage7",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그렇구나... 네 무의식이 원하는 것이 꿈에 나타나는 거야.",
+      "choices": [
+        {
+          "label": "걱정할 필요 없어",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "reassure_path"
+        },
+        {
+          "label": "몸이 성숙해지고 있다는 증거야",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "mature_path"
+        },
+        {
+          "label": "더 해방되어도 돼",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "liberate_path"
+        }
+      ]
+    },
+    {
+      "id": "reassure_path",
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "정말요... 다행이에요.",
+      "voiceFile": "story_day7_015"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "그래. 나나, 넌 잘못한 게 없어. 자연스러운 몸의 반응이야.",
+      "next": "continue_talk"
+    },
+    {
+      "id": "mature_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "성숙해진다는 건... 무슨 뜻이죠...?",
+      "voiceFile": "story_day7_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응. 나나의 몸이 성인 여성의 몸으로 변해가고 있어."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "성인 여성... 뭔가 부끄러워요...",
+      "next": "continue_talk",
+      "voiceFile": "story_day7_017"
+    },
+    {
+      "id": "liberate_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "해방...?",
+      "voiceFile": "story_day7_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응. 욕망을 억누를 필요 없어. 네 몸이 원하는 걸 솔직하게 받아들여도 돼."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "하, 하지만... 너무 부끄러워요...",
+      "voiceFile": "story_day7_019"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "부끄러워할 것 없어. 자연스러운 인간의 욕구니까."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "선생님이 그렇게 말씀하시니... 조금씩 받아들여 볼게요...",
+      "next": "continue_talk",
+      "voiceFile": "story_day7_020"
+    },
+    {
+      "id": "continue_talk",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "그래서, 오늘은 어디가 불편하니?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "음... 온몸이 민감하긴 한데... 특히 가슴이...",
+      "voiceFile": "story_day7_021"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "브래지어가 답답하고... 유두가 쓸리면 아파요...",
+      "voiceFile": "story_day7_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(유두까지 민감해졌어... 완벽해.)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그건 아마 혈류가 좋아져서 가슴이 부풀어 오른 거야. 오늘 제대로 케어해 줄게."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "네, 네... 부탁드려요...",
+      "voiceFile": "story_day7_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그럼, 갈아입자."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(이 옷을 입으면... 긴장되는 게 아니라... 떨려...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day7_024"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(나 이상해진 걸까...?)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day7_025"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "갈아입었어요...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day7_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(와... 체형이 확실히 달라졌어. 가슴이 더 풍만해지고 피부가 윤기나.)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "저기... 너무 쳐다보지 말아 주세요... 부끄러워요...",
+      "voiceFile": "story_day7_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "미안, 미안. 그런데 정말 예뻐졌다고 생각했거든."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "예, 예쁘다니... 말씀 마세요...",
+      "voiceFile": "story_day7_028"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그럼, 시작할게."
+    }
+  ]
+}

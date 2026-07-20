@@ -1,0 +1,367 @@
+{
+  "title": "借款全额还清 - 温泉旅行",
+  "dialogues": [
+    {
+      "character": "龙姐",
+      "text": "……还清了，确认过了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "是的。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……该说恭喜吗？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "您说就好了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……恭喜。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "谢谢。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "…………。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……然后呢？债已经还清了。我也没理由再来了吧。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "……龙姐。您的肩周炎，还没治好吧。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……嗯，毕竟是老毛病了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "那下周也请来吧。这次——不过要正式收费了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……哈？要向高利贷收钱？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "不是高利贷。是作为客人。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……哼。你的手法，还算不错。……我考虑考虑吧。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "还有，再说一件事。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "什么啊，还有事？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "为了庆祝还清债务……要不要一起去泡温泉？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "…………哈？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "龙姐不是说喜欢逛高级SPA吗？但真正的温泉去过吗？那种深山里天然涌出的。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……SPA都是去市内的。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "那就去体验一次吧。跟SPA完全不一样的。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……你疯了吧？别以为还完债就能得意忘形了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "我没有得意忘形。作为正骨师，我想让您体验一下真正的温泉。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐沉默了片刻。好像在想什么事。）"
+    },
+    {
+      "character": "龙姐",
+      "text": "……如果兼做业务考察的话，也行。温泉旅馆的经营什么的，可以作为贷款参考。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（这借口也太牵强了吧……）"
+    },
+    {
+      "character": "龙姐",
+      "text": "房间分开。敢乱来就弄死你。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "不会的。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……什么时候去？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（她没有拒绝……！）"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "前往温泉旅行",
+          "next": "onsen_start"
+        }
+      ]
+    },
+    {
+      "id": "onsen_start",
+      "character": "龙姐",
+      "text": "……嚯。房间不错嘛。",
+      "characterImage": "tatsu/tatsu.png",
+      "background": "onsen_bg"
+    },
+    {
+      "character": "player",
+      "text": "我订了带私人露天浴池的房间。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……钱，没问题吗？刚还完债吧。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "多亏龙姐，店里的生意也上了轨道。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……哼。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……那，浴池在哪？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "在那边。从房间可以直接出去。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……还不错。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "难得来了，要不一起泡？作为理疗的延伸，我给您讲讲温泉的功效。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……哈？跟你一起？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "以正骨师的身份，当然。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "text": "……敢乱来就弄死你。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "不会的。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "进入温泉",
+          "next": "onsen_bath"
+        }
+      ]
+    },
+    {
+      "id": "onsen_bath",
+      "character": "龙姐",
+      "text": "……哈。水真好。跟SPA完全不一样。",
+      "hideCharacter": true,
+      "background": "blackout"
+    },
+    {
+      "character": "player",
+      "text": "对吧？这是天然源泉直流的。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……水好柔软。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "龙姐，您肩膀周围很僵硬呢。我帮您松一松。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……你在浴池里也要做理疗啊？",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "在温泉里肌肉是放松的，所以效果更好。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……嗯……",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……好近。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "抱歉，不这样的话够不到。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "…………。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……喂。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "是、是？",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……这种事，你习惯了？",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "嗯？理疗每天都在做——",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……不是说那个。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "（龙姐慢慢地转过身面向我。）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……刚还完债就邀我来温泉，光着身子贴上来……你是故意的吧？",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "不、不是的——",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……算了。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "（龙姐跨坐到了我身上——）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "text": "……以前总是随便摸我吧？今天轮到我了。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "任由她摆布",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}

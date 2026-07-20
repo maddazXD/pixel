@@ -1,0 +1,64 @@
+{
+  "random_talks": [
+    {
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "Lagi cari sesuatu? Kalau mau, aku bisa rekomendasikan sesuatu untukmu♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "shy",
+      "text": "Hehe♡ Wajahmu memerah. Apa kamu gugup?"
+    },
+    {
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "Semua produk kami adalah barang yang bisa aku rekomendasikan dengan percaya diri♡ Akan kujelaskan cara pakainya secara detail♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "normal",
+      "text": "Wow♡ Kamu pelanggan yang manis sekali♡ Apa kamu mau lihat barang-barang yang lebih spesial?"
+    },
+    {
+      "character": "Clerk",
+      "expression": "shy",
+      "text": "Ya ampun♡ Kalau kamu menatapku seperti itu... Aku jadi malu♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "Hari ini, aku akan berikan layanan spesial untukmu♡ Rahasiakan ya, oke?♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "normal",
+      "text": "Tipe yang seperti apa yang kamu suka? Aku ingin tahu untuk referensi nanti♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "shy",
+      "text": "Apa menurutmu aku imut? Aku senang sekali♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "Kalau kamu mau, aku bisa siapkan layanan yang jauh lebih spesial untukmu♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "normal",
+      "text": "Hehe♡ Reaksimu menggemaskan sekali♡"
+    },
+    {
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "Hehe♡ Matamu terpaku pada dadaku♡ Apa kamu tertarik banget?"
+    },
+    {
+      "character": "Clerk",
+      "expression": "normal",
+      "text": "Hehe♡ Kalau kamu terus menatap seperti itu, dadaku bisa bolong nanti♡"
+    }
+  ]
+}

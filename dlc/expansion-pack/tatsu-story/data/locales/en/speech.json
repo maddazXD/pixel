@@ -1,0 +1,626 @@
+{
+  "parts": {
+    "boobs": {
+      "normal": [
+        "...!",
+        "Hei...",
+        "Di mana yang kau sentuh itu...",
+        "Cih...",
+        "Hentikan...",
+        "Nn..."
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "...Tidak buruk... ♡",
+        "Nn... ♡",
+        "Haa... ♡",
+        "...Berhasil... ♡"
+      ],
+      "climax": [
+        "Kuh...! ♡♡",
+        "Aah...! ♡♡",
+        "...! ♡♡",
+        "Payudaraku... ♡♡",
+        "Keluar... ♡♡"
+      ]
+    },
+    "nipple": {
+      "normal": [
+        "...! Berhenti...",
+        "Jangan di sana...",
+        "Nn...!",
+        "Jangan sentuh putingku..."
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "...Terasa enak... ♡",
+        "Titik itu... Aku lemah di sana... ♡",
+        "Haa... ♡",
+        "Nn... ♡",
+        "Kenapa... bisa jadi seperti ini... ♡"
+      ],
+      "climax": [
+        "Aah... ♡♡",
+        "...Aku tidak... tahan lagi... ♡♡",
+        "Keluar... ♡♡",
+        "Cuma dari putingku... aku mengucur... ♡♡"
+      ]
+    },
+    "vagina": {
+      "normal": [
+        "...!",
+        "Jangan di situ...!",
+        "Jangan main-main denganku...!"
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "Kuh... ♡",
+        "Di sana... ♡"
+      ],
+      "climax": [
+        "Keluar... ♡♡",
+        "Aah... ♡♡",
+        "Aku mengucur... ♡♡"
+      ],
+      "sleeping": [
+        "Nnn...",
+        "Faa...",
+        "Mmm..."
+      ],
+      "climax_sleeping": [
+        "Nn... ♡♡",
+        "Faah... ♡♡",
+        "Auu... ♡♡"
+      ]
+    },
+    "thigh": {
+      "normal": [
+        "Jangan di sana...",
+        "Jangan sentuh paha bagian dalamku..."
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "Tidak buruk... ♡",
+        "Di sana... ♡"
+      ]
+    },
+    "foot": {
+      "normal": [
+        "Itu geli...",
+        "Hei...",
+        "Hentikan...",
+        "Cih..."
+      ],
+      "pleasure": [
+        "Rasanya geli... ♡",
+        "Nn... ♡",
+        "Berhenti... ♡"
+      ]
+    },
+    "shoulder": {
+      "normal": [
+        "Nn...",
+        "Bagian itu sangat kaku...",
+        "Ah..."
+      ],
+      "pleasure": [
+        "Itu kena titiknya... ♡",
+        "Tepat di situ... ♡",
+        "Terasa enak... ♡"
+      ]
+    },
+    "upper_arm": {
+      "normal": [
+        "Di sana, ya...",
+        "Nn..."
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "Tidak buruk... ♡"
+      ]
+    },
+    "arm": {
+      "normal": [
+        "Di sana, ya...",
+        "Nn..."
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "Tidak buruk... ♡"
+      ]
+    },
+    "calf": {
+      "normal": [
+        "Bagian itu juga kaku...",
+        "Nn...",
+        "Ah..."
+      ],
+      "pleasure": [
+        "Itu kena titiknya... ♡",
+        "Tepat di situ... ♡"
+      ]
+    },
+    "waist": {
+      "normal": [
+        "Itu geli...",
+        "Hei...",
+        "Hyah..."
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "Tidak buruk... ♡",
+        "Pinggangku... rasanya... ♡"
+      ]
+    },
+    "stomach": {
+      "normal": [
+        "Itu geli...",
+        "Berhenti...",
+        "Nn..."
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "Tidak buruk... ♡"
+      ]
+    },
+    "back": {
+      "normal": [
+        "Bagian itu sangat kaku...",
+        "Nn...",
+        "Ah..."
+      ],
+      "pleasure": [
+        "Itu kena titiknya... ♡",
+        "Tepat di situ... ♡",
+        "Terasa enak... ♡"
+      ]
+    },
+    "butt": {
+      "normal": [
+        "...!",
+        "Hei... di mana kau menyentuh...",
+        "Ini memalukan..."
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "Kuh... ♡",
+        "...Terasa aneh... ♡"
+      ],
+      "climax": [
+        "Keluar... ♡♡",
+        "Aah... ♡♡",
+        "Dari pantatku... aku keluar... ♡♡"
+      ]
+    },
+    "armpit": {
+      "normal": [
+        "Itu menggelitik...!",
+        "Itu memalukan...",
+        "Berhenti..."
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "Rasanya geli... ♡",
+        "Terasa aneh... ♡"
+      ]
+    },
+    "neck": {
+      "normal": [
+        "Hyah...",
+        "Itu geli...",
+        "Hei..."
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "Merinding... ♡",
+        "Terasa enak... ♡"
+      ]
+    },
+    "head": {
+      "normal": [
+        "Nn...",
+        "Terasa enak...",
+        "Tepat di situ..."
+      ],
+      "pleasure": [
+        "Terasa enak... ♡",
+        "...Lagi... ♡"
+      ]
+    },
+    "hand": {
+      "normal": [
+        "Di sana, ya...",
+        "Nn..."
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "Tidak buruk... ♡"
+      ]
+    },
+    "leg": {
+      "normal": [
+        "Bagian itu juga kaku...",
+        "Nn...",
+        "Ah..."
+      ],
+      "pleasure": [
+        "Itu kena titiknya... ♡",
+        "Tepat di situ... ♡"
+      ]
+    },
+    "mouth": {
+      "normal": [
+        "Mmph...!",
+        "Berhenti...",
+        "Hei..."
+      ],
+      "pleasure": [
+        "Nn... ♡",
+        "Ahm... ♡",
+        "Haa... ♡"
+      ]
+    },
+    "anus": {
+      "normal": [
+        "...!",
+        "Jangan di situ...!",
+        "Itu kotor...!",
+        "Lubang pantatku... sungguh...!"
+      ],
+      "pleasure": [
+        "Ah... ♡",
+        "Di sana... ♡",
+        "Kuh... di bagian belakang sana... ♡"
+      ],
+      "climax": [
+        "Keluar... ♡♡",
+        "Aah... ♡♡",
+        "Dari pantatku... aku keluar... ♡♡"
+      ]
+    }
+  },
+  "general": {
+    "normal": [
+      "Hei...",
+      "Nn...",
+      "Ah...",
+      "Cih...",
+      "Di sana, ya...",
+      "Hentikan...",
+      "Mmm..."
+    ],
+    "sleepy": [
+      "...Terasa... terlalu enak... jadi mengantuk...",
+      "...Sial... jadi mengantuk...",
+      "...Mengantuk... maaf..."
+    ],
+    "alert": [
+      "Hei... itu...",
+      "Berhenti...",
+      "Jangan macam-macam denganku...",
+      "Sudah kubilang berhenti...!",
+      "Jangan lebih jauh lagi... serius..."
+    ],
+    "pleasure": [
+      "Kuh... ♡",
+      "...Lagi... ♡",
+      "Aah... ♡",
+      "Terasa enak... ♡",
+      "Haa... ♡",
+      "Ah... ♡",
+      "...Tidak buruk... ♡",
+      "Nn... ♡"
+    ],
+    "sleeping": [
+      "Zzz... zzz...",
+      "Nnn...",
+      "Faa...",
+      "Kuu..."
+    ],
+    "climax": [
+      "Keluar... ♡♡",
+      "Aah... ♡♡",
+      "...Aku... mau keluar... ♡♡",
+      "Aku mengucur... ♡♡",
+      "Ah, ah... ♡♡"
+    ],
+    "climax_sleeping": [
+      "Nn... ♡♡",
+      "Faah... ♡♡",
+      "Auu... ♡♡"
+    ]
+  },
+  "toolSpecific": {
+    "vibe": {
+      "nipple": {
+        "normal": [
+          "Getarannya...!",
+          "Sebuah vibrator...!",
+          "Dengungannya...!",
+          "Jangan tempelkan itu di putingku...!"
+        ],
+        "pleasure": [
+          "Dengungan itu... ♡",
+          "Getarannya terasa enak... ♡",
+          "Vibrator ini luar biasa... ♡",
+          "Putingku... bergetar hebat... ♡"
+        ],
+        "climax": [
+          "Klimaks karena vibrator... ♡♡",
+          "Dengungan itu... aku mau keluar... ♡♡"
+        ]
+      },
+      "clitoris": {
+        "normal": [
+          "Ada vibrator di sana...!",
+          "Benda itu bergetar...!",
+          "Getarannya terlalu kuat...!",
+          "Jangan tempelkan itu di klitorisku...!"
+        ],
+        "pleasure": [
+          "Vibrator di klitorisku... ♡",
+          "Dengungannya terasa enak... ♡",
+          "Getarannya luar biasa... ♡",
+          "...Pikiranku... jadi kacau... ♡"
+        ],
+        "climax": [
+          "Klimaks karena vibrator... ♡♡",
+          "Klitorisku... aku... mau keluar... ♡♡"
+        ]
+      }
+    },
+    "tongue": {
+      "nipple": {
+        "normal": [
+          "Jangan jilat aku...",
+          "Lidahmu...",
+          "Terasa berlendir..."
+        ],
+        "pleasure": [
+          "Lidahmu... ♡",
+          "Berhenti menjilat... ♡",
+          "Licin sekali... ♡"
+        ],
+        "climax": [
+          "Dari lidahmu... aku keluar... ♡♡"
+        ]
+      },
+      "vagina": {
+        "normal": [
+          "Jangan jilat di situ...!",
+          "Lidahmu...!",
+          "Kamu menjilat di sana...!?"
+        ],
+        "pleasure": [
+          "Lidahmu... ♡",
+          "Jangan jilat di sana... ♡",
+          "Licin sekali... ♡"
+        ],
+        "climax": [
+          "Dari lidahmu... aku keluar... ♡♡",
+          "Dijilat... aku keluar... ♡♡"
+        ]
+      },
+      "anus": {
+        "normal": [
+          "Jangan jilat di situ...!",
+          "Itu kotor...!",
+          "Lidahmu...!"
+        ],
+        "pleasure": [
+          "Di bagian belakang sana... terasa enak... ♡",
+          "Lidahmu masuk ke dalam... ♡"
+        ],
+        "climax": [
+          "Keluar... ♡♡",
+          "Dijilat di bagian belakang sana... aku keluar... ♡♡"
+        ]
+      },
+      "armpit": {
+        "normal": [
+          "Jangan jilat ketiakku...",
+          "Ini memalukan...",
+          "Lidahmu..."
+        ],
+        "pleasure": [
+          "Ketiakku... sedang dijilat... ♡",
+          "Licin sekali... ♡"
+        ]
+      },
+      "foot": {
+        "normal": [
+          "Kamu menjilati kakiku...?",
+          "Itu geli...",
+          "Lidahmu..."
+        ],
+        "pleasure": [
+          "Jari-jari kakiku dijilat... ♡",
+          "Geli tapi... ♡",
+          "Tidak buruk... ♡"
+        ]
+      }
+    },
+    "penis": {
+      "vagina": {
+        "normal": [
+          "Itu masuk ke dalam...!",
+          "Dalam sekali...!",
+          "Hei...!"
+        ],
+        "pleasure": [
+          "Dalam sekali... luar biasa... ♡",
+          "Terasa enak... ♡",
+          "Di dalam... ♡"
+        ],
+        "climax": [
+          "Keluar di dalam... ♡♡",
+          "Aku mengucur... ♡♡"
+        ]
+      },
+      "anus": {
+        "normal": [
+          "Di pantatku...!",
+          "Hentikan... serius...!",
+          "Jangan di situ...!"
+        ],
+        "pleasure": [
+          "Pantatku... terasa enak... ♡",
+          "Di sana... ♡"
+        ],
+        "climax": [
+          "Keluar... ♡♡",
+          "Dari pantatku... aku keluar... ♡♡"
+        ]
+      },
+      "boobs": {
+        "normal": [
+          "Itu di antara mereka...",
+          "Dengan payudaraku... ini...",
+          "Serius deh..."
+        ],
+        "pleasure": [
+          "...Aku melakukannya dengan payudaraku... jadi bersyukurlah... ♡",
+          "Merasakannya dari payudaraku... tidak mungkin... ♡"
+        ]
+      }
+    }
+  },
+  "muffled": {
+    "fellatio": {
+      "normal": [
+        "Mmph...",
+        "Ahm...",
+        "Nn... nn...",
+        "Slurp..."
+      ],
+      "pleasure": [
+        "Mmuu... ♡",
+        "Nn... nnn... ♡",
+        "Slurp... slurp... ♡",
+        "Ahm... mmph... ♡"
+      ],
+      "climax": [
+        "Mmuu... ♡♡",
+        "Nnn... ♡♡",
+        "Ahm... ♡♡"
+      ],
+      "sleeping": [
+        "Zzz... mmph...",
+        "Nn... zzz...",
+        "Slurp... zzz..."
+      ],
+      "climax_sleeping": [
+        "Mmuu... ♡",
+        "Nnn... ♡"
+      ],
+      "sleepy": [
+        "Mmph... faa...?",
+        "Ahm... nn...?"
+      ],
+      "alert": [
+        "Nn!?",
+        "Mgh...!",
+        "Mmph...!!"
+      ]
+    },
+    "kiss": {
+      "normal": [
+        "Nn...",
+        "Chu...",
+        "Mmm...",
+        "Faa..."
+      ],
+      "pleasure": [
+        "Nn... ♡",
+        "Chupa... nn... ♡♡"
+      ],
+      "climax": [
+        "Nnn... ♡♡",
+        "Chuu... ♡♡",
+        "Mmuu... ♡♡"
+      ],
+      "sleeping": [
+        "Zzz... nn...",
+        "Chu... zzz..."
+      ],
+      "climax_sleeping": [
+        "Nn... ♡",
+        "Chuu... ♡"
+      ],
+      "sleepy": [
+        "Nn... faah...?",
+        "Chu... mmm...?"
+      ],
+      "alert": [
+        "Nn!?",
+        "Mmph...!"
+      ]
+    },
+    "fellatio_other_parts": {
+      "normal": [
+        "Mmph...",
+        "Nn...",
+        "Ahm..."
+      ],
+      "pleasure": [
+        "Mmuu... ♡",
+        "Nnn... ♡",
+        "Ahm... ♡"
+      ],
+      "climax": [
+        "Mmuu... ♡♡",
+        "Nnn... ♡♡",
+        "Ahmuu... ♡♡"
+      ],
+      "sleeping": [
+        "Mmph...",
+        "Nn..."
+      ],
+      "climax_sleeping": [
+        "Mmuu... ♡",
+        "Nnn... ♡"
+      ],
+      "sleepy": [
+        "Mmph...",
+        "Ahm..."
+      ],
+      "alert": [
+        "Nn!?",
+        "Mgh..."
+      ]
+    },
+    "kiss_other_parts": {
+      "normal": [
+        "Nn...",
+        "Chu...",
+        "Mmm..."
+      ],
+      "pleasure": [
+        "Nnn... ♡",
+        "Chu... ♡",
+        "Mmuu... ♡"
+      ],
+      "climax": [
+        "Nn... ♡♡",
+        "Chuu... ♡♡",
+        "Mmuu... ♡♡"
+      ],
+      "sleeping": [
+        "Nn...",
+        "Chu..."
+      ],
+      "climax_sleeping": [
+        "Nn... ♡",
+        "Chuu... ♡"
+      ],
+      "sleepy": [
+        "Nn...",
+        "Chu..."
+      ],
+      "alert": [
+        "Nn!?",
+        "Mm..."
+      ]
+    }
+  }
+}

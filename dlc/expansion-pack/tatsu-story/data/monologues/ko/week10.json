@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 돌아간 후……)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(내 냄새를 기억하고, 떠올리기만 해도……)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(방에 들어오는 순간부터 이미 몸이 반응하고 있었다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(하루에 몇 번이나 속옷을 갈아입어야 한다니……상당하구나.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그 사람은 자신을 '발정기 암컷 같다'고 웃으면서 말했지만.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(……내가 여기까지 만든 거다. 책임은 느끼고 있어.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(남은 2주……여러 가지 정리를 해야 해.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자, 이번 주는 어떻게 보낼까……)"
+    }
+  ]
+}

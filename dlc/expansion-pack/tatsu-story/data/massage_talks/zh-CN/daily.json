@@ -1,0 +1,370 @@
+{
+  "talks": {
+    "talk_weather": {
+      "topicName": "天气闲聊",
+      "trustEffect": 1,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "今天又好热啊。过来的路上辛苦了吧？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "开车来的，还好。……不过从停车场到这里的30秒差点热死了" },
+        { "character": "player", "expression": "normal_01", "text": "空调开着呢，慢慢凉快一下吧" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……嗯。这里确实凉快。比办公室好多了" }
+      ]
+    },
+
+    "talk_stiff": {
+      "topicName": "关于肩膀酸痛",
+      "trustEffect": 1,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "肩膀酸是从什么时候开始的？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……谁知道呢。有记忆以来就一直这样了。已经不知道不酸是什么感觉了" },
+        { "character": "player", "expression": "normal_01", "text": "做办公室工作的人很常见的症状。长时间用电脑什么的" },
+        { "character": "tatsu", "expression": "normal_02", "text": "做做账本、安排催收日程之类的。……与其说是肩膀，不如说后脖子一直很沉" },
+        { "character": "player", "expression": "normal_01", "text": "(伏案工作确实是原因之一，但那对胸部的重量应该也是很大的负担……)" },
+        { "character": "player", "expression": "normal_01", "text": "您的斜方肌非常僵硬。不定期放松的话，还会引起头痛" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……头痛确实经常有。还以为是偏头痛，原来是肩膀的问题？" },
+        { "character": "player", "expression": "normal_01", "text": "可能性很大。持续接受治疗的话应该能改善" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……嗯。那走着瞧吧" }
+      ]
+    },
+
+    "talk_first_time": {
+      "topicName": "第一次来诊所",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "以前去过整骨院或者做过按摩吗？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "美容院一个月去两次，但是……这种直接用手做的还是第一次" },
+        { "character": "player", "expression": "normal_01", "text": "紧张吗？" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……不紧张。完全不" },
+        { "character": "player", "expression": "normal_01", "text": "但是肩膀硬得像石头一样" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……闭嘴。本来就这样" },
+        { "character": "player", "expression": "normal_01", "text": "不会弄疼您的，放松交给我就好" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……嗯。……啊，跟美容院确实不一样" },
+        { "character": "player", "expression": "normal_01", "text": "怎么不一样？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……怎么说呢，感觉能触及更深的地方？美容院比较表面……" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……嘛，还不错。就这样" }
+      ]
+    },
+
+    "talk_sleep": {
+      "topicName": "睡眠习惯",
+      "trustEffect": 1,
+      "developEffect": 1,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "平时怎么睡觉的？侧睡？仰卧？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "侧睡。仰卧的话……胸部太重压得喘不过气" },
+        { "character": "player", "expression": "normal_01", "text": "是的，不过侧睡对肩膀负担更大" },
+        { "character": "tatsu", "expression": "normal_02", "text": "什么姿势都对哪里有负担，也没办法" },
+        { "character": "player", "expression": "normal_01", "text": "试试用抱枕吧。可以分散胸部的重量" },
+        { "character": "tatsu", "expression": "alert_02", "text": "抱枕……你别想象我抱着抱枕睡觉的样子" },
+        { "character": "player", "expression": "normal_01", "text": "没有" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……其实入睡本身就很困难。想的事情太多了" },
+        { "character": "player", "expression": "normal_01", "text": "工作上的事？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……嗯。明天的催收怎么办，那家伙干活靠不靠谱。脑子停不下来" },
+        { "character": "player", "expression": "normal_01", "text": "治疗后可能会有点困，今晚早点休息吧" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……嗯。试试看吧" }
+      ]
+    },
+
+    "talk_massage_effect": {
+      "topicName": "按摩的效果",
+      "trustEffect": 2,
+      "developEffect": 1,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "最近身体感觉怎么样？跟刚开始来的时候比" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……没什么特别的。就那样" },
+        { "character": "player", "expression": "normal_01", "text": "跟第一次来的时候比，肩膀的僵硬程度柔软多了" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……是吗" },
+        { "character": "player", "expression": "normal_01", "text": "皮肤状态也好了。这是血液循环改善的证据" },
+        { "character": "tatsu", "expression": "alert_02", "text": "连人家的皮肤状态都观察得那么仔细啊……" },
+        { "character": "player", "expression": "normal_01", "text": "职业习惯" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……嘛，最近确实容易入睡了一些。就一点点" },
+        { "character": "player", "expression": "normal_01", "text": "那太好了。身体放松了的话，对自律神经也有好的影响" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……还有，治疗结束后身体会暖和好一阵子。回去的车上都是" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……我不是在夸你。只是说可能有点效果而已" },
+        { "character": "player", "expression": "normal_01", "text": "是，我明白" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……你在笑吧？" }
+      ]
+    },
+
+    "talk_work": {
+      "topicName": "工作聊天",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "平时的工作都做些什么？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "放高利贷。借钱出去，收钱回来。就这样" },
+        { "character": "player", "expression": "normal_01", "text": "催收也亲自去吗？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "大单子亲自去。不能被人小看" },
+        { "character": "player", "expression": "normal_01", "text": "在这个行业里，作为女性站在顶端应该很不容易吧" },
+        { "character": "tatsu", "expression": "normal_02", "text": "刚开始谁都不听我的。说什么『一个女的能干什么』" },
+        { "character": "player", "expression": "normal_01", "text": "怎么让他们服气的？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……靠拳头。练过武术，先把最壮的那个打趴下了" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "然后把财务管理抓紧了。用数字拿出成绩，谁也没话说" },
+        { "character": "player", "expression": "normal_01", "text": "真厉害……" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……辛苦是辛苦，但不讨厌这份工作。就是肩膀会酸" }
+      ]
+    },
+
+    "talk_liricure": {
+      "topicName": "哼歌",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "sleeping_01", "text": "嗯嗯嗯～ 嗯嗯，嗯嗯～" },
+        { "character": "player", "expression": "normal_01", "text": "……龙姐，你在哼歌呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……！才没有" },
+        { "character": "player", "expression": "normal_01", "text": "那个旋律……是LiliCure吧？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "什么？LiliCure是什么？" },
+        { "character": "player", "expression": "normal_01", "text": "周日早上的动画。女孩子们变身的那个" },
+        { "character": "tatsu", "expression": "alert_01", "text": "不知道那种东西！……是Yasu那家伙的孩子在车里一直唱，我不小心记住了" },
+        { "character": "player", "expression": "normal_01", "text": "(Yasu……啊，龙姐的手下……) 等等，他有孩子……！" },
+        { "character": "tatsu", "expression": "normal_02", "text": "嗯。5岁的女儿。……工作是个笨蛋，但一说到女儿就完全变了个人" },
+        { "character": "tatsu", "expression": "normal_02", "text": "前几天下班后坐了Yasu的车，儿童座椅上放着LiliCure的玩偶" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "车载音响也在放LiliCure的CD……听了一个小时就记住了" },
+        { "character": "player", "expression": "normal_01", "text": "Yasu听起来是个好爸爸" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……嗯。那是他唯一的优点" }
+      ]
+    },
+
+    "talk_marriage": {
+      "topicName": "关于结婚",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "Yasu的女儿的事一直在我脑海里" },
+        { "character": "tatsu", "expression": "normal_02", "text": "嗯？怎么了" },
+        { "character": "player", "expression": "normal_01", "text": "龙姐想过结婚吗？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……啊？怎么突然问这个" },
+        { "character": "player", "expression": "normal_01", "text": "就是想知道你看着Yasu当爸爸会怎么想" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……没什么想法。他是他，我是我" },
+        { "character": "tatsu", "expression": "normal_02", "text": "哪个男人愿意娶高利贷老大？就算有，也只是图钱" },
+        { "character": "player", "expression": "normal_01", "text": "不一定是那样吧" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……别这么轻描淡写地说。我是认真的" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……不过嘛，看到Yasu的女儿……偶尔，真的只是偶尔会想一下" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……如果过的是普通的生活，也许我也能拥有那样的东西。……真幼稚。算了，忘掉吧" }
+      ]
+    },
+
+    "talk_food": {
+      "topicName": "喜欢的食物",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "午饭之类的有好好吃吗？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "经常跟手下们去吃烤肉。A5级的" },
+        { "character": "player", "expression": "normal_01", "text": "高级烤肉……真好啊" },
+        { "character": "tatsu", "expression": "normal_02", "text": "不过是用手下的卡结账。老大特权" },
+        { "character": "player", "expression": "normal_01", "text": "还有其他喜欢的食物吗？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "肉。日本酒。……还有……甜点" },
+        { "character": "player", "expression": "normal_01", "text": "甜点？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……有意见？没人的时候我会在办公室偷偷吃便利店的泡芙" },
+        { "character": "player", "expression": "normal_01", "text": "偷偷吃？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "在手下面前没法吃甜点。关系到威严的问题" },
+        { "character": "player", "expression": "normal_01", "text": "有不喜欢的食物吗？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "纳豆。还有香菜。……你干嘛一副『意外地很正常嘛』的表情" },
+        { "character": "player", "expression": "normal_01", "text": "我没有那种表情" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……有。看得出来" }
+      ]
+    },
+
+    "talk_holiday": {
+      "topicName": "休息日",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "休息日都做什么？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "去高级温泉或者打麻将" },
+        { "character": "player", "expression": "normal_01", "text": "去温泉跟在这里做治疗不一样吗？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "完全不一样。温泉只是放松心情。……这里怎么说呢……更深层的感觉" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……啊，说不清楚。反正就是不一样" },
+        { "character": "player", "expression": "normal_01", "text": "麻将跟谁打？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "跟Yasu那些人。……基本上都是我赢" },
+        { "character": "player", "expression": "normal_01", "text": "好胜心很强啊？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "赢是理所当然的。不管是工作还是赌博。输了就会被看不起" },
+        { "character": "player", "expression": "normal_01", "text": "……偶尔输也没关系啊。在这里不需要在意输赢" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……哼。……真烦人，说的话偏偏没法反驳" }
+      ]
+    },
+
+    "talk_name": {
+      "topicName": "关于名字",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "说起来，问诊表上写的全名……龙海丽，对吧？" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……啊。那个" },
+        { "character": "player", "expression": "normal_01", "text": "丽，很美的名字" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……别说了。别叫我那个名字" },
+        { "character": "player", "expression": "normal_01", "text": "不喜欢吗？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "不配啊。高利贷老大叫『丽』。开什么玩笑" },
+        { "character": "player", "expression": "normal_01", "text": "谁取的？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……父亲取的。我出生的时候，希望我『长成一个美丽的人』" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……连他的脸都记不住了。就只留下了这个名字" },
+        { "character": "player", "expression": "normal_01", "text": "……从名字的含义来看，他一定很珍惜你" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……谁知道呢。但我生活的世界对这个名字来说太残酷了" },
+        { "character": "tatsu", "expression": "normal_02", "text": "所以就用『龙姐』了。……这样更实际" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……别告诉任何人。我刚才说的" }
+      ]
+    },
+
+    "talk_scent": {
+      "topicName": "精油的香味",
+      "trustEffect": 3,
+      "developEffect": 1,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "最近治疗前闻到精油的味道，您的表情会放松下来呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……别那样盯着我看" },
+        { "character": "player", "expression": "normal_01", "text": "气味的记忆很容易留在身体里" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……我知道。最近精油的味道都渗进西装里了" },
+        { "character": "tatsu", "expression": "normal_02", "text": "有个手下说『老大，最近身上香香的呢』" },
+        { "character": "player", "expression": "normal_01", "text": "您怎么说的？" },
+        { "character": "tatsu", "expression": "normal_01", "text": "『闭嘴』" },
+        { "character": "player", "expression": "normal_01", "text": "……果然" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……就是啊，最近在办公室压力大的时候，会想起这个精油的味道。然后就会稍微平静一些" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……像巴甫洛夫的狗一样" },
+        { "character": "player", "expression": "normal_01", "text": "形成条件反射了呢。……是好的方面" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……感觉被驯化了。心情有点复杂" }
+      ]
+    },
+
+    "talk_reason": {
+      "topicName": "继续来的理由",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "托您的福，最近客人多了一些" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……嗯" },
+        { "character": "player", "expression": "normal_01", "text": "经营也稳定下来了，龙姐不用勉强自己来了" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……啊？什么意思。你是说不让我来吗？" },
+        { "character": "player", "expression": "normal_01", "text": "不、不是那个意思。如果您不介意的话当然欢迎……" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……不介意" },
+        { "character": "player", "expression": "normal_01", "text": "嗯？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "肩膀酸所以才来的。又不是为了你" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……不能接受你的治疗才更困扰呢（小声）" },
+        { "character": "player", "expression": "normal_01", "text": "？" }
+      ]
+    },
+
+    "talk_future": {
+      "topicName": "还款期限",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "快3个月了呢。还款期限" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……嗯" },
+        { "character": "player", "expression": "normal_01", "text": "龙姐还记得第一次来这里的时候吗？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "当然。来收债的。……然后你说了句『让我给您做个治疗吧』" },
+        { "character": "player", "expression": "normal_01", "text": "那时候真的是走投无路了" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……一转眼就过去了。一开始觉得真烦" },
+        { "character": "player", "expression": "normal_01", "text": "还完款之后也希望您能继续来" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……啊？债都还完了还来干嘛" },
+        { "character": "player", "expression": "normal_01", "text": "不是说必须来，是说我希望您来" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……肩膀还是酸。还债又不能治好肩膀" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……嗯，我考虑考虑吧" }
+      ]
+    },
+
+    "talk_betrayal": {
+      "topicName": "背叛",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……喂" },
+        { "character": "player", "expression": "normal_01", "text": "嗯？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……我可以相信你吗？" },
+        { "character": "player", "expression": "normal_01", "text": "……怎么突然这么说？" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……算了。自言自语而已" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……之前跟你提过我父亲的事吧。给我取名字的、脸都记不住的那个人" },
+        { "character": "player", "expression": "normal_01", "text": "嗯" },
+        { "character": "tatsu", "expression": "normal_02", "text": "我父亲也是做高利贷的。经营一个小事务所。……太心软了" },
+        { "character": "tatsu", "expression": "normal_02", "text": "有一个他最信任的合伙人。挚友兼共同经营者，连我都当亲人一样对待" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……那个人卷走了一切跑了。钱、客户名单、账本。把所有债务都丢给了我父亲" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "我父亲走投无路……就那样结束了" },
+        { "character": "tatsu", "expression": "normal_02", "text": "那时我还在上初中。剩下的只有债务、濒临倒闭的生意，和一个不配的名字『丽』" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……所以我接手了。高利贷。决定不会像父亲那样软弱" },
+        { "character": "tatsu", "expression": "alert_01", "text": "他因为相信别人而死的。……所以我谁都不信。靠实力说话最可靠" },
+        { "character": "player", "expression": "normal_01", "text": "……谢谢您告诉我这些" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……为什么连这种事都说了。连Yasu都没告诉过" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……你的手太犯规了。被你触碰的时候……防备就会松掉" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……也许你跟别人不一样" }
+      ]
+    },
+
+    "talk_looking_back": {
+      "topicName": "回顾",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "龙姐来这里已经挺久了呢" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……嗯。本来是抵债开始的，不知不觉就成了定期预约" },
+        { "character": "player", "expression": "normal_01", "text": "一开始真的很戒备呢" },
+        { "character": "tatsu", "expression": "normal_02", "text": "那当然了。把身体交给一个来路不明的治疗师" },
+        { "character": "player", "expression": "normal_01", "text": "现在呢？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "…………" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……来到这里就能放松下来。不只是身体，连脑子都是" },
+        { "character": "tatsu", "expression": "normal_02", "text": "工作的时候不能在任何人面前露出软弱，一个人的时候也没法放松" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "只有这里。……什么都不用想的地方" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……怎么不说话。我知道我说的话很难为情" },
+        { "character": "player", "expression": "normal_01", "text": "没有。……作为治疗师我很高兴" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……『作为治疗师』啊" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……随便吧。以后也拜托了" }
+      ]
+    }
+  }
+}

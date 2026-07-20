@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 돌아간 후, 혼자 남겨진 시술실……)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(……진짜로 사채업 보스를 시술해 버렸다)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(게다가 이자 유예를 대가로……무슨 무모한 협상이야)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그래도 어깨 결림은 진짜였어. 그 정도 결림은 상당한 거다)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(동의서를 전부 다시 쓰게 된 건 식겁했지만……)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(뭐, 시술 자체는 잘 됐어. 다음 주에도 와준다면 조금은 희망이 보인다)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(빚 상환까지 12주……어떻게든 해야 한다)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자, 이번 주는 뭘 하면서 보낼까……)"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "full_repaid": {
+    "title": "还清债务纪念 - 温泉旅行",
+    "dialogues": [
+      {
+        "character": "龙姐",
+        "text": "……我来帮你洗。洗你的身体。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "不，这——",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "这是报复。闭嘴坐好。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "用身体帮你洗。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……和那个一样？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "（这是报复……只是报复……！）",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "别动。我要坐上去了。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "诶……！？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……肥皂，涂好了。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "龙姐……你打算洗哪里啊？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……当然是全身！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "刚才那个停顿是什么……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "吵死了！开始了！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……嗯",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……什、什么啊这个……好温暖……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "龙姐你那边才……更温暖呢……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……嗯！别说奇怪的话！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……嗯…♡ 我动了。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……嗯……滑滑的……一直在滑…♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……嗯……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "怎么样……被我碰的感觉。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……要命了……直接碰到了……",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "那当然。我在帮你洗嘛。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "（只是在洗……只是在洗而已……！）",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "嗯……♡ 磨蹭着……好奇怪的感觉…♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "龙姐，你在出声哦。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "吵、吵死了…！说了这是报复…♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "目的是让你难堪……♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "为什么反而是我……变得舒服了……♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "该死，都怪肥皂……太滑了…♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "前端……每次碰到……♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "龙姐……这样下去都快要进去了……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "没有进去！只是在洗！♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "啊…♡ 那里……直接碰到了……♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "糟了……从没有过这种感觉……♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……已经不行了……",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "啊？这就不行了？没出息。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "我还没——",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……嗯♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "不会吧……我也……好像……♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "等、等一下……你别先去啊…！♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……嗯嗯……！",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "啊……出来了……好温暖……！♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "肚子上……全都……♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "啊……嗯♡♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "连我也……嗯♡♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……嗯嗯♡♡♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "呼……呼……",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "…………。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……没有放进去。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……嗯。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "只是在帮你洗而已。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……嗯。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……可是两个人都去了……这到底算什么……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "…………。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……别回答。我没在问你。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……下周。我会预约的。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……做理疗吗？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "不然还能干嘛。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……不再是特别待遇了。这次我会付钱的。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "好的。我会提供最好的服务。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……客人，吗。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……就只是那样吗。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "诶？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "我什么都没说！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……今天的事，跟别人说了我杀了你。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "不会说的。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……切。说好的报复……搞成这样，太糟了。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……但是。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "……干嘛。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "龙姐帮我洗身体，我很高兴。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "…………嗯！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "龙姐",
+        "text": "笨蛋！再也不准说了！",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "（地下钱庄的老板，满嘴脏话。）",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "（但是喜欢少女漫画，害羞的时候耳朵会变红。）",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "（对我来说龙姐……已经不是可以简单定义的存在了。）",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "（——跟她本人说的话，大概会被杀掉吧。）",
+        "tatsuImage": "default"
+      }
+    ]
+  }
+}

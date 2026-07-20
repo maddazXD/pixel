@@ -1,0 +1,521 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──10週目の朝。\nタツ姐の身体は、もはや施術なしでは満足できない状態になっていた。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（10週間…タツ姐は完全に俺に依存してる。最高だな…。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（おかげで客足も安定してきた…全部タツ姐のおかげだ。）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…おう。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タツ姐さん！ …あれ、今日もなんか顔が赤いですよ？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…っ。別に、何でもねぇよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "でも入ってきた瞬間から赤くなってましたよ。暑いですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……暑いっていうか……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……ここの匂いが…忘れられなくて…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "え？ く、臭かったですか…？"
+    },
+    {
+      "character": "player",
+      "text": "（ショックだ…。ちゃんと掃除してるのに…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "くせぇけど…それだけじゃなくて、このおじ…",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…いや、『長年じっくりとオーク樽で寝かされた、熟成ウイスキーみてえな渋い香り』が…。嗅ぐだけで、酔っちまいそうになるんだよ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（臭いのは臭いんだ…。でもウイスキーって…それ要するに俺の体臭ってことだよな…？）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…それ、もしかして俺の匂いのことですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…………。……まぁ……そうだよ…。お前の匂い嗅ぐと…身体が勝手に熱くなんだよ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（匂いだけで反応するのか…。条件反射がここまで進んでるとは…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…ちなみに、今この部屋に入った瞬間から、もう反応してるってことですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……ああ…。ドア開けた瞬間に…お前の匂いが来て…もう下着が…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（入店しただけで濡らしてるのか…！）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…最近、下着の替え持ち歩くようになっちまった…。1日に何回も替えなきゃなんねぇんだよ…お前のこと思い出すたびに…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "1日に何回も…！ それは相当ですね…。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…それでよ…その…実は…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "何です？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…前回の施術で使ったタオル…持って帰っちまった…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "え？ タオルを？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…お前の匂いが染み付いてたから…。それ抱いて寝たら…少し落ち着いたんだよ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（闇金の社長が俺のタオル盗んで抱きしめて寝てた…！？ やばい…かわいすぎる…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…でも…3日くらいで匂いが薄くなっちまって…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…それで…部下に「あの整体師が使ってる柔軟剤のブランド調べろ」って指示出したんだけど…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "部下に…！？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "同じの買って使ったんだよ…！ でも全然違ぇんだ…！ お前の匂いじゃねぇ…！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（部下に柔軟剤のブランド調べさせたのか…闇金の情報網をそんなことに使って…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…やっぱ、タオルとか柔軟剤じゃダメなんだよ…。本物じゃないと…お前の身体から直接出てる匂いじゃないと…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（タオル泥棒→部下に柔軟剤調査→結局本物じゃないとダメ…。完全に俺の匂いの中毒じゃん…最高すぎる…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "なるほど…タツ姐さんの身体は、触覚だけじゃなくて嗅覚まで俺に支配されてるんですね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "支配って…。……否定できねぇのがムカつく…。",
+      "outfit": "suit"
+    },
+    {
+      "id": "choice_massage10",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "匂いだけでここまで反応するとは…10週間の施術の成果ですね。",
+      "choices": [
+        {
+          "label": "大丈夫ですよ、自然なことです",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "gentle_path"
+        },
+        {
+          "label": "完全にフェロモンに支配されてますね",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "pheromone_path"
+        },
+        {
+          "label": "まるで発情期の雌犬ですね",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "bitch_path"
+        }
+      ]
+    },
+    {
+      "id": "gentle_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "大丈夫ですよ。これは自然な身体の反応です。匂いで安心するのは、信頼の証ですから。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…自然って…。まぁ、お前がそう言うなら…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今日は密着して施術しますから、たっぷり俺の匂い堪能してくださいね。",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "pheromone_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "これはフェロモンへの反応ですね。タツ姐さんの身体は、俺の匂いの成分に完全に支配されてます。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "フェロモン…？ アタシが、お前の匂いで発情してるってことか…？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "科学的に言えばそうですね。触覚に加えて嗅覚まで…もう全身で俺を求めてる状態です。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…正直すぎて困るっつってんだよ…この身体…。",
+      "outfit": "suit",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "bitch_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "まるで発情期の雌犬ですね、タツ姐さん。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "はぁ！？ 雌犬だと！？ ふざけんな…！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "でも事実ですよね。俺の匂いを嗅いだだけでびしょびしょに濡らして。タオルまで盗んで抱いて寝て。部下に石鹸のブランドまで調べさせて。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…っ。それは…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "飼い主の匂いで発情する雌犬そのものですよね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…っ。飼い主って…！ アタシはお前のペットじゃねぇ！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "じゃあ、今日は施術やめておきましょうか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…っ！ お、おい…！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "だって、タツ姐さんは雌犬じゃないんですよね？ だったら俺の匂いも、施術も必要ないはずですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…っ。それは…。…………欲しい……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "じゃあちゃんと認めてください。タツ姐さんは何ですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…………。……雌犬……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "誰の雌犬ですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…………お前の……雌犬……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（闇金の社長が「お前の雌犬」って…。最高だ…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "いい子ですね。じゃあもう少し正直になってください。今、俺の匂いを嗅いで、身体はどうなってますか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…っ。…………濡れてる……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "どこが？ ちゃんと言ってください。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…っ！ そ、そんなこと…！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "言えないなら、今日は施術なしですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…………っ。……ま…まんこが……濡れてる……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（きた…！ タツ姐の口から「まんこ」って…！ あのプライドの塊が…！）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "他には？ クリトリスはどうなってますか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…っ！ てめぇ…どこまで言わせるつもりだ…！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "全部です。タツ姐さんの身体の状態を、自分の口で正直に報告してください。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…………クリトリスが……勃起……してる……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（言った…！ あの「あそこ」「一番敏感なとこ」としか言えなかったタツ姐が…！）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "全部繋げて言ってください。俺の匂いを嗅ぐと、どうなるのか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……お前の匂い嗅ぐと……まんこがびしょびしょに濡れて……クリトリスがビンビンに勃起する……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（完璧だ…。闇金の社長が、こんな卑猥な告白を…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "いい子ですね。じゃあ今日は、雌犬のタツ姐さんをたっぷり可愛がってあげますよ。",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "じゃあ、着替えてもらいましょうか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…ああ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "（タツ姐が着替え始める…）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…やば、もう下着びしょびしょだ……。匂い嗅いだだけで、こんなに……。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…この部屋…あいつの匂いが充満してる…。息するたびに…あそこがキュンってなる……。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…雌犬って言われた…。まんこ、クリトリスって…自分で言っちまった…。闇金の社長が……。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…でも…本当は…あそこの表面だけじゃ…もう足りねぇ……。中まで…あいつの指を…入れてほしい……。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（…処女なのに…中を欲しがるなんて……。完全に壊されちまった……。）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…着替えた。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "（…すごい…太ももにうっすら光るものが…。部屋の匂いだけでここまで…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今日は密着して施術しますからね。俺の匂い、たっぷり堪能してください。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…早く…始めてくれ…。もう……限界だ……。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "（匂いだけでもう限界…。完全に俺の匂いの中毒になってる…。たまんないな…。）"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それでは、今日は密着して施術してあげますね。俺の匂い、たっぷり堪能してください。"
+    }
+  ]
+}

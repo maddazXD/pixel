@@ -1,0 +1,83 @@
+{
+  "title": "师父的特别指导 第1阶段「足部穴位」",
+  "intro": {
+    "dialogues": [
+      { "character": "师父", "text": "那么……从今日起，为师便开始指导你了" },
+      { "character": "师父", "text": "整体的基本，首先在于理解经络。你应当明白吧？" },
+      { "character": "player", "text": "是的，师父" },
+      { "character": "师父", "text": "嗯。……其中脚底，乃是全身经络汇聚的重要部位" },
+      { "character": "师父", "text": "被称为反射区的穴位有六十余个……若能精通此处，便可操控全身，此言绝非夸张" },
+      { "character": "师父", "text": "然而，仅凭书本知识是学不到真本事的" },
+      { "character": "师父", "text": "……唯有实践，方能有所成" },
+      { "character": "player", "text": "实践……是指？" },
+      { "character": "师父", "text": "为师说的是让你在为师的身体上练习。感恩戴德吧" },
+      { "character": "师父", "text": "来。先用为师的脚，确认穴位的位置吧" }
+    ]
+  },
+  "climax": {
+    "image": "images/live2devent/shishou_1_climax.png",
+    "afterImage": "images/live2devent/shishou_1_climax_after.png",
+    "dialogueDelay": 600,
+    "pulseDuration": 2500,
+    "dialogues": [
+      { "character": "师父", "text": "唔……啊、啊啊……不行了……脚底的、经络……全部……连在一起了……" },
+      { "character": "师父", "text": "穴位……连锁反应……传遍全身了……" },
+      { "character": "师父", "text": "变、变成这具身体之后……脚的感觉，和男人的时候完全不可同日而语……", "textWoman": "啊……♡…身体返老还童了……♡ 感觉太敏锐了……控制不住……♡" },
+      { "character": "师父", "text": "为师可是……师父啊……！ 这般……仅是用脚蹭着而已就……" },
+      { "character": "师父", "text": "怎么可能会去———" },
+      { "character": "师父", "text": "———！！！" },
+      { "character": "师父", "text": "去、去了啊啊啊……！！" },
+      { "character": "师父", "text": "哈……哈啊……哈啊……" },
+      { "character": "player", "text": "…………", "image": "images/live2devent/shishou_1_climax_after.png" },
+      { "character": "师父", "text": "…………咳咳" },
+      { "character": "师父", "text": "……方、方才那个嘛" },
+      { "character": "师父", "text": "当足底反射区发生连锁激活时……施术者一方也会出现此类反应……这是实际演示" },
+      { "character": "师父", "text": "……怎、怎么了。明白了就回个话啊" },
+      { "character": "player", "text": "（怎么看都是高潮了吧……而且还是因为脚……）" },
+      { "character": "player", "text": "……是的。受教了，师父" },
+      { "character": "师父", "text": "哼……赏你个奖励吧。足部穴位的应用……便是此等技法" },
+      { "character": "player", "text": "诶…？" }
+    ],
+    "afterDialogues": [
+      { "character": "师父", "text": "这也是指导的一环……为师来教你足部的感觉", "image": "images/live2devent/shishou_1_footjob.png" },
+      { "character": "师父", "text": "哼……像这样，用整个脚底分散压力便是诀窍" },
+      { "character": "师父", "text": "利用足弓的弧度……这样，像包裹住一般……" },
+      { "character": "player", "text": "唔……师父，好厉害……" },
+      { "character": "师父", "text": "那是当然。看清楚你在跟谁说话" },
+      { "character": "师父", "text": "用脚趾的指腹这样……在前端滚动着……" },
+      { "character": "师父", "text": "……唔" },
+      { "character": "player", "text": "……师父？" },
+      { "character": "师父", "text": "……没、没什么。继续吧" },
+      { "character": "师父", "text": "嗯……" },
+      { "character": "player", "text": "（……咦。师父的脚，刚才开始是不是在微微发抖？）" },
+      { "character": "师父", "text": "从、从这里开始才是关键……利用脚底反射区来变化压力……" },
+      { "character": "师父", "text": "呃……！" },
+      { "character": "player", "text": "师父，脚在发抖呢……" },
+      { "character": "师父", "text": "吵、吵死了……！ 你的……太硬了……！ 正好顶在为师脚底的穴位上了……！" },
+      { "character": "师父", "text": "不、不可能……仅是用脚碰着而已，就这般……男人的时候完全没有这种感觉……", "textWoman": "唔……这具年轻的身体……太敏感了……♡ 从脚底传遍全身……受不了了……♡" },
+      { "character": "player", "text": "诶，穴位？" },
+      { "character": "师父", "text": "为师不是说过脚底汇聚了全身的经络吗……！" },
+      { "character": "师父", "text": "这样施加压力的话……其反作用力也会刺激到为师的穴位……这是理所当然的……" },
+      { "character": "player", "text": "（自己说的话全都应验在自己身上了……）" },
+      { "character": "师父", "text": "啊……、啊……笨、笨蛋……就不能……再软一点吗……" },
+      { "character": "player", "text": "这个没办法……" },
+      { "character": "师父", "text": "唔……！ 涌泉穴……直接被顶到了……" },
+      { "character": "师父", "text": "这、这是指导……指导的一环……脚底有反应是……正常的……" },
+      { "character": "player", "text": "唔……！师父…我也…快到极限了…！", "image": "images/live2devent/shishou_1_ejaculation.png" },
+      { "character": "师父", "text": "…哼哼。这便是足部穴位的精髓…！" },
+      { "character": "师父", "text": "…这、这是指导…！不要搞错了…！" },
+      { "character": "player", "text": "…………" },
+      { "character": "player", "text": "（好厉害…光是脚就能那样…）" },
+      { "character": "player", "text": "（师父的指导，不可小觑啊…下次也很期待）", "image": "images/live2devent/shishou_1_footjob.png" }
+    ]
+  },
+  "outro": {
+    "dialogues": [
+      { "character": "师父", "text": "……哼。嘛，第一天来说还算过得去" },
+      { "character": "师父", "text": "足部穴位的位置似乎记住了……力度的掌握……也不算太差" },
+      { "character": "师父", "text": "……下次的研讨会也会用为师的身体进行实操训练" },
+      { "character": "师父", "text": "不、不许偷懒。……一定要来" },
+      { "character": "师父", "text": "才、才不是……期待你的成长什么的……！" }
+    ]
+  }
+}

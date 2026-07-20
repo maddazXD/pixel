@@ -1,0 +1,1019 @@
+{
+  "talks": {
+    "talk_weather": {
+      "topicName": "炎热的日子持续",
+      "trustEffect": 1,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "今天又很热啊。来这里一定很辛苦吧?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "是的...虽然撑着伞,但走路就开始出汗了...",
+          "voiceFile": "talk_wether_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "我开了空调,慢慢放松吧。"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleeping_02",
+          "text": "...谢谢。好凉快,好舒服...",
+          "voiceFile": "talk_wether_002"
+        }
+      ]
+    },
+    "talk_sleep": {
+      "topicName": "睡眠习惯",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "睡觉的时候,你喜欢侧着睡还是仰着睡?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "嗯...我经常侧着玩手机然后就睡着了...",
+          "voiceFile": "talk_sleep_001"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "侧着玩手机对脖子不好哦。"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "试着仰着睡,在膝盖下垫个枕头,这样对腰部比较好。诀窍是睡前30分钟不要玩手机,把灯光调暗。"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "膝盖下垫枕头...我不知道这个。谢谢,我会试试的。",
+          "voiceFile": "talk_sleep_002"
+        }
+      ]
+    },
+    "talk_hobby": {
+      "topicName": "兴趣爱好",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "奈奈,你休息日都做些什么?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "嗯...经常练习钢琴或者看书。",
+          "voiceFile": "talk_hobby_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "哦,你会弹钢琴?在练习什么曲子?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "现在在练习肖邦的夜曲...但是很难,还弹不好...",
+          "voiceFile": "talk_hobby_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "哦...夜曲啊。真厉害。(姑且附和一下)"
+        }
+      ]
+    },
+    "talk_first_time": {
+      "topicName": "第一次来按摩店",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "这是你第一次来按摩店吗?紧张吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "是、是的...是第一次...有点紧张...",
+          "voiceFile": "talk_first_time_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "别担心,放轻松就好。我不会做让你疼的事情。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...好的,谢谢...",
+          "voiceFile": "talk_first_time_002"
+        }
+      ]
+    },
+    "talk_tired_parts": {
+      "topicName": "疲劳部位",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "最近有哪里特别疲劳吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "肩膀和腰...感觉很沉重。",
+          "voiceFile": "talk_tired_parts_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "是因为学习时长时间保持同一个姿势吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "可能是吧...我在书桌前的时间很长...",
+          "voiceFile": "talk_tired_parts_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "试着每小时站起来做做简单的伸展运动。今天我会好好帮你放松的。"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "谢谢...好舒服...",
+          "voiceFile": "talk_tired_parts_003"
+        }
+      ]
+    },
+    "talk_school": {
+      "topicName": "关于学校",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "奈奈,你上的是哪所学校?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "嗯...御满口学园。",
+          "voiceFile": "talk_school_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "诶?是那个\"御满口学园\"!?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "啊,是的...没错。",
+          "voiceFile": "talk_school_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "那可是超一流的名校啊。真了不起。"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "不、不是...没什么特别的...",
+          "voiceFile": "talk_school_003"
+        }
+      ]
+    },
+    "talk_food": {
+      "topicName": "喜欢的食物",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "奈奈,你有喜欢的食物吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "嗯...我喜欢日式点心。抹茶、团子...",
+          "voiceFile": "talk_food_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "哦,口味很成熟啊。在你这个年纪很少见。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "奶奶经常买给我...从小就喜欢了。",
+          "voiceFile": "talk_food_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "很适合你呢,奈奈。"
+        }
+      ]
+    },
+    "talk_piano_detail": {
+      "topicName": "更多关于钢琴",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "对了,你之前说过你会弹钢琴对吧?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "啊,你还记得啊...",
+          "voiceFile": "talk_piano_detail_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你几岁开始学的?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "3岁。一开始不喜欢...但现在很享受弹琴。",
+          "voiceFile": "talk_piano_detail_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "参加过比赛吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "小时候参加过几次...但是很紧张,没发挥好。",
+          "voiceFile": "talk_piano_detail_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "但是能坚持下来很了不起啊。真想听你弹琴。"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "诶...你会听我弹吗?好开心...",
+          "voiceFile": "talk_piano_detail_004"
+        }
+      ]
+    },
+    "talk_dream": {
+      "topicName": "未来的梦想",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "奈奈,你对未来有什么梦想吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "嗯...还没完全决定...",
+          "voiceFile": "talk_dream_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "有感兴趣的领域吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "音乐相关的...或者教育,我想。",
+          "voiceFile": "talk_dream_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你会弹钢琴,很合适啊。"
+        },
+        {
+          "character": "player",
+          "expression": "normal_02",
+          "text": "当老师也不错。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_01",
+          "text": "真、真的吗...?谢谢。",
+          "voiceFile": "talk_dream_003"
+        }
+      ]
+    },
+    "talk_music_taste": {
+      "topicName": "音乐喜好",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "除了钢琴,平时还听什么音乐?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "大部分是古典音乐...但最近也听其他的。",
+          "voiceFile": "talk_music_taste_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "哦?比如什么?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...嗯...动画歌曲...",
+          "voiceFile": "talk_music_taste_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "真意外。你经常看动画吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "...不是经常看...但有一部很喜欢的动画...",
+          "voiceFile": "talk_music_taste_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "(她好像有点不好意思说)"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...这样啊。有机会再详细聊聊吧。"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "好、好的...",
+          "voiceFile": "talk_music_taste_004"
+        }
+      ]
+    },
+    "talk_childhood": {
+      "topicName": "童年回忆",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你小时候是什么样的?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "非常害羞...总是在看书。",
+          "voiceFile": "talk_childfood_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "现在也还是有点害羞吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "是的...但在这里不会那么紧张...",
+          "voiceFile": "talk_childfood_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "这让我很高兴。说明你和我在一起很放松。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "是的...很安心...",
+          "voiceFile": "talk_childfood_003"
+        }
+      ]
+    },
+    "talk_trust": {
+      "topicName": "关于信任",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "最近你变得很放松了呢,奈奈。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "真的吗...?确实不像刚开始来的时候那么紧张了。",
+          "voiceFile": "talk_trust_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "说明你信任我吧?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "是的...我信任老师。",
+          "voiceFile": "talk_trust_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "谢谢。我会继续努力赢得你的信任。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "我也要谢谢...老师一直以来的照顾。",
+          "voiceFile": "talk_trust_003"
+        }
+      ]
+    },
+    "talk_anime_secret": {
+      "topicName": "秘密的动画爱好",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你之前说过听动画歌曲。喜欢什么动画?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "诶...你、你还记得啊...",
+          "voiceFile": "talk_anime_secret_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "嗯。我很好奇。"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "...其实...周日早上有一部叫\"Lily Cure\"的动画,我...",
+          "voiceFile": "talk_anime_secret_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Lily Cure?就是那个女孩们变身的动画?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "是、是的...很幼稚对吧...",
+          "voiceFile": "talk_anime_secret_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你看多久了?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "从小学开始...一直在看。",
+          "voiceFile": "talk_anime_secret_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "哇,看了这么久,一定很喜欢吧。"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "我跟朋友说的时候,她们觉得很奇怪...所以之后就没再告诉别人...",
+          "voiceFile": "talk_anime_secret_005"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "我完全不觉得奇怪。喜欢就好。"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "真的吗...?谢谢...",
+          "voiceFile": "talk_anime_secret_006"
+        }
+      ]
+    },
+    "talk_test_result": {
+      "topicName": "考试成绩",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你今天心情好像不错。发生什么好事了?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "其实...我在班里考了第二名。",
+          "voiceFile": "talk_test_result_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "哇,太棒了!第一名是谁?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "是一个被称为天才的男生...他总是第一。",
+          "voiceFile": "talk_test_result_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你也很厉害啊,奈奈。作为奖励,今天给你特别服务怎么样?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "特、特别服务...?",
+          "voiceFile": "talk_test_result_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "想按摩哪里都可以!"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "哪里都可以...?",
+          "voiceFile": "talk_test_result_004"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "那...嗯...",
+          "voiceFile": "talk_test_result_005"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "可以...摸摸我的头吗...?",
+          "voiceFile": "talk_test_result_006"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "!"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "当然!"
+        }
+      ]
+    },
+    "talk_travel_wish": {
+      "topicName": "关于旅行",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -2,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "奈奈,你想去哪里旅行?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "嗯...温泉吧...",
+          "voiceFile": "talk_travel_wish_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "温泉!好成熟的选择啊。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "奶奶很喜欢温泉,跟她一起去过之后就喜欢上了...",
+          "voiceFile": "talk_travel_wish_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "温泉啊~不错啊。混浴吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "不、不是!是普通的温泉!",
+          "voiceFile": "talk_travel_wish_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "真可惜。如果是混浴的话,我就能和你一起泡了~"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "一起...?",
+          "voiceFile": "talk_travel_wish_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "泡温泉皮肤会变得很滑呢。"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "是、是的...",
+          "voiceFile": "talk_travel_wish_005"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "回来的时候要检查看看你的皮肤有没有变化!"
+        }
+      ]
+    },
+    "talk_summer_plan": {
+      "topicName": "暑假计划",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "暑假有什么计划吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "家人计划去海边。",
+          "voiceFile": "talk_summer_plan_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "海边~真好啊。穿什么泳衣?比基尼吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "那、那个...连体泳衣...",
+          "voiceFile": "talk_summer_plan_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "诶,连体泳衣?奈奈你身材这么好,应该穿比基尼啊~"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "不、不行...比基尼太...害羞了...",
+          "voiceFile": "talk_summer_plan_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "(你现在穿的明明更暴露...)"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "真可惜。你穿起来肯定很好看...真想看奈奈穿泳衣的样子~"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "如果拍照的话给我看看。你知道的,检查有没有晒痕。"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_01",
+          "text": "照、照片有点...害羞...",
+          "voiceFile": "talk_summer_plan_004"
+        }
+      ]
+    },
+    "talk_massage_habit": {
+      "topicName": "按摩的效果",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "最近你的皮肤变好了~"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "真的吗?我自己看不出来...",
+          "voiceFile": "talk_massage_habit_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "我每周都见你,能看出来。特别是这里的皮肤...(摸大腿)"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "啊!不、不要摸那里...",
+          "voiceFile": "talk_massage_habit_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "这是血液循环改善的证明~可能是我按摩的效果?"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "是、是吗...可能是吧...",
+          "voiceFile": "talk_massage_habit_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "如果发现其他变化,告诉我。"
+        }
+      ]
+    },
+    "talk_looking_back": {
+      "topicName": "回顾3个月",
+      "trustEffect": 8,
+      "developEffect": 0,
+      "alertnessEffect": -10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你来这里已经3个月了。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "是啊...刚开始真的很紧张...",
+          "voiceFile": "talk_looking_back_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "现在完全习惯了呢。"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "现在已经是可以真正放松的地方了。",
+          "voiceFile": "talk_looking_back_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "我很高兴你能放心地把身体交给我。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "我的身心都好多了。都是托老师的福。",
+          "voiceFile": "talk_looking_back_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "让我们继续一起为你的健康努力吧。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "好的!谢谢。",
+          "voiceFile": "talk_looking_back_004"
+        }
+      ]
+    },
+    "talk_best_memory": {
+      "topicName": "分享秘密",
+      "trustEffect": 7,
+      "developEffect": 0,
+      "alertnessEffect": -8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "这3个月里最难忘的是什么?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "嗯...",
+          "voiceFile": "talk_best_memory_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "对我来说,是你告诉我关于Lily Cure的时候。"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "诶!?那件事...?",
+          "voiceFile": "talk_best_memory_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "我很高兴你能跟我分享秘密。感觉我们的关系更近了~"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "那时候你接受了我...我真的很高兴。",
+          "voiceFile": "talk_best_memory_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "以后也可以什么都跟我说哦。"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "好的...什么都可以跟老师说。",
+          "voiceFile": "talk_best_memory_004"
+        }
+      ]
+    },
+    "talk_first_love": {
+      "topicName": "初恋",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "奈奈,你的初恋是什么时候?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "诶!?为什么突然问这个...",
+          "voiceFile": "talk_first_love_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "来嘛,告诉我~"
+        },
+        {
+          "character": "Nana",
+          "expression": "sleepy_02",
+          "text": "...4年级的时候。",
+          "voiceFile": "talk_first_love_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "哦~是什么样的人?"
+        },
+        {
+          "character": "Nana",
+          "expression": "normal_02",
+          "text": "钢琴班的学长...很温柔,总是帮助我...",
+          "voiceFile": "talk_first_love_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "有表白吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "alert_02",
+          "text": "我、我做不到!光是看着就满足了...",
+          "voiceFile": "talk_first_love_004"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "现在有喜欢的人吗?"
+        },
+        {
+          "character": "Nana",
+          "expression": "pleasure_02",
+          "text": "没、没有...!没时间想这些...",
+          "voiceFile": "talk_first_love_005"
+        }
+      ]
+    }
+  }
+}

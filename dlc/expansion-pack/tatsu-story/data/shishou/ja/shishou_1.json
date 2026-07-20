@@ -1,0 +1,83 @@
+{
+  "title": "師匠の特別指導 第1段階「足のツボ」",
+  "intro": {
+    "dialogues": [
+      { "character": "師匠", "text": "さて……今日からおぬしの指導を始めるのじゃ" },
+      { "character": "師匠", "text": "整体の基本は、まず経絡を理解すること。わかっておるな？" },
+      { "character": "player", "text": "はい、師匠" },
+      { "character": "師匠", "text": "うむ。……中でも足の裏は、全身の経絡が集中しておる重要な部位じゃ" },
+      { "character": "師匠", "text": "反射区と呼ばれるツボが六十以上あっての……ここを極めれば、全身を操れると言うても過言ではない" },
+      { "character": "師匠", "text": "じゃが、座学だけではモノにならん" },
+      { "character": "師匠", "text": "……実践あるのみ、じゃ" },
+      { "character": "player", "text": "実践……というと？" },
+      { "character": "師匠", "text": "ワシの体で練習させてやると言うておるのじゃ。ありがたく思え" },
+      { "character": "師匠", "text": "ほれ。まずはワシの足を使って、ツボの位置を確認するのじゃ" }
+    ]
+  },
+  "climax": {
+    "image": "images/live2devent/shishou_1_climax.png",
+    "afterImage": "images/live2devent/shishou_1_climax_after.png",
+    "dialogueDelay": 600,
+    "pulseDuration": 2500,
+    "dialogues": [
+      { "character": "師匠", "text": "っ……あ、ぁぁっ……だめ、じゃ……足裏の、経絡が……全部……繋がって……っ" },
+      { "character": "師匠", "text": "ツボが……連鎖して……全身に……っ" },
+      { "character": "師匠", "text": "こ、この体になってから……足の感覚が、男の時とは比べものにならんのじゃ……っ", "textWoman": "あっ……♡…体が若返っておるから……♡ 感覚が鋭くて……制御がっ……♡" },
+      { "character": "師匠", "text": "ワシは……師匠じゃぞ……！ こんな……足で擦っておるだけで……っ" },
+      { "character": "師匠", "text": "イくわけが———" },
+      { "character": "師匠", "text": "———っっっ！！！" },
+      { "character": "師匠", "text": "の、のじゃぁああ……っっ！！" },
+      { "character": "師匠", "text": "はっ……はぁっ……はぁ……っ……" },
+      { "character": "player", "text": "…………",  "image": "images/live2devent/shishou_1_climax_after.png" },
+      { "character": "師匠", "text": "…………こほん" },
+      { "character": "師匠", "text": "……い、今のはじゃな" },
+      { "character": "師匠", "text": "足裏の反射区が連鎖的に活性化した場合……施術者側にもこのような反応が出る……という、実演じゃ" },
+      { "character": "師匠", "text": "……な、なんじゃ。わかったなら返事をせんか" },
+      { "character": "player", "text": "（どう見てもイッてたけど……しかも足で……）" },
+      { "character": "player", "text": "……はい。勉強になりました、師匠" },
+      { "character": "師匠", "text": "ふん……ご褒美をやろう。足のツボの応用……というやつじゃ" },
+      { "character": "player", "text": "え…？" }
+    ],
+    "afterDialogues": [
+      { "character": "師匠", "text": "これも指導の一環じゃ……足の感覚を教えてやるのじゃ", "image": "images/live2devent/shishou_1_footjob.png" },
+      { "character": "師匠", "text": "ふん……こうやっての、足裏全体で圧を分散させるのがコツじゃ" },
+      { "character": "師匠", "text": "土踏まずのアーチを使って……こう、包み込むように……" },
+      { "character": "player", "text": "っ……師匠、うまい……" },
+      { "character": "師匠", "text": "当然じゃ。誰に物を言うておる" },
+      { "character": "師匠", "text": "指の腹でこう……先端を転がしてやるとの……" },
+      { "character": "師匠", "text": "……っ" },
+      { "character": "player", "text": "……師匠？" },
+      { "character": "師匠", "text": "……な、なんでもないのじゃ。続けるぞ" },
+      { "character": "師匠", "text": "んっ……" },
+      { "character": "player", "text": "（……あれ。師匠の足、さっきから小刻みに震えてないか？）" },
+      { "character": "師匠", "text": "こ、ここからが重要じゃぞ……足裏の反射区を使って、圧を変化させ……" },
+      { "character": "師匠", "text": "ぅっ……！" },
+      { "character": "player", "text": "師匠、足、震えてますけど……" },
+      { "character": "師匠", "text": "う、うるさいのじゃ……！ おぬしの……が、硬すぎるのじゃ……！ ワシの足裏のツボに、もろに入っておる……！" },
+      { "character": "師匠", "text": "ば、馬鹿な……足で触れておるだけで、こんなに……っ 男の時はこんな感覚……なかったのじゃ……っ", "textWoman": "くっ……この若い体……敏感すぎるのじゃ……♡ 足裏から全身に響いて……たまらん……♡" },
+      { "character": "player", "text": "え、ツボ？" },
+      { "character": "師匠", "text": "足の裏は全身の経絡が集中しておると言ったじゃろう……！" },
+      { "character": "師匠", "text": "こうやって圧をかけると……その反動で、ワシのツボも刺激されるのは……当然の……っ" },
+      { "character": "player", "text": "（自分で言ったことが全部自分に返ってきてる……）" },
+      { "character": "師匠", "text": "ぁっ……、あ……っ、ば、馬鹿者……もうちょっと……柔らかくならんのか……っ" },
+      { "character": "player", "text": "それは無理です……" },
+      { "character": "師匠", "text": "っ……くぅ……！ 湧泉に……直で入って……っ" },
+      { "character": "師匠", "text": "こ、これは指導じゃ……指導の一環で……足裏が反応するのは……正常な……っ" },
+      { "character": "player", "text": "っ……！師匠…もう…限界…っ！", "image": "images/live2devent/shishou_1_ejaculation.png" },
+      { "character": "師匠", "text": "…ふふん。これが足のツボの真髄じゃ…！" },
+      { "character": "師匠", "text": "…こ、これは指導じゃからな…！勘違いするでないぞ…！" },
+      { "character": "player", "text": "…………" },
+      { "character": "player", "text": "（すごかった…足だけであんなに…）" },
+      { "character": "player", "text": "（師匠の指導、侮れないな…次も楽しみだ）",  "image": "images/live2devent/shishou_1_footjob.png" }
+    ]
+  },
+  "outro": {
+    "dialogues": [
+      { "character": "師匠", "text": "……ふん。まぁ、初日にしてはまずまずじゃ" },
+      { "character": "師匠", "text": "足のツボの位置は覚えたようじゃし……力加減も……そこまで悪くはなかった" },
+      { "character": "師匠", "text": "……次のセミナーもワシの体で実技をやるからの" },
+      { "character": "師匠", "text": "さ、サボるなよ。……絶対に来るのじゃぞ" },
+      { "character": "師匠", "text": "べ、別に……おぬしの成長が楽しみとか、そういうのではないからな……！" }
+    ]
+  }
+}

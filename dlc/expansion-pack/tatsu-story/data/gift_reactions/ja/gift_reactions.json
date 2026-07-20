@@ -1,0 +1,690 @@
+{
+  "default": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…ふーん。アタシに？"
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…まぁ、もらっといてやるよ。"
+      }
+    ]
+  },
+  "gift_flowers": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…花？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "お疲れかなと思って…よかったらどうぞ。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "花なんてもらったの…いつぶりだろ。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…アタシの事務所、殺風景だからな。飾っとくわ。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "（素直に受け取ってくれた…！）"
+      }
+    ]
+  },
+  "gift_matcha_chocolate": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "抹茶のチョコ…？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "京都の有名なお茶屋さんの宇治抹茶を使ってるんです。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "へぇ…アタシ甘いもん好きなんだよ。知ってたか？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "え、そうなんですか！よかった…。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "…部下の前じゃ絶対食わねぇけどな。ありがとな。"
+      }
+    ]
+  },
+  "gift_neck_pillow": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "ネックピロー？…温かいな、これ。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "肩こりがひどいって仰ってたので、施術の合間にでも使っていただければ。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "…じんわり効くな。事務所でも使えそうだ。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…お前、アタシの身体のこと、よく見てるな。…ありがとな。"
+      }
+    ]
+  },
+  "gift_whiskey": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…おい、これ25年モルトじゃねぇか。分かってるな。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "お酒がお好きだって聞いたので。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "日本酒派だけどな。…まぁ、こういうのも嫌いじゃねぇよ。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…今夜、事務所で一杯やるわ。一人で飲むには勿体ないけどな。"
+      }
+    ]
+  },
+  "gift_hemp_rope": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…おい。これ、縄だよな。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "上質な麻縄です。筋膜リリースの圧迫法に…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "緊縛用だろ。アタシを舐めんなよ、こんくらい見りゃ分かる。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…まぁ、肌触りは悪くねぇな。もらっとく。"
+      }
+    ]
+  },
+  "gift_teddy_bear": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…ぬいぐるみ？"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "アタシに…クマ…？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "あ、すみません…お好みじゃなかったですか…？"
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "……別に。嫌いじゃねぇよ、こういうの。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "happysmile",
+        "text": "…ふわふわだな。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "（めちゃくちゃ気に入ってるっぽい…）"
+      }
+    ]
+  },
+  "gift_aroma_diffuser": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "アロマ…？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "リラックス効果があるので、お仕事の疲れに。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "高級スパでこういうの使ってたな…悪くない香りだ。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…事務所に置かせてもらうわ。"
+      }
+    ]
+  },
+  "gift_eye_mask": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "アイマスク？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "お仕事で目が疲れてるんじゃないかと思って。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "まぁ、帳簿やら書類やら見てっからな…目は確かに疲れる。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "…ラベンダーの香り。悪くねぇな。"
+      }
+    ]
+  },
+  "gift_black_lingerie": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…おい。これ、下着だよな。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "機能性ランジェリーです。リンパの流れを良くする設計で…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "嘘つくなよ。ただのエロ下着だろ。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "……"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…まぁ、デザインは嫌いじゃねぇけど。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "次こんなもん渡したら、指詰めさせるからな。"
+      }
+    ]
+  },
+  "gift_pink_rotor": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…これ、何だ？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "小型マッサージ器です。肩こりとかに…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "ブルブル震えてんぞ。…ローターだろこれ。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "い、いえ！リンパマッサージ用の…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "アタシを舐めんなよ。闇金やってりゃこのくらい見たことあるわ。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…まぁ、もらっといてやるよ。使うかどうかは…知らね。"
+      }
+    ]
+  },
+  "gift_vibrator": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…電マ。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "電動マッサージ器です！全身のコリに…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "もういいよその言い訳。分かってんだよ。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…お前、アタシにこんなもん渡して、どうなるか分かってんのか？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "す、すみません…！"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…威力は認めてやる。もらっとく。"
+      }
+    ]
+  },
+  "gift_massage_av": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…DVD？"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "『仁義なき施術 ～整体師に堕ちた姐さん～』………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "…おい。これ、モデルがアタシっぽくねぇか？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "き、気のせいじゃないですかね…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "闇金の姐さんが整体師に堕ちる…？お前、ケンカ売ってんのか？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…まぁ、どんな内容か確認はしてやるよ。没収だ没収。"
+      }
+    ]
+  },
+  "gift_custom_dildo": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…おい。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "特別な深部マッサージ器具を型取りして…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "お前のちんぽの形だろ。見りゃ分かるわ。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…お前さ、アタシが本気で怒ったらどうなるか分かってる？"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "……まぁ、捨てないでおいてやるよ。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "（捨てないんだ…！？）"
+      }
+    ]
+  },
+  "gift_luxury_bag": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…これ、ブランドもんじゃねぇか。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "はい。似合うんじゃないかと思って。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "ふーん…まぁ、アタシも同じブランドのは持ってるけどな。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "（さすが闇金の社長…）"
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "…でも、人からもらったのは初めてだわ。使わせてもらう。"
+      }
+    ]
+  },
+  "gift_luxury_watch": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "surprised",
+        "text": "…これ、高級時計じゃねぇか。お前こんなの買えんの？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "頑張って貯めました…。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…アタシの時計コレクションに追加してやるよ。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "happysmile",
+        "text": "…冗談だ。ちゃんとつけるわ。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "（嬉しそうだ…よかった…）"
+      }
+    ]
+  },
+  "gift_luxury_car": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "surprised",
+        "text": "は？…車？お前、車をプレゼントしてきやがったのか？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "はい…！タツ姐さんに乗っていただきたくて…。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…正気か？整体師の稼ぎで高級車買えるわけねぇだろ。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "（言えない…マッサージで稼いだ裏金だなんて…）"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "…まぁ、金の出所は聞かねぇよ。アタシも人のこと言えねぇしな。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…ありがとな。今度ドライブにでも連れてってやるよ。"
+      }
+    ]
+  },
+  "gift_tower_mansion": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "surprised",
+        "text": "…タワマンの最上階だと？"
+      },
+      {
+        "character": "tatsu",
+        "expression": "surprised",
+        "text": "お前…マジで言ってんのか？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "タツ姐さんにふさわしい住まいを…と思いまして。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…5億だぞ。お前、どっから金が湧いてんだよ。"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "（整体の腕一本で稼ぎました…とは言えない…）"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…お前、実はアタシ以上にヤバい商売してんじゃねぇの？"
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…まぁいい。アタシもそろそろ引っ越したかったしな。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "happysmile",
+        "text": "…ありがとな。お前、闇金の世界でもやっていけるぞ。"
+      }
+    ]
+  },
+  "gift_diamond_ring_rejected": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…は？指輪？ダイヤモンドの？"
+      },
+      {
+        "character": "player",
+        "expression": "sweat",
+        "text": "はい…！頑張って貯めて買いました。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…お前、アタシに指輪を渡すってことの意味、分かってんのか？"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "受け取ってもらえませんか…？"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…悪いな。これは受け取れねぇ。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…お前にはまだ、アタシにこれを渡す資格がねぇよ。"
+      },
+      {
+        "character": "player",
+        "expression": "closeeyes",
+        "text": "（…ダメだったか…もっと信頼してもらわないと…）"
+      }
+    ]
+  },
+  "gift_diamond_ring_accepted": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…は？指輪？ダイヤモンドの？"
+      },
+      {
+        "character": "player",
+        "expression": "sweat",
+        "text": "はい…！頑張って貯めて買いました。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…お前、アタシに指輪を渡すってことの意味、分かってんのか？"
+      },
+      {
+        "character": "player",
+        "expression": "sweat",
+        "text": "分かってます。受け取ってください。"
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…お前、度胸だけはあるな。闇金の社長にプロポーズとか。"
+      },
+      {
+        "character": "player",
+        "expression": "shy",
+        "text": "つけさせてもらっていいですか？"
+      },
+      {
+        "character": "player",
+        "expression": "smile",
+        "text": "左手の薬指に…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "お、おい…そこは…",
+        "cutInImage": "diamond_ring"
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "…ぴったりじゃねぇか…",
+        "cutInImage": "diamond_ring"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "……綺麗だな。",
+        "cutInImage": "diamond_ring"
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "…ったく。アタシを泣かすんじゃねぇよ…バカ。"
+      },
+      {
+        "character": "player",
+        "expression": "smile",
+        "text": "（やった…！！タツ姐が…泣いてる…？）"
+      },
+      {
+        "character": "player",
+        "expression": "smile",
+        "text": "（薬指に指輪をはめて…ついでに俺のちんぽもハメる…！？いや、殺される…！！）"
+      }
+    ]
+  }
+}

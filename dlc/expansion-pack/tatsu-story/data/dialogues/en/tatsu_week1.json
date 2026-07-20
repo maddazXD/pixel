@@ -1,0 +1,786 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Ini adalah impianku... membuka 'Klinik Pijat Erotis' milikku sendiri.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Aku menulis teori yang meyakinkan, membuat situs web, bahkan membayar mahal agensi SEO.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tentu saja aku juga menyebar brosur. 'Sinful Wave Bodywork.' Aku benar-benar serius.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Tapi jumlah pesanan di hari pembukaan adalah... nol.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Setiap bank dan pemberi pinjaman menolakku, jadi akhirnya aku meminjam modal awal dari rentenir bernama 'Dragon Finance'...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Batas waktu pelunasannya 3 bulan lagi... 12 minggu. Kalau aku gagal, tamatlah riwayatku.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tidak ada pelanggan yang datang... Apa yang harus kulakukan... Aku tidak bisa melunasi pinjaman kalau begini terus...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Bel pintu berbunyi. Seorang pelanggan...!?)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Hei, ada orang di dalam?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "K-Kak Tatsu...!"
+    },
+    {
+      "character": "player",
+      "text": "(Gawat... Itu Tatsu-nee dari pihak rentenir. Apa dia sudah datang untuk menagih...)"
+    },
+    {
+      "character": "player",
+      "text": "(Tapi, bodinya tetap mantap seperti biasa... Dengan dada sebesar itu, bahunya pasti pegal sekali...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Kenapa dengan wajahmu itu? Kamu tidak terlihat senang kedatangan pelanggan."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "T-Tidak... Bukan begitu..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Jadi, bagaimana? Hari ini hari pembukaanmu, kan? Ada pelanggan?"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Yah... belum ada..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Hah? Nol pelanggan? Kamu bakal baik-baik saja?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Yah, terserahlah. Aku cuma mampir untuk mengecek keadaan hari ini. Kamu harus bayar dalam 3 bulan, mengerti?"
+    },
+    {
+      "character": "player",
+      "expression": "closeeyes",
+      "text": "(Tatsu-nee sedang menggerakkan bahunya... Kelihatannya kaku sekali...)"
+    },
+    {
+      "character": "player",
+      "text": "(Tunggu... ini mungkin kesempatanku!)"
+    },
+    {
+      "character": "player",
+      "text": "Um, Kak Tatsu... Apa bahumu kaku?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Hah? ...Ya, kronis. Memangnya kenapa?"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Kalau begitu... aku punya tawaran."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Tawaran?"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tolong izinkan aku memberikanmu perawatan seminggu sekali. Gratis."
+    },
+    {
+      "character": "player",
+      "text": "Sebagai gantinya... bisakah kamu memberiku sedikit kelonggaran untuk pembayaran bunganya?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Hah? Pijat demi penundaan bunga?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Kamu sedang mempermainkanku?"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "T-Tidak! Aku serius! Aku jamin teknik pijatku manjur!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "............"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Yah, bahuku memang sangat kaku... Bahkan spa mewah pun tidak bisa menyembuhkannya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Baiklah. Aku akan datang seminggu sekali. Tapi ada syaratnya."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Syarat...?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Kalau tidak berhasil, aku tidak akan segan padamu. Dan pelunasan pokoknya tidak akan ditunda."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Mengerti! Terima kasih banyak!"
+    },
+    {
+      "character": "player",
+      "text": "(Baiklah... ini memberiku sedikit waktu...!)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Jadi, apa yang harus aku lakukan?"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Pertama, tolong isi lembar konseling ini."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Lembar konseling? Repot banget sih."
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "......",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Nama dan... gejalanya bahu kaku sama nyeri punggung bawah.",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "(Wah! Dari dekat, dadanya ternyata jauh lebih besar...! Dan dia juga cantik sekali...)",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "......Hm?",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "sweat",
+      "text": "'Perawatan menepuk'...?",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "'Perawatan menjilat'...!?",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Hei! Ini bukan pijat namanya!"
+    },
+    {
+      "character": "player",
+      "expression": "angry",
+      "text": "I-Itu hanya contoh teknik perawatan khusus..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "sweat",
+      "text": "Terus ada lagi 'Tentang pengalaman seksualmu'...?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Kamu... jangan main-main denganku!"
+    },
+    {
+      "character": "player",
+      "expression": "angry",
+      "text": "M-Maaf! Tapi keseimbangan hormon dan kondisi sistem saraf otonom bisa memengaruhi kekakuan bahu..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "...Omong kosong macam apa itu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Mana mungkin aku mau mengisi semua ini."
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "T-Tapi...",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Aku sudah mengisi bagian pertamanya. Sisanya, urus sendiri sana.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "shy",
+      "text": "......",
+      "docImage": "counseling_sheet",
+      "docNeedConfirm": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Terima kasih. Mari kita lihat... Nona Rei Tatsumi, ya?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "Hei! Jangan panggil aku dengan nama itu! Panggil Tatsu-nee!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "M-Maaf! Tatsu-nee!"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Selain itu, tolong tanda tangani 'Formulir Persetujuan Perawatan' ini juga."
+    },
+    {
+      "character": "",
+      "expression": "shy",
+      "text": "......",
+      "docImage": "consent_sheet",
+      "docNeedConfirm": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Formulir persetujuan, ya. Tunggu sebentar, biar kubaca dulu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Oh, itu cuma formalitas kok, jadi cukup tanda tangan saja..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Diamlah. Kontrak itu harus dibaca dengan teliti.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "(Gawat... dia bos rentenir, jadi dia sangat ketat soal kontrak...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "'Area dada (payudara dan bagian puting)'...... 'Stimulasi mengelus ringan dan menjentik puting'...?",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "Hei.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "Y-Ya!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Ini bukan sekadar pijat, kan.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "T-Tidak! Ini semua adalah prosedur perawatan yang diperlukan secara medis..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Hmph. Yah, aku pernah dengar soal pijat payudara sebelumnya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "'Area klitoris dan lubang vagina'......",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "............",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Hei.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "Y-Ya!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "'Aktifkan kulit dan saraf di sekitar klitoris'... 'Stimulasi getaran halus dan hisapan'?",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Kamu sedang mempermainkanku?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "T-Tidak! Untuk melancarkan aliran limfa di sekitar panggul, stimulasi area selangkangan itu..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Berikutnya. 'Di dalam vagina (selama perawatan khusus)'... 'Tipe dildo, tipe vibrator, dan lain-lain'...",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "'Stimulasi ketukan dan gesekan di sekitar serviks'...",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Kamu cari mati, ya?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "M-Maaf! Tapi ini teknik medis untuk melemaskan otot dalam..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Lalu, 'obat perangsang' dan 'obat tidur'?",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Itu sudah kriminal namanya. Kubunuh kau.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "T-Tidak, bukan begitu! Ini untuk meningkatkan efek relaksasi..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Dan 'Sesi rekaman melalui video, foto, dan audio'... 'Untuk digunakan sebagai materi promosi'...",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Yang benar saja. Ini cuma bikin film porno.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "T-Tidak! Wajah akan disensor sepenuhnya, dan informasi pribadi akan..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "............",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Hei, kamu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "Y-Ya..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Memangnya ada orang yang mau tanda tangan ginian?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "Y-Ya ada! Begitu mereka merasakan hasilnya, semua orang pasti yakin!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Yang benar saja. Aku tidak akan tanda tangan dokumen sampah ini.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "Hah...!? T-Tapi tanpa formulir persetujuan ini, aku tidak bisa melakukan perawatannya..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Tunggu sebentar.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "......",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Nih. Sudah kutulis ulang.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "Hah...?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "'Praktisi ({{playerName}}) akan menanggung tanggung jawab penuh atas semua prosedur perawatan yang dijelaskan dalam formulir persetujuan ini.'",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "'Jika terjadi kerugian fisik atau psikologis pada klien, praktisi akan menanggung semua kewajiban termasuk ganti rugi.'",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "'Lebih lanjut, jika terjadi perekaman atau pengungkapan tanpa persetujuan klien, klien setuju untuk menempuh jalur hukum termasuk tuntutan pidana.'",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "T-Tunggu sebentar! Itu kan..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Kamu tanda tangani ini.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "A-Apaaa!?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Atau kamu lebih pilih batal perawatannya? Kalau begitu, kesepakatan penundaan bunganya juga batal.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Ugh... situasinya benar-benar berbalik...)"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "O-Oke... Aku akan tanda tangan..."
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "......",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Bagus. Kontrak sudah ditetapkan.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Santai saja. Selama kau bekerja dengan benar, aku tidak akan melakukan apa-apa.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Sudah kuduga dari bos rentenir... dia benar-benar menulis ulang kontraknya...)"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "(Tulis namamu di kolom praktisi.)",
+      "nameInput": true
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "......"
+    },
+    {
+      "id": "choice_massage",
+      "character": "player",
+      "expression": "normal",
+      "text": "Melihat lembar konseling ini... sepertinya kaku di bagian bahu adalah masalah utamamu.",
+      "choices": [
+        {
+          "label": "Aku akan memberimu perawatan yang profesional dan menyeluruh.",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "professional_path"
+        },
+        {
+          "label": "Menopang payudara sebesar itu pasti berat, ya.",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "breast_path"
+        },
+        {
+          "label": "Boleh aku sentuh sedikit?",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "honored_path"
+        }
+      ]
+    },
+    {
+      "id": "professional_path",
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Yah, kau kan ahlinya, kan? Lakukan dengan benar.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Tentu, serahkan saja padaku.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "breast_path",
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "...Hah? Dari mana kau tahu itu?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "Y-Yah... secara umum, orang dengan... postur tubuh seperti itu cenderung mengalami kaku bahu..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Hmph. Yah, mungkin ada benarnya juga.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Kalau begitu, biarkan aku merawatmu dengan baik.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "honored_path",
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "Hah!? Apa-apaan yang kau katakan itu?",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Kalau sampai aku tahu kau berpikiran aneh-aneh, kupatahkan jari-jarimu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "M-Maaf! Aku akan melakukan perawatan dengan benar!",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal",
+      "text": "Nah, bisakah kau berganti pakaian ke pakaian perawatan khusus ini?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Ganti baju?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Ya. Ini pakaian khusus yang dirancang untuk meningkatkan efek relaksasi."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Yah, kurasa memang begitu. Baiklah.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "...Hah!? Kain apa-apaan ini!?",
+      "cutInImage": "tatsu_changing",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Ini pakaian untuk perawatannya.",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Jangan main-main denganku! Mana mungkin aku bisa pakai baju seperti ini!",
+      "cutInImage": "tatsu_changing",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Aku butuh kontak kulit langsung untuk perawatannya. Ini pilihan yang paling efektif.",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Cih. Yah, ini kan demi perawatan, jadi...",
+      "cutInImage": "tatsu_changing",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "(...Kalau ini benar-benar bisa menyembuhkan kaku bahuku, ya sudahlah...)",
+      "cutInImage": "tatsu_changing",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Hei, aku sudah ganti baju. Jangan berani-berani lihat ke tempat yang aneh-aneh ya!",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Ya ampun... bodinya bagus sekali...!)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Kelihatannya pas sekali di tubuhmu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Diamlah. Cepat mulai saja!",
+      "outfit": "bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Kalau begitu, mari kita mulai perawatannya."
+    }
+  ]
+}

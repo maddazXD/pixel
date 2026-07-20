@@ -1,0 +1,241 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──几个月后。\n债务的还款期限早已过了。"
+    },
+    {
+      "character": "player",
+      "text": "（这个月又是赤字。已经看不到还清的希望了。龙姐最后一次来是……什么时候来着。自从还款开始拖欠之后，她就再也没来过了。）"
+    },
+    {
+      "character": "player",
+      "text": "（……嗯，也是理所当然的。没有理由每周都去一个还不了钱的人那里。那12周就像一场梦一样。）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "欢迎光……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "…………。",
+      "outfit": "suit"
+    },
+    {
+      "character": "阿安",
+      "hideCharacter": true,
+      "text": "……打扰了。"
+    },
+    {
+      "character": "player",
+      "text": "（龙姐和……两个手下。是来催债的。我就知道，总有一天会变成这样。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……龙姐。那个，关于还款的事……能不能再给我一点时间……"
+    },
+    {
+      "character": "player",
+      "text": "（……她不跟我对视。那12周里，做治疗的时候她一直看着我的。）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……阿安。文件。",
+      "outfit": "suit"
+    },
+    {
+      "character": "阿安",
+      "hideCharacter": true,
+      "text": "……是。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "阿安递出的文件上，冷冰冰地写着拖欠金额和利息的合计数目。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……这……这么多……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "按合同来的。确认一下。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（……声音好冷。和治疗时不自觉说出'真有效果……'的声音完全不同，和害羞时嘴硬说'吵死了'的声音也完全不同。已经是陌生人的声音了。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……龙姐，我……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "别叫我龙姐。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…………。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "今天只是来催债的。你和我，是债务人和债权人。仅此而已的关系吧。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（'仅此而已的关系'……那12周……那些治疗……全部都当没有发生过吗。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……还款的计划……能不能再给我一点时间……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "已经等了半年了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "…………。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "……本来还挺期待的。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……诶……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……不，没什么。……整骨院查封。器械设备和这间店铺抵偿部分欠款。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（……刚才，就那么一瞬间……好像看到了那时候的龙姐的表情。但是，马上又变回了社长的面孔。）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "剩下的……在我那里打工还。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……我明白了。"
+    },
+    {
+      "character": "player",
+      "text": "（已经没有抵抗的气力了，也没有抵抗的权利。还不了钱是我的错。这一点我明白。但是……以这种方式和龙姐结束，比想象中要痛苦得多。）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "阿安。带走。",
+      "outfit": "suit"
+    },
+    {
+      "character": "阿安",
+      "hideCharacter": true,
+      "text": "……是。走吧，跟我来。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……龙姐。最后说一件事。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "…………。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……12周来，谢谢您了。能为您做治疗，我很开心。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "…………。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "…………。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……快走。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "龙姐自始至终，都没有看向这边。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──之后"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "整骨院原来的位置，已经换了别的店铺。"
+    },
+    {
+      "character": "player",
+      "text": "（从早到晚在仓库做分拣工作。单纯的体力劳动，日复一日。但是，偶尔指尖会突然想起来。那肩胛骨的僵硬感、腰部的曲线、稍微一碰就会颤抖的反应什么的。）"
+    },
+    {
+      "character": "player",
+      "text": "（明明全都记得，却再也碰不到了。那个人大概已经不把我当整骨师看了吧。）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "龙姐再也没有来过按肩膀。一次都没有。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "借贷需谨慎。",
+      "triggerEnding": "bad"
+    }
+  ]
+}

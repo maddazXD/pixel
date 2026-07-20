@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia bilang dia ingin stimulasi yang lebih kuat... Dia sendiri yang memintanya.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Memikirkan perawatannya saja sudah membuat tubuhnya memanas... Itu benar-benar respons yang terkondisi.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia sendiri yang bilang — 'Rasanya seperti aku sedang dilatih'... Jadi dia sadar akan hal itu.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('Ini pertama kalinya aku merasa begitu bergantung pada seseorang'...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Seorang bos rentenir, bergantung padaku. Dalam cara yang benar-benar berbeda dari dinamika kekuasaan utang.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tersisa 3 minggu lagi. Ada pelunasan utang, tapi... aku penasaran ke mana arah hubungan ini nantinya.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, apa yang harus kulakukan minggu ini...)"
+    }
+  ]
+}

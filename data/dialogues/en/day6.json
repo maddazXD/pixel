@@ -1,0 +1,277 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Pagi di minggu ke-6. Pelanggan baru mulai berdatangan, dan bisnis perlahan mulai berjalan lancar. Hubunganku dengan Nana juga beranjak ke tahap yang baru..."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(6 minggu... terasa lama tapi juga singkat. Nana benar-benar sudah jadi pelanggan tetap sekarang.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dan tubuh serta pikirannya benar-benar mulai berubah. Mungkin hari ini aku bisa melangkah lebih jauh...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Selamat pagi!",
+      "voiceFile": "story_day6_001"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Um... ini sudah yang ke-6 kalinya, kan? Benar-benar sudah jadi kebiasaan sekarang.",
+      "voiceFile": "story_day6_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "Benar. Berkat kamu, toko ini jadi ramai."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "Ah, tidak juga... tapi teman-temanku sepertinya puas, jadi aku ikut senang.",
+      "voiceFile": "story_day6_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Tapi... semua orang kaget melihat pakaian itu...",
+      "voiceFile": "story_day6_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Hahaha, tapi pada akhirnya semua orang menerimanya juga, kan?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Iya. Begitu mereka tahu itu efektif, semua orang langsung setuju.",
+      "voiceFile": "story_day6_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "Ngomong-ngomong, bagaimana perasaanmu hari ini?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Sebenarnya... akhir-akhir ini aku sering mimpi buruk...",
+      "voiceFile": "story_day6_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Aku terus bermimpi aneh. Mimpi yang membuat tubuhku terasa panas... mimpi yang memalukan...",
+      "voiceFile": "story_day6_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Oh... bisa ceritakan lebih detail mimpi seperti apa itu?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "A-aku tidak bisa mengatakannya...! Tapi saat bangun pagi, aku merasa sangat lelah...",
+      "voiceFile": "story_day6_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Dan... pakaian dalamku... um... terkadang basah...",
+      "voiceFile": "story_day6_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Oh... akhirnya kita sampai di titik ini. Tubuhnya benar-benar mulai terbangun...)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Itu tandanya tubuhmu sedang matang. Hasrat yang terpendam mulai muncul di dalam mimpimu."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Hasrat... maksudmu?",
+      "voiceFile": "story_day6_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ya. Setiap orang punya hasrat yang ingin dipenuhi. Kalau terus diabaikan, tubuhmu akan tersiksa."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Lalu... apa yang harus kulakukan...?",
+      "voiceFile": "story_day6_011"
+    },
+    {
+      "id": "choice_massage6",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Mari kita coba perawatan spesial hari ini.",
+      "choices": [
+        {
+          "label": "Perawatan fokus relaksasi",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "relax_path"
+        },
+        {
+          "label": "Perawatan menargetkan psikologi mendalam",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "psychology_path"
+        },
+        {
+          "label": "Perawatan menstimulasi zona sensitif seksual",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "erogenous_path"
+        }
+      ]
+    },
+    {
+      "id": "relax_path",
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "Relaksasi... kedengarannya aman.",
+      "voiceFile": "story_day6_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Dengan merilekskan tubuh dan pikiranmu, hasratmu seharusnya bisa mereda secara alami.",
+      "next": "special_treatment"
+    },
+    {
+      "id": "psychology_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Psikologi mendalam... terdengar rumit.",
+      "voiceFile": "story_day6_013"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Tubuh dan pikiran itu saling terhubung. Dengan melepaskan hasrat yang terpendam jauh di dalam hatimu, tubuhmu juga akan merasa lebih baik."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Melepaskan hasrat... itu membuat jantungku berdebar...",
+      "next": "special_treatment",
+      "voiceFile": "story_day6_014"
+    },
+    {
+      "id": "erogenous_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Z-zona erotis!?",
+      "voiceFile": "story_day6_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Jangan terkejut. Ini juga merupakan pendekatan medis yang tepat. Stimulasi yang sesuai pada zona erotis memiliki efek menyeimbangkan hormon."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "T-tapi... itu terlalu memalukan...!",
+      "voiceFile": "story_day6_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Tidak apa-apa. Kamu bisa menerimanya. Dengan semua perawatan sejauh ini, tubuhmu sudah sepenuhnya siap."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "T-terpenuhi... kau mengatakannya seolah-olah tubuhku menginginkan hal semacam itu...",
+      "voiceFile": "story_day6_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Kenyataannya memang menginginkannya. Tubuhmu jujur."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "T-tidak mungkin...",
+      "voiceFile": "story_day6_018",
+      "next": "special_treatment"
+    },
+    {
+      "id": "special_treatment",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Kalau begitu, bisakah kau berganti pakaian seperti biasa?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(Memijat area sensitif masih terasa memalukan... tapi...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day6_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(...ada bagian dari diriku yang juga menantikannya... apakah itu aneh...?)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day6_020"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Aku sudah ganti baju...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day6_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Sempurna... dengan semua perawatan sejauh ini, tubuh Nana telah menjadi sangat sensual...)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Nah sekarang, berbaringlah di tempat tidur."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-iya...",
+      "voiceFile": "story_day6_022"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Baiklah kalau begitu, mari kita mulai."
+    }
+  ]
+}

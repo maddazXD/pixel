@@ -1,0 +1,51 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(第3周了...时间过得真快...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(奈奈酱最近放松多了)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(她是不是已经开始信任我了...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(说实话，我...开始期待奈奈酱的到来了...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(不不不，这样不行！不能忘记客人和治疗师的关系！)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(但是...还款期限不等人...)",
+      "cutInImage": "debt_paper"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(照这样下去，可能赶不上...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(新客人不来，也没钱打广告...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(这周也只能尽力了...)"
+    }
+  ]
+}

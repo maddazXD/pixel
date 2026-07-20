@@ -1,0 +1,107 @@
+{
+  "title": "50%债务偿还达成",
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...呼。终于还清了一半债务。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "辰姐",
+      "text": "喂！你还活着吗？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "龙、龙姐！？你怎么来了...？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "什么怎么来了？当然是来确认你的情况啊。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "听说你还清了一半债务？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "是、是的！我每天都在努力工作！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "我以为你肯定会逃跑，结果还挺努力的嘛。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "没想到你这么瘦弱的小子能做到这一步。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "不过还只是一半对吧？剩下的也要好好还。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "嗯...既然还了一半...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "给点奖励也不是不行。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "奖励...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "那我来给龙姐按摩吧？您最近应该很累吧。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "哈？我被按摩？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "是的。这就是奖励。...怎么样？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "...嗯，最近肩膀确实有点僵硬...那就这样吧...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "给龙姐按摩",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}

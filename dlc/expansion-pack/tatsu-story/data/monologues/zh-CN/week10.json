@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐走了之后……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（记住了我的味道，光是回想起来就……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（刚走进房间的瞬间，身体就已经有了反应。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（一天要换好几次内衣……真的很严重啊。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（她笑着说自己'像发情的母兽一样'。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……是我把她变成这样的。确实感到了责任。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（还剩2周……很多事情都要了结了。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那么，这周该怎么过……）"
+    }
+  ]
+}

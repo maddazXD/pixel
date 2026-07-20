@@ -1,0 +1,352 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "——第六周的早晨。\n新客人也开始稳定下来，经营逐渐走上了正轨。而与龙姐的关系也进入了新的阶段……"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（六周了……说长也长，说短也短。和龙姐的关系也变了很多。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（按这个趋势，今天也许可以尝试更深入的治疗了……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "哟，今天也来了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "龙姐！已经第六周了呢。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "smile",
+      "text": "嗯。你的治疗，还不错。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "谢谢您！而且多亏了您，客人也多起来了。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "手下们也很满意的样子。说'姐姐介绍的，真的很好'。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "那太好了！",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "对了，您今天状态怎么样？",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……其实，最近老是睡不好。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "睡不好？是压力吗？",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "不……倒不是压力。就是老做奇怪的梦。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "奇怪的梦？什么样的梦啊？",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……我怎么可能告诉你。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（啊，这是……那方面的梦吧。身体在发出欲求不满的信号。）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "反正，早上醒来总觉得莫名疲惫。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "原来如此……这可能是身体在渴求什么的信号。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "渴求？渴求什么？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "被压抑的欲望有时会以梦的形式出现。今天让我试试更深入的治疗吧。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "更深入……是什么意思？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "choice_massage6",
+      "character": "player",
+      "expression": "normal",
+      "text": "今天来试试特别的治疗吧。",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "刺激深层淋巴",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "lymph_path"
+        },
+        {
+          "label": "重点按摩敏感部位",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "sensitive_path"
+        },
+        {
+          "label": "对敏感带进行医学性的按摩",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "erogenous_path"
+        }
+      ]
+    },
+    {
+      "id": "lymph_path",
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "淋巴啊。嗯，这个我理解。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "通过刺激深层组织，帮您缓解全身的紧张。",
+      "hideCharacter": true,
+      "next": "change_clothes"
+    },
+    {
+      "id": "sensitive_path",
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "敏感部位？……指的是哪里？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "神经集中的部位。刺激那里的话，整个身体都会放松下来。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……只要你不搞什么奇怪的就行。",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "change_clothes"
+    },
+    {
+      "id": "erogenous_path",
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "啊！？敏感带！？你在开什么玩笑！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "这是医学上有效的方法。对敏感带进行适当刺激，有调节荷尔蒙平衡的效果。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "你……是认真的？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "是的。根据龙姐您说的那些梦，身体有很大可能在渴求这些。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……哼。别擅自分析我。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "alert",
+      "text": "……真的是正规的治疗吧？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "当、当然了！敏感带是神经集中的部位，刺激那里可以促进荷尔蒙分泌、调整自律神经平衡、改善血液循环……",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "行了行了。啰里啰嗦的。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……好吧，交给你了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（咦……？明明生气了却没拒绝……这是有戏吗……？）",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……说实话，自从接受你的治疗后，身体状况确实变好了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……要是搞什么奇怪的，到时候你就等着瞧吧？",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal",
+      "text": "是、是的！……那么，请换上平时的治疗服。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "嗯。都第六次了，已经习惯了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "龙姐开始换衣服",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "（……深入的治疗，到底打算做什么……）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "（……算了，到目前为止他也没做过什么奇怪的事……）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "（……难道我在期待什么吗？）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "（……不，怎么可能。只是治疗而已，治疗。）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "换好了。",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（到了第六周，已经渐渐习惯这身打扮了……但是，身材还是太惊人了……）",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "那么，请躺到床上。",
+      "hideCharacter": true
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……嗯。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "那么，开始治疗。"
+    }
+  ]
+}

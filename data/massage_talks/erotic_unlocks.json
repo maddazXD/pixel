@@ -1,0 +1,252 @@
+{
+  "weeks": {
+    "week1": {
+      "develop_1": {
+        "minLevel": 1,
+        "topics": [
+          {
+            "topicId": "talk_sensitive",
+            "priority": 4,
+            "oneTimeOnly": false
+          }
+        ]
+      },
+      "develop_3": {
+        "minLevel": 3,
+        "topics": [
+          {
+            "topicId": "talk_bra_size_virgin",
+            "priority": 5,
+            "oneTimeOnly": false,
+            "requiredRoute": "virgin"
+          },
+          {
+            "topicId": "talk_bra_size_experienced",
+            "priority": 5,
+            "oneTimeOnly": false,
+            "requiredRoute": "experienced"
+          }
+        ]
+      }
+    },
+    "week2": {
+      "develop_2": {
+        "minLevel": 2,
+        "topics": [
+          {
+            "topicId": "talk_sports_bra",
+            "priority": 4,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week3": {
+      "develop_3": {
+        "minLevel": 3,
+        "topics": [
+          {
+            "topicId": "talk_underwear",
+            "priority": 4,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week4": {
+      "develop_3": {
+        "minLevel": 3,
+        "topics": [
+          {
+            "topicId": "talk_embarrassing_memory",
+            "priority": 3,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week5": {
+      "develop_4": {
+        "minLevel": 4,
+        "topics": [
+          {
+            "topicId": "talk_sensitive_spot",
+            "priority": 5,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_virgin_pure_body",
+            "priority": 5,
+            "oneTimeOnly": false,
+            "requiredRoute": "virgin"
+          },
+          {
+            "topicId": "talk_swimsuit",
+            "priority": 4,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_body_temperature",
+            "priority": 3,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week6": {
+      "develop_5": {
+        "minLevel": 5,
+        "topics": [
+          {
+            "topicId": "talk_secret_habit",
+            "priority": 4,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_butt_shape",
+            "priority": 3,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_male_experience",
+            "priority": 5,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week7": {
+      "develop_6": {
+        "minLevel": 6,
+        "topics": [
+          {
+            "topicId": "talk_erotic_study",
+            "priority": 8,
+            "oneTimeOnly": false,
+            "requiredEvents": [
+              "heard_talk_secret_habit"
+            ]
+          },
+          {
+            "topicId": "talk_health_exam_experience",
+            "priority": 7,
+            "oneTimeOnly": false,
+            "requiredRoute": "experienced"
+          },
+          {
+            "topicId": "talk_virgin_anxiety_curiosity",
+            "priority": 6,
+            "oneTimeOnly": false,
+            "requiredRoute": "virgin"
+          }
+        ]
+      }
+    },
+    "week8": {
+      "develop_7": {
+        "minLevel": 7,
+        "topics": [
+          {
+            "topicId": "talk_twitch_reaction",
+            "priority": 8,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_body_hair",
+            "priority": 6,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week9": {
+      "develop_8": {
+        "minLevel": 8,
+        "topics": [
+          {
+            "topicId": "talk_breathing_change",
+            "priority": 8,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_inner_thigh",
+            "priority": 7,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week10": {
+      "develop_9": {
+        "minLevel": 9,
+        "topics": [
+          {
+            "topicId": "talk_voice_suppression",
+            "priority": 9,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_nipple_change",
+            "priority": 8,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_developed_sensitive",
+            "priority": 8,
+            "oneTimeOnly": false,
+            "requiredRoute": "experienced"
+          }
+        ]
+      }
+    },
+    "week11": {
+      "develop_9": {
+        "minLevel": 9,
+        "topics": [
+          {
+            "topicId": "talk_anal",
+            "priority": 9,
+            "oneTimeOnly": false
+          }
+        ]
+      },
+      "develop_10": {
+        "minLevel": 10,
+        "topics": [
+          {
+            "topicId": "talk_masturbation",
+            "priority": 10,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_girl_smell",
+            "priority": 9,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week12": {
+      "develop_10": {
+        "minLevel": 10,
+        "topics": [
+          {
+            "topicId": "talk_clit_size",
+            "priority": 9,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_wet_easily",
+            "priority": 7,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_pussy_shape",
+            "priority": 10,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    }
+  }
+}

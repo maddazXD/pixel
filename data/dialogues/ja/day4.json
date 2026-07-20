@@ -1,0 +1,291 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──水曜日。4週目の朝。\nナナちゃんが通い始めて3週間が経過した。彼女の身体も心も、確実に変化してきている。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（毎週来てくれるようになった…。これはもう常連さんと言っていいだろう。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（だが、彼女一人では経営は成り立たない。どうにかして客を増やさないとな…）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "おはようございます！今日もお願いします。",
+      "voiceFile": "story_day4_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "おはよう、ナナちゃん。元気そうでよかった。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "はい！先週のマッサージ、本当に効果があって…腰の痛みもほとんどなくなりました。",
+      "voiceFile": "story_day4_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "それで…友達にもここのこと、話したんです。",
+      "voiceFile": "story_day4_003"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "え？本当に？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "はい。すごく気持ちいいって言ったら、みんな興味持ってくれて…。",
+      "voiceFile": "story_day4_004"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "でも…あのウェアのことは、ちょっと言えませんでしたけど…。",
+      "voiceFile": "story_day4_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "（新規顧客の可能性が…！これは大チャンスだ！）"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "それで、今日の調子はどう？どこか気になるところは？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "えっと…今日は…お腹のあたりが張ってて…。",
+      "voiceFile": "story_day4_006"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "最近、ストレスでお菓子ばかり食べちゃって…お腹もぽっこりしてきたような…。",
+      "voiceFile": "story_day4_007"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "お腹の張り…それなら今日は仰向けで施術してみようか。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "仰向け…ですか？今までと違う姿勢なんですね。",
+      "voiceFile": "story_day4_008"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "そう。仰向けだとお腹周りの筋肉をしっかりほぐせるし、内臓の調子を整えやすいんだ。"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "それに、身体の前面から波動を送ることで、自律神経のバランスも整えられる。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "前面から…って、なんだか恥ずかしいですね…。",
+      "voiceFile": "story_day4_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "でも、先生のことは信頼してますから…お任せします。",
+      "voiceFile": "story_day4_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ありがとう。きっと効果を実感してもらえるはずだよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "それと…最近、なんだか身体が火照るというか…。",
+      "voiceFile": "story_day4_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "夜も寝つきが悪くて…変な夢ばかり見ちゃうんです…。",
+      "voiceFile": "story_day4_012"
+    },
+    {
+      "id": "choice_massage4",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ふむ…それは自律神経が乱れてるサインかもしれないね。",
+      "choices": [
+        {
+          "label": "ストレスが原因かな",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "stress_path"
+        },
+        {
+          "label": "ホルモンバランスの乱れかも",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "hormone_path"
+        },
+        {
+          "label": "身体が何か求めてるのかもね",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "desire_path"
+        }
+      ]
+    },
+    {
+      "id": "stress_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "確かに…最近テストが多くて…。",
+      "voiceFile": "story_day4_013"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "ストレスは万病の元だからね。今日はリラックスできるようにしっかりケアしてあげるよ。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "hormone_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "ホ、ホルモンバランス…ですか…？",
+      "voiceFile": "story_day4_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "うん。若い女性は特に影響を受けやすいんだ。身体の変化に敏感になるのも自然なことだよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そ、そうなんですね…確かに最近、身体が変な感じで…。",
+      "next": "change_clothes",
+      "voiceFile": "story_day4_015"
+    },
+    {
+      "id": "desire_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "え？身体が何か求めてる…？",
+      "voiceFile": "story_day4_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "身体って正直だからね。足りないものがあると、ちゃんとサインを出すんだ。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "例えば…スキンシップとか、人の温もりとか…そういうのが足りないと、身体が火照ったりするんだよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "そ、そんな…！私、別にそういうのは…！",
+      "voiceFile": "story_day4_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "大丈夫、恥ずかしいことじゃないよ。人間の自然な欲求だから。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "じゃあ、着替えてもらおうか。今日はお腹周りも見るから、いつもより念入りにやるよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "は、はい…わかりました。",
+      "voiceFile": "story_day4_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "（もうこの服にも慣れてきたけど…今日はお腹も触られるのかな…）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day4_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "着替えました…。",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day4_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（相変わらず素晴らしい身体だ…。そして心なしか、以前より肌にツヤがある気がする…）"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "うん、準備OK。今日は新しいテクニックも試してみようと思うんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "新しいテクニック…ですか？",
+      "voiceFile": "story_day4_021"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "そう。内臓の調子を整える特別な手技があってね。ちょっと刺激が強いかもしれないけど…"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "だ、大丈夫です…。先生のことは信頼してますから…。",
+      "voiceFile": "story_day4_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（信頼…か。いい響きだ。）"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それじゃあ、始めようか。"
+    }
+  ]
+}

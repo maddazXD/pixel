@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(오늘 치료가 끝났어...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(5주차... 나나짱의 몸이 정말 많이 변했어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(\"선생님 치료 없이는 못 살아요\"라고 했을 때 정말 기뻤어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(치료 시작도 안 했는데 벌써 완전히 준비돼 있고...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(친구들도 소개하고 싶다고 했어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(내 기술을 진심으로 신뢰하는 게 틀림없어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그럼, 이번 주는 뭘 할까...)"
+    }
+  ]
+}

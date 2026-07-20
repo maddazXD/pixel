@@ -1,0 +1,712 @@
+{
+  "talks": {
+    "erotic_breast_size": {
+      "topicName": "胸の大きさ",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "……改めて見ると、本当に大きいですね" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……ジロジロ見んな。仕事だっつーのは分かってるけどよ" },
+        { "character": "player", "expression": "normal_01", "text": "サイズ、聞いてもいいですか？　施術の参考に" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……K" },
+        { "character": "player", "expression": "normal_01", "text": "K……！？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "なんだよ。文句あんのか" },
+        { "character": "player", "expression": "normal_01", "text": "いえ……肩や背中への負荷がかなりやばそうですね" },
+        { "character": "tatsu", "expression": "normal_02", "text": "まぁな。ブラジャーの選択肢もほぼねえしな。可愛いのは全滅、機能性重視の地味なやつしかない" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "肩は凝るし走ると揺れて痛ぇし、周りの視線はうぜえし。いいことなんか一個もねーよ" },
+        { "character": "player", "expression": "normal_01", "text": "確かに。胸周りの筋膜、かなり張ってますね。ほぐしますよ" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……っ。あんまりそのへん触んな……いや、施術なんだろうけど……" },
+        { "character": "player", "expression": "normal_01", "text": "力加減、大丈夫ですか？" },
+        { "character": "tatsu", "expression": "pleasure_01", "text": "……大丈夫。……ちょっと、気持ちいい" }
+      ]
+    },
+
+    "erotic_nipple": {
+      "topicName": "乳首の話",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "胸周りの施術で、乳首に触れることもありますけど、大丈夫ですか？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……は？　いきなり何言って……" },
+        { "character": "player", "expression": "normal_01", "text": "乳腺周りのリンパを流す時に、どうしても近くを通るんです" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……仕事なんだろ。好きにしろ" },
+        { "character": "player", "expression": "normal_01", "text": "このあたり……感覚、ありますか？" },
+        { "character": "tatsu", "expression": "pleasure_01", "text": "っ……あ、ある。あるに決まってんだろ……っ" },
+        { "character": "player", "expression": "normal_01", "text": "かなり敏感ですね。反応が大きい" },
+        { "character": "tatsu", "expression": "alert_02", "text": "う、うるせー……自分でもこんなの知らなかったんだよ……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "誰かに触られたこと、ねーんだから……" },
+        { "character": "player", "expression": "normal_01", "text": "自分でも触らない？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "触んねーよ！！　なんでそんなこと聞くんだよ！！" },
+        { "character": "player", "expression": "normal_01", "text": "すみません。でも施術の参考になるので" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……っ……もういい、勝手にしろ……ただ、急に触んのだけはやめろ……心臓止まる……" }
+      ]
+    },
+
+    "erotic_virgin_ask": {
+      "topicName": "経験の有無1",
+      "trustEffect": 0,
+      "developEffect": 1,
+      "alertnessEffect": 0,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "……性交渉の経験は？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "は？　なんでそんなこと答えねえといけねーんだよ" },
+        { "character": "player", "expression": "alert_02", "text": "施術の内容を調整するためです。変な意図はありませんよ" },
+        { "character": "tatsu", "expression": "normal_01", "text": "…………ある" },
+        { "character": "player", "expression": "normal_01", "text": "……ほんとですか？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "あるっつったらあるんだよ。何回も言わせんな" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……何だよその目。疑ってんのか" },
+        { "character": "player", "expression": "normal_01", "text": "いえ。では経験ありの前提で施術を進めますね" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……あ、ああ" },
+        { "character": "player", "expression": "normal_01", "text": "ちなみに何回くらい？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "回数まで聞くな！！　施術に関係ねーだろ！！" },
+        { "character": "player", "expression": "normal_01", "text": "すみません（反応を見る限り、経験なさそうだけどな…）" }
+      ]
+    },
+
+    "erotic_virgin_reveal": {
+      "topicName": "経験の有無2",
+      "trustEffect": 2,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "前に性交渉の経験があるっておっしゃってましたけど…" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……何だよ急に" },
+        { "character": "player", "expression": "normal_01", "text": "施術してて思ったんですけど、反応が……初めて触られる人の反応なんですよ。全部" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……何が言いてーんだ" },
+        { "character": "player", "expression": "normal_01", "text": "経験ないですよね？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "…………" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……はいはい。経験ねえよ。悪いかよ" },
+        { "character": "player", "expression": "normal_01", "text": "いや、むしろ良…なんでもありません。あくまで施術のために聞いただけですよ" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……26にもなって処女なんて恥ずかしいだろ。この業界にいると男なんか信用できねーんだよ" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "寄ってくる奴はみんな金か身体が目当てだ。……だから…。それだけだ" },
+        { "character": "player", "expression": "normal_01", "text": "……なるほど" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……笑ったら殺すからな" },
+        { "character": "player", "expression": "normal_01", "text": "笑いませんよ。教えてくれてありがとうございます" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……ふん" }
+      ]
+    },
+
+    "erotic_voice": {
+      "topicName": "声を我慢する",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "無理に声、我慢しなくていいですよ" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……我慢なんかしてねーよ" },
+        { "character": "player", "expression": "normal_01", "text": "唇、噛んでますけど" },
+        { "character": "tatsu", "expression": "alert_02", "text": "っ……噛んでねーし" },
+        { "character": "player", "expression": "normal_01", "text": "声を出した方が身体の力が抜けるんです。我慢すると逆に筋肉が硬くなる" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……そういう問題じゃねーんだよ" },
+        { "character": "player", "expression": "normal_01", "text": "ここには僕とタツ姐さんしかいませんよ" },
+        { "character": "tatsu", "expression": "pleasure_sleepy_01", "text": "……っ……分かったよ。ちょっとだけ……力、抜く……" },
+        { "character": "tatsu", "expression": "pleasure_01", "text": "……ん……っ" },
+        { "character": "player", "expression": "normal_01", "text": "……はい、いい感じですよ" }
+      ]
+    },
+
+    "erotic_underwear": {
+      "topicName": "下着の話",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "施術の時、ワイヤー入りのブラだと跡がつきやすいので、ノンワイヤーがおすすめです" },
+        { "character": "tatsu", "expression": "normal_02", "text": "このサイズでノンワイヤー？　支えきれねーよ" },
+        { "character": "player", "expression": "normal_01", "text": "でも、ブラの跡、結構くっきり残ってるんですよ" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……そんなとこまで見てんのかよ……" },
+        { "character": "player", "expression": "normal_01", "text": "跡が残るのは締め付けが強い証拠です。血流にも良くない" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……分かったよ。……つーかさ、Kカップで可愛い下着ってマジでねーんだよ。でかいおばさんブラしかない" },
+        { "character": "player", "expression": "normal_01", "text": "大変ですね……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "たまにはレースの可愛いのとか……いや、なんでもねー。忘れろ" },
+        { "character": "player", "expression": "normal_01", "text": "（可愛いブラを着けたタツ姐…見てみたいな）" }
+      ]
+    },
+
+    "erotic_wetness": {
+      "topicName": "身体の反応",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "……タツ姐さん、下の方が少し濡れてるみたいですけど" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……っ！？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "み、見んな！！" },
+        { "character": "player", "expression": "normal_01", "text": "身体の正常な反応ですよ。血行が良くなると自然とそうなります" },
+        { "character": "tatsu", "expression": "alert_02", "text": "正常とか……そういう問題じゃ……っ" },
+        { "character": "player", "expression": "normal_01", "text": "恥ずかしいことじゃないです。むしろ施術がちゃんと効いてる証拠です" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……最近、お前に触られると……すぐこうなるんだよ……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "前はこんなことなかったのに……身体が変になってきてる……" },
+        { "character": "player", "expression": "normal_01", "text": "感度が上がってきたんですね。悪いことじゃないですよ" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……悪いことじゃないって、お前は簡単に言うけどな……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……帰りの車ん中とかどうすんだよこれ……" }
+      ]
+    },
+
+    "erotic_butt": {
+      "topicName": "お尻への執着",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さんのお尻、施術するたびに思うんですけど、本当にすごいですね" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……何がだよ" },
+        { "character": "player", "expression": "normal_01", "text": "弾力が。押すとぷるんって戻ってくるんですよ。何回やっても楽しい" },
+        { "character": "tatsu", "expression": "alert_02", "text": "楽しいって何だよ……遊んでんのか？　施術しろよ" },
+        { "character": "player", "expression": "normal_01", "text": "してますよ。ただ揉み甲斐があるなって。……もう一回いいですか" },
+        { "character": "tatsu", "expression": "alert_01", "text": "何回揉む気だ！！　さっきからずっと尻ばっかじゃねーか！！" },
+        { "character": "player", "expression": "normal_01", "text": "大殿筋のコンディションが良いので、つい念入りに" },
+        { "character": "tatsu", "expression": "alert_01", "text": "嘘つけ！！　お前楽しんでるだけだろ！！　目ぇキラキラしてんじゃねーよ！！" },
+        { "character": "player", "expression": "normal_01", "text": "格闘技やってた人のお尻は筋肉の付き方が違うんですよ。学術的な興味です" },
+        { "character": "tatsu", "expression": "normal_02", "text": "学術的にケツ揉んでる整体師って何なんだよ……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……つーか、アタシの尻そんな揉み甲斐あんのかよ……聞いたことねーよそんな感想……" }
+      ]
+    },
+
+    "erotic_masturbation": {
+      "topicName": "自分で触ること",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "施術の効果を持続させるために、自宅でのセルフケアも大事なんですが" },
+        { "character": "tatsu", "expression": "normal_02", "text": "セルフケア？　ストレッチとかか？" },
+        { "character": "player", "expression": "normal_01", "text": "それもそうですけど……自分の身体に触れる習慣はありますか？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……どういう意味だよ、それ" },
+        { "character": "player", "expression": "normal_01", "text": "自分の身体の変化に気づくために、自分で触れてみるのも大事なんです" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……お前、遠回しにオナニーしてるか聞いてんのか" },
+        { "character": "player", "expression": "normal_01", "text": "…………" },
+        { "character": "tatsu", "expression": "alert_02", "text": "図星かよ……" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……してねーよ。そういうの、やり方もよく分かんねーし" },
+        { "character": "player", "expression": "normal_01", "text": "自分の身体を知ることは大切ですよ。どこが心地よくて、どこが敏感か" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……お前の施術のせいで最近、変に意識するようにはなった" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……風呂入ってる時とか、ふと……いや、何でもねー" },
+        { "character": "player", "expression": "normal_01", "text": "それで？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "それでじゃねーよ！！　お前に話す必要ねーだろ！！　……つーか何でアタシこんな話してんだ。お前のせいだからな全部" }
+      ]
+    },
+
+    "erotic_body_heat": {
+      "topicName": "体温の上昇",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さん、顔が赤いですけど大丈夫ですか？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……別に。暑いだけだ" },
+        { "character": "player", "expression": "normal_01", "text": "体温、結構上がってますね。肌も熱い" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……触って分かるのかよ" },
+        { "character": "player", "expression": "normal_01", "text": "血行が良くなってる証拠ですよ。特にここ……胸元から首にかけて" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……わざわざ言うな" },
+        { "character": "player", "expression": "normal_01", "text": "最初の頃はこんなに反応しなかったですよね" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……お前が変なとこばっか触るからだろ。変態か？" },
+        { "character": "player", "expression": "normal_01", "text": "血行改善の結果ですよ" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……血行改善で顔真っ赤になる施術って何なんだよ。アタシ何しに来てんだ" }
+      ]
+    },
+
+    "erotic_thigh": {
+      "topicName": "太ももの話",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "……いい太ももですね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……は？　いきなり何だ？" },
+        { "character": "player", "expression": "normal_01", "text": "程よく肉付きがあって、適度に筋肉もついてますね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……ジムにも行ってるし、格闘技やってたからな" },
+        { "character": "player", "expression": "normal_01", "text": "はい。施術してて触り甲斐があるというか。ずっと触っていたいですね" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……何言ってんだ？" },
+        { "character": "player", "expression": "normal_01", "text": "あ、でも内ももの方ちょっと濡れてますね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "っ……！　汗だよ！！" },
+        { "character": "player", "expression": "normal_01", "text": "汗にしてはちょっと……場所が場所ですし" },
+        { "character": "tatsu", "expression": "alert_01", "text": "汗だっつってんだろ！！" },
+        { "character": "player", "expression": "normal_01", "text": "はい。……汗ですね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……ニヤニヤすんな" }
+      ]
+    },
+
+    "erotic_armpit": {
+      "topicName": "脇の匂い",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "腕上げてもらえますか？　脇のリンパを……。くんくん" },
+        { "character": "tatsu", "expression": "alert_01", "text": "あ゛！？　嗅ぐなバカ！　死にてえのか？" },
+        { "character": "player", "expression": "normal_01", "text": "大丈夫です" },
+        { "character": "tatsu", "expression": "alert_01", "text": "いや何が大丈夫なんだよ……。汚ねえだろ、そんなところ" },
+        { "character": "player", "expression": "normal_01", "text": "甘くていい匂いがしますから。香水にしたいくらい" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……死ね。いや殺す" },
+        { "character": "player", "expression": "normal_01", "text": "ちょっと汗ばんでますね。……もう一回嗅いでもいいですか？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "いいわけねーだろ！？　何回嗅ぐ気だ変態！！" },
+        { "character": "player", "expression": "normal_01", "text": "施術に集中できなくなるくらいいい匂いなんですよ" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……マジできもい" }
+      ]
+    },
+
+    "erotic_nape": {
+      "topicName": "うなじの話",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "……あ、うなじにほくろありますね" },
+        { "character": "tatsu", "expression": "normal_02", "text": "は？　そうなのか？　自分じゃ見えないからな……" },
+        { "character": "player", "expression": "normal_01", "text": "小さいのが一個。……ここ" },
+        { "character": "tatsu", "expression": "alert_02", "text": "ひっ！！　何してんだテメェ！！" },
+        { "character": "player", "expression": "normal_01", "text": "触っただけですよ" },
+        { "character": "tatsu", "expression": "alert_01", "text": "いきなり触んな！！　心臓止まるかと思った！！" },
+        { "character": "player", "expression": "normal_01", "text": "うなじも敏感なんですね。覚えておきます" },
+        { "character": "tatsu", "expression": "alert_02", "text": "覚えるな。忘れろ" }
+      ]
+    },
+
+    "erotic_twitch": {
+      "topicName": "ビクビクする身体",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さん、今日すごくビクビクしてますね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……してねーよ" },
+        { "character": "player", "expression": "normal_01", "text": "ここ触ると……" },
+        { "character": "tatsu", "expression": "pleasure_01", "text": "あっ……！" },
+        { "character": "player", "expression": "normal_01", "text": "ほら" },
+        { "character": "tatsu", "expression": "alert_01", "text": "ほらじゃねーよ！！　わざとやるな！！" },
+        { "character": "player", "expression": "normal_01", "text": "最初の頃は全然反応なかったのに、最近はどこ触っても跳ねますね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……自分でも分かってんだよ。触られるだけで身体が勝手に……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "制御できねーんだ。身体が言うこと聞かねえ…" },
+        { "character": "player", "expression": "normal_01", "text": "感度が上がってきた証拠です。身体が正直になってる" },
+        { "character": "tatsu", "expression": "alert_02", "text": "正直になりすぎだろ……こんなにすぐビクビクしてたら示しがつかねえよ……" }
+      ]
+    },
+
+    "erotic_nipple_change": {
+      "topicName": "乳首の変化",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さん、施術始める前から乳首立ってますね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……っ！！　見んな！！" },
+        { "character": "player", "expression": "normal_01", "text": "以前は施術中に触れてやっと反応してたのに、今はもう……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "うるせぇ……ここに来る前から、なんか……勝手にこうなってんだよ" },
+        { "character": "player", "expression": "normal_01", "text": "来る前から？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "車で向かってる途中から……もうこうなってた。服の上からでも分かるから最悪だ" },
+        { "character": "player", "expression": "normal_01", "text": "身体が施術を覚えてるんですね。予測して準備を始めてる" },
+        { "character": "tatsu", "expression": "alert_01", "text": "何の準備だよ……" },
+        { "character": "player", "expression": "normal_01", "text": "色も少し変わりましたね。前より……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "何で毎回そんな細かく観察してんだ！　乳首鑑定士にでもなるつもりか？" }
+      ]
+    },
+
+    "erotic_breast_bounce": {
+      "topicName": "胸の揺れ",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "施術で体勢変える時、かなり揺れますね" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……まぁ、この大きさだからな。ちょっと動くだけでも揺れるんだよ" },
+        { "character": "player", "expression": "normal_01", "text": "…すごい動きですね。地球の重力を感じます" },
+        { "character": "tatsu", "expression": "normal_02", "text": "自分でも邪魔だと思ってるよ。走ったら痛ぇし" },
+        { "character": "player", "expression": "normal_01", "text": "あ、今の動き、すごかったですね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……いちいち実況すんなバカ" },
+        { "character": "player", "expression": "normal_01", "text": "すみません。ただ、揺れるたびに胸の筋膜に負荷がかかるので、施術で緩める必要があるんです" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……もっともらしいこと言ってるけど、お前絶対ただ見たいだけだろ" },
+        { "character": "player", "expression": "normal_01", "text": "（ばれたか……）" }
+      ]
+    },
+
+    "erotic_breathing": {
+      "topicName": "息遣いの変化",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "呼吸、だいぶ荒くなってますよ" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……うるせぇ……自分でも分かってる……" },
+        { "character": "player", "expression": "normal_01", "text": "無理に抑えなくていいですよ。自然に呼吸してください" },
+        { "character": "tatsu", "expression": "pleasure_01", "text": "自然にしたら……はぁっ……もっとやべーことになるんだよ……" },
+        { "character": "player", "expression": "normal_01", "text": "いいんですよ。ここは施術室です" },
+        { "character": "tatsu", "expression": "pleasure_02", "text": "……はぁ……っ……ん……っ" },
+        { "character": "player", "expression": "normal_01", "text": "……はい、力抜けましたね。いい感じです" },
+        { "character": "tatsu", "expression": "alert_02", "text": "いい感じって……アタシ今すげぇ恥ずかしい息してたぞ……" },
+        { "character": "player", "expression": "normal_01", "text": "恥ずかしくないですよ。身体が楽になってる証拠です" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……お前が触ると息の仕方おかしくなるんだよ。普通に呼吸してるつもりなのに勝手にこうなる。なんなんだこれ" }
+      ]
+    },
+
+    "erotic_voice_leak": {
+      "topicName": "声が漏れる",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "pleasure_02", "text": "……ん……っ……あ……" },
+        { "character": "player", "expression": "normal_01", "text": "最近、声を我慢しなくなりましたね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "っ！！　してる！！　我慢してる！！" },
+        { "character": "player", "expression": "normal_01", "text": "してないですよ。さっきからずっと漏れてます" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……嘘だろ……自分じゃ気づいてなかった……" },
+        { "character": "player", "expression": "normal_01", "text": "以前は唇噛んで必死に堪えてたのに。身体が素直になりましたね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "素直って……勝手に出てんだよ……止め方が分かんねーんだよ……" },
+        { "character": "player", "expression": "normal_01", "text": "止めなくていいですよ" },
+        { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "……っ……あ……やだ……聞くな……" },
+        { "character": "player", "expression": "normal_01", "text": "聞いてます。録音したいくらい" },
+        { "character": "tatsu", "expression": "climax_01", "text": "したら歯ァ全部へし折るからな！？　冗談じゃなくマジで！！" }
+      ]
+    },
+
+    "erotic_strange_voice": {
+      "topicName": "変な声",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "pleasure_03", "text": "……ん……っ……あっ♡" },
+        { "character": "tatsu", "expression": "alert_02", "text": "…………" },
+        { "character": "player", "expression": "normal_01", "text": "…………" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……今の、聞いたか" },
+        { "character": "player", "expression": "normal_01", "text": "……はい" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……聞かなかったことにしろ" },
+        { "character": "player", "expression": "normal_01", "text": "可愛かったですよ" },
+        { "character": "tatsu", "expression": "alert_01", "text": "可愛いとかそういう問題じゃねーんだよ！！　闇金の社長が施術中にあんな声出したら……！！" },
+        { "character": "player", "expression": "normal_01", "text": "僕しか聞いてないですよ" },
+        { "character": "tatsu", "expression": "alert_02", "text": "お前に聞かれてんのが一番やべーんだよ……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……もう帰る。今日は帰る" }
+      ]
+    },
+
+    "erotic_body_hair": {
+      "topicName": "体毛の話",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さん、肌すごくきれいですね。ムダ毛も全然ない" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……ジムでトレーニングしたり、プール行ったりしてるからな。処理はしてる" },
+        { "character": "player", "expression": "normal_01", "text": "なるほど。施術する側としてはありがたいです" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……つーか、もともとあんまり生えないんだよ。体質っつーか" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……って何言わせんだバカ" },
+        { "character": "player", "expression": "normal_01", "text": "聞いてません。自分から言いましたよね" },
+        { "character": "tatsu", "expression": "alert_01", "text": "お前が肌きれいとか言うからだろ！！　話の流れ的に！！" },
+        { "character": "player", "expression": "normal_01", "text": "褒めただけなのに……" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……ふん。褒めてもなんも出ねーぞ" }
+      ]
+    },
+
+    "erotic_underwear_change": {
+      "topicName": "下着を変えた話",
+      "trustEffect": 1,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "normal_01", "text": "……なあ" },
+        { "character": "player", "expression": "normal_01", "text": "はい？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……前に、ノンワイヤーがいいって言ってたろ。施術の日は" },
+        { "character": "player", "expression": "normal_01", "text": "はい。ブラの跡が残りにくいので" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……買った。Kカップのノンワイヤー。……ネットで3時間探した" },
+        { "character": "player", "expression": "normal_01", "text": "わざわざ探してくれたんですか？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……ちょっとだけレースのやつにした。……たまたま目に入っただけだ" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "何ニヤニヤしてんだよ！！　施術に支障が出るって言ったのお前だろ！！" },
+        { "character": "player", "expression": "normal_01", "text": "ニヤニヤしてません。嬉しいなと思っただけです" },
+        { "character": "tatsu", "expression": "alert_02", "text": "嬉しいって何が……もういい。この話終わり。二度としねーから" }
+      ]
+    },
+
+    "erotic_wetness_worse": {
+      "topicName": "毎回ひどくなる",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "alert_02", "text": "……なあ。ひとつ聞いていいか" },
+        { "character": "player", "expression": "normal_01", "text": "はい" },
+        { "character": "tatsu", "expression": "alert_02", "text": "他の客も……施術中に、こうなんのか？" },
+        { "character": "player", "expression": "normal_01", "text": "こう、とは？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "言わせんなよ！！　……下が、だよ。……こうなるのが、アタシだけなのか聞いてんだ" },
+        { "character": "player", "expression": "normal_01", "text": "……タツ姐さんが一番反応は大きいですね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……やっぱり……。最初はちょっと湿るくらいだったのに、毎週ひどくなってる気がする" },
+        { "character": "player", "expression": "normal_01", "text": "気のせいじゃないと思います。身体が施術に慣れて感度が上がってきてるので" },
+        { "character": "tatsu", "expression": "alert_02", "text": "慣れたら収まるんじゃなくて、もっとなるのかよ……" },
+        { "character": "player", "expression": "normal_01", "text": "来週はもっとすごいかもしれないですね" },
+        { "character": "tatsu", "expression": "alert_01", "text": "嬉しそうに言うんじゃねーよ！！　アタシの身にもなれよ！！" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……今日から施術前にナプキン持ってくるわ。……笑ったら蹴るからな" }
+      ]
+    },
+
+    "erotic_clit": {
+      "topicName": "クリトリスの反応",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さん、触ってないのにクリトリスがぴくぴく動いてますよ" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……は！？　いきなり何言って……！！" },
+        { "character": "player", "expression": "normal_01", "text": "かなり充血して膨らんでますね。皮からはみ出してきてる" },
+        { "character": "tatsu", "expression": "climax_01", "text": "実況すんな！！　死ね！！　殺す！！" },
+        { "character": "player", "expression": "normal_01", "text": "でもすごいですね。近くの施術だけでこんなに反応するなんて" },
+        { "character": "tatsu", "expression": "alert_02", "text": "すごいとかそういう感想いらねーんだよ……っ" },
+        { "character": "player", "expression": "normal_01", "text": "自分で触ったりしたことは？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……っ……ね、ねーよ……" },
+        { "character": "player", "expression": "normal_01", "text": "この感度だと、ちょっと触っただけですぐイけそうですね" },
+        { "character": "tatsu", "expression": "climax_01", "text": "イけそうとか言うな！！！！！！　お前もう整体師じゃねーだろ！！　ただの変態だろ！！！！" },
+        { "character": "player", "expression": "normal_01", "text": "施術の所見です" },
+        { "character": "tatsu", "expression": "alert_02", "text": "所見で「イけそう」って書く奴がいるかよ……殺すぞ……" }
+      ]
+    },
+
+    "erotic_shape": {
+      "topicName": "おまんこの形",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さん、おまんこきれいですね" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……………………は？" },
+        { "character": "player", "expression": "normal_01", "text": "いや、施術中にどうしても見えるので。形が整ってるなと" },
+        { "character": "tatsu", "expression": "alert_01", "text": "おまんこきれいですね、って初対面の奴に言われたら警察呼ぶぞ普通" },
+        { "character": "player", "expression": "normal_01", "text": "初対面じゃないですし。もう何ヶ月も施術してますから" },
+        { "character": "tatsu", "expression": "climax_01", "text": "何ヶ月施術してたらおまんこきれいって言っていいんだよ！！　頭おかしいだろ！！" },
+        { "character": "player", "expression": "normal_01", "text": "すみません。でもほんとにきれいなんですよ。色もピンクで" },
+        { "character": "tatsu", "expression": "climax_01", "text": "色の話までしてんじゃねーよ！！！！" },
+        { "character": "player", "expression": "normal_01", "text": "誰にも見せたことないんですよね？　もったいないなぁ" },
+        { "character": "tatsu", "expression": "alert_02", "text": "もったいないって何だよ……見せもんじゃねーんだよ……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……きれいとか……あの場所を褒められたの人生で初めてだぞ……何で施術でそんな感想出てくるんだよ……" }
+      ]
+    },
+
+    "erotic_anal": {
+      "topicName": "後ろの反応",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さん、お尻の穴がひくひくしてますよ" },
+        { "character": "tatsu", "expression": "alert_01", "text": "は！？　報告すんな！！" },
+        { "character": "player", "expression": "normal_01", "text": "近くの施術してるだけで勝手に反応するんですね。面白い" },
+        { "character": "tatsu", "expression": "alert_01", "text": "面白いって何だよ！！　人の尻の穴で楽しむな！！" },
+        { "character": "player", "expression": "normal_01", "text": "あ、また動いた。触ってないのにすごいですね。ここも感じるんですか？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "知るか！！　生まれてこのかたそんなこと考えたこともねーよ！！" },
+        { "character": "player", "expression": "normal_01", "text": "ちょっとだけ確認していいですか？　骨盤底筋の反射なので" },
+        { "character": "tatsu", "expression": "alert_02", "text": "何を確認すんだよ！！　触んな！！　指近づけんな！！" },
+        { "character": "player", "expression": "normal_01", "text": "……ほら、近づけただけでこの反応。相当敏感ですね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "っ……ひぁ……っ！！……お前今の絶対わざとだろ！！" },
+        { "character": "player", "expression": "normal_01", "text": "施術です" },
+        { "character": "tatsu", "expression": "climax_01", "text": "尻の穴に指近づけるのが施術なわけあるか！！　整体師の免許取り消しだろこれ！！" }
+      ]
+    },
+
+    "erotic_smell": {
+      "topicName": "身体の匂い",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さん、今日いい匂いしますね" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……香水とかつけてねーぞ" },
+        { "character": "player", "expression": "normal_01", "text": "香水じゃなくて。……身体の匂いです" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……身体の匂い？　汗くさいとかそういう……" },
+        { "character": "player", "expression": "normal_01", "text": "逆です。甘い匂いがします。特に……興奮してくると強くなる" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……っ！　嗅ぐな！！" },
+        { "character": "player", "expression": "normal_01", "text": "施術で近づくと自然と分かるんです" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……自分じゃ分かんねーよそんなの……恥ずかしいな……" },
+        { "character": "player", "expression": "normal_01", "text": "いい匂いですよ。ずっと嗅いでいたい" },
+        { "character": "tatsu", "expression": "alert_01", "text": "お前さっきも脇嗅いでたろ！！　何なんだ嗅覚フェチか！！" }
+      ]
+    },
+
+    "erotic_after_massage": {
+      "topicName": "施術後の火照り",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "normal_02", "text": "……なあ、ちょっと聞きたいことがある" },
+        { "character": "player", "expression": "normal_01", "text": "何ですか？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "施術の後、身体が火照るのって……普通か？" },
+        { "character": "player", "expression": "normal_01", "text": "血行が良くなるので、しばらく温かく感じることはありますよ" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……しばらくってどのくらいだよ" },
+        { "character": "player", "expression": "normal_01", "text": "30分から1時間くらいでしょうか" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……夜まで続いてんだけど" },
+        { "character": "player", "expression": "normal_01", "text": "……夜まで？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "家帰って風呂入っても収まんねーんだよ……身体がずっと熱くて……眠れなくなる" },
+        { "character": "player", "expression": "normal_01", "text": "それは……施術の効果というより……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "「というより」何だよ。最後まで言え。……いや、言うな。分かってるから" }
+      ]
+    },
+
+    "erotic_think_of_you": {
+      "topicName": "仕事中に思い出す",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "normal_02", "text": "……お前に文句がある" },
+        { "character": "player", "expression": "normal_01", "text": "何ですか？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "最近、仕事中にお前のこと思い出すんだよ。迷惑してる" },
+        { "character": "player", "expression": "normal_01", "text": "僕のこと？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……施術のこと、だよ。会議中に急に……お前の手の感触が蘇ってきて……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "集中できねーんだよ。部下の報告が全然頭に入ってこねー" },
+        { "character": "player", "expression": "normal_01", "text": "身体が施術の感覚を記憶してるんですね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "記憶とかそんな上品なもんじゃねーよ……思い出すと身体まで……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……会議中にこうなったらどうすんだよ……" },
+        { "character": "player", "expression": "normal_01", "text": "……どうなるんですか？" },
+        { "character": "tatsu", "expression": "climax_01", "text": "言わせんな！！　殺すぞ！！" }
+      ]
+    },
+
+    "erotic_scent_react": {
+      "topicName": "匂いで反応する身体",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……あのさ" },
+        { "character": "player", "expression": "normal_01", "text": "はい" },
+        { "character": "tatsu", "expression": "alert_02", "text": "前に、オイルの匂いで肩の力が抜けるって話したろ" },
+        { "character": "player", "expression": "normal_01", "text": "はい。パブロフの犬みたいだって" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……あれ、悪化した" },
+        { "character": "player", "expression": "normal_01", "text": "悪化？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "肩の力が抜けるだけじゃなくて……匂い嗅いだ瞬間に、身体が……反応するようになった" },
+        { "character": "player", "expression": "normal_01", "text": "反応というのは……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……下が。……濡れるんだよ。オイルの匂い嗅いだだけで" },
+        { "character": "player", "expression": "normal_01", "text": "嗅覚と身体の反応は直結しやすいので……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "解説はいらねーんだよ！！　どうにかしろ！！　お前のせいなんだから！！" }
+      ]
+    },
+
+    "erotic_toy_recommend": {
+      "topicName": "おすすめの道具",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "セルフケアの話の続きなんですけど" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……何だよ" },
+        { "character": "player", "expression": "normal_01", "text": "自分の手だけだと限界があるので、道具を使うのもおすすめですよ" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……道具？　マッサージガンとかか？" },
+        { "character": "player", "expression": "normal_01", "text": "電マです" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……は？" },
+        { "character": "player", "expression": "normal_01", "text": "振動で血行を促進して、筋肉の深い部分までほぐせるんです。特に敏感な場所に当てると……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "それマッサージ器じゃなくてアダルトグッズだろ！！　何さらっと勧めてんだ！！" },
+        { "character": "player", "expression": "normal_01", "text": "もともとは肩こりの医療機器ですよ" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……嘘つけ。……いや嘘じゃねーのか？　……どこで買えるんだよ" },
+        { "character": "player", "expression": "normal_01", "text": "ネットで買えますよ。おすすめのやつ、型番教えましょうか？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……いらねーよ！！　……いや……後でこっそり聞くからな。こっそりだぞ" }
+      ]
+    },
+
+    "erotic_cant_satisfy": {
+      "topicName": "自分じゃ足りない",
+      "trustEffect": 1,
+      "developEffect": 4,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……なあ" },
+        { "character": "player", "expression": "normal_01", "text": "はい" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……お前が前に言ったやつ。……自分の身体に触れてみろって" },
+        { "character": "player", "expression": "normal_01", "text": "はい。やってみました？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……やった" },
+        { "character": "player", "expression": "normal_01", "text": "どうでした？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……足りねーんだよ" },
+        { "character": "player", "expression": "normal_01", "text": "足りない？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "自分でやっても……お前に触られた時と全然違う。全然足りねー" },
+        { "character": "tatsu", "expression": "alert_02", "text": "何が違うのか分かんねーけど……お前の手じゃないと、ダメなんだよ……" },
+        { "character": "player", "expression": "normal_01", "text": "…………" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……何か言えよ。黙ってんな。……死にてえのか" }
+      ]
+    },
+
+    "erotic_want_more": {
+      "topicName": "もっと触って",
+      "trustEffect": 1,
+      "developEffect": 4,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "今日の施術、ここまでにしましょうか" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……" },
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さん？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……もうちょっと" },
+        { "character": "player", "expression": "normal_01", "text": "え？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……もうちょっと、触ってろ" },
+        { "character": "player", "expression": "normal_01", "text": "……どこをですか？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……どこでもいい。……お前の手が、離れるのが……やだ" },
+        { "character": "player", "expression": "normal_01", "text": "…………分かりました" },
+        { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "……ん……" },
+        { "character": "tatsu", "expression": "pleasure_sleepy_01", "text": "……こうしてると、安心する……何でだろうな……" },
+        { "character": "player", "expression": "normal_01", "text": "いつまででも触ってますよ" },
+        { "character": "tatsu", "expression": "pleasure_sleepy_01", "text": "……ふん。……じゃあ、もうちょい。……あと5分だけだからな" }
+      ]
+    }
+  }
+}

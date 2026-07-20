@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 돌아간 후……)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(어깨가 가벼워졌다고 해줬어. 마작을 3반장이나 할 수 있었다고)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(솔직하지는 않지만, 확실히 효과를 느끼고 있는 것 같다)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(등이랑 허리가 꽤 뻣뻣했어……데스크워크와 긴장의 축적이겠지)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(만졌을 때 그 반응……몸은 정직하다)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(다음 주에도 와준다면, 좀 더 깊은 부분에 접근해 봐야지)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자, 이번 주는 어떻게 보낼까……)"
+    }
+  ]
+}

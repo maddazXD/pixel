@@ -1,0 +1,360 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "——第四周的早晨。\n和龙姐的治疗已经过了一个月。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（虽然还债还遥遥无期，但龙姐每周都会来……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（多亏了利息宽限才勉强撑住……只要客人再多起来……！）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……果然还是很紧张。得赶紧有新客人来才行……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "哟。今天也来了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "龙姐！一直以来谢谢您。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "嗯，你的治疗……说实话，让人上瘾。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "诶？真的吗！？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "嗯。上周下班后肩膀也很轻松。平时应该会头痛的，结果完全没有。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "太好了！看来治疗在起效。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "所以啊，我把你的店告诉了手下和生意伙伴。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "说'这里有个手艺好的按摩师'。感恩吧。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "真的吗！？那太感谢了！"
+    },
+    {
+      "character": "player",
+      "text": "（难怪最近来了好多看起来很凶的客人……）"
+    },
+    {
+      "character": "player",
+      "text": "（而且全是男的……要是能来个巨乳美少女就好了……）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "嗯，都是我介绍的客人。好好给他们治。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "是、是的！当然！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "那说到今天的事。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "最近一直在应酬喝酒……肚子那一带感觉很沉。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "肚子胀啊。应酬不断的话内脏也会有负担的。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "还有……最近总是睡不好。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "半夜总是醒来……身体还莫名地发热……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "发热吗？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……不是你想的那种意思。就是，总觉得静不下来。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "原来如此……那今天试试仰卧姿势治疗吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "仰卧？跟之前不一样？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "是的。仰卧的话可以接触到腹部周围的肌肉，也更容易调节自律神经的平衡。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……嗯。有效果的话就试试吧。",
+      "outfit": "suit"
+    },
+    {
+      "id": "choice_massage4",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "肚子胀和睡眠问题，都会好好给您调理的。",
+      "choices": [
+        {
+          "label": "持续应酬造成的压力是原因",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "stress_path"
+        },
+        {
+          "label": "是治疗效果让身体在发生变化",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "change_path"
+        },
+        {
+          "label": "也许是身体在渴望什么？",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "desire_path"
+        }
+      ]
+    },
+    {
+      "id": "stress_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "应酬不断的话，内脏和自律神经都会受不了。睡不着也是因为身体一直处于紧张状态，放松不下来。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……确实，最近一直绷着弦。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "当老板的确很难切换工作和休息。至少在这里的时候，请放松一下。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "……嗯，不知为什么在这里就会放下防备。在你面前的话。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（龙姐会说这样的话……有点开心啊。）",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "持续治疗的话，血液循环会变好，感觉也会变得敏锐。发热可能也是这个影响。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "敏锐？……也就是说，是你治疗的原因？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "与其说是原因……不如说是好的变化。之前僵硬的身体松开了，能够好好感受了。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……好好感受啊。嗯，确实最近……比以前更……容易有感觉了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（龙姐有点害羞了……真难得。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今天的治疗会让效果更好。请期待。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "desire_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "发热和失眠……也许是身体在渴望什么东西的信号。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……渴望？渴望什么。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "比如……人的温暖、肌肤接触。人如果缺乏接触，身体就会发出信号。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……啊？你又在说奇怪的话。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "这是医学上的事实！有一种叫催产素的荷尔蒙，通过接触分泌。缺乏的话……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……又不是说，我想……被谁碰什么的……才不是那样……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（啊，跟上次一样的反应……果然龙姐没有那种经验……）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……喂，你在笑什么。我杀了你。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "没有笑！我是认真的！治疗中一定会让催产素好好分泌的！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……别想有的没的。",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那么，请换上治疗专用的衣服。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "嗯，知道了。……已经第四次了，习惯了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "（龙姐熟练地开始换衣服……）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "（……算了，有效果就行。忍一忍吧……）",
+      "outfit": "suit",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "换好了。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "（看多少次都习惯不了这身材……）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今天仰卧治疗，请躺到床上。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closeeyes",
+      "text": "……好。",
+      "outfit": "bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那么，开始治疗。"
+    }
+  ]
+}

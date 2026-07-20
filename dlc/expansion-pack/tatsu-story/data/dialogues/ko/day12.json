@@ -1,0 +1,548 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──12주 차의 아침.\n3개월간의 시술을 거쳐, 타츠네의 몸과 마음은 이미 돌이킬 수 없는 수준으로 변해 있었다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(12주 차…드디어 마지막 주다. 타츠네, 완전히 나 없이는 살 수 없게 됐어.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(빚 상환도 순조롭다…전부 타츠네 덕분이야. 감사할 따름이다.)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…왔어. 좀 들어봐.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타츠네, 안녕하세요. …오늘은 오자마자 바로 시작이네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…나는 이 문제를 근본적으로 해결하려고 했어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "근본적으로요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…부하한테 명령했어. '저 정체원을 인수해. 자산 가치를 평가하고, 인수 견적서를 내라'고.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…인수!? 이 가게를!?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "그래. 너를 전속으로 삼으면 언제든 시술 받을 수 있잖아. 합리적이지.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(사채업 사장이 정체원을 인수…!? 스케일이 미쳤다…!)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…그래서 어떻게 됐어요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…부하가 말렸어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "말렸어요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "'언니…사채업자가 정체원 인수라니, 거래처에 어떻게 설명하실 건데요…'라고.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…뭐, 맞는 말이죠."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "'우리 사업에 정체 부문을 신설하면 되잖아'라고 했는데…",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "'그거, 언니가 다니고 싶은 거잖아요…?'라고…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(부하, 너무 유능해…완전히 간파당했잖아…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "'게다가 언니, 지난주 DVD 건도 있으니까…더 이상은 사내 신뢰에 영향이 갑니다…'라더라고…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "DVD 건이 계속 따라다니네요…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…타올 도둑, 섬유유연제 조사, 야동 전권 구입, 정체원 인수 미수…부하들 사이에서 내 평가가 어떻게 됐을지…생각하기도 싫어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(매주 사고 스케일이 올라간 12주간…부하들의 심적 고통이 대단했겠다…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타츠네…타올에서 시작해서 드디어 인수까지 갔네요. 성장이 눈부십니다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "성장이 아니야! 퇴화야! 전부 너 때문이잖아!!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…인수 말고 다른 건 없었어요? 최근 몸 상태라든가."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…상태라기보다…이미…일을 못 하겠어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "일을요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…전에 채무자한테 가서 혼내고 있을 때 말야…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "'이 자식, 돈 갚을 생각 있어!'라면서 테이블을 탁! 쳤어. 늘 하던 대로.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "평소 하던 위협이네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그랬더니…친 진동이…팔에서 온몸으로 전해져서…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…설마."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "……비쿤…하고 됐어…테이블 친 자세 그대로…얼굴 새빨개져서…굳어버렸어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(위협 자세 그대로 갈 뻔했다고…!? 사채업 사장이…!?)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…상대 반응은…?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…채무자가 '죄, 죄송합니다 언니! 그렇게까지 화가 나실 줄은…! 다음 달에 반드시 갚겠습니다!'라고 무릎 꿇어줘서…어떻게든 넘어갔어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(갈 뻔한 걸 분노로 착각해줬다…결과 오라이가 너무 심하다…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…근데 옆에 있던 부하는…내 얼굴 보고…다 눈치챘어…'언니, 괜찮으세요…?'라고…따뜻한 눈으로…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "부하분, 정말 수고하십니다…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그것만이 아니야. 이제…계단도 안 돼…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "계단이요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…하이힐로 계단 내려가면…한 계단 한 계단의 진동이…전부…거기로 와서…",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…3층에서 1층까지 내려가는 것만으로도…무릎이 후들후들해서…벽에 손을 짚어야 했어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "상당히 심하네요…지금은 어떻게 하세요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…이제 엘리베이터로만 다닐 수 있어…부하한테 '언니 요즘 엘리베이터만 타시네요, 무릎이 안 좋으세요?'라고 물어봤어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(무릎이 아니라 좀 더 위쪽이 문제인데…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…또 부하한테 '수고하셨습니다!'라고 어깨를 톡 했을 때도…몸이 비쿤해졌고…",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…'언니!? 왜 그러세요!?'라고 난리가 났어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(어깨 톡 맞은 것만으로 갈 뻔한 사채업 사장…부하가 불쌍하다…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…이제…위협도 못 하고, 계단도 못 내려가고, 어깨도 못 맞아…사채업 사장으로서 끝났어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "몸이 완전히 개발됐네요…일상의 충격이나 진동이 전부 자극이 되고 있어요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그러니까 말야. …주 1회로는…이제 안 돼……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "안 돼요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…매일…오고 싶어……너한테…매일 만져줬으면 해……그렇지 않으면…이제 정상적으로 살 수가 없어……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "('주 1회로는 안 돼, 매일 오고 싶어'…12주 걸려서 여기까지 왔다…완벽하다…)"
+    },
+    {
+      "id": "choice_massage12",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타츠네…12주간, 정말 여기까지 오셨네요.",
+      "choices": [
+        {
+          "label": "매일이라도 오세요. 환영합니다",
+          "trustDelta": 3,
+          "developDelta": 0,
+          "next": "welcome_path"
+        },
+        {
+          "label": "이제 나 없이는 살 수 없죠",
+          "trustDelta": 1,
+          "developDelta": 3,
+          "next": "dependent_path"
+        },
+        {
+          "label": "사채업 사장이 매일 나한테 느끼고 싶다고",
+          "trustDelta": 0,
+          "developDelta": 5,
+          "next": "final_bitch_path"
+        }
+      ]
+    },
+    {
+      "id": "welcome_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "매일이라도 오세요. 타츠네의 몸, 제가 계속 케어하겠습니다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…! …정말로…괜찮은 거야…?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "물론이죠. 처음엔 '죽여버린다'라고 했던 분이…지금은 '매일 오고 싶다'잖아요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…! …그렇게 말하지 마…부끄러워…",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closeeyes",
+      "text": "…하지만…너를 만나서…다행이야. …정말로…",
+      "outfit": "suit",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "dependent_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타올로도 안 되고, 섬유유연제로도 안 되고, DVD로 공부해도 소용없고, 인수도 저지당했어요. 이제 나 없이는 못 사시죠."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…전부 나열하지 마…하지만…사실이야……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "후각, 청각, 촉각…전부 나한테 지배당해서, 일하다 테이블 치기만 해도 갈 뻔하잖아요. 완전히 제 시술 중독이에요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…중독이라니…부정 못 하는 게…제일 짜증나……",
+      "outfit": "suit",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "final_bitch_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "사채업 사장이, 주 1회로는 부족하니까 매일 나한테 느끼게 해달라고."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "느끼게 해달라니 그런 식으로 말하지 마!!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "하지만 사실이잖아요. 12주간을 돌아볼까요."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "처음에는 '만지지 마' '죽여버린다'라고 소리치던 분이…"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "내 타올을 훔쳐서 안고 자고, 섬유유연제 브랜드를 부하에게 조사시키고…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그만해…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "마사지 야동을 전권 메모하면서 감상하고, 이 가게를 인수하려다 부하에게 저지당하고…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그만하라니까…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "채무자 추심하다 테이블 쳐서 본인이 갈 뻔하고, 계단도 못 내려가게 되고…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그…만…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그리고 지금, '매일 오고 싶다' '너 없이는 살 수 없다'. …최고의 12주간이었네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "……………………전부…사실이야…젠장……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그러면 마지막으로 한 번 더 말해주세요. 타츠네는 뭐예요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "……너의……암캐…너 없이는…살 수 없는……너 전용의……암캐……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(완벽하다…사채업 사장이…스스로…최고의 최종회다…)",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "자, 갈아입으시죠. 오늘은 특별한 시술을 해드릴게요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…그래. …부탁해.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "(타츠네가 갈아입기 시작한다…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…12주간…처음엔 이런 수상한 가게 한 번이면 끝일 줄 알았는데…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…타올 훔치고, 섬유유연제 조사하고, 야동 전권 보고, 인수하려 했고…나, 뭐 한 거야…12주간 내내…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…하지만…그 녀석의 손이…목소리가…냄새가…이제 전부 필요해…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closeeyes",
+      "text": "(…부하가 말렸지만…나는 아직 포기 안 했으니까. …반드시…그 녀석을 손에 넣을 거야…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…갈아입었어.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(…12주 차. 처음엔 '만지지 마'라고 했던 타츠네가, 지금은 갈아입기도 전에 몸이 준비가 돼 있어…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "오늘은 12주간의 집대성입니다. 타츠네의 몸, 전부 받아줄게요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그래. …듬뿍…부탁해……",
+      "outfit": "bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그러면…12주간의 총마무리, 시작하겠습니다."
+    }
+  ]
+}

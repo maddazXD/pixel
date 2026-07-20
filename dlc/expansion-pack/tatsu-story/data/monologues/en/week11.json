@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia bilang dia terlalu lunak saat mendisiplinkan bawahannya... Itu buruk untuk seorang bos geng.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Melihat papan nama klinik saja sudah memicu reaksi. Mendengar suaraku di telepon saja sudah membuat wajahnya memerah.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Penglihatan, pendengaran... Kelima indranya sudah terhubung dengan perawatanku.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tapi dia masih bilang 'Aku butuh perawatanmu'... Dia tidak akan berhenti datang.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('Tubuhku sudah menjadi milikmu'... Dia benar-benar bersungguh-sungguh dengan kata-kata itu.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Minggu depan adalah yang terakhir. Batas waktu pelunasan pinjaman... dan juga nasib hubungan ini.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, apa yang harus kulakukan minggu ini...)"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──11週目の朝。\nナナちゃんとの信頼関係は、かなり深まってきている。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃんも施術にだいぶ慣れてきたな…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（最近は体の反応も良くなってきたし、健康的だ）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "お、おはようございます…。",
+      "voiceFile": "story_day11_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "あれ…？今日はもう濡れてるの？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "え！？そ、そんなことないです…！",
+      "voiceFile": "story_day11_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "歩き方でわかるんだよ。内股でモジモジしてるでしょ？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そ、それは…ちょっと体調が……",
+      "voiceFile": "story_day11_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…{{playerName}}さん…相談があるんですけど…。",
+      "voiceFile": "story_day11_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "なんだい？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "最近、普通に生活してるだけで…その…すぐに濡れちゃって…",
+      "voiceFile": "story_day11_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "授業中に椅子に座ってるだけで、お尻がムズムズして…",
+      "voiceFile": "story_day11_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "授業中に？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "はい…。椅子が…濡れちゃって…立つ時にすごく恥ずかしくて…",
+      "voiceFile": "story_day11_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それは大変だね。他には？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "階段を上るときも…太ももが擦れて…ひゃん！って声が出ちゃいそうで…",
+      "voiceFile": "story_day11_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "この前なんて、友達に肩をポンって叩かれただけで…",
+      "voiceFile": "story_day11_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "肩を叩かれただけで？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "ビクンッて体が震えちゃって…『大丈夫？』って心配されて…",
+      "voiceFile": "story_day11_010"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "それで慌ててトイレに駆け込んだら…もう下着がぐしょぐしょで…",
+      "voiceFile": "story_day11_011"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（完全に体が開発されてるな…いい感じだ）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あと、電車で…",
+      "voiceFile": "story_day11_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "電車でも何かあるの？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "つり革をぎゅっと握ってないと…振動で…立ってられなくて…",
+      "voiceFile": "story_day11_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "この前、急停車した時に体がグラッとして……そしたら…",
+      "voiceFile": "story_day11_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そしたら？"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "んんっ！って変な声が出ちゃって…周りの人に見られて…",
+      "voiceFile": "story_day11_015"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "次の駅で降りて、駅のトイレで…その……",
+      "voiceFile": "story_day11_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "力が抜けちゃって……",
+      "voiceFile": "story_day11_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "（駅のトイレでイクとか…エロすぎる）"
+    },
+    {
+      "id": "choice_massage11",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "なるほど。今日はどうする？",
+      "choices": [
+        {
+          "label": "感度を調整する施術をしよう（大嘘）",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "sensitivity_down_path"
+        },
+        {
+          "label": "もっと気持ちよくなる練習をしよう",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "practice_path"
+        },
+        {
+          "label": "いっそ全身性感帯にしちゃおうか",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "full_body_path"
+        }
+      ]
+    },
+    {
+      "id": "sensitivity_down_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "感度を下げる…そんなことできるんですか？",
+      "voiceFile": "story_day11_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "もちろん！特別なオイルで感度を適切に調整できるよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "よかった…それなら安心です。",
+      "next": "prepare_session",
+      "voiceFile": "story_day11_019"
+    },
+    {
+      "id": "practice_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "れ、練習ですか…？",
+      "voiceFile": "story_day11_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう！コントロールできるようになれば、困らなくなるよ！"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "で、でも…恥ずかしいです…。",
+      "next": "prepare_session",
+      "voiceFile": "story_day11_021"
+    },
+    {
+      "id": "full_body_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "ぜ、全身！？",
+      "voiceFile": "story_day11_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう！髪の毛一本触られただけでもビクンビクンできるように！"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そ、そんなの…もっと大変なことに…！",
+      "voiceFile": "story_day11_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "大丈夫！俺がずっと面倒見てあげるから。",
+      "next": "prepare_session"
+    },
+    {
+      "id": "prepare_session",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…それと…最近、夢見が良くなってきて…。",
+      "voiceFile": "story_day11_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それはいいことだね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "施術の夢を見ることもあって…",
+      "voiceFile": "story_day11_025"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "朝起きたら体がすごくリラックスしてるんです。",
+      "voiceFile": "story_day11_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それは施術の効果が出てる証拠だね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "本当に効果があるんですね…先生の施術。",
+      "voiceFile": "story_day11_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "じゃあ、着替えようか。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "（この服も…さすがに慣れてきちゃったな……）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day11_028"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "き、着替えました…。",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day11_029"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "準備はできたかな？"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "は、はい…お願いします。",
+      "voiceFile": "story_day11_030"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "さぁ、今日も丁寧に施術していこうか。"
+    }
+  ]
+}

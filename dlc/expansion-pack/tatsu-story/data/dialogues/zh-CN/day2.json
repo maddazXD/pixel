@@ -1,0 +1,300 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "——开业第二周的早晨。\n看到邮箱里默默塞进来的一沓账单，我头晕目眩。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（电费、水费、房租……糟了，没钱了……）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（手头的钱所剩无几……客人还是只有龙姐一个。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（不过，至少有利息宽限……得感谢龙姐才行。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……话说回来，要感谢的对象是高利贷，这算怎么回事……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "哟。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "龙姐！您来了！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……嗯，确实有效果。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "上周治疗之后，感觉肩膀轻了不少。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "真的吗！太好了！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "别得意忘形。债还是债。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "我、我知道……"
+    },
+    {
+      "character": "player",
+      "text": "（不过，她承认效果了，还是挺高兴的……）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "多亏了你，我还打了3圈麻将。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那可真厉害！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "那，今天怎么弄？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今天打算重点治疗背部和腰部。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "背和腰啊。确实那里也酸。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "请趴着接受治疗。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "趴着？好吧，就按你说的来。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "是的。我会从背部到腰部仔细按摩。"
+    },
+    {
+      "id": "choice_massage2",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "可以让我检查一下您背部和腰部的状况吗？",
+      "choices": [
+        {
+          "label": "让我检查背肌的紧张程度",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "normal_path"
+        },
+        {
+          "label": "您的臀部真不错",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "nice_butt_path"
+        },
+        {
+          "label": "揉她的臀部",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "butt_grab_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "您的背肌相当紧张。我会慢慢放松深层肌肉。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……嗯，只要你认真做，我就不说什么。",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "nice_butt_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "（看着趴着的龙姐的背影，不由自主地说出了心里话……）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "龙姐……您的臀部真不错。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……啊？你刚说什么？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "不、不是！我是从按摩师的角度说的！肌肉平衡真的很好……！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……你小子，治疗的时候说这种话合适吗。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "对、对不起……！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "closemouth",
+      "text": "……啧。再说一次就给你加利息。",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "butt_grab_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "让我检查一下臀大肌的紧张度……"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "（揉揉）",
+      "cutInImage": "tatsu_shirimomi"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……！！你在干什么！！",
+      "outfit": "suit",
+      "cutInImage": "tatsu_shirimomi"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "（好、好有弹性……！）",
+      "cutInImage": "tatsu_shirimomi"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "喂你听到没有！？你在摸哪里！！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "这、这是臀大肌状态检查！治疗需要的……！"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……再敢这样，我真的掰断你的手指。",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "在那之前，请换上治疗专用的衣服。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……又是那块破布啊。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……啧，穿这个真的会感冒的。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "（龙姐不情愿地开始换衣服……）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "说了别看。",
+      "outfit": "suit",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（可是眼睛不听使唤……糟了……）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "换好了。别乱看。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（果然每次都这么惊人的身材……）"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那么，继续治疗吧。"
+    }
+  ]
+}

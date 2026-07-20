@@ -1,0 +1,64 @@
+{
+  "random_talks": [
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "뭘 찾으세요?\n괜찮으시면 제가 추천해드릴게요♡"
+    },
+    {
+      "character": "店員",
+      "expression": "shy",
+      "text": "후후♡ 손님, 얼굴이 빨개지셨네요?\n혹시 긴장되세요?"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "어떤 상품이든 제가 자신있게 추천할 수 있는 것들뿐이에요♡\n사용법도 친절하게 설명해드릴게요♡"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "와♡ 손님 정말 멋지시네요♡\n더 특별한 상품 보실래요?"
+    },
+    {
+      "character": "店員",
+      "expression": "shy",
+      "text": "이런♡ 그렇게 가만히 쳐다보시면...\n부끄러워져요♡"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "오늘은 특별히 손님께만 서비스해드릴게요♡\n비밀로 해주세요♡"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "손님은 어떤 타입을 좋아하세요?\n앞으로의 참고로 알고 싶어서요♡"
+    },
+    {
+      "character": "店員",
+      "expression": "shy",
+      "text": "혹시 저를 귀엽다고 생각하시는 거예요?\n기뻐요♡"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "손님이 괜찮으시다면 더 특별한 서비스도 준비할 수 있어요♡"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "후후♡ 손님의 반응 귀여우시네요♡"
+    },
+    {
+      "character": "店員",
+      "expression": "smile",
+      "text": "후후♡ 손님의 시선이 제 가슴에 고정되셨네요♡\n그렇게 궁금하세요?"
+    },
+    {
+      "character": "店員",
+      "expression": "normal",
+      "text": "후후♡ 그렇게 뚫어지게 보시면 가슴에 구멍이 뚫려버릴 거예요?"
+    }
+  ]
+}

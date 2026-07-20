@@ -1,0 +1,530 @@
+{
+  "title": "빚 50% 상환 달성 - 경마장 데이트",
+  "dialogues": [
+    {
+      "character": "타츠네",
+      "text": "어이. 상환이 딱 절반이네.",
+      "characterImage": "tatsu/tatsu_normal_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "네. 덕분에요.",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "흥. '덕분에'라니, 나한테 쓸 말은 아니지.",
+      "characterImage": "tatsu/tatsu_normal_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "……저, 타츠네 씨. 절반 갚은 기념으로 이번 쉬는 날에 좀 같이 나가주시겠어요?",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "…………하?",
+      "characterImage": "tatsu/tatsu_sweat_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "데이트라고 하면 좀 거창하지만요. 그동안 감사한 마음에요.",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……데, 데이트?",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "아, 아뇨, 별거 아닌데요. 재밌는 데로요.",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "………….",
+      "characterImage": "tatsu/tatsu_closeeyes_suit.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "(데이트……이 녀석 지금 데이트라고 했나……?)",
+      "characterImage": "tatsu/tatsu_sweat_suit.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "(채무자랑 데이트라니 말이 안 되지……! 근데……재밌는 데라니……)",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "(수족관……? 놀이공원……? 설마 야경이 보이는 레스토랑……?)",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……쯧. 어쩔 수 없지. 같이 가줄게.",
+      "characterImage": "tatsu/tatsu_closeeyes_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "감사합니다! 그럼 일요일에요.",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "기, 기대하는 건 아니니까!",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(좋아, OK 받았다. 일요일 경마, 타츠네 씨랑 같이라면 재밌겠다.)"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "경마장 데이트로",
+          "next": "keiba_start"
+        }
+      ]
+    },
+    {
+      "id": "keiba_start",
+      "character": "타츠네",
+      "text": "……야.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png",
+      "background": "keiba_bg",
+      "changeBGM": "zawameki"
+    },
+    {
+      "character": "player",
+      "text": "네?",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……여기, 경마장이지.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "네. 재밌는 데라고 했잖아요.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "(나는……뭘 기대한 거지……왜 살짝 멋 부리고 온 거지……)",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "상환 자금 벌려고 가끔 오는데, 혼자라 좀 외로워서요.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "사채업자한테 빌린 돈을 경마로 갚는다니……머리가 어떻게 된 거 아냐.",
+      "characterImage": "tatsu/tatsu_date_sweat.png"
+    },
+    {
+      "character": "player",
+      "text": "하하하…….",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……뭐, 나도 도박은 좋아하니까. 온 김에 어쩔 수 없지.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "단, 마권비는 네가 내. '데이트'잖아?",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "네, 네…….",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "보여줘. 출주표.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "네, 여기요.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "………….",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……6번. 패독 안 봐도 알아. 혈통이 좋거든.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "에, 저는 3번 추입마가——",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "하? 3번은 각질이 안 맞잖아. 오늘 마장은 무거워.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "……잘 아시네요?",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "사채업 하다 보면 데이터 분석쯤은 할 줄 알게 돼. 사람의 상환 능력이랑 말의 능력, 보는 건 같거든.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "대단한 비유네요……",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "흥. 그럼 승부다. 네 3번 vs 내 6번. 진 쪽이 맥주 사 와.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "좋아요.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "레이스가 시작됐다.",
+      "hideCharacter": true,
+      "changeBGM": "hoserase"
+    },
+    {
+      "character": "타츠네",
+      "text": "……4코너……좋아, 6번 올라온다……!",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "가라! 제쳐! 제쳐어!!",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "(타츠네 씨, 완전 진심이다……추심할 때보다 무서운 표정이야……)",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "좋았어어어!!",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "에, 6번이 이겼어……!?",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "말했지! 내 안목을 무시하지 마!",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "자, 맥주.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "……네. 다녀올게요.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "",
+      "text": "……",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "좋아. 다음은 8번. 단승.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "8번이요? 10번째 인기마인데요?",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "그러니까 좋은 거지. 배당이 쏠쏠해.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "아니, 아무리 그래도——",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "…………왔다. 왔어. 8번 왔다.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "거짓말이죠!?",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "25배……후훗~",
+      "characterImage": "tatsu/tatsu_date_happysmile.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "봤지. 데이터와 촉이야. 사채업 사장은 돈 냄새에 민감하거든.",
+      "characterImage": "tatsu/tatsu_date_happysmile.png"
+    },
+    {
+      "character": "player",
+      "text": "……이미 프로 아니에요?",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "당연하지. ……내 분석은 마지막 레이스에서 본기를 낸다. 여기까지는 워밍업이야.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "……",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……쯧. 마지막 판에서.",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "하지만 전체적으로는 꽤 이겼잖아요?",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……뭐, 그렇긴 하지만.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "배 안 고파요? 여기 안에 레스토랑이 있는데요.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png",
+      "changeBGM": "tatsu",
+      "bgmFadeDuration": 3000
+    },
+    {
+      "character": "player",
+      "text": "딴 돈으로 쏠게요. 타츠네 씨 예상 덕분에 저도 벌었으니까요.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……흥. 당연하지.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "……",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……의외로 괜찮네.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "맥주도 드실래요?",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "응. ……그나저나 네 예상은 별로야. 3번 고른 시점에서 완전 아마추어라고.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "죄송합니다……",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "다음엔 내가 제대로 분석해줄게. 둘이서 예상하면 정확도가 올라가겠지.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "그거……또 와주신다는 건가요?",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……시끄러. 그럴 리가 없잖아.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "그렇죠. 아, 젓가락이……",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "뭐 하는 거야. 덜렁대기는.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "좀 주울게요.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "(……응?)",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "(오오……! 타츠네 씨 팬티가……!)",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "(그렇군. 하늘색이었어……)",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "…….",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "야. 뭘 싱글벙글하는 거야?",
+      "characterImage": "tatsu/tatsu_date_sweat.png"
+    },
+    {
+      "character": "player",
+      "text": "아뇨, 하늘색이구나 해서요.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……하?……야.",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "앗.",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "너, 어디를 보고 있는 거야!",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "그만! 그만 눈에 들어와서……!",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "그만이 뭐야! 장난치지 마!!",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "죄, 죄송합니다……! 너무 아름다워서 그만 넋을 잃고 말았습니다……!",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……뭔 소리를 하는 거야?",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……됐어. 그래서, 오늘은……뭐…….",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "재밌었네요.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "착, 착각하지 마! 이긴 거라서 기분이 좋은 것뿐이야!",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "너랑 같이여서 즐거웠다거나, 그런 거 아니니까!",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "player",
+      "text": "(……딱히 거기까지 말한 적 없는데.)",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "그럼 가. 나머지 절반, 확실히 갚아.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……다음 주 예약도 잡아둬. 시술 말이야.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……경마 쪽은 내 스케줄 보고 다시 연락할게.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "에, 진짜요? (아까는 안 간다고 했으면서……)",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……지는 게 성에 안 차서 그래.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(……'다음'이 있다니. 빚 독촉과는 상관없이.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(사채업자와 채무자, 인가. 이 관계도, 조금씩 달라지고 있는 건지도 모르겠다.)"
+    }
+  ]
+}

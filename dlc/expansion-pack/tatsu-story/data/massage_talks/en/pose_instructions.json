@@ -1,0 +1,445 @@
+{
+  "poseInstructions": [
+    {
+      "instructionId": "pose_orientation_front",
+      "instructionName": "Minta dia berbaring telentang",
+      "category": "Position Change",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "front"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "back",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, bisa tolong berbaring telentang? Aku ingin memijat bagian depanmu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Oke, paham."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_back",
+      "instructionName": "Minta dia berbaring tengkurap",
+      "category": "Position Change",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "back"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bisa tolong tengkurap? Aku ingin memijat punggung dan tulang belikatmu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Tentu."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_side",
+      "instructionName": "Minta dia berbaring menyamping",
+      "category": "Position Change",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "side"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "back"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bisa tolong miring ke samping? Aku ingin memijat dari sisi samping."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Miring ke samping. Oke, paham."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_front",
+      "instructionName": "Minta dia mengangkat lengannya",
+      "category": "Arm Position",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bisa tolong angkat lenganmu? Aku ingin memijat ketiak dan lengan atasmu juga."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Seperti ini?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Iya, persis seperti itu. Terima kasih."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_front",
+      "instructionName": "Minta dia menurunkan lengannya",
+      "category": "Arm Position",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu sudah boleh menurunkan lenganmu dan bersantai sekarang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Ya."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_side",
+      "instructionName": "Minta dia mengangkat lengannya (ke samping)",
+      "category": "Arm Position",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bisa tolong angkat lenganmu? Aku ingin memijat area ketiak dan perutmu juga."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Seperti ini?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Iya, tolong tahan posisi itu ya."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_side",
+      "instructionName": "Minta dia menurunkan lengannya (ke samping)",
+      "category": "Arm Position",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu sudah boleh menurunkan lenganmu dan bersantai sekarang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Ya."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_paizuri",
+      "instructionName": "Minta dia merapatkan payudaranya (pose paizuri)",
+      "category": "Special Position",
+      "priority": 6,
+      "targetPose": {
+        "armPose": "paizuri"
+      },
+      "conditions": {
+        "minTrustLevel": 4,
+        "minDevelopLevel": 3,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bisa tolong tekan lenganmu ke dalam seolah sedang merapatkan dadamu? Aku ingin memijat area belahan dadamu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "...Hah? Dadaku...? S-seperti ini...?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Iya, posisi itu. Terima kasih."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_front",
+      "instructionName": "Minta dia mengangkangkan kakinya",
+      "category": "Leg Position",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 3,
+        "minDevelopLevel": 2,
+        "currentOrientation": "front",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku ingin memijat bagian paha dalam juga... bisa tolong buka sedikit kakimu?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Cih, baiklah."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_back",
+      "instructionName": "Minta dia mengangkangkan kakinya",
+      "category": "Leg Position",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 2,
+        "currentOrientation": "back",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku ingin memijat bagian paha dalam juga... bisa tolong buka sedikit kakimu?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Oke, paham."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_front",
+      "instructionName": "Minta dia merapatkan kakinya",
+      "category": "Leg Position",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "currentLegPose": "open",
+        "states": [
+          "normal",
+          "sleepy",
+          "sleeping"
+        ]
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu sudah boleh merapatkan kakimu sekarang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Ya."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_back",
+      "instructionName": "Minta dia merapatkan kakinya",
+      "category": "Leg Position",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu sudah boleh merapatkan kakimu sekarang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Ya."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_hipup_open",
+      "instructionName": "Minta dia mengangkat pinggul dan mengangkangkan kakinya",
+      "category": "Special Position",
+      "priority": 4,
+      "targetPose": {
+        "legPose": "hipup_open"
+      },
+      "conditions": {
+        "minTrustLevel": 5,
+        "minDevelopLevel": 4,
+        "currentOrientation": "back",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bisa tolong angkat pinggulmu dan posisikan dirimu berlutut? Aku ingin fokus ke area pinggang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "...Hah? Posisi ini... memalukan sekali..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ini demi perawatannya. Terima kasih."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_normal_from_hipup",
+      "instructionName": "Minta dia kembali ke posisi yang nyaman",
+      "category": "Leg Position",
+      "priority": 8,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "hipup_open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu sudah boleh kembali ke posisi yang nyaman sekarang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Cih, akhirnya."
+        }
+      ]
+    },
+    {
+      "instructionId": "wake_up",
+      "instructionName": "Bangunkan Tatsu-nee",
+      "category": "Other",
+      "priority": 1,
+      "targetPose": null,
+      "effect": "wake_up",
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "displayMode": "sleeping-only"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, bisa bangun sebentar?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Hah...? ...Oh... Aku ketiduran..."
+        }
+      ]
+    }
+  ]
+}

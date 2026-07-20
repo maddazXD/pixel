@@ -1,0 +1,357 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──9週目の朝。\nナナちゃんとの関係は、もはや単なる整体師と客という枠を完全に超えていた。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（9週間…ナナちゃんの身体は完全に開花した。そして心も…）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "おはようございます…先生…。",
+      "voiceFile": "story_day9_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "おはよう、ナナちゃん。今日は顔色がいいね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "それは…昨日の夜、よく眠れたからかもしれません…。",
+      "voiceFile": "story_day9_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "よく眠れた？それはいいことだね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "はい…最近、身体がリラックスしやすくなって…。",
+      "voiceFile": "story_day9_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "でも、やっぱり先生の施術を受けたいです…。",
+      "voiceFile": "story_day9_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "素直でいいね。そういう正直なナナちゃんは、施術し甲斐があるよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "先生の施術は…本当に特別です…。",
+      "voiceFile": "story_day9_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ナナちゃんの身体が、俺の施術を完璧に受け入れてくれるからね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "もう先生の手なしじゃ…満足できない身体になっちゃいました…。",
+      "voiceFile": "story_day9_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（完全に俺の施術に依存してる…最高の状態だ。）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…今日はお願いがあるんです…。",
+      "voiceFile": "story_day9_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "なんだい？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "もっと…強く…施術してほしいんです…。",
+      "voiceFile": "story_day9_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "前回は優しくしてもらったんですけど…今日はもっと…。",
+      "voiceFile": "story_day9_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "グイグイって…激しく…押してほしいんです…。",
+      "voiceFile": "story_day9_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "激しく？そんなに強くして大丈夫？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "最近、優しい施術だけじゃ…物足りなくて…。",
+      "voiceFile": "story_day9_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "もっと強い刺激が…欲しくなっちゃったんです…。",
+      "voiceFile": "story_day9_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それは素晴らしい変化だね。自分の身体と向き合えてる証拠だ。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "先生のおかげです…。先生が私の身体を目覚めさせてくれたから…。",
+      "voiceFile": "story_day9_013"
+    },
+    {
+      "id": "choice_massage9",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ナナちゃんの要望、しっかり受け止めたよ。",
+      "choices": [
+        {
+          "label": "でも無理はしないようにね",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "careful_path"
+        },
+        {
+          "label": "今日はナナちゃんが耐えられる限界まで激しくするよ",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "limit_path"
+        },
+        {
+          "label": "もう完全に俺専用の身体だね",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "mine_path"
+        }
+      ]
+    },
+    {
+      "id": "careful_path",
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "はい…先生は優しいですね。",
+      "voiceFile": "story_day9_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ナナちゃんは大切な客だからね。プロとして、しっかりケアしないと。",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "limit_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "限界まで…激しく…？",
+      "voiceFile": "story_day9_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう。ナナちゃんが求める強さで、過去最高に激しく施術してあげる。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "は、はい…お願いします…。",
+      "next": "prepare_massage",
+      "voiceFile": "story_day9_016"
+    },
+    {
+      "id": "mine_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "もう完全に俺専用の身体だね。俺の施術なしじゃ満足できないでしょ？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "せ、先生専用…？",
+      "voiceFile": "story_day9_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そんな言い方…恥ずかしいです…。",
+      "voiceFile": "story_day9_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "でも事実だろ？ナナちゃんの身体はもう俺にしか反応しない。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "…それは…そうかもしれません…。",
+      "next": "prepare_massage",
+      "voiceFile": "story_day9_019"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…もう一つお願いが…。",
+      "voiceFile": "story_day9_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "何？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "今日は…あの特別なウェア…もっと小さくできませんか…？",
+      "voiceFile": "story_day9_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "もっと小さく？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "はい…もっと肌を出したいんです…。",
+      "voiceFile": "story_day9_022"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "先生に…全部見てもらいたくて…直接触ってもらいたくて…。",
+      "voiceFile": "story_day9_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（自分から露出を求めるなんて…完全に開発されたな。）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そこまで言うなら、いっそウェアなしでもいいんじゃない？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "え…そ、それは…。",
+      "voiceFile": "story_day9_024"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "さすがにまだ……恥ずかしいです…。",
+      "voiceFile": "story_day9_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "なんてね。でも、ナナちゃんがそこまで言うなら、今度もっと小さいのを探しておくよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "ほ、本当ですか…？ありがとうございます…。",
+      "voiceFile": "story_day9_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "じゃあ今日は、いつものウェアに着替えてもらおうか。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "（いつものウェアじゃ…もう満足できなくなってる…）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day9_027"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "（もっと…見てほしい…触ってほしいって思ってる…こんな自分が…ちょっと…怖い…）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day9_028"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "き、着替えました…。",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day9_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（もう見慣れたはずなのに…ナナちゃんの成長した身体は本当に魅力的だ…）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "今日もよろしくお願いします…。",
+      "voiceFile": "story_day9_030"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "最高だよ。ナナちゃんは本当に美しい。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "あ、ありがとうございます…。",
+      "voiceFile": "story_day9_031"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "…お願いします…。今日は…特別な施術を…。",
+      "voiceFile": "story_day9_032"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ああ。今日はナナちゃんが望む限り、どこまでも深く施術してあげるよ。覚悟はいい？"
+    }
+  ]
+}

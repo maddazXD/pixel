@@ -1,0 +1,50 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Minggu ke-12... Tiga bulan telah berlalu.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia mondar-mandir di depan klinik dua jam sebelum jadwal pertemuannya... Itu agak menggemaskan.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia bilang padaku, 'Aku bisa melepas kewaspadaanku saat bersamamu.')"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Seorang bos rentenir, menunjukkan sisi rentannya hanya di depanku...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('Aku mengandalkanmu mulai sekarang juga'... ya.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Ini adalah tenggat waktu pelunasan pinjaman. Hasil dari 3 bulan ini akan diuji.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Aku harus memastikan tidak ada penyesalan.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, apa yang harus kulakukan mulai dari sini...)"
+    }
+  ]
+}

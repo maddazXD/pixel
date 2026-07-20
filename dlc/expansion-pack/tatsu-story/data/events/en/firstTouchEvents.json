@@ -1,0 +1,1335 @@
+[
+  {
+    "id": "tatsu_first_touch_boobs",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "boobs",
+      "tool": "hand"
+    },
+    "priority": 8,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...! Hei, ke mana tanganmu itu..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "M-Maaf! Ini perawatan otot dada! Untuk kasusmu, Tatsu-nee, ada banyak ketegangan di sini, jadi..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Yah, masuk akal sih. Dengan ukuran dada sebesar ini."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Ini cukup tegang... Aku akan memijat bagian otot yang lebih dalam, jadi aku akan menekan sedikit lebih kuat."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Ukuran K...aku menyentuhnya secara langsung...tanganku...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Mmh...! Hei, jangan asal meremasnya begitu..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Aku tidak meremasnya, ini perawatan!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Sama saja."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(...Sebenarnya tidak sama sekali, tapi aku diam saja deh untuk sekarang...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Yah, rasanya memang lebih enak. ...Lanjutkan."
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_touch_nipple",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "nipple",
+      "tool": "hand"
+    },
+    "priority": 9,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Iik...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Hei...! Kamu baru saja menyentuh putingku...kan...!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "M-Maaf! Itu perawatan limfatik di sekitar kelenjar susu...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Kelenjar susu? ...Itu tadi tepat di tengah putingku."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Perubahan hormon bisa membuat area puting mengeras. Terutama bagi wanita dengan payudara besar..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Cukup dengan alasanmu."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Jadi, ini benar-benar berhasil?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Ya. Ini melancarkan aliran darah dan membantu meredakan bahu yang kaku juga."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "........"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Baiklah. Tapi kalau kamu menyentuhnya dengan pikiran kotor...kamu tahu apa yang akan terjadi."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Y-Ya...! Aku akan merawatmu secara profesional...!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Padahal pikiranku isinya cuma hal-hal kotor...)"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_touch_vagina",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "vagina",
+      "tool": "hand"
+    },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...!!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Hei...! Ke mana tadi kamu...menaruh tanganmu...!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "I-Ini perawatan otot dasar panggul! Itu sudah disebutkan di formulir persetujuan...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Kamu sendiri yang menandatangani formulir persetujuan itu! Aku tidak pernah setuju dengan ini!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "T-Tapi... kalau kelenjar getah bening inguinal tersumbat, bahumu yang kaku itu bakal jadi kronis...! Tanpa menangani area ini, kita nggak bisa menyembuhkan akar masalahnya...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "........"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Apa itu beneran bakal bantu bahuku?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "I-Iya. Ketidaksejajaran panggul yang memengaruhi bahu itu cukup umum, kok."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "........"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Baiklah. Tapi kalau aku bilang berhenti, kamu harus langsung berhenti."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "I-Iya! Tentu saja!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee... memberiku izin...!)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Aku mungkin... bakal mengeluarkan suara aneh, tapi... pura-pura saja kamu nggak dengar..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "I-Iya...!"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_touch_butt",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "butt",
+      "tool": "hand"
+    },
+    "priority": 8,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...! Hei, bagian bokong itu agak berlebihan..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Ini perawatan gluteal. Bokong yang kaku bisa menyebabkan sakit punggung bawah."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Kamu mau bilang kalau mengusap bokongku bisa menyembuhkan sakit punggung?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Iya. Orang yang duduk berjam-jam biasanya rentan mengalami ketegangan di sini."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Aku memang duduk sepanjang hari, tapi..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Kencang sekali... tubuh Tatsu-nee luar biasa...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Senyum licik apa itu."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "A-Aku nggak senyum licik! Aku lagi fokus sama perawatannya!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Hmph. Cepat selesaikan."
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_touch_thigh",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "thigh",
+      "tool": "hand"
+    },
+    "priority": 6,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Paha...?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Iya. Berjalan pakai sepatu hak tinggi itu bikin otot paha tegang banget."
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Ya, aku memang pakai sepatu hak 10cm setiap hari."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Itu cukup ekstrem... Aku bakal bantu melonggarkannya sampai tuntas."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Paha Tatsu-nee... halus sekali... dan berisi...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Mmh... ternyata... efektif juga..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Aku bakal kerjakan bagian dalamnya juga. Di situ tempat kelenjar getah bening berkumpul."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Jangan... terlalu ke atas..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Tenang saja, cuma bagian yang perlu saja kok."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(...Bagian yang perlu, ditambah sedikit lagi bagian lainnya...)"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_touch_stomach",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "stomach",
+      "tool": "hand"
+    },
+    "priority": 5,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...! Perutku..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Ini perawatan area perut. Membantu mengatur fungsi organ dalam."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Perutku...agak...geli..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee...ternyata geli di bagian perut...imut sekali...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Sepertinya stres mulai memengaruhi sistem pencernaanmu. Aku akan memijatnya melingkar pelan..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Mmh...berhenti...itu geli...!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...Apa perutmu terasa lebih hangat?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Iya, sebenarnya...terasa hangat dan nyaman..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Lanjutkan saja. ...Tapi pelan-pelan ya."
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_touch_armpit",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "armpit",
+      "tool": "hand"
+    },
+    "priority": 7,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Hyah...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "........"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Lupakan suara tadi."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "I-Iya...!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee mengeluarkan suara 'Hyah'...aku akan mengingatnya selamanya...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Area ketiak punya banyak kelenjar getah bening, dan wanita dengan payudara besar cenderung sering mengalami penyumbatan di sini."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Dadaku lagi, ya..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Aku akan menggunakan gerakan mengalir."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Mmh...itu membuatku merinding...rasanya aneh..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Itu tandanya sisa-sisa racun mulai mengalir keluar. Ini juga bakal sangat membantu bahumu yang kaku."
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Kalau begitu lakukan dengan benar. ...Tapi mungkin...aku akan mengeluarkan suara."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Sebenarnya, aku justru ingin dengar lebih banyak...)"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_touch_anus",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "anus",
+      "tool": "hand"
+    },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...!!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Hei. Tadi kamu sentuh bagian mana."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "I-Ini perawatan otot sfingter anal...! Ini otot kunci dasar panggul...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Itu sudah kelewatan..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "T-Tapi kalau area ini tegang, keseimbangan panggul jadi kacau, dan kaku bahu maupun sakit punggungmu tidak akan sembuh total...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "........"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Kamu tahu, kamu selalu mengaitkan semuanya dengan kaku bahu, kan?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "T-Tidak... ini benar-benar ada hubungannya...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "........"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Baiklah. Aku akan... percaya padamu."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Tapi jangan beritahu siapa pun soal ini. ...Selamanya."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Aku tidak akan...! Benar-benar tidak akan!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee... percaya padaku...)"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_touch_clitoris",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "clitoris",
+      "tool": "hand"
+    },
+    "priority": 11,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Ah...!!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Ngh......! Hei... barusan itu..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "M-Maaf...! Itu perawatan untuk menstimulasi saraf di sekitar area klitoris...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Diamlah... aku tidak butuh penjelasannya..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "(...Saat itu disentuh... pikiranku langsung kosong...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee... wajahnya merah padam...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...Apakah tidak apa-apa... untuk melanjutkannya...?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "........."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Jangan terus... bertanya. ...Ini perawatan yang diperlukan... kan?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...!"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_penis_insertion_awake",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "vagina",
+      "tool": "penis",
+      "isSleeping": false
+    },
+    "priority": 12,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...! Hei... itu... apa yang kau...!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Ini alat khusus untuk melemaskan otot dalam... Dengan menggunakan tekanan vagina pada otot dasar panggul..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Pembohong...! Itu jelas-jelas...!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "T-Tolong rileks... itu tidak akan masuk kalau kamu tegang..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Ngh..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Tunggu..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...Kamu tidak apa-apa? Aku akan berhenti kalau sakit..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Aku... um..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Ini... pertama kalinya bagiku..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Hah... pertama kalinya...?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee... masih perawan...? Bos rentenir, Tatsu-nee...?)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Kalau kamu tertawa, aku tidak akan pernah memaafkanmu..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Aku tidak akan tertawa. ...Aku akan melakukannya pelan-pelan..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Mmh... ah... masuk..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Ngh... mmh... sempit sekali... ah... ♡"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...Jangan memaksakan diri. Sedikit demi sedikit..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Apa ini... rasanya sama sekali tidak seperti... yang kubayangkan..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Rasanya... hangat sekali... ♡"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Di dalam Tatsu-nee... sempit sekali...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Bisa-bisanya kamu... melihatku seperti ini..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Astaga... ini benar-benar memalukan... mmh... ♡"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_penis_insertion_sleeping",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "vagina",
+      "tool": "penis",
+      "isSleeping": true
+    },
+    "priority": 12,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee... benar-benar pingsan...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Kesempatan seperti ini... mungkin tidak akan datang lagi...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Mmm..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Sempit sekali... mungkinkah... Tatsu-nee itu...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Unh... mmh... ♡"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(...Sudah masuk... apakah Tatsu-nee... sebenarnya masih perawan...?)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Ah... fwah... ♡"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Mmm... rasanya... hangat... ♡"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Bahkan saat tidur pun... wajahnya terlihat meleleh... Tatsu-nee yang itu...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Kalau dia bangun, dia pasti tidak akan pernah menunjukkan wajah ini...)"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_penis_insertion_anus_awake",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "anus",
+      "tool": "penis",
+      "isSleeping": false
+    },
+    "priority": 12,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...!? Hei...! Itu... lubang yang salah...!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "M-Maaf...! Ini juga bagian dari perawatan otot dasar panggul yang dalam...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Meskipun begitu... jangan lubang yang itu...!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Tolong rileks... aku tidak akan memaksanya..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Paksa saja, katanya...mmh...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Tunggu...ini mulai masuk...rasanya aneh...!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Pantat Tatsu-nee...sangat sempit...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Hentikan...ini...ada yang...salah..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Jauh di dalam perutku...terasa...aneh...mmh... ♡"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...Apa itu sakit...?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Aku tidak tahu apa ini sakit atau tidak...aku tidak tahu...ini pertama kalinya bagiku..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Kau harus...bertanggung jawab atas ini...serius... ♡"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_penis_insertion_anus_sleeping",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "anus",
+      "tool": "penis",
+      "isSleeping": true
+    },
+    "priority": 12,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Saat Tatsu-nee sedang tidur...yang satu ini juga...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Mmh...?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Dia benar-benar meremasnya...perlahan...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Unh...mmm..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(...Sudah masuk...di dalam pantat Tatsu-nee...terasa berkedut...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Fwah...apa...ini... ♡"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Mmh...perutku...terasa aneh... ♡"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Dia mengigau 'aneh' saat tidur...tubuhnya memang jujur...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Hah...mmm... ♡"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_fellatio_awake",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "mouth",
+      "tool": "penis",
+      "isSleeping": false
+    },
+    "priority": 12,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Hei. Apa yang baru saja kau taruh di depan mulutku."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "I-Ini alat pijat oral...! Menstimulasi pangkal lidah bisa mengaktifkan sistem saraf otonom..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Itu jelas-jelas batang titit."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...! T-Tidak...hanya mirip saja...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_01",
+        "text": "........"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Terserah, terserah deh."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Hah...?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Aku sudah membiarkanmu melakukan semuanya. Apa bedanya dengan mulut sekarang..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Tapi kalau kau sampai mengeluarkan sesuatu yang aneh...kau tahu apa akibatnya."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "I-Iya...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Mmh...mmph..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Ugh...di dalam mulut Tatsu-nee...lidahnya menyentuh itu...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Mmm...apa begini...caranya...? ...Mmph...slurp..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Dia kikuk tapi...ini rasanya...luar biasa intens...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Aku belum pernah melakukan ini sebelumnya...jadi meskipun aku payah...jangan komplain ya..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Fakta bahwa dia payah justru itulah yang membuatnya...terasa paling nikmat...)"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_fellatio_sleeping",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "mouth",
+      "tool": "penis",
+      "isSleeping": true
+    },
+    "priority": 12,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee...mulutnya sedikit terbuka...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(...Aku masuk ya...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "...Mmph..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Ugh...mulutnya hangat sekali...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Mmh...chuu...slurp..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Dia sedang tidur tapi...dia menghisapnya secara naluriah...!)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Mmm...mmh...slurp..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Kalau Tatsu-nee bangun...aku pasti sudah mati...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(...Untuk kali ini saja...tolong maafkan aku...)"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_paizuri_awake",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "boobs",
+      "tool": "penis",
+      "isSleeping": false
+    },
+    "priority": 12,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Hei. Kenapa benda itu terjepit di antara dadaku."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Ini perawatan kompresi menggunakan beban payudara...! Dengan menjepit instrumennya pakai dada, itu bisa mencapai otot pektoral bagian dalam..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Terserah deh. Ini perawatan lagi, kan?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Dia menyerah lebih cepat sekarang...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Jadi aku harus apa? ...Begini...ditekan jadi satu...?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Dia menekannya sendiri...terbungkus dalam K-cups...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "I-Iya...persis seperti itu...tambah tekanannya sedikit lagi..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Begini...? ...Mmh...itu bergerak..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Ya Tuhan...lembut sekali...aku bisa gila rasanya...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Wajahmu...kelihatan gila sekali sekarang..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "M-Maaf...! Aku bakal fokus ke pengobatannya...!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Pembohong. ...Terserah deh...lakukan sesukamu..."
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_paizuri_sleeping",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "boobs",
+      "tool": "penis",
+      "isSleeping": true
+    },
+    "priority": 12,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Ukuran K Tatsu-nee...bahkan saat telentang, masih sebesar ini...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(...Biarkan aku menyelinap di antaranya...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Mmm..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Ugh...hangat banget...lembut sekali...dan rasanya berat...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Ini dia paizuri ukuran K...benar-benar seperti mimpi...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Mmm...kenyal... ♡"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Dia berbalik saat tidur...payudaranya menekan satu sama lain secara alami...sesak sekali...!)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Fwah...hangatnya... ♡"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Apa Tatsu-nee...menganggapku guling atau semacamnya...)"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_kiss_awake",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "mouth",
+      "tool": "tongue",
+      "isSleeping": false
+    },
+    "priority": 12,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...!?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Apa yang baru saja...kau lakukan..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Mukosa oral...stimulasi kontak untuk...pengaturan sistem saraf otonom..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Itu namanya ciuman."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "........"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "........"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Kau sudah menyentuh bagian bawahku...dan dadaku...segala macam tempat..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Tapi ciuman...entah kenapa rasanya paling memalukan...ada apa denganku..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee...telinganya merah padam...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Sekali lagi."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Hah...?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Tidak dengar? Kubilang...lakukan lagi..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Tadi aku...tidak sempat menikmatinya dengan benar..."
+      }
+    ]
+  },
+  {
+    "id": "tatsu_first_kiss_sleeping",
+    "triggerType": "firstTouch",
+    "triggerCondition": {
+      "partId": "mouth",
+      "tool": "tongue",
+      "isSleeping": true
+    },
+    "priority": 12,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee...dia terlihat sangat cantik saat tidur...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Dia sangat menakutkan saat bangun...tapi sekarang...dia terlihat seperti gadis biasa...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(...Aku akan menciumnya...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "...Mmm..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Bibirnya...lembut sekali...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "Mmh...chuu... ♡"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Dia sudah tidur...tapi dia membalas ciumanku...?)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_sleeping_01",
+        "text": "...Mmm...sekali lagi... ♡"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(...Tatsu-nee. Mengigau seperti itu...itu namanya curang...)"
+      }
+    ]
+  }
+]

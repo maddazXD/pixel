@@ -1,0 +1,34 @@
+{
+  "id": "tatsu-story",
+  "name": "タツ姐ストーリー",
+  "nameEn": "Tatsu-nee Story",
+  "version": "1.0.5",
+  "description": "闇金社長タツ姐との12週間。借金返済のプレッシャーの中、週1のマッサージで始まる新たな物語。",
+  "descriptionEn": "12 weeks with Tatsu-nee, the loan shark boss. A new story begins with weekly massages under the pressure of debt repayment.",
+  "author": "nanachan-massage team",
+  "type": "story",
+  "heroine": {
+    "id": "tatsu",
+    "name": "タツ姐（辰巳麗）",
+    "nameEn": "Tatsu-nee (Tatsumi Urara)",
+    "age": 26,
+    "description": "闇金『ドラゴン・ファイナンス』社長。冷酷無比な取り立て屋だが意外と純情。Kカップの巨乳で慢性的な肩こりに悩む。"
+  },
+  "totalWeeks": 12,
+  "dialogues": {
+    "weekly": "data/dialogues/ja/day{week}.json",
+    "endings": {
+      "true": "data/dialogues/ja/ending_true.json",
+      "normal": "data/dialogues/ja/ending_normal.json",
+      "bad": "data/dialogues/ja/ending_bad.json",
+      "trust_max": "data/dialogues/ja/ending_trust_max.json",
+      "develop_max": "data/dialogues/ja/ending_develop_max.json",
+      "shop": "data/dialogues/ja/ending_shop.json",
+      "shishou": "data/dialogues/ja/ending_shishou.json"
+    }
+  },
+  "assets": {
+    "character": "assets/images/character/tatsu/",
+    "backgrounds": "assets/images/backgrounds/"
+  }
+}

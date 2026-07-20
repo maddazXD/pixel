@@ -1,0 +1,481 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Pagi di minggu ketiga. Pijatan minggu lalu pasti membuahkan hasil—aku mulai merasakan kepercayaan Nana padaku."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia datang dua minggu berturut-turut... Mungkinkah ini berarti...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tidak, terlalu dini untuk menyimpulkan. Tapi dia jelas menyukai perawatanku.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Mungkin hari ini... aku bisa melangkah lebih jauh...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tapi pertama-tama, biarkan aku memeriksa keuangan minggu lalu...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(…Seperti dugaanku, biaya tetapnya terlalu tinggi. Kalau begini terus, aku malah rugi, apalagi melunasi utangku...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Bel pintu berbunyi. Apakah itu Nana?)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Hei, kau ada di dalam?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "T-Tatsu...!",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Sial... itu Tatsu si rentenir. Dia datang untuk menagih uang yang kupinjam bulan lalu...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tapi, payudaranya luar biasa sekali... Kalau sebesar itu, bahunya pasti pegal sekali...)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Ada apa dengan wajahmu itu? Kau tidak terlihat senang melihat pelanggan.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "T-tidak, bukan begitu...",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Jadi? Kau sudah menyiapkan pembayaran bulan ini, kan?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_choice",
+      "character": "player",
+      "expression": "alert",
+      "text": "Y-yah... aku butuh waktu sedikit lagi...",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "Mencari alasan",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_excuse"
+        },
+        {
+          "label": "Berjanji akan membayar minggu depan",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_promise"
+        },
+        {
+          "label": "Meminta pinjaman tambahan 100.000",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_borrow"
+        }
+      ]
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "Yah, pelangganku tidak banyak... dan dengan resesi ini...",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Aku tidak mau dengar alasanmu. Aku bilang segera bayar uangnya.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "A-aku minta maaf...",
+      "hideCharacter": true,
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_promise",
+      "character": "player",
+      "expression": "alert",
+      "text": "Aku pasti akan membayar jumlah penuhnya minggu depan!",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Minggu depan? Kau pikir kau punya waktu untuk bilang begitu?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "A-aku minta maaf...",
+      "hideCharacter": true,
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_borrow",
+      "character": "player",
+      "expression": "alert",
+      "text": "Sebenarnya... aku ingin meminjam tambahan 100.000...",
+      "hideCharacter": true
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Hah? Kau bahkan tidak bisa membayar utangmu dan kau mau pinjam lagi?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "...Baiklah. Tapi bunganya jadi dua kali lipat. Kalau lain kali kamu nggak bisa bayar... kamu tahu apa yang bakal terjadi, kan?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tatsu mengeluarkan segepok uang dari saku dadanya. Saat dia mencondongkan tubuh ke depan, aku bisa melihat belahan dadanya...)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Nih, 100.000. Itu bikin utangmu jadi 600.000.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Kamu meminjam 100.000G",
+      "moneyDelta": 100000,
+      "debtDelta": 100000,
+      "playSE": "cash_register",
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_threat",
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "...Aku cuma mampir buat ngecek kamu hari ini. Lain kali, nggak bakal ada ampun lagi.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Kalau lain kali kamu nggak bisa bayar, aku bakal suruh kamu jual organmu. Kamu masih bisa hidup pakai satu ginjal, kan?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Itu menakutkan banget... Tapi tetap saja, bahu Tatsu kelihatan kaku banget. Menopang dada seberat itu...)"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Sampai jumpa. Sebaiknya kamu siap-siap pas aku datang lagi nanti.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Suara pintu tertutup... Hah... Aku diancam lagi...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tapi Tatsu sendiri kayaknya butuh perawatan... Dengan payudara sebesar itu, sakit bahunya pasti parah banget... Tunggu, apa yang aku pikirkan?)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Bel pintu bunyi lagi... Kali ini pasti Nana, kan?)"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "Selamat pagi! Tolong bantu aku lagi ya hari ini.",
+      "characterImage": null,
+      "voiceFile": "story_day3_001"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "Tadi aku papasan sama wanita yang kelihatan marah banget... Apa dia pelanggan?",
+      "characterImage": null,
+      "voiceFile": "story_day3_002"
+    },
+    {
+      "character": "player",
+      "expression": "doubt_closemouth_sweat",
+      "text": "Ah, iya... Cuma kenalan yang mampir sebentar. Nggak usah dipikirin."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Begitu ya... Tapi wajahmu kelihatan agak pucat. Kamu baik-baik saja?",
+      "characterImage": null,
+      "voiceFile": "story_day3_003"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Aku baik-baik saja. Aku senang kamu mengkhawatirkanku, Nana."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Ngomong-ngomong, makasih ya sudah datang lagi hari ini. Bagaimana perasaanmu?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "Berkat pijatan minggu lalu, aku tidur nyenyak banget. Bahuku juga terasa enak...",
+      "characterImage": null,
+      "voiceFile": "story_day3_004"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Tapi hari ini... punggung bawahku terasa agak berat...",
+      "characterImage": null,
+      "voiceFile": "story_day3_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Punggung bawah, ya. Itu mengkhawatirkan. Beratnya seperti apa?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Yah... rasanya pegal, dan kadang berdenyut... Rasanya lebih mendingan kalau aku duduk.",
+      "characterImage": null,
+      "voiceFile": "story_day3_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Terus juga... di sekitar paha bagian dalam, rasanya agak kaku...",
+      "characterImage": null,
+      "voiceFile": "story_day3_007"
+    },
+    {
+      "id": "choice_massage3",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Begitu ya. Kekakuan dari punggung bawah sampai ke paha. Aku harus mengerjakannya dengan hati-hati.",
+      "choices": [
+        {
+          "label": "Mungkin itu karena posisi panggul yang tidak sejajar",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "pelvis_path"
+        },
+        {
+          "label": "Itu area yang sensitif",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "sensitive_path"
+        },
+        {
+          "label": "Sakit punggung bawah... mungkinkah ini...",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "check_path"
+        }
+      ]
+    },
+    {
+      "id": "pelvis_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Ketidaksejajaran panggul...?",
+      "characterImage": null,
+      "voiceFile": "story_day3_008"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Iya. Terlalu lama duduk atau kebiasaan postur tubuh yang salah bisa bikin panggul jadi tidak sejajar, yang akhirnya berdampak ke punggung bawah dan paha."
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Begitu ya... Akhir-akhir ini aku memang sering duduk dan belajar dalam waktu lama.",
+      "characterImage": null,
+      "next": "change_clothes",
+      "voiceFile": "story_day3_009"
+    },
+    {
+      "id": "sensitive_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "S-sensitif... J-jangan bilang begitu...",
+      "characterImage": null,
+      "voiceFile": "story_day3_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ah, bukan, maksudku area itu punya banyak saraf, jadi memang sensitif kalau dirangsang."
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Tapi justru karena itulah perawatan yang tepat di sana bisa terasa sangat enak."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "T-terasa enak... Begitukah...",
+      "characterImage": null,
+      "next": "change_clothes",
+      "voiceFile": "story_day3_011"
+    },
+    {
+      "id": "check_path",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Sakit punggung bawah... Apa kamu melakukan olahraga berat akhir-akhir ini?"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "Hah? T-tidak... tidak ada olahraga khusus...",
+      "characterImage": null,
+      "voiceFile": "story_day3_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Kalau begitu mungkin karena sering begadang... atau posisi yang kurang nyaman saat di tempat tidur...?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "K-kenapa kamu tanya begitu!?",
+      "characterImage": null,
+      "voiceFile": "story_day3_013"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Yah, penyebab sakit punggung itu bisa tidak terduga. Misalnya... apa kamu punya pacar?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "A-aku tidak punya...",
+      "characterImage": null,
+      "voiceFile": "story_day3_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Maaf, maaf. Tapi terkadang sakit punggung wanita muda bisa disebabkan oleh... malam-malam yang intens... kamu tahu kan."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Apa...! Jangan bilang hal-hal aneh seperti itu...!",
+      "characterImage": null,
+      "voiceFile": "story_day3_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Benar, tentu saja. Nana kan gadis yang serius.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Baiklah kalau begitu, bisa tolong ganti ke pakaian perawatan seperti biasanya?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Iya... aku mulai terbiasa sekarang...",
+      "characterImage": null,
+      "voiceFile": "story_day3_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(Awalnya memalukan sekali... tapi mungkin pakaian ini memang memudahkan untuk dipijat...)",
+      "characterImage": null,
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day3_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Aku sudah ganti. Tolong bantu aku hari ini ya.",
+      "characterImage": null,
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day3_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Terima kasih. Aku akan merawat area punggung bawahmu dengan baik hari ini."
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Baiklah, mari kita mulai perawatannya."
+    }
+  ]
+}

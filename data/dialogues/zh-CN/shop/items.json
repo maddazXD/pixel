@@ -1,0 +1,371 @@
+{
+  "lotion_basic": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "您要买润滑液呀♡ 这个用起来非常顺滑哦♡\n我会仔细为您说明使用方法的♡"
+      }
+    ]
+  },
+  "secret_book": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "双马尾教经典吗...? 呵呵♡ 客人您意外地大胆呢♡\n这本书里写的都是很色情的内容哦♡"
+      }
+    ]
+  },
+  "pillow_comfort": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "安眠枕呀♡ 这个枕头超级蓬松舒服的♡\n睡眠质量会大幅提高哦♡"
+      }
+    ]
+  },
+  "medical_equipment": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "白大褂和人体模型套装呀♡\n穿上这个就会看起来像很厉害的整体师哦♡"
+      }
+    ]
+  },
+  "drop_bed": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "哇♡ 您在考虑买落差床吗?\n虽然是专业级的高级货，但施术效果真的会完全不同哦♡"
+      }
+    ]
+  },
+  "relax_oil": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "放松精油呀♡ 香气很好闻能让心情平静下来♡\n很适合容易紧张的客人哦♡"
+      }
+    ]
+  },
+  "energy_drink": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "能量饮料呀♡\n喝了这个就能一整天精神饱满地做施术了♡"
+      }
+    ]
+  },
+  "sleep_powder": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "天然安眠粉呀♡ 有薰衣草的温柔香气♡\n能马上进入深度睡眠哦♡"
+      }
+    ]
+  },
+  "chili_powder": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "天然辣椒粉呀♡ 虽然是强力的提神醒脑剂，但刺激性相当强，使用时请务必小心♡"
+      }
+    ]
+  },
+  "aphrodisiac_herb": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "那个... 这是秘传的草药精华♡\n效果非常强力，使用的时候要小心哦♡"
+      }
+    ]
+  },
+  "beast_charge_drink": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "呵呵♡ 野兽充能Z吗...♡\n使用后马上就... 会精力充沛起来哦♡"
+      }
+    ]
+  },
+  "sleep_guard_tablet": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "睡眠保持片呀♡\n一旦睡着就会一直保持深度睡眠的药物♡"
+      }
+    ]
+  },
+  "climax_blocker": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "寸止润滑液吗...♡\n涂了这个之后无论多舒服都没法去了...♡"
+      }
+    ]
+  },
+  "incense_toroinkо": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "媚药香的『融淫香』呀...♡\n甜甜的香气会充满整个房间... 身体会变得非常敏感哦♡"
+      }
+    ]
+  },
+  "part_time_magazine": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "兼职信息杂志呀♡ 上面有很多好的兼职信息♡\n工作的选择会增加哦♡"
+      }
+    ]
+  },
+  "keiba_magazine": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "赛马信息杂志呀♡ 有最新的赛马数据♡\n一夜暴富的机会来了呢♡"
+      }
+    ]
+  },
+  "erotic_manual_nipple": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "...性感按摩大全的乳头篇呀♡\n这是专业技术书，请好好学习... 让客人满意吧♡"
+      }
+    ]
+  },
+  "erotic_manual_vagina": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "哇...♡ 性感按摩大全的阴道篇呀♡ 这是相当高级的书呢♡\n用这本书好好学习... 让客人满足吧♡"
+      }
+    ]
+  },
+  "erotic_manual_clitoris": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "性感按摩大全的... 阴蒂篇呀♡ 这需要很细腻的技术呢♡\n好好学习，让客人开心吧♡"
+      }
+    ]
+  },
+  "erotic_manual_anal": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "性感按摩大全的... 肛门篇呀♡ 虽然需要相当高难度的技术...\n但对一流的{{playerName}}来说是必需的知识呢♡ 加油♡"
+      }
+    ]
+  },
+  "gift_flowers": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "花束呀♡ 送给女性的经典礼物呢♡\n是要送给重要的人吗?"
+      }
+    ]
+  },
+  "gift_matcha_chocolate": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "京都宇治抹茶巧克力呀♡ 看起来很好吃呢♡\n对喜欢抹茶的人来说是最棒的礼物♡"
+      }
+    ]
+  },
+  "gift_headphones": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "耳机呀♡ 送给喜欢音乐的人最棒的礼物呢♡\n虽然价格有点贵，但音质真的非常出色哦♡"
+      }
+    ]
+  },
+  "gift_music_box": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "音乐盒呀♡ 很浪漫很棒的礼物呢♡\n温柔的音色能治愈心灵哦♡"
+      }
+    ]
+  },
+  "gift_posture_support": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "姿势矫正器呀♡ 关心健康的温暖礼物呢♡\n长时间学习或办公的人会很喜欢的♡"
+      }
+    ]
+  },
+  "gift_book_stand": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "木制书架呀♡ 送给喜欢读书的人很贴心的礼物呢♡\n天然木的温暖感很棒♡"
+      }
+    ]
+  },
+  "gift_black_lingerie": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "黑色蕾丝内衣套装吗...♡\n非常成熟性感呢♡ 是要送给特别的人吗?♡"
+      }
+    ]
+  },
+  "gift_pink_rotor": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "粉色跳蛋呀...♡ 虽然又小又可爱，但振动非常强劲哦♡\n我也很喜欢用...♡"
+      }
+    ]
+  },
+  "gift_custom_dildo": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "这是整体师的...? 好... 好雄伟的尺寸呢♡ 连血管都复刻出来了...♡\n是要送给特别的人吗? 她一定会很开心的♡"
+      }
+    ]
+  },
+  "gift_massage_av": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "这个系列非常受欢迎哦♡ 施术场景超级真实...\n女优好像真的很舒服的样子... 光是看着就心跳加速了♡"
+      }
+    ]
+  },
+  "banner_flag": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "旗帜呀！设置了这个之后，路过的人也能轻易注意到哦♡\n价格实惠集客效果满分!"
+      }
+    ]
+  },
+  "plant_decoration": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "观叶植物能让店铺氛围大大改善哦♡\n客人也会更放松，回头率会提高的! 打理也很简单♡"
+      }
+    ]
+  },
+  "premium_speaker": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "高级音响呀。音质完全不一样哦♡\n播放治愈音乐的话，就像高级沙龙一样的氛围了!"
+      }
+    ]
+  },
+  "air_purifier": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "空气净化器是必备的! 搭载了等离子群技术，空气会变得非常清新哦♡\n有清洁感的话，客人的信赖度也会大大提升!"
+      }
+    ]
+  },
+  "led_signboard": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "LED招牌是最好的投资! 晚上也会闪闪发光，超级显眼♡\n听说设置了的店铺销售额都大幅提升了!"
+      }
+    ]
+  },
+  "gift_teddy_bear": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "哇，可爱的小熊玩偶呀♡\n女孩子都会喜欢的♡ 抱着睡觉会很安心呢♡"
+      }
+    ]
+  },
+  "gift_aroma_diffuser": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "香薰机呀♡ 非常实用的礼物呢♡\n房间会充满好闻的香气，放松效果满分哦♡"
+      }
+    ]
+  },
+  "gift_eye_mask": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "眼罩呀♡ 很适合缓解学习后疲劳的眼睛♡\n带有薰衣草香气，睡眠质量也会提高哦♡"
+      }
+    ]
+  },
+  "gift_luxury_bag": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "这是高级品牌的...\n收到这么棒的礼物谁都会开心的♡"
+      }
+    ]
+  },
+  "gift_vibrator": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "电动按摩器呀♡ 这是相当强力的类型♡\n可以用在... 全身哦...♡"
+      }
+    ]
+  },
+  "gift_diamond_ring": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "钻石戒指呀♡ 好棒啊...♡\n要送给重要的人吗?"
+      }
+    ]
+  }
+}

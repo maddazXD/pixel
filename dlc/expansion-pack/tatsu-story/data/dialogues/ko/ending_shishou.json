@@ -1,0 +1,235 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──몇 개월 후.\n왠지 나는 깊은 산속에 와 있었다."
+    },
+    {
+      "character": "player",
+      "text": "(어째서 이렇게 된 거였더라. 정체원을 열고, 빚이 있고, 타츠네가 다니게 되고……거기까지는 기억한다. 그 후 사부님이 '네 놈의 재능을 이대로 썩히기엔 아깝구나'라고 해서, 정신 차리니 짐을 꾸려서 산으로 끌려와 있었다.)"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "아침이다! 일어나라! 오늘은 경락의 제7단계, '기의 전환'을 가르쳐 주마!"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네, 사부님! ……벌써 제7단계인가요? 제1단계가 발바닥 지압이고, 제2단계가 허리 해방이고……음……"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "기억을 못 하는 게냐! 제3은 '가슴의 경락 개통', 제4는 '하복부의 기 순환'이다! 전부 내 몸으로 실습했잖는가!"
+    },
+    {
+      "character": "player",
+      "text": "(확실히 사부님 몸으로 이것저것 한 기억은 있다. 다만 그게 시술이었는지 성행위였는지, 아직도 구분이 안 된다. 사부님은 일관되게 '지도다'라고 주장하고 있지만.)"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "자, 제7단계 '기의 전환'──즉, 자기 몸의 기의 흐름을 자유자재로 조종하는 술법이다. 내가 이 모습을 유지하고 있는 것도 이 술법 덕분이니라."
+    },
+    {
+      "character": "player",
+      "text": "(사부님이 로리 외모인 것도 이 '기의 전환' 덕분이라고 한다. 원래는……아니, 원래 모습에 대해서는 됐다.)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "사부님……이게……정체의 범주인 건가요……?"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "'정체'란 '몸을 바로잡는다'고 쓰는 것이다. 바로잡는 방법에 한계 따위 있겠느냐!"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "정체를 극한 자라면 늙은이든 젊은이든 자유자재로 변할 수 있는 것이다! 내가 그 증거 아니냐!"
+    },
+    {
+      "character": "player",
+      "text": "(논리적으로는 말도 안 되는데, 사부님이 살아 있는 증거란 말이지……)"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "자, 너도 해 보거라. 단전에 의식을 집중하고……기의 흐름을 역전시키는 이미지다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──수 시간 후"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……어라? 내 손이……작아지고……?"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "오오! 첫날에 거기까지 바꿀 수 있다니! 역시 너, 재능이 있구나!"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "잠깐……키가……줄어들고……!? 잠깐, 뭐, 잠깐만!?"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "호! 골격까지 변하고 있는 것이냐! 훌륭하다!"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "사부님!! 원래대로 안 돌아가는데요!?"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "서두르지 마라. 반대 방향으로 기를 흘리면 돌아간다. ……아마."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "아마!?"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──몇 주 후"
+    },
+    {
+      "character": "player",
+      "text": "(믿기 어렵지만, 정말로 할 수 있게 되어 가고 있다. 기의 흐름을 바꾸는 것만으로 근육의 형태, 골격의 크기, 성대의 굵기까지 자유자재로 바뀐다. 어른도 아이도 될 수 있다. 내가 뭘 말하는 건지 나도 모르겠지만, 사실이니까 어쩔 수 없다.)"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "오늘은 실전이다. 아이의 몸이 된 너에게, 내가 시술을 해 주마."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……네?"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "작은 몸을 체험하지 않고 몸의 구조를 극복할 수 없다! 이것은 지도의 일환이다!"
+    },
+    {
+      "character": "player",
+      "text": "(또 '지도의 일환'이 나왔다……. 하지만 부정할 수 없다. 시술받는 쪽의 감각을 아는 것은 정체사로서 확실히 중요하고……잠깐, 나 지금 엄청 합리적인 이유로 납득하려고 하고 있지 않나?)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……네, 사부님."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "내가 기를 집중하자, 몸이 순식간에 변하기 시작했다.\n어깨 너비가 좁아지고, 손발이 짧아지고, 시선이 확 낮아져 간다."
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "흠. 꽤 귀여운 쇼타로구나. ……자, 시작하지. 여기 혈자리, 알겠느냐?"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "히약……! 거, 거기……! 뭐……아이의 몸이 이렇게 감도가……!?"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "거 봐라. 이 감각을 기억해 두거라. 몸 크기가 다르면 혈자리의 위치도 효과도 완전히 달라지는 것이다."
+    },
+    {
+      "character": "player",
+      "text": "(대, 대단해……. 아이의 몸으로 시술을 받는 것과 어른의 몸으로 받는 것은 느끼는 방식이 완전히 다르다. 혈자리 위치도, 기분 좋은 포인트도, 전부 어긋나 있어. 이걸 아는 것과 모르는 것은 확실히 천지 차이다……!)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "사부님……정체는……대단하네요……!"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "흥. 당연하지. 이제 와서 무슨 소리를 하는 게냐."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──그로부터 몇 개월 후"
+    },
+    {
+      "character": "player",
+      "text": "(산 생활에도 완전히 익숙해졌다. 아침에 일어나 수련하고, 시술 연습하고, 사부님과 밥 먹고, 또 수련. 가끔 기분전환으로 쇼타가 되어 나무를 탄다. ……이 문장을 객관적으로 읽으면 완전히 머리가 이상하다고 생각하겠지만, 이게 일상이니까 어쩔 수 없다.)"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "꽤 실력이 늘었구나. 어른이든 아이든 자유자재로 전환할 수 있게 되었고, 시술의 정밀도도 비할 수 없이 좋아졌다."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "감사합니다, 사부님. 전부 사부님 덕분입니다."
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "……흥. 하지만 말이다, 너. 아직 겨우 서론에 불과하다."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "에……이게 아직 서론인가요……?"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "궁극의 정체란 말이다……자기 자신뿐 아니라, 타인의 몸도 만지기만 하면 자유자재로 바꿀 수 있게 되는 것이다."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……………………네?"
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "뭐 그런 표정이냐. 너라면 할 수 있다. 조금만 더 수련하면."
+    },
+    {
+      "character": "사부님",
+      "hideCharacter": true,
+      "text": "자, 입 벌리고 멍 때리지 말고, 아침 단련을 시작하자!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "깊은 산속에서 이어지는 불가사의한 수련의 나날.\n정체원 일도, 빚도, 이미 까맣게 잊었다."
+    },
+    {
+      "character": "player",
+      "text": "(하지만 하나만은 확신하고 있다.)"
+    },
+    {
+      "character": "player",
+      "text": "(정체는……정말 대단하다.)",
+      "triggerEnding": "shishou"
+    }
+  ]
+}

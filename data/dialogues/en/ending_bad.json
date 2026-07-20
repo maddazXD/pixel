@@ -1,0 +1,380 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Beberapa bulan kemudian. Klinik ini hampir bangkrut, tenggelam dalam hutang."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Sebulan lagi merugi... Ini sudah tidak ada harapan..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Terakhir kali Nana datang adalah 3 bulan yang lalu. Dia tidak pernah muncul lagi sejak saat itu."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nana... andai saja aku mendekatinya dengan lebih agresif...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Hei!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "T-Tatsu-san...!",
+      "hideCharacter": true
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "Bos, apa ini terapisnya?"
+    },
+    {
+      "character": "Thug B",
+      "hideCharacter": true,
+      "text": "Dia kurus dan ceking."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "S-siapa orang-orang ini!?"
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "Orang-orang ini dari kelompokku. Lebih penting lagi...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "Kamu sudah menunggak pinjaman selama enam bulan.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "A-aku minta maaf...! Beri aku sedikit waktu lagi...!"
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "...Waktu? Aku sudah menunggu cukup lama. Sepertinya aku salah menilaimu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Kalau kamu tidak bisa membayar uangnya... kamu harus membayar dengan tubuhmu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "D-dengan tubuhku...!?"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "A-aku mengerti... Aku sudah siap..."
+    },
+    {
+      "character": "tatsu",
+      "expression": "surprised",
+      "text": "Hah?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "A-aku tidak percaya diri di bagian itu, tapi... Aku siap menawarkan pantatku!"
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "Hah!? Apa-apaan yang dikatakan orang ini!?"
+    },
+    {
+      "character": "Thug B",
+      "hideCharacter": true,
+      "text": "Siapa yang mau pantat kotormu itu!"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "...Ya ampun, apa yang kamu pikirkan.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Hei, bawa dia pergi.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "Siap, Bos! Ayo, jalan!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "T-tidak! Kalian pasti mau menjual organ tubuhku, kan!? ...Setidaknya ambil saja pantatku! Kalian boleh ambil pantatku sepuasnya!"
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "Sudah kubilang kami tidak mau! Menjijikkan!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Sungguh... apa pantatku tidak ada harganya sama sekali..."
+    },
+    {
+      "character": "Thug B",
+      "hideCharacter": true,
+      "text": "Kenapa kau pikir itu punya nilai?"
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "Sekarang, masuk ke mobil."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Tidaaaak! Setidaknya pantatku! Cuma pantatku saja!"
+    },
+    {
+      "character": "Thug B",
+      "hideCharacter": true,
+      "text": "Diam! Masih saja membahas itu!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}} diseret pergi oleh anak buah kelompok itu."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Ah... begini ya akhirnya hidupku...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setidaknya... aku berharap bisa melihat Nana sekali lagi...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Beberapa hari kemudian"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Di lokasi tempat klinik itu dulu berada, sebuah papan 'Disewakan' terpampang."
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "Hah...? Bukannya kliniknya ada di sini...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_001"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "Sensei... ke mana kau pergi...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Aku akhir-akhir ini sibuk sekali, sampai tidak bisa datang sama sekali...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_003"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "Seandainya aku lebih sering datang...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_004"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Perawatan Sensei memang tidak biasa, tapi... itu sangat membantu tubuhku...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_005"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Nana tampak sedikit sedih saat menatap tempat di mana klinik itu dulu berada."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Di sebuah fasilitas bawah tanah"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Di ruang bawah tanah yang remang-remang, ada seorang pria bermandikan keringat sedang mengangkut barang."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Haa... haa... berat sekali..."
+    },
+    {
+      "character": "Thug A",
+      "hideCharacter": true,
+      "text": "Hei anak baru! Jangan berani-berani kau istirahat!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "M-maaf..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}} akhirnya bekerja untuk kelompok Tatsu. Setiap hari, dia dipaksa menyortir dan mengangkut barang ilegal di gudang."
+    },
+    {
+      "character": "Thug B",
+      "hideCharacter": true,
+      "text": "Yah, anggap saja ini lebih baik daripada organ tubuhmu dijual."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Ugh... berat sekali... Berapa tahun lagi aku harus bekerja di sini...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tapi terkadang ada keuntungan tersendiri juga...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Malam itu, di kantor Tatsu"
+    },
+    {
+      "character": "tatsu",
+      "expression": "normal",
+      "text": "Hei. Sini.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "I-iya!"
+    },
+    {
+      "character": "tatsu",
+      "expression": "tired",
+      "text": "Bahuku kaku. Pijat aku.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...! Serahkan padaku! Dulu aku ini pro, tahu!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}} bergerak ke belakang Tatsu dan mulai memijat bahunya."
+    },
+    {
+      "character": "tatsu",
+      "expression": "satisfied",
+      "text": "Mmm... lumayan juga.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Kesempatan...! Pelan-pelan gerakkan tanganku ke bawah...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Bos, otot dadamu sepertinya tegang juga. Biar aku juga..."
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "...Hei.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "!"
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "Kamu pikir kamu menyentuh bagian mana?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "T-tidak! Ini murni untuk pengobatan...!"
+    },
+    {
+      "character": "tatsu",
+      "expression": "angry",
+      "text": "Jangan belagu. Sekali lagi kamu lakukan itu, kupatahkan jarimu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "I-iya! Cuma bahunya saja!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Aku harus membuatnya lebih rileks... Lain kali aku akan mengincar payudaranya...!)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}} menjadi pekerja bawah tanah."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Hari-harinya dipenuhi kerja keras, tapi dia terus mengincar payudara tanpa rasa takut. Mungkin, di satu sisi, ini adalah kebahagiaan."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【BAD? END - TAMAT Pekerja Bawah Tanah】",
+      "triggerEnding": "bad"
+    }
+  ]
+}

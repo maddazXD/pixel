@@ -1,0 +1,365 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──10週目の朝。\n{{playerName}}の妄想は、もはや止まるところを知らなかった。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ふふふ…ナナちゃんの身体は完全に俺のものだ…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（最近は夢の中でも俺を求めてるらしいし…くくく…）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "お、おはようございます…。",
+      "voiceFile": "story_day10_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "おやおや、今日は顔が赤いねぇ。どうしたの？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…昨日の夜、また変な夢を見ちゃって…。",
+      "voiceFile": "story_day10_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（きたきたきた！夢の中でも俺を求めてるんだな！）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "へぇ〜、どんな夢だったの？詳しく聞かせてよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "先生が…なんだかたくさんの手で…",
+      "voiceFile": "story_day10_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "ま、まるで千手観音みたいに……触られて……。",
+      "voiceFile": "story_day10_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "千手観音！？（それは俺も想像してなかった…）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "朝起きたら…その…汗をたくさんかいてて…。",
+      "voiceFile": "story_day10_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "お母さんに心配されちゃいました…。",
+      "voiceFile": "story_day10_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "健康的な証拠だよ〜。新陳代謝が活発になってるんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "でも…ちょっと恥ずかしくて…。",
+      "voiceFile": "story_day10_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（どんだけ濡らしてるんだ…最高じゃないか…）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "それに…最近、学校でも困ってて…。",
+      "voiceFile": "story_day10_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "学校で？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "授業中に…その…身体が熱くなっちゃって…。",
+      "voiceFile": "story_day10_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "友達に、保健室に行ったほうがいいんじゃないかって言われて…すごく恥ずかしかったです…。",
+      "voiceFile": "story_day10_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（授業中に俺のこと考えて濡らしてるのか！やばい！興奮する！）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それは…ちょっと刺激が強すぎたかな。今日は加減してあげるよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "え？加減？",
+      "voiceFile": "story_day10_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あ、あの…でも…",
+      "voiceFile": "story_day10_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "え？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "先生の施術じゃないと…なんだか落ち着かなくて…。",
+      "voiceFile": "story_day10_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "この前お休みした時も…すごく調子が悪くて…。",
+      "voiceFile": "story_day10_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（泣きながら自慰…それは新しいな…メモメモ…）"
+    },
+    {
+      "id": "choice_massage10",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "なるほど〜。じゃあ今日はどうしようか？",
+      "choices": [
+        {
+          "label": "普通に施術するよ（嘘）",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "normal_lie_path"
+        },
+        {
+          "label": "新開発のスペシャルオイルを試そう",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "special_oil_path"
+        },
+        {
+          "label": "今日は下半身を重点的に…ぐへへ",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "lower_focus_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_lie_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "普通の施術…ですか…？",
+      "voiceFile": "story_day10_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（嘘だけどな！いつもより濃厚にしてやる！）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "うん、普通〜に、優し〜く、ね〜っとりと施術するよ。",
+      "next": "prepare_crazy"
+    },
+    {
+      "id": "special_oil_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "新開発のオイル？",
+      "voiceFile": "story_day10_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう！『悶絶天国オイル』って言ってね…。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "も、悶絶！？",
+      "voiceFile": "story_day10_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "あ、間違えた。『極楽浄土オイル』だった。似てるでしょ？",
+      "next": "prepare_crazy"
+    },
+    {
+      "id": "lower_focus_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "か、下半身を重点的に…ですか…？",
+      "voiceFile": "story_day10_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう、骨盤周りは大事だからね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そ、そうですよね…",
+      "next": "prepare_crazy",
+      "voiceFile": "story_day10_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "（なんか変な笑い方してた気が…）",
+      "next": "prepare_crazy",
+      "voiceFile": "story_day10_020"
+    },
+    {
+      "id": "prepare_crazy",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…最近思うんですけど…。",
+      "voiceFile": "story_day10_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ん？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "先生の整体院、なんだか独特な香りがしますね…。",
+      "voiceFile": "story_day10_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "香り？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "なんというか…不思議な感じで…。",
+      "voiceFile": "story_day10_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（それは俺の欲望の匂いだ！）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "あー、それは特別なお香だよ。リラックス効果があるんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "お香…なんですか。ちょっと変わってますね…。",
+      "voiceFile": "story_day10_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "インド直輸入の『ガンジス川の香り』だからね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "ガンジス川！？それ大丈夫なんですか！？",
+      "voiceFile": "story_day10_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "大丈夫大丈夫。さ、着替えて着替えて。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "（なんだか慣れてきちゃった…この香り…）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day10_026"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "（落ち着くような…そわそわするような…）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day10_027"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "き、着替えました…。",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day10_028"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "（おお…もう着替えただけで、太ももに光るものが…）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…ちょっと恥ずかしいです…。",
+      "voiceFile": "story_day10_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "健康的でいいじゃない。さあ、今日も楽しい施術の時間だよ〜。"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ふっふっふ…今日はどこまでイけるか、実験してみようね…。"
+    }
+  ]
+}

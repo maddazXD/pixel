@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が帰った後……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（組員を3時間立たせても肩が持ったって……どういう使い方だよ）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（まぁ、施術の効果が日常生活に出てるってことだ。いい傾向だな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……それにしても、さっきのは焦った。胸筋の確認で手が滑って……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『ちゃんとやれ』で済んだけど、一歩間違えたら指詰められてたかもな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（経営も相変わらず厳しい。客を増やさないと返済なんて夢のまた夢だ）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週は何をしようか……）"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 돌아간 후……)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(벌써 1개월인가……처음에는 빚쟁이한테 시술한다니 정신 나간 짓이라고 생각했는데)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('중독된다'고 했어. 단골로 정착해 준 건가)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(게다가 조직 사람들을 소개해 주겠다고……이건 크다)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(전부 남자라는데, 손님이 늘어나는 거라면 불만은 없다)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네, 옷 갈아입는 것에 대한 거부감도 많이 줄었구나……익숙해진 거겠지)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자, 이번 주는 어떻게 할까……)"
+    }
+  ]
+}

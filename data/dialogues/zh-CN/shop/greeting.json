@@ -1,0 +1,16 @@
+{
+  "dialogues": [
+    {
+      "id": "greeting",
+      "character": "店員",
+      "expression": "smile",
+      "text": "欢迎光临♡ 您要找什么吗?"
+    },
+    {
+      "id": "after_greeting",
+      "character": "店員",
+      "expression": "normal",
+      "text": "如果有感兴趣的商品请随时告诉我哦♡"
+    }
+  ]
+}

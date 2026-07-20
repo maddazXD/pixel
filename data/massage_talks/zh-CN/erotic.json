@@ -1,0 +1,1655 @@
+{
+  "talks": {
+    "talk_sensitive": {
+      "topicName": "敏感部位",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "奈奈，你有什么特别敏感的部位吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "诶...？为、为什么要问这种事...？",
+          "voiceFile": "talk_sensitive_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "作为施术的参考。你不舒服的部位我会避开。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "...我的腋下...还有脖子...被碰到的话会很敏感...",
+          "voiceFile": "talk_sensitive_002"
+        }
+      ]
+    },
+    "talk_sports_bra": {
+      "topicName": "运动内衣的话题",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你运动的时候会用运动内衣吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "啊，是的...我会用运动内衣...",
+          "voiceFile": "talk_sports_bra_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "这么大的尺寸...应该很难找到合适的吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "是、是的...我得去专门的大尺寸专卖店买...",
+          "voiceFile": "talk_sports_bra_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "是吗。跑步的时候一定晃得很厉害吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "嗯...是的...大家都盯着看所以很害羞...",
+          "voiceFile": "talk_sports_bra_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "（她班上的男生们真是幸运啊...！）"
+        }
+      ]
+    },
+    "talk_underwear": {
+      "topicName": "内裤的话题",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "让我猜猜你今天穿的是什么颜色的内裤。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么！？为、为什么要...！",
+          "voiceFile": "talk_underwear_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "嗯，白色...还是粉色...不对...我猜是浅蓝色？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "！！...怎、怎么猜到的...",
+          "voiceFile": "talk_underwear_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "啊，果然猜对了。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "真是的...别再说了...好害羞...",
+          "voiceFile": "talk_underwear_003"
+        }
+      ]
+    },
+    "talk_embarrassing_memory": {
+      "topicName": "尴尬的经历",
+      "trustEffect": 1,
+      "developEffect": 2,
+      "alertnessEffect": 3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你遇到过最尴尬的事情是什么？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "诶...这个嘛...",
+          "voiceFile": "talk_embarrassing_memory_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "如果不想说也没关系..."
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "我只是想更了解你..."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "{{playerName}}先生...",
+          "voiceFile": "talk_embarrassing_memory_002"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "嗯...游泳课的时候...我的泳衣...",
+          "voiceFile": "talk_embarrassing_memory_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "泳衣怎么了？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "有点滑下来了...在大家面前...然后...",
+          "voiceFile": "talk_embarrassing_memory_004"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "乳头露出来了！？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "别、别说得那么大声...！",
+          "voiceFile": "talk_embarrassing_memory_005"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_03",
+          "text": "我不想回忆起来...",
+          "voiceFile": "talk_embarrassing_memory_006"
+        }
+      ]
+    },
+    "talk_body_growth": {
+      "topicName": "身体发育",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你的身体最近变得更成熟了。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "诶...是、是这样吗...？",
+          "voiceFile": "talk_body_growth_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你的胸部又大了一点吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "哎、哎...！你一直在看吗...？",
+          "voiceFile": "talk_body_growth_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "注意身体变化是我工作的一部分。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "真是的...好害羞...但最近确实变大了...",
+          "voiceFile": "talk_body_growth_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "这是青春期。完全正常。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "这种事不能跟任何人说...真是的...",
+          "voiceFile": "talk_body_growth_004"
+        }
+      ]
+    },
+    "talk_sensitive_spot": {
+      "topicName": "敏感的身体部位",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "我在施术时注意到，碰到你脖子的时候你会有反应。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么...！被、被发现了...？",
+          "voiceFile": "talk_sensitive_spot_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "还有其他敏感的部位吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "为、为什么要问这种事...",
+          "voiceFile": "talk_sensitive_spot_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "这样施术的时候我会注意。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "我的耳朵...还有大腿内侧...那里完全不行...",
+          "voiceFile": "talk_sensitive_spot_003"
+        }
+      ]
+    },
+    "talk_swimsuit": {
+      "topicName": "泳衣的烦恼",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "游泳课的时候怎么办？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "啊...那个...真的很困扰...",
+          "voiceFile": "talk_swimsuit_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "泳衣的尺寸问题？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "是的...学校发的泳衣完全不合身...",
+          "voiceFile": "talk_swimsuit_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "申请了特别许可吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "申请了...但还是很显眼...男生们都盯着我看...",
+          "voiceFile": "talk_swimsuit_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "那一定很辛苦。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "游泳课的日子真想请假...",
+          "voiceFile": "talk_swimsuit_004"
+        }
+      ]
+    },
+    "talk_male_experience": {
+      "topicName": "恋爱经验",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你交过男朋友吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么！？没、没有...",
+          "voiceFile": "talk_male_experience_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "真的吗？有点意外。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "因为...跟男生说话就会紧张...",
+          "voiceFile": "talk_male_experience_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "是吗？但在我面前好像不会这样。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "那、那是...因为是{{playerName}}先生...(小声)",
+          "voiceFile": "talk_male_experience_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "嗯？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "没、没什么...",
+          "voiceFile": "talk_male_experience_004"
+        }
+      ]
+    },
+    "talk_secret_habit": {
+      "topicName": "秘密的习惯",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "最近开始对色情的东西感兴趣了吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么！？在、在说什么...？",
+          "voiceFile": "talk_secret_habit_001"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "这个年龄很正常。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "嗯、嗯...那个...有一点点...",
+          "voiceFile": "talk_secret_habit_002"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "对什么样的事情感兴趣？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "嗯...那个...看漫画...但不太明白...",
+          "voiceFile": "talk_secret_habit_003"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "那也是学习的一部分。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "但是...很害怕也很害羞...但又很好奇...",
+          "voiceFile": "talk_secret_habit_004"
+        }
+      ]
+    },
+    "talk_erotic_study": {
+      "topicName": "色情知识的学习",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "你从哪里学习色情知识的？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "我、我才没有学习那种东西...！",
+          "voiceFile": "talk_erotic_study_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "可是你之前说过感兴趣。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "这个嘛...那个...",
+          "voiceFile": "talk_erotic_study_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "会在网上看视频吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "有、有时候...看少女漫画...",
+          "voiceFile": "talk_erotic_study_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "原来是从少女漫画的H场景兴奋起来的啊。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "我、我才没有兴奋...！只是心跳加速...",
+          "voiceFile": "talk_erotic_study_004"
+        }
+      ]
+    },
+    "talk_bra_size_virgin": {
+      "topicName": "胸罩尺寸",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "奈奈，你的胸部都快从施术服里溢出来了。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么...！？",
+          "voiceFile": "talk_bra_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "你是什么罩杯？看起来相当大。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "嗯...那个...H罩杯...",
+          "voiceFile": "talk_bra_size_virgen_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "H罩杯！？（难怪微型比基尼装不下...）"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "（连乳晕都看得见...）"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "对、对不起...尺寸不合适...",
+          "voiceFile": "talk_bra_size_virgen_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "没关系，没关系。这种溢出来的样子有点色...不，是很可爱。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "？"
+        }
+      ]
+    },
+    "talk_bra_size_experienced": {
+      "topicName": "胸罩尺寸",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "奈奈，你的胸部都快从施术服里溢出来了。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么...！？",
+          "voiceFile": "talk_bra_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "你是什么罩杯？相当大啊。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "嗯...那个...I罩杯...",
+          "voiceFile": "talk_bra_size_experienced_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "哦，I罩杯！？（难怪微型比基尼装不下...）"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "（乳晕都看得见...）"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "对、对不起...还在继续变大...",
+          "voiceFile": "talk_bra_size_experienced_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "没关系，没关系。这种溢出来的样子有点色...不，是很可爱。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "？"
+        }
+      ]
+    },
+    "talk_breast_sensitivity": {
+      "topicName": "胸部的敏感度",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "大胸部容易淋巴堵塞。直接按摩可能比较好。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "直、直接...！？",
+          "voiceFile": "talk_breast_sensitivity_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "I罩杯的话，乳头应该也相当敏感吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "为、为什么...知道...",
+          "voiceFile": "talk_breast_sensitivity_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "凭经验。隔着衣服都能看到你的乳头挺立了。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么...！挺、挺立了...！？",
+          "voiceFile": "talk_breast_sensitivity_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "嗯，硬邦邦的。不知道摸的话会怎么样。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "请、请不要...好害羞...",
+          "voiceFile": "talk_breast_sensitivity_004"
+        }
+      ]
+    },
+    "talk_body_temperature": {
+      "topicName": "体温上升",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "奈奈，你的身体变得好烫。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "哦...是吗...？",
+          "voiceFile": "talk_body_temperature_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "特别是下半身。血液集中在那里了吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "下、下半身...！别说这种话...",
+          "voiceFile": "talk_body_temperature_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "你的脸也红通通的，全身都发热了。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "好害羞...身体自己就有反应了...",
+          "voiceFile": "talk_body_temperature_003"
+        }
+      ]
+    },
+    "talk_butt_shape": {
+      "topicName": "臀部的形状",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "奈奈，你的臀部又紧实又翘。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "诶...！臀、臀部...？",
+          "voiceFile": "talk_butt_shape_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "很结实，形状也很好。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "是、是这样吗...？",
+          "voiceFile": "talk_butt_shape_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "摸起来又弹又软。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "呀...！别摸...！",
+          "voiceFile": "talk_butt_shape_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "臀缝也很深。很性感。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "真是的...别看那里...",
+          "voiceFile": "talk_butt_shape_004"
+        }
+      ]
+    },
+    "talk_breast_bounce": {
+      "topicName": "胸部的晃动",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "施术中你的胸部一直在晃。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么...！？晃、晃得那么厉害吗...？",
+          "voiceFile": "talk_breast_bounce_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "I罩杯嘛。稍微一动就会晃。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "好害羞...就算想按住也...",
+          "voiceFile": "talk_breast_bounce_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "乳头也跟着一起动。而且挺得硬硬的。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "呀...！连那个也在看...！？",
+          "voiceFile": "talk_breast_bounce_003"
+        }
+      ]
+    },
+    "talk_body_hair": {
+      "topicName": "体毛的话题",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "我注意到一件事。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "是、是什么...？",
+          "voiceFile": "talk_body_hair_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "这么暴露的施术服...我能看到你下面完全光滑。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "什么...！看、看得到...！？",
+          "voiceFile": "talk_body_hair_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "没有毛。是剃的吗？还是天生的？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "是、是天生的...那里本来就没有毛...",
+          "voiceFile": "talk_body_hair_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "哇，真色情。不知道摸起来什么感觉。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "呀...！别、别摸...！",
+          "voiceFile": "talk_body_hair_004"
+        }
+      ]
+    },
+    "talk_breathing_change": {
+      "topicName": "呼吸的变化",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "奈奈，你的呼吸变急促了。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么...！？没、没有...",
+          "voiceFile": "talk_breathing_change_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "呼吸也变热了。你兴奋了吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "没、没有...！只是有点热...",
+          "voiceFile": "talk_breathing_change_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "还发出小小的呻吟声。我听到了。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "那、那个...不由自主就发出来了...控制不住...",
+          "voiceFile": "talk_breathing_change_003"
+        }
+      ]
+    },
+    "talk_twitch_reaction": {
+      "topicName": "抽搐的反应",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "每次碰你就会抽搐。有那么敏感吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "呀...！没、没那么...",
+          "voiceFile": "talk_twitch_reaction_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "只是碰一下大腿内侧，全身就会颤抖。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "但、但是...很痒...",
+          "voiceFile": "talk_twitch_reaction_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "不只是痒吧？腰都抬起来了。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "唔...身体自己就有反应...",
+          "voiceFile": "talk_twitch_reaction_003"
+        }
+      ]
+    },
+    "talk_nipple_change": {
+      "topicName": "乳头颜色变化",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "咦？奈奈，你的乳头颜色是不是变了？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么！？不、不可能...",
+          "voiceFile": "talk_nipple_change_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "之前是淡粉色，现在变成深粉色了。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "这、这个...那个...",
+          "voiceFile": "talk_nipple_change_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "充血了。你有感觉了吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "没、没有...！只是...施术让血流变好了...",
+          "voiceFile": "talk_nipple_change_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "嗯，但是尖端都肿起来了？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "真是的...！别盯着看...好害羞...",
+          "voiceFile": "talk_nipple_change_004"
+        }
+      ]
+    },
+    "talk_voice_suppression": {
+      "topicName": "压抑声音",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "你在咬嘴唇。想忍住声音吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么...！没、没有...",
+          "voiceFile": "talk_voice_suppression_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "明明看到你拼命忍着\"嗯！嗯！\"地。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "因、因为...发出声音会很害羞...",
+          "voiceFile": "talk_voice_suppression_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "不用忍。我想听你可爱的声音。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "才、才不要...绝对不会发出声音...！",
+          "voiceFile": "talk_voice_suppression_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "但已经快从喉咙里漏出来了吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "唔...已经到极限了...",
+          "voiceFile": "talk_voice_suppression_004"
+        }
+      ]
+    },
+    "talk_inner_thigh": {
+      "topicName": "大腿内侧",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "你的大腿内侧湿滑滑的。这不是汗吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么...！？是、是汗...应该是汗...",
+          "voiceFile": "talk_inner_thigh_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "但看起来是从上面流下来的？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "那、那个...嗯...",
+          "voiceFile": "talk_inner_thigh_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "摸起来黏黏的。这是淫水吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "真是的...别说出来...好害羞...",
+          "voiceFile": "talk_inner_thigh_003"
+        }
+      ]
+    },
+    "talk_wet_easily": {
+      "topicName": "容易湿",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "奈奈，你施术服的胯部..."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么！？怎、怎么了...？",
+          "voiceFile": "talk_wet_easily_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "湿了吧？是汗吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "不、不是...",
+          "voiceFile": "talk_wet_easily_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "有感觉了？你很容易湿吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "...很、很快就会湿...好害羞...",
+          "voiceFile": "talk_wet_easily_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "哇，很敏感啊。真是性感的身体。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "唔...",
+          "voiceFile": "talk_wet_easily_004"
+        }
+      ]
+    },
+    "talk_girl_smell": {
+      "topicName": "女孩的香味",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "奈奈，你有很甜的香味。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "诶...！？香、香味...？",
+          "voiceFile": "talk_girl_smell_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "女孩特有的甜香。据说兴奋的时候会变浓。"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "特别是胯部附近...可能是因为湿了？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "才、才不是...！",
+          "voiceFile": "talk_girl_smell_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "但我不讨厌。反而让我兴奋了。"
+        }
+      ]
+    },
+    "talk_clit_size": {
+      "topicName": "阴蒂的大小",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "奈奈，你的施术服太薄了，能看到形状..."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "诶...！？什、什么形状...？",
+          "voiceFile": "talk_clit_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "你的阴蒂挺大的。鼓鼓的。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "呀...！别、别看那里...",
+          "voiceFile": "talk_clit_size_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "发育得很好。看起来很敏感。你自己摸过吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "我...我没有...",
+          "voiceFile": "talk_clit_size_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "但现在在跳动吧？看起来真敏感。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "真是的...太害羞了...",
+          "voiceFile": "talk_clit_size_004"
+        }
+      ]
+    },
+    "talk_pussy_shape": {
+      "topicName": "小穴的形状",
+      "trustEffect": 0,
+      "developEffect": 9,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "奈奈，你的小穴形状真美。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么...！？",
+          "voiceFile": "talk_pussy_shape_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "缝隙看得很清楚。看起来很紧。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "看、看得到...！？不要...好害羞...",
+          "voiceFile": "talk_pussy_shape_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "阴唇小小的，是可爱的粉色。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "唔...别看...！",
+          "voiceFile": "talk_pussy_shape_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "但入口在抽动。好像想要什么东西。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "才、才不是...！才没有那样...",
+          "voiceFile": "talk_pussy_shape_004"
+        }
+      ]
+    },
+    "talk_love_juice": {
+      "topicName": "淫水的量",
+      "trustEffect": 0,
+      "developEffect": 10,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "奈奈，你的施术服上有污渍。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么...！？污、污渍...？",
+          "voiceFile": "talk_love_juice_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "流了好多淫水。滑溜溜的。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "淫、淫水...！不、不可能...！",
+          "voiceFile": "talk_love_juice_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "能看到拉丝了。你真容易湿。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "唔...我的身体...一下子就湿了...",
+          "voiceFile": "talk_love_juice_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "小穴发出咕叽咕叽的声音。真淫荡的身体。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "请、请住口...！害羞得要死了...",
+          "voiceFile": "talk_love_juice_004"
+        }
+      ]
+    },
+    "talk_anal": {
+      "topicName": "肛门的颜色",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "你趴着的时候我看到了，你的菊花也是漂亮的粉色。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么！？菊、菊花...！你看了！？",
+          "voiceFile": "talk_anal_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "很紧致，形状也很美。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "连、连那里...好害羞...！",
+          "voiceFile": "talk_anal_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "但一直在动。兴奋的时候会动吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "才、才没有动...！请别看...！",
+          "voiceFile": "talk_anal_003"
+        }
+      ]
+    },
+    "talk_masturbation": {
+      "topicName": "关于自慰",
+      "trustEffect": 0,
+      "developEffect": 9,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "你一个人的时候怎么做？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "什么！？一、一个人...在说什么...？",
+          "voiceFile": "talk_musturbation_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "自慰。摸哪里？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "那个...好害羞...",
+          "voiceFile": "talk_musturbation_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "阴蒂？还是把手指伸进去？"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "..."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "嗯、嗯...上面的部分...只是轻轻地...",
+          "voiceFile": "talk_musturbation_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "原来是阴蒂派。要多久能高潮？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "真是的...！别问这种事...",
+          "voiceFile": "talk_musturbation_004"
+        }
+      ]
+    },
+    "talk_health_exam_experience": {
+      "topicName": "第一次健康检查",
+      "trustEffect": 2,
+      "developEffect": 5,
+      "alertnessEffect": -6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "上次的健康检查很激烈吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "是、是的...做了好多事...",
+          "voiceFile": "talk_health_exam_experience_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "虽然是第一次，但感觉很舒服吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "一开始很讨厌但是...身体就...",
+          "voiceFile": "talk_health_exam_experience_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "夺走了你的处女吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "因为是检查所以没办法...但是...",
+          "voiceFile": "talk_health_exam_experience_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "从那之后身体变得更敏感了吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "是的...从那之后就变奇怪了...",
+          "voiceFile": "talk_health_exam_experience_004"
+        }
+      ]
+    },
+    "talk_developed_sensitive": {
+      "topicName": "敏感化的身体",
+      "trustEffect": 1,
+      "developEffect": 6,
+      "alertnessEffect": -7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "健康检查之后，哪些部位变得最敏感了？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "乳头...还有下面...",
+          "voiceFile": "talk_developed_sensitive_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "能详细说说吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "被碰到的话，马上就会抽搐...",
+          "voiceFile": "talk_developed_sensitive_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "也更容易湿了吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "是的...马上就...好害羞...",
+          "voiceFile": "talk_developed_sensitive_003"
+        }
+      ]
+    },
+    "talk_virgin_anxiety_curiosity": {
+      "topicName": "对第一次的感受",
+      "trustEffect": 2,
+      "developEffect": 4,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "你对色情的事感兴趣吗？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "才、才不是...！但是...",
+          "voiceFile": "talk_virgen_anxiety_curiosity_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "是害怕？还是好奇？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "都有...害怕但想知道...",
+          "voiceFile": "talk_virgen_anxiety_curiosity_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "想怎么被对待？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "温柔地...希望能温柔地...",
+          "voiceFile": "talk_virgen_anxiety_curiosity_003"
+        }
+      ]
+    },
+    "talk_virgin_pure_body": {
+      "topicName": "没经验的身体反应",
+      "trustEffect": 1,
+      "developEffect": 5,
+      "alertnessEffect": -6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "据说处女的身体非常敏感。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "是、是这样吗...？",
+          "voiceFile": "talk_virgen_pure_body_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "奈奈，你最近也变得更敏感了吧？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "按摩的时候...感觉很奇怪...",
+          "voiceFile": "talk_virgen_pure_body_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "那是正常的。是纯洁的证明。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "真的...？那就放心了...",
+          "voiceFile": "talk_virgen_pure_body_003"
+        }
+      ]
+    }
+  }
+}

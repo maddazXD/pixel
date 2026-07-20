@@ -1,0 +1,367 @@
+{
+  "title": "借金完済達成 - 温泉旅行",
+  "dialogues": [
+    {
+      "character": "タツ姐",
+      "text": "……完済、確認した。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "はい。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……おめでとう、とでも言えばいいのか？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "言ってくれていいんですよ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……おめでとう。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "ありがとうございます。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "…………。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……で？ もう借金はねぇんだ。アタシが来る理由もねぇだろ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "……タツ姐さん。肩こり、まだ治ってないですよね。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……まぁ、慢性的なもんだからな。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "じゃあ来週も来てください。今度は——ちゃんとお金もらいますけど。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……はぁ？ 借金取りから金取る気か？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "借金取りじゃなくて。お客さんとして。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……ふん。お前の施術、悪くねぇしな。……考えてやるよ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "あと、もうひとつ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "なんだよ、まだあんのか。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "完済のお祝いに……温泉、行きませんか？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "…………は？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "タツ姐さん、高級スパ巡りが趣味って言ってたじゃないですか。でも本物の温泉って行ったことあります？ 山奥の、自然に湧いてるやつ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……スパは都内のばっかりだけどよ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "じゃあ一度行ってみましょうよ。スパとは全然違いますから。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……お前、正気か？ 完済したからって調子乗ってんじゃねぇぞ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "調子乗ってるわけじゃないですよ。整体師として、本物の温泉を体験してほしいんです。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐がちょっと黙った。何か考えてるみたいだ。）"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……仕事の視察も兼ねてなら、まぁ。温泉旅館の経営とか、融資の参考になるだろ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（無理やりすぎる理由だな……）"
+    },
+    {
+      "character": "タツ姐",
+      "text": "部屋は別だからな。変なことしたら殺すぞ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "しませんって。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……いつ行くんだ？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（断らなかった……！）"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "温泉旅行へ",
+          "next": "onsen_start"
+        }
+      ]
+    },
+    {
+      "id": "onsen_start",
+      "character": "タツ姐",
+      "text": "……ほぉ。いい部屋じゃねぇか。",
+      "characterImage": "tatsu/tatsu.png",
+      "background": "onsen_bg"
+    },
+    {
+      "character": "player",
+      "text": "露天風呂付き客室にしたんです。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……金、大丈夫なのか？ 完済したばっかだろ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "タツ姐さんのおかげで店も軌道に乗ってますから。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……ふん。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……で、風呂は？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "あそこです。部屋から直接出られるようになってて。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……悪くねぇな。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "せっかくなんで、一緒に入りませんか？ 施術の延長で、温泉の効能も説明しますよ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……はぁ？ お前と？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "整体師として、ですよ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……変なことしたら殺すぞ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "しませんって。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "温泉に入る",
+          "next": "onsen_bath"
+        }
+      ]
+    },
+    {
+      "id": "onsen_bath",
+      "character": "タツ姐",
+      "text": "……はぁ。いい湯だな。スパとは全然違う。",
+      "hideCharacter": true,
+      "background": "blackout"
+    },
+    {
+      "character": "player",
+      "text": "でしょう？ 源泉かけ流しなんですよ。",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……お湯がやわらかい。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "タツ姐さん、肩まわり張ってますね。ちょっとほぐしますよ。",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……お前、風呂の中でも施術する気かよ。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "温泉の中だと筋肉がゆるんでるから、効果あるんですよ。",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……ん……っ。",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……近い。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "すみません、この体勢じゃないと届かなくて。",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "…………。",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……お前さぁ。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "は、はい？",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……こういうの、慣れてんのか？",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "え？ 施術は毎日やって——",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……そうじゃねぇよ。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "（タツ姐がゆっくりこちらに向き直った。）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……完済した途端、温泉に誘って、裸で密着して……。計算づくか？",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "ち、違います——",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……まぁいい。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "（タツ姐が俺の上にまたがってきた——）",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……いつも好き勝手触ってくれたよな？ 今日はアタシの番だ。",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "身を委ねる",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}

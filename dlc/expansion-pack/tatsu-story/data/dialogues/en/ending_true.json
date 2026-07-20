@@ -1,0 +1,467 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Tiga bulan kemudian. Klinikku sudah dibeli oleh Tatsu-nee."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(\"Aku merekrutmu sebagai terapis pijat pribadiku. Gajimu akan tiga kali lipat dari yang sekarang.\")"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Rencana akuisisi itu, yang sempat coba dihentikan oleh bawahannya, tetap dijalankan—tidak ada yang bisa melawan ketegasan Tatsu-nee.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Berkat itu, utangku lunas, gajiku jadi tiga kali lipat. Tidak perlu pusing lagi memikirkan operasional bisnis.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(…Namun, \"perawatan khusus\" untuk sang pemilik jadi kewajiban mingguan.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Yo.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Selamat datang, Pemilik. Kamu datang lebih awal lagi hari ini."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Jangan panggil aku Pemilik. Panggil saja Tatsu-nee.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Iya, iya. …Jadi, mau apa hari ini?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…Cepat mulai saja. Tubuhku sudah tidak karuan rasanya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Memangnya ada apa?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…Tadi saat sedang kerja di kantor, tiba-tiba aku… memikirkanmu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…Lalu tubuhku… dengan sendirinya… Celana dalamku sudah basah kuyup.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Dia sudah seperti ini bahkan sebelum sampai ke sini… Meski sudah membeliku dan menjadikanku terapis pribadinya, Tatsu-nee benar-benar tidak berubah sedikit pun…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Apa kita pakai minyak lagi hari ini?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "…Jelaslah. Perawatan biasa sudah tidak mempan lagi.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Kalau begitu silakan ganti baju. Aku akan pakai banyak hari ini."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Tatsu-nee mulai melepas pakaiannya seolah itu sudah jadi rutinitas."
+    },
+    {
+      "character": "player",
+      "text": "(Putingnya sudah mengeras. Dia benar-benar sudah bergairah sebelum sampai ke sini…)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "…Jangan menatap terus.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku sedang melihat. Itu kan pekerjaanku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "…Cih.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "……"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Nah, sekarang tengkurap. Aku akan pakai banyak hari ini."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Mm… hangatnya…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Minyak dalam jumlah banyak menetes ke punggung Tatsu-nee, menyebar dengan suara yang licin dan basah."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku akan mengoleskannya dengan saksama dari tulang belikatmu sampai ke punggung bawah. …Tubuhmu masih sangat luar biasa. Minyak ini benar-benar membuatnya terlihat seksi."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…Licin sekali… tanganmu bergerak dengan begitu mulus… rasanya enak…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku akan mengolesi bagian bawah pinggang juga. Banyak-banyak di pantatmu sekalian."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…Ah, cara kamu memijat di sana… itu sangat nakal…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku harus melenturkan semuanya dengan benar. …Selanjutnya aku akan mengerjakan bagian paha dalam."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Nn… minyaknya menetes turun… ah… sampai ke sela-sela kakiku…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ini bukan cuma minyak lagi, kan? Paha bagian dalammu sudah benar-benar basah kuyup."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Makanya aku bilang jangan bilang hal-hal seperti itu… Itu semua karena perawatanmu…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Iya, iya, ini semua salahku. …Sekarang balik badan, ya. Aku akan mengolesi seluruh bagian depan juga."
+    },
+    {
+      "character": "player",
+      "text": "(Seluruh tubuhnya berkilauan karena minyak… Aku melihatnya setiap minggu, tapi jantungku tetap berdebar kencang setiap kali. Dia benar-benar punya tubuh yang luar biasa…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku akan mengolesi minyak di dadamu juga. …Tidak peduli berapa kali aku melihatnya, mereka tetap mengesankan."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Licin… licin… Tangan yang berlumuran minyak itu melingkari payudara Tatsu-nee."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Ah… payudaraku jadi licin semua…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Putingmu juga licin karena minyak. Lucu sekali melihatmu bergetar setiap kali jariku menyentuhnya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Nn… jangan panggil aku lucu… Putingku jadi bengkak sekali… sensitivitasku sekarang benar-benar di luar kendali…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Yah, aku sudah memainkannya dengan minyak setiap minggu. …Tapi aku suka betapa sensitifnya dirimu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Ini salahmu… Putingku sekarang selalu keras… bra yang bergesekan dengannya saja hampir membuatku mengerang…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku akan lanjut dari perut ke bawah juga. Tolong buka kakimu. …Wah. Minyaknya menetes di sepanjang pahamu sampai ke meja."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…Ah, sudah kubilang jangan katakan itu…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku akan mengolesi bagian yang paling sensitif juga. …Klitormu sudah membengkak."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Nn… ah… Minyak di klitorku… licin sekali, rasanya seperti kau menyentuhnya secara langsung…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku juga memasukkan jariku ke dalam. …Minyak yang bercampur dengan cairanmu membuat suara yang sangat nakal."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Ah… suara kecipak itu… hentikan… Memalukan sekali…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Di dalam sana basah dan licin sekali, jariku sampai tersedot masuk. …Aku sangat suka betapa jujurnya tubuhmu, Tatsu-nee."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…Ah, jangan bilang begitu saat kau sedang menggodaku… …Lupakan saja, pakai jari saja tidak cukup. Masukkan punyamu.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Kau tidak keberatan tubuhmu dilumuri minyak seperti ini?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Tentu saja tidak… Masukkan semuanya selagi kita licin begini.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Aahh…♡ Masuk ke dalam… Begitu licin dan basah, mendorong sampai jauh ke dalam…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Di dalam sini terasa licin karena minyak dan cairanmu… Tatsu-nee, seluruh tubuhmu berkilauan karena minyak—kau benar-benar seksi luar biasa."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…Ah, bodoh… kalau kau bilang begitu… aku jadi makin menjepit…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Ini sih sudah bukan perawatan lagi namanya…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ini perawatan kok. Paket spesial, khusus untukmu, Rei-san."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…♡ Jangan panggil aku begitu sekarang… itu membuatku makin gila…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Ah♡ Kau menghantam bagian terdalamku…♡ Payudaraku berguncang karena minyak… putingku bergesekan… rasanya luar biasa dari atas dan bawah secara bersamaan…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tatsu-nee… kau makin lama makin menjepit di dalam… Biarkan aku melihat wajahmu saat kau mencapai puncak."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…♡ Aku tidak bisa… lagi…♡ Aku mau keluar…♡♡ Kau juga… bersama-sama…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ayo kita keluar bersama. …Aku akan membuangnya di dalam dirimu, Rei-san."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Lakukanlah…♡ Berikan semuanya di dalam…♡♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Ah…♡♡ Ngh…♡♡ Di dalam… rasanya panas sekali…♡♡ Keluar… aku keluar… aku tidak bisa berhenti…♡♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Beberapa saat kemudian",
+      "changeBackground": "./dlc/expansion-pack/tatsu-story/assets/images/ending/end_true.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Hah… hah…♡",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Kerja bagus hari ini. Kau benar-benar seksi lagi tadi."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…Diamlah, bodoh…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(…Dia membeli kliniku dan menjadi pemiliknya… tapi dia tetap datang setiap minggu hanya untuk dilumuri minyak. Mulai dari insiden pencurian handuk, investigasi pelembut pakaian, koleksi AV itu, sampai pembelian klinik… Apakah itu semua cara Tatsu-nee menunjukkan kasih sayangnya?)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…Rei-san."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "…!? Hei, apa yang baru saja kau katakan?",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Apa boleh… kalau aku memanggilmu Rei-san mulai sekarang?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "……Terserah kau saja.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "…Tapi… jangan lakukan itu di depan orang lain…",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tentu saja. Hanya saat kita berdua saja."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "…Mm.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(Padahal aku yang dibeli, tapi entah kenapa rasanya malah aku yang memegang kendali…)"
+    },
+    {
+      "character": "player",
+      "text": "(…Yah, sudahlah. Memang begini hubungan kita.)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "…Hei. Aku mengandalkanmu minggu depan juga.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Iya. Tentu saja."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Klinikku dibeli oleh bos rentenir, dan aku jadi terapis pijat pribadinya."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Hutangku lunas, gajiku naik tiga kali lipat. Sebagai gantinya, aku punya kewajiban mingguan untuk melumuri tubuh pemiliknya dengan minyak dari ujung kepala sampai kaki."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "……Bukan kesepakatan yang buruk… kan?"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【TRUE END — Pijatan Sensual yang Mendebarkan: Arc Tatsu-nee】",
+      "triggerEnding": "true"
+    }
+  ]
+}

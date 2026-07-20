@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(进入第二个月了...真快)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(奈奈酱已经成了常客，几乎每天都来)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(最近她的治疗要求越来越具体，真是考验我的专业性)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(不能忘记债务还款的事)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(也许该去商店买些新的治疗工具)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(找个兼职增加资金也是个选择)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(这周该做什么呢...)"
+    }
+  ]
+}

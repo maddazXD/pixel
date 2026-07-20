@@ -1,0 +1,92 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 매주 올 때마다, 수지를 꿰뚫어 보는 것 같아…)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(손님이 전혀 안 늘어… 타츠네의 눈빛이 무서워…)",
+      "conditions": {
+        "maxCustomerCount": 1
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(조금씩 손님은 늘고 있지만… 타츠네에게 보고할 수 있는 숫자는 아니야…)",
+      "conditions": {
+        "minCustomerCount": 2,
+        "maxCustomerCount": 9
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(손님은 그럭저럭이다. 이 정도면 타츠네에게도 떳떳할 수 있을… 거야.)",
+      "conditions": {
+        "minCustomerCount": 10,
+        "maxCustomerCount": 29
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(손님이 꽤 늘었다. 타츠네의 소개 덕분도 있고… 감사해야겠지.)",
+      "conditions": {
+        "minCustomerCount": 30,
+        "maxCustomerCount": 79
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(손님이 너무 많아서 손이 모자라…! 하지만 매출은 최고야. 타츠네도 놀라겠지.)",
+      "conditions": {
+        "minCustomerCount": 80
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(빚은 아직 한참… 타츠네한테 뭐라고 들을까…)",
+      "conditions": {
+        "maxDebtPaidRatio": 0.3
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(상환은 진행되고 있지만, 아직 반 정도인가… 타츠네의 독촉은 아직 계속돼…)",
+      "conditions": {
+        "minDebtPaidRatio": 0.3,
+        "maxDebtPaidRatio": 0.6
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(조금만 더 하면 완납이다…! 타츠네와의 관계도 달라질지도 몰라.)",
+      "conditions": {
+        "minDebtPaidRatio": 0.6,
+        "maxDebtPaidRatio": 0.9
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(빚은 다 갚았다…! 하지만 타츠네가 안 오게 되면… 좀 쓸쓸할지도.)",
+      "conditions": {
+        "minDebtPaidRatio": 1.0
+      }
+    }
+  ]
+}

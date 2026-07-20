@@ -1,0 +1,712 @@
+{
+  "talks": {
+    "erotic_breast_size": {
+      "topicName": "胸部的大小",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "……仔细看的话，真的好大啊" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……别盯着看。虽然知道是工作" },
+        { "character": "player", "expression": "normal_01", "text": "可以问一下尺寸吗？作为理疗的参考" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……K" },
+        { "character": "player", "expression": "normal_01", "text": "K……！？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "怎么了。有意见吗" },
+        { "character": "player", "expression": "normal_01", "text": "没有……对肩膀和背部的负担应该很大吧" },
+        { "character": "tatsu", "expression": "normal_02", "text": "是啊。内衣的选择也几乎没有。可爱的全军覆没，只有注重功能性的朴素款" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "肩膀酸痛，跑步时晃来晃去还疼，周围的目光也烦人。一点好处都没有" },
+        { "character": "player", "expression": "normal_01", "text": "确实。胸部周围的筋膜绷得很紧呢。我来给您松解一下" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……唔。别摸那附近……虽然知道是理疗……" },
+        { "character": "player", "expression": "normal_01", "text": "力度还可以吗？" },
+        { "character": "tatsu", "expression": "pleasure_01", "text": "……没问题。……有点，舒服" }
+      ]
+    },
+
+    "erotic_nipple": {
+      "topicName": "乳头的话题",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "胸部周围的理疗中，可能会碰到乳头，没关系吗？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……啊？突然说什么……" },
+        { "character": "player", "expression": "normal_01", "text": "疏通乳腺周围的淋巴时，难免会经过附近" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……是工作吧。随便你" },
+        { "character": "player", "expression": "normal_01", "text": "这附近……有感觉吗？" },
+        { "character": "tatsu", "expression": "pleasure_01", "text": "唔……啊，有。当然有……唔" },
+        { "character": "player", "expression": "normal_01", "text": "相当敏感呢。反应很大" },
+        { "character": "tatsu", "expression": "alert_02", "text": "吵、吵死了……自己都不知道会这样……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "从来没被人碰过……" },
+        { "character": "player", "expression": "normal_01", "text": "自己也没碰过吗？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "没碰过啊！！为什么问这种事！！" },
+        { "character": "player", "expression": "normal_01", "text": "抱歉。不过对理疗有参考价值" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……唔……算了，随便你……只是，别突然碰……心脏会停的……" }
+      ]
+    },
+
+    "erotic_virgin_ask": {
+      "topicName": "有无经验1",
+      "trustEffect": 0,
+      "developEffect": 1,
+      "alertnessEffect": 0,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "……有过性经验吗？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "啊？为什么要回答这种问题" },
+        { "character": "player", "expression": "alert_02", "text": "是为了调整理疗内容。没有别的意思" },
+        { "character": "tatsu", "expression": "normal_01", "text": "…………有" },
+        { "character": "player", "expression": "normal_01", "text": "……真的吗？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "说有就有。别让我说第二遍" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……什么眼神。在怀疑吗" },
+        { "character": "player", "expression": "normal_01", "text": "没有。那就以有经验为前提进行理疗了" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……啊，嗯" },
+        { "character": "player", "expression": "normal_01", "text": "顺便问一下大概几次？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "连次数都问！！跟理疗没关系吧！！" },
+        { "character": "player", "expression": "normal_01", "text": "抱歉（从反应来看，应该没有经验吧…）" }
+      ]
+    },
+
+    "erotic_virgin_reveal": {
+      "topicName": "有无经验2",
+      "trustEffect": 2,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "之前您说有过性经验……" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……突然说什么" },
+        { "character": "player", "expression": "normal_01", "text": "理疗的时候我在想，您的反应……全都是第一次被碰到的人的反应" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……你想说什么" },
+        { "character": "player", "expression": "normal_01", "text": "没有经验吧？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "…………" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……好吧好吧。没有经验。有什么不好" },
+        { "character": "player", "expression": "normal_01", "text": "不，反而很好……没什么。只是为了理疗才问的" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……都26了还是处女很丢人吧。在这行混，根本信不过男人" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "凑上来的家伙全都是冲着钱或身体来的。……所以……就这样" },
+        { "character": "player", "expression": "normal_01", "text": "……原来如此" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……敢笑就杀了你" },
+        { "character": "player", "expression": "normal_01", "text": "不会笑的。谢谢您告诉我" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……哼" }
+      ]
+    },
+
+    "erotic_voice": {
+      "topicName": "忍住声音",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "不用硬忍着声音" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……才没忍" },
+        { "character": "player", "expression": "normal_01", "text": "您在咬嘴唇呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "唔……没有咬" },
+        { "character": "player", "expression": "normal_01", "text": "发出声音的话身体会放松。忍着反而会让肌肉变硬" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……不是那个问题" },
+        { "character": "player", "expression": "normal_01", "text": "这里只有我和龙姐两个人" },
+        { "character": "tatsu", "expression": "pleasure_sleepy_01", "text": "……唔……知道了。稍微……放松一下……" },
+        { "character": "tatsu", "expression": "pleasure_01", "text": "……嗯……唔" },
+        { "character": "player", "expression": "normal_01", "text": "……嗯，很好" }
+      ]
+    },
+
+    "erotic_underwear": {
+      "topicName": "内衣的话题",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "理疗的时候，有钢圈的内衣容易留下痕迹，推荐无钢圈的" },
+        { "character": "tatsu", "expression": "normal_02", "text": "这个尺寸用无钢圈的？撑不住吧" },
+        { "character": "player", "expression": "normal_01", "text": "不过，内衣的勒痕留得很明显呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……连那种地方都在看吗……" },
+        { "character": "player", "expression": "normal_01", "text": "留痕是因为勒得太紧。对血液循环也不好" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……知道了。……话说，K罩杯的可爱内衣真的没有。只有大码大妈款" },
+        { "character": "player", "expression": "normal_01", "text": "真不容易啊……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "偶尔想穿个蕾丝的……不，什么都没说。忘了" },
+        { "character": "player", "expression": "normal_01", "text": "（穿可爱内衣的龙姐…好想看啊）" }
+      ]
+    },
+
+    "erotic_wetness": {
+      "topicName": "身体的反应",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "……龙姐，下面好像有点湿了" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……唔！？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "别、别看！！" },
+        { "character": "player", "expression": "normal_01", "text": "是身体的正常反应。血液循环变好后自然会这样" },
+        { "character": "tatsu", "expression": "alert_02", "text": "正常什么的……不是那个问题……唔" },
+        { "character": "player", "expression": "normal_01", "text": "不用觉得害羞。反而说明理疗有效果" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……最近，被你碰一下……就会变成这样……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "以前明明不会这样的……身体变得奇怪了……" },
+        { "character": "player", "expression": "normal_01", "text": "是感度提高了。不是坏事" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……说不是坏事，你倒是说得轻松……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……回去的车上怎么办啊……" }
+      ]
+    },
+
+    "erotic_butt": {
+      "topicName": "对臀部的执着",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "龙姐的臀部，每次理疗都会想，真的太厉害了" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……什么啊" },
+        { "character": "player", "expression": "normal_01", "text": "弹性。按下去会弹回来。按多少次都不腻" },
+        { "character": "tatsu", "expression": "alert_02", "text": "不腻是什么意思……你在玩吗？做理疗啊" },
+        { "character": "player", "expression": "normal_01", "text": "在做啊。只是觉得很有揉的价值。……可以再来一次吗" },
+        { "character": "tatsu", "expression": "alert_01", "text": "还想揉多少次！！从刚才开始一直只揉屁股！！" },
+        { "character": "player", "expression": "normal_01", "text": "因为臀大肌状态很好，所以不由得仔细按摩" },
+        { "character": "tatsu", "expression": "alert_01", "text": "胡说！！你就是在享受吧！！眼睛别发光！！" },
+        { "character": "player", "expression": "normal_01", "text": "练过格斗技的人臀部肌肉生长方式不一样。是学术上的兴趣" },
+        { "character": "tatsu", "expression": "normal_02", "text": "出于学术兴趣揉屁股的理疗师是什么鬼……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……话说，我的屁股真有那么有揉的价值吗……从没听过这种评价……" }
+      ]
+    },
+
+    "erotic_masturbation": {
+      "topicName": "自己触碰",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "为了让理疗效果持续，在家的自我护理也很重要" },
+        { "character": "tatsu", "expression": "normal_02", "text": "自我护理？拉伸之类的？" },
+        { "character": "player", "expression": "normal_01", "text": "那也是……不过，有触摸自己身体的习惯吗？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……什么意思" },
+        { "character": "player", "expression": "normal_01", "text": "为了察觉身体的变化，自己触摸也很重要" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……你是在拐弯抹角地问我有没有自慰吗" },
+        { "character": "player", "expression": "normal_01", "text": "…………" },
+        { "character": "tatsu", "expression": "alert_02", "text": "被说中了吗……" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……没有。那种事，做法也不太懂" },
+        { "character": "player", "expression": "normal_01", "text": "了解自己的身体很重要。哪里舒服，哪里敏感" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……都怪你的理疗，最近开始奇怪地在意了" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……洗澡的时候，偶尔……不，没什么" },
+        { "character": "player", "expression": "normal_01", "text": "然后呢？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "没有然后！！不需要告诉你！！……而且为什么我在说这种话。都是你的错" }
+      ]
+    },
+
+    "erotic_body_heat": {
+      "topicName": "体温升高",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "龙姐，脸好红，没事吧？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……没什么。只是热而已" },
+        { "character": "player", "expression": "normal_01", "text": "体温升得挺高的。皮肤也很烫" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……摸一下就知道吗" },
+        { "character": "player", "expression": "normal_01", "text": "是血液循环变好的证据。特别是这里……从胸口到脖子" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……别特意说出来" },
+        { "character": "player", "expression": "normal_01", "text": "刚开始的时候没有这么大反应呢" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……因为你老是碰奇怪的地方吧。变态吗？" },
+        { "character": "player", "expression": "normal_01", "text": "是促进血液循环的结果" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……促进血液循环就脸红成这样的理疗是什么鬼。我到底是来干什么的" }
+      ]
+    },
+
+    "erotic_thigh": {
+      "topicName": "大腿的话题",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "……很好的大腿呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……啊？突然说什么？" },
+        { "character": "player", "expression": "normal_01", "text": "肉感适中，也适度有肌肉" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……有去健身房，也练过格斗技" },
+        { "character": "player", "expression": "normal_01", "text": "嗯。做理疗时很有触感。想一直摸下去" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……你在说什么？" },
+        { "character": "player", "expression": "normal_01", "text": "啊，不过大腿内侧有点湿了呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "唔……！是汗！！" },
+        { "character": "player", "expression": "normal_01", "text": "说是汗的话……位置有点……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "说是汗就是汗！！" },
+        { "character": "player", "expression": "normal_01", "text": "好的。……是汗呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……别笑" }
+      ]
+    },
+
+    "erotic_armpit": {
+      "topicName": "腋下的气味",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "请抬一下胳膊好吗？腋下的淋巴……嗅嗅" },
+        { "character": "tatsu", "expression": "alert_01", "text": "啊！？别闻！白痴！想死吗？" },
+        { "character": "player", "expression": "normal_01", "text": "没关系" },
+        { "character": "tatsu", "expression": "alert_01", "text": "什么没关系啊……那种地方很脏吧" },
+        { "character": "player", "expression": "normal_01", "text": "甜甜的很好闻。想做成香水" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……去死。不，我来杀你" },
+        { "character": "player", "expression": "normal_01", "text": "微微出了点汗呢。……可以再闻一次吗？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "怎么可以！？还想闻几次变态！！" },
+        { "character": "player", "expression": "normal_01", "text": "好闻到让人没法专心理疗" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……真的好恶心" }
+      ]
+    },
+
+    "erotic_nape": {
+      "topicName": "后颈的话题",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "……啊，后颈有颗痣呢" },
+        { "character": "tatsu", "expression": "normal_02", "text": "啊？是吗？自己看不到……" },
+        { "character": "player", "expression": "normal_01", "text": "小小的一颗。……在这里" },
+        { "character": "tatsu", "expression": "alert_02", "text": "呀！！你干什么！！" },
+        { "character": "player", "expression": "normal_01", "text": "只是碰了一下" },
+        { "character": "tatsu", "expression": "alert_01", "text": "别突然碰！！心脏差点停了！！" },
+        { "character": "player", "expression": "normal_01", "text": "后颈也很敏感呢。记住了" },
+        { "character": "tatsu", "expression": "alert_02", "text": "别记。忘掉" }
+      ]
+    },
+
+    "erotic_twitch": {
+      "topicName": "颤抖的身体",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "龙姐，今天一直在抖呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……没有抖" },
+        { "character": "player", "expression": "normal_01", "text": "碰这里的话……" },
+        { "character": "tatsu", "expression": "pleasure_01", "text": "啊……！" },
+        { "character": "player", "expression": "normal_01", "text": "看吧" },
+        { "character": "tatsu", "expression": "alert_01", "text": "什么看吧！！别故意碰！！" },
+        { "character": "player", "expression": "normal_01", "text": "刚开始的时候完全没反应，最近碰哪里都会抖" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……自己也知道。只要被碰到身体就会自己……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "控制不了。身体不听使唤…" },
+        { "character": "player", "expression": "normal_01", "text": "是感度提高的证据。身体变得更诚实了" },
+        { "character": "tatsu", "expression": "alert_02", "text": "也太诚实了吧……这么一碰就抖的话没法维持威严了……" }
+      ]
+    },
+
+    "erotic_nipple_change": {
+      "topicName": "乳头的变化",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "龙姐，理疗还没开始乳头就立起来了呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……唔！！别看！！" },
+        { "character": "player", "expression": "normal_01", "text": "以前要在理疗中碰到才会有反应，现在已经……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "吵死了……来之前就，不知怎的……自己变成这样了" },
+        { "character": "player", "expression": "normal_01", "text": "来之前就？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "开车过来的路上……就已经这样了。隔着衣服都看得出来，最糟糕了" },
+        { "character": "player", "expression": "normal_01", "text": "身体记住理疗了呢。预测到了所以提前做准备" },
+        { "character": "tatsu", "expression": "alert_01", "text": "什么准备啊……" },
+        { "character": "player", "expression": "normal_01", "text": "颜色也变了一点呢。比以前……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "为什么每次都观察得那么仔细！想当乳头鉴定师吗？" }
+      ]
+    },
+
+    "erotic_breast_bounce": {
+      "topicName": "胸部的晃动",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "理疗中换体位的时候，晃得很厉害呢" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……嗯，这个大小嘛。稍微动一下就会晃" },
+        { "character": "player", "expression": "normal_01", "text": "…好厉害的动感。感受到了地球的重力" },
+        { "character": "tatsu", "expression": "normal_02", "text": "自己也觉得碍事。跑起来会疼" },
+        { "character": "player", "expression": "normal_01", "text": "啊，刚才那下，好厉害" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……别一个劲解说白痴" },
+        { "character": "player", "expression": "normal_01", "text": "抱歉。不过每次晃动都会给胸部筋膜施加负荷，所以需要通过理疗来放松" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……说得像模像样的，你肯定只是想看吧" },
+        { "character": "player", "expression": "normal_01", "text": "（被发现了……）" }
+      ]
+    },
+
+    "erotic_breathing": {
+      "topicName": "呼吸的变化",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "呼吸变得很急促了" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……吵死了……自己知道……" },
+        { "character": "player", "expression": "normal_01", "text": "不用硬压着。自然呼吸就好" },
+        { "character": "tatsu", "expression": "pleasure_01", "text": "自然呼吸的话……哈啊……会变得更糟糕的……" },
+        { "character": "player", "expression": "normal_01", "text": "没关系。这里是理疗室" },
+        { "character": "tatsu", "expression": "pleasure_02", "text": "……哈啊……唔……嗯……唔" },
+        { "character": "player", "expression": "normal_01", "text": "……嗯，放松下来了。很好" },
+        { "character": "tatsu", "expression": "alert_02", "text": "很好什么的……我刚才的喘息超丢人的……" },
+        { "character": "player", "expression": "normal_01", "text": "不丢人。是身体在放松的证据" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……被你碰的时候呼吸就会变奇怪。明明想正常呼吸却自己变成这样。到底怎么回事" }
+      ]
+    },
+
+    "erotic_voice_leak": {
+      "topicName": "泄出声音",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "pleasure_02", "text": "……嗯……唔……啊……" },
+        { "character": "player", "expression": "normal_01", "text": "最近，不再忍着声音了呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "唔！！有！！有在忍！！" },
+        { "character": "player", "expression": "normal_01", "text": "没有忍。刚才一直在漏" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……不会吧……自己都没意识到……" },
+        { "character": "player", "expression": "normal_01", "text": "以前还拼命咬着嘴唇忍着呢。身体变得坦率了" },
+        { "character": "tatsu", "expression": "alert_02", "text": "坦率什么的……自己跑出来的……不知道怎么停……" },
+        { "character": "player", "expression": "normal_01", "text": "不用停" },
+        { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "……唔……啊……不要……别听……" },
+        { "character": "player", "expression": "normal_01", "text": "在听。好想录下来" },
+        { "character": "tatsu", "expression": "climax_01", "text": "敢录就把你牙全敲掉！？不是开玩笑是真的！！" }
+      ]
+    },
+
+    "erotic_strange_voice": {
+      "topicName": "奇怪的声音",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "pleasure_03", "text": "……嗯……唔……啊♡" },
+        { "character": "tatsu", "expression": "alert_02", "text": "…………" },
+        { "character": "player", "expression": "normal_01", "text": "…………" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……刚才的，听到了吗" },
+        { "character": "player", "expression": "normal_01", "text": "……嗯" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……当做没听到" },
+        { "character": "player", "expression": "normal_01", "text": "很可爱" },
+        { "character": "tatsu", "expression": "alert_01", "text": "不是可爱不可爱的问题！！高利贷的社长理疗的时候发出那种声音……！！" },
+        { "character": "player", "expression": "normal_01", "text": "只有我听到了" },
+        { "character": "tatsu", "expression": "alert_02", "text": "被你听到才是最糟糕的……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……不干了。今天就到这" }
+      ]
+    },
+
+    "erotic_body_hair": {
+      "topicName": "体毛的话题",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "龙姐，皮肤好好啊。一点杂毛都没有" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……有在健身房训练，也去游泳，所以有在处理" },
+        { "character": "player", "expression": "normal_01", "text": "原来如此。做理疗的这边也方便" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……话说，本来就不怎么长。体质的关系" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……干嘛让我说这种话白痴" },
+        { "character": "player", "expression": "normal_01", "text": "我没问啊。是您自己说的" },
+        { "character": "tatsu", "expression": "alert_01", "text": "是因为你说什么皮肤好！！话题引导到那里了！！" },
+        { "character": "player", "expression": "normal_01", "text": "只是在夸而已……" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……哼。夸也没用" }
+      ]
+    },
+
+    "erotic_underwear_change": {
+      "topicName": "换了内衣的话题",
+      "trustEffect": 1,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "normal_01", "text": "……喂" },
+        { "character": "player", "expression": "normal_01", "text": "嗯？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……之前你说过无钢圈比较好吧。理疗的时候" },
+        { "character": "player", "expression": "normal_01", "text": "是的。因为不容易留下内衣的勒痕" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……买了。K罩杯的无钢圈款。……在网上找了3个小时" },
+        { "character": "player", "expression": "normal_01", "text": "特意去找了吗？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……选了个带点蕾丝的。……只是刚好看到而已" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "笑什么！！说会影响理疗的人是你吧！！" },
+        { "character": "player", "expression": "normal_01", "text": "没有笑。只是觉得很开心" },
+        { "character": "tatsu", "expression": "alert_02", "text": "开心什么……算了。这话题到此为止。再也不说了" }
+      ]
+    },
+
+    "erotic_wetness_worse": {
+      "topicName": "每次都更严重",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "alert_02", "text": "……喂。能问个事吗" },
+        { "character": "player", "expression": "normal_01", "text": "好" },
+        { "character": "tatsu", "expression": "alert_02", "text": "其他客人也……理疗的时候会这样吗？" },
+        { "character": "player", "expression": "normal_01", "text": "这样是指？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "别让我说！！……下面，啊。……变成这样的是不是只有我" },
+        { "character": "player", "expression": "normal_01", "text": "……龙姐的反应确实是最大的" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……果然……。刚开始只是微微潮湿，感觉每周都越来越严重了" },
+        { "character": "player", "expression": "normal_01", "text": "不是错觉。身体习惯了理疗，感度在提高" },
+        { "character": "tatsu", "expression": "alert_02", "text": "习惯了不是应该减轻吗，反而更严重了……" },
+        { "character": "player", "expression": "normal_01", "text": "下周可能会更厉害呢" },
+        { "character": "tatsu", "expression": "alert_01", "text": "别一脸高兴地说！！也替我想想！！" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……从今天开始理疗前带卫生巾来。……敢笑就踹你" }
+      ]
+    },
+
+    "erotic_clit": {
+      "topicName": "阴蒂的反应",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "龙姐，没碰到的情况下阴蒂在抖呢" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……啊！？突然说什么……！！" },
+        { "character": "player", "expression": "normal_01", "text": "充血得很厉害呢。从包皮里露出来了" },
+        { "character": "tatsu", "expression": "climax_01", "text": "别解说！！去死！！杀了你！！" },
+        { "character": "player", "expression": "normal_01", "text": "不过真厉害啊。光是附近的理疗就反应成这样" },
+        { "character": "tatsu", "expression": "alert_02", "text": "不需要什么厉害的感想……唔" },
+        { "character": "player", "expression": "normal_01", "text": "自己碰过吗？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……唔……没、没有……" },
+        { "character": "player", "expression": "normal_01", "text": "以这种敏感度，稍微碰一下就能高潮吧" },
+        { "character": "tatsu", "expression": "climax_01", "text": "别说什么高潮！！！！你已经不是理疗师了吧！！只是个变态吧！！！！" },
+        { "character": "player", "expression": "normal_01", "text": "是理疗所见" },
+        { "character": "tatsu", "expression": "alert_02", "text": "有谁会在所见里写『能高潮』啊……杀了你……" }
+      ]
+    },
+
+    "erotic_shape": {
+      "topicName": "下面的形状",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "龙姐，下面好漂亮" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……………………啊？" },
+        { "character": "player", "expression": "normal_01", "text": "不是，理疗的时候难免会看到。觉得形状很好看" },
+        { "character": "tatsu", "expression": "alert_01", "text": "说下面好漂亮，要是跟陌生人说的话正常人会报警" },
+        { "character": "player", "expression": "normal_01", "text": "又不是陌生人。已经做了好几个月的理疗了" },
+        { "character": "tatsu", "expression": "climax_01", "text": "做几个月理疗就可以说下面漂亮了！！脑子有问题吧！！" },
+        { "character": "player", "expression": "normal_01", "text": "抱歉。但真的很漂亮。颜色也是粉色的" },
+        { "character": "tatsu", "expression": "climax_01", "text": "连颜色都说了！！！！" },
+        { "character": "player", "expression": "normal_01", "text": "从没给人看过吧？太可惜了" },
+        { "character": "tatsu", "expression": "alert_02", "text": "可惜什么……又不是展览品……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……说漂亮什么的……那个地方被夸这还是人生第一次……理疗怎么会有这种感想啊……" }
+      ]
+    },
+
+    "erotic_anal": {
+      "topicName": "后面的反应",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "龙姐，后面在一缩一缩的" },
+        { "character": "tatsu", "expression": "alert_01", "text": "啊！？别报告！！" },
+        { "character": "player", "expression": "normal_01", "text": "只是在附近做理疗就自己有反应了呢。真有趣" },
+        { "character": "tatsu", "expression": "alert_01", "text": "有趣是什么意思！！别拿人家的屁眼找乐子！！" },
+        { "character": "player", "expression": "normal_01", "text": "啊，又动了。明明没碰到真厉害。这里也会有感觉吗？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "我怎么知道！！从出生到现在都没想过这种事！！" },
+        { "character": "player", "expression": "normal_01", "text": "稍微确认一下可以吗？是盆底肌的反射" },
+        { "character": "tatsu", "expression": "alert_02", "text": "确认什么！！别碰！！手指别靠过来！！" },
+        { "character": "player", "expression": "normal_01", "text": "……你看，只是靠近就反应成这样。相当敏感呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "唔……呀……唔！！……你刚才肯定是故意的！！" },
+        { "character": "player", "expression": "normal_01", "text": "是理疗" },
+        { "character": "tatsu", "expression": "climax_01", "text": "把手指伸向屁眼怎么可能是理疗！！该吊销执照了吧！！" }
+      ]
+    },
+
+    "erotic_smell": {
+      "topicName": "身体的气味",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "龙姐，今天好香啊" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……没喷香水" },
+        { "character": "player", "expression": "normal_01", "text": "不是香水。……是身体的气味" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……身体的气味？有汗味什么的……" },
+        { "character": "player", "expression": "normal_01", "text": "恰恰相反。有股甜味。特别是……兴奋起来的时候更浓" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……唔！别闻！！" },
+        { "character": "player", "expression": "normal_01", "text": "做理疗靠近的时候自然就闻到了" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……自己又闻不到……好丢人……" },
+        { "character": "player", "expression": "normal_01", "text": "很好闻。想一直闻" },
+        { "character": "tatsu", "expression": "alert_01", "text": "你刚才也闻腋下了吧！！到底是什么嗅觉控！！" }
+      ]
+    },
+
+    "erotic_after_massage": {
+      "topicName": "理疗后的燥热",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "normal_02", "text": "……喂，想问个事" },
+        { "character": "player", "expression": "normal_01", "text": "什么事？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "理疗之后，身体发烫……正常吗？" },
+        { "character": "player", "expression": "normal_01", "text": "因为血液循环变好了，会有一阵子觉得暖" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……一阵子是多久" },
+        { "character": "player", "expression": "normal_01", "text": "大概30分钟到1个小时吧" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……一直到晚上都还在烫" },
+        { "character": "player", "expression": "normal_01", "text": "……到晚上？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "回家洗了澡也停不下来……身体一直很烫……睡不着" },
+        { "character": "player", "expression": "normal_01", "text": "那个……与其说是理疗的效果……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "『与其说』是什么。说完。……不，别说了。我懂了" }
+      ]
+    },
+
+    "erotic_think_of_you": {
+      "topicName": "工作中想起来",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "normal_02", "text": "……有件事要跟你抱怨" },
+        { "character": "player", "expression": "normal_01", "text": "什么事？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "最近工作的时候会想起你。很困扰" },
+        { "character": "player", "expression": "normal_01", "text": "想起我？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……是理疗的事。开会的时候突然……你手的触感就涌上来……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "没法集中精力。下属的汇报完全听不进去" },
+        { "character": "player", "expression": "normal_01", "text": "是身体记住了理疗的感觉呢" },
+        { "character": "tatsu", "expression": "alert_02", "text": "什么记住了，哪有那么文雅……一想起来连身体都……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……开会的时候变成那样怎么办……" },
+        { "character": "player", "expression": "normal_01", "text": "……会变成什么样？" },
+        { "character": "tatsu", "expression": "climax_01", "text": "别让我说！！杀了你！！" }
+      ]
+    },
+
+    "erotic_scent_react": {
+      "topicName": "闻到气味身体就反应",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……那个" },
+        { "character": "player", "expression": "normal_01", "text": "嗯" },
+        { "character": "tatsu", "expression": "alert_02", "text": "之前说过闻到精油味肩膀就会放松吧" },
+        { "character": "player", "expression": "normal_01", "text": "嗯。说像巴甫洛夫的狗" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……那个变严重了" },
+        { "character": "player", "expression": "normal_01", "text": "变严重？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "不只是肩膀放松了……闻到味道的瞬间，身体就……起了反应" },
+        { "character": "player", "expression": "normal_01", "text": "反应是指……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……下面。……会湿。光是闻到精油味就" },
+        { "character": "player", "expression": "normal_01", "text": "嗅觉和身体反应很容易直接联系……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "不需要解说！！想办法解决！！都是你的错！！" }
+      ]
+    },
+
+    "erotic_toy_recommend": {
+      "topicName": "推荐的道具",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "接着之前自我护理的话题" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……怎么了" },
+        { "character": "player", "expression": "normal_01", "text": "光用手有局限性，用道具也不错" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……道具？按摩枪之类的？" },
+        { "character": "player", "expression": "normal_01", "text": "电动按摩棒" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……啊？" },
+        { "character": "player", "expression": "normal_01", "text": "通过振动促进血液循环，能深层放松肌肉。特别是用在敏感的地方……" },
+        { "character": "tatsu", "expression": "alert_01", "text": "那不是按摩器是成人用品吧！！若无其事地推荐什么！！" },
+        { "character": "player", "expression": "normal_01", "text": "本来是治肩膀酸痛的医疗器械" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……骗人。……还是没骗？……在哪能买到" },
+        { "character": "player", "expression": "normal_01", "text": "网上就能买。推荐的型号要告诉您吗？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……不要！！……不，等一下……回头偷偷告诉我。偷偷的" }
+      ]
+    },
+
+    "erotic_cant_satisfy": {
+      "topicName": "自己不够",
+      "trustEffect": 1,
+      "developEffect": 4,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……喂" },
+        { "character": "player", "expression": "normal_01", "text": "嗯" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……你之前说的那个。……让我自己触摸身体" },
+        { "character": "player", "expression": "normal_01", "text": "嗯。试过了吗？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……试了" },
+        { "character": "player", "expression": "normal_01", "text": "感觉怎么样？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……不够" },
+        { "character": "player", "expression": "normal_01", "text": "不够？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "自己弄……跟被你碰到的时候完全不一样。完全不够" },
+        { "character": "tatsu", "expression": "alert_02", "text": "不知道哪里不同……但是，不是你的手就不行……" },
+        { "character": "player", "expression": "normal_01", "text": "…………" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……说点什么。别沉默。……想死吗" }
+      ]
+    },
+
+    "erotic_want_more": {
+      "topicName": "再多碰碰",
+      "trustEffect": 1,
+      "developEffect": 4,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "今天的理疗到这里吧" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……" },
+        { "character": "player", "expression": "normal_01", "text": "龙姐？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……再多一会儿" },
+        { "character": "player", "expression": "normal_01", "text": "嗯？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……再碰一会儿" },
+        { "character": "player", "expression": "normal_01", "text": "……碰哪里？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……哪里都行。……不想……你的手离开" },
+        { "character": "player", "expression": "normal_01", "text": "…………好的" },
+        { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "……嗯……" },
+        { "character": "tatsu", "expression": "pleasure_sleepy_01", "text": "……这样就安心了……为什么呢……" },
+        { "character": "player", "expression": "normal_01", "text": "多久都可以碰" },
+        { "character": "tatsu", "expression": "pleasure_sleepy_01", "text": "……哼。……那就再一会儿。……只有5分钟" }
+      ]
+    }
+  }
+}

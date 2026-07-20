@@ -1,0 +1,275 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──開業して2週目の朝。\nポストに無言で差し込まれた先週分の請求書の束を見て、俺は目眩がした。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "うわっ…これは…。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（所持金は残り少ない…。来院者は、未だ1人。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（でも、俺は知ってる。継続は力。波動は裏切らない。って、師匠が言ってた。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……だがそろそろ、波動より現金が欲しい……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "こんにちは。また、来ちゃいました…。",
+      "voiceFile": "story_day2_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "……ようこそ。嬉しいよ、本当に。君が来てくれて、今日が救われた。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "え、えっと……そんな、たいしたことじゃ……。",
+      "voiceFile": "story_day2_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "先週やっていただいたマッサージ、すごく気持ちよくて…肩、軽くなりました。",
+      "voiceFile": "story_day2_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "でも…あの服は、やっぱりちょっと恥ずかしくて……。",
+      "voiceFile": "story_day2_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そっか。でも似合ってたよ。今日も無理せず、リラックスしてね。"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "今日は身体の調子、どう？何か気になるところある？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "えっと……最近、なんだか脚がじんじんしてて…むくみ…かなって…。",
+      "voiceFile": "story_day2_005"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "最近ずっと座りっぱなしだったので…ふくらはぎとか、おしりのあたりとか、なんだか重くて…。",
+      "voiceFile": "story_day2_006"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "脚のむくみか。それなら今日はうつぶせで施術してみようか。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "うつぶせ…ですか？",
+      "voiceFile": "story_day2_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう。うつぶせだと脚の裏側やおしりの筋肉にアプローチしやすいんだ。血流も改善しやすいよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "な、なるほど…。でも、その姿勢だと…お尻が…目立っちゃいそうで…。",
+      "voiceFile": "story_day2_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "大丈夫。プロとして適切に施術するから、安心して。"
+    },
+    {
+      "id": "choice_massage2",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "それじゃあ、準備ができたら始めようか。",
+      "choices": [
+        {
+          "label": "座りっぱなしだと血流悪くなるからね",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "serious_path"
+        },
+        {
+          "label": "かわいいおしりだね",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "cute_butt_path"
+        },
+        {
+          "label": "ちょっと触って確認してもいい？",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "touch_path"
+        }
+      ]
+    },
+    {
+      "id": "serious_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "はい…自分でもちょっと姿勢が悪かったかもって思ってて…。",
+      "voiceFile": "story_day2_009"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "そういう小さな習慣の積み重ねが、身体に出るからね。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "cute_butt_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "か、かわいいって……っ！そ、そんなこと……急に言わないでください…っ",
+      "voiceFile": "story_day2_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ああ、ごめん。でも、本音が出ちゃっただけ。いい意味で言ったんだよ？",
+      "next": "change_clothes"
+    },
+    {
+      "id": "touch_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "えっ……！？",
+      "voiceFile": "story_day2_011",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "うーん。なるほど……。",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "あ、あのっ……？",
+      "voiceFile": "story_day2_012",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ここ大臀筋っていってね。身体の中でも一番大きな筋肉なんだ。",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "座りっぱなしだと、この筋肉が固まって血流が悪くなるんだよ。",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "ひゃっ……！あ、あのっ……でも……！",
+      "voiceFile": "story_day2_013",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "腰痛の原因の多くは、実はお尻の筋肉が原因なんだ。ここをほぐさないと改善しにくいんだよ。",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そ、そうなんですか……知らなかったです……。",
+      "voiceFile": "story_day2_014",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "うん、かなり張ってるね。これじゃ脚のむくみも当然だよ。しっかりほぐしていこう。",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "は、はい……確かに、さっきより身体がぽかぽかしてきました……。血流が良くなってるってことですか……？",
+      "voiceFile": "story_day2_015",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "じゃあ、今日も施術用の専用ウェアに着替えてね"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "わ、わかりました…。",
+      "voiceFile": "story_day2_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "（また…あんな恥ずかしい格好になっちゃうんだ……）",
+      "voiceFile": "story_day2_017",
+      "cutInImage": "nana_changing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "……。",
+      "voiceFile": "story_day2_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "着替えました…。",
+      "voiceFile": "story_day2_019",
+      "outfit": "micro_bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "よし、それじゃあ施術、始めようか。"
+    }
+  ]
+}

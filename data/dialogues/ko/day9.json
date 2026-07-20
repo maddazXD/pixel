@@ -1,0 +1,357 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──9주차 아침.\n나와 나나의 관계는 완전히 시술사와 고객의 틀을 벗어났다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(9주차... 나나의 몸이 완전히 꽃 피었어. 그리고 마음도...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "안녕하세요... 선생님...",
+      "voiceFile": "story_day9_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "안녕, 나나. 오늘 컨디션 좋아 보이네."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그건... 아마 어젯밤에 잘 잤거든요...",
+      "voiceFile": "story_day9_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "잘 잤어? 그거 좋네."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "네... 요즘 몸이 더 쉽게 이완돼요...",
+      "voiceFile": "story_day9_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "그래도 선생님 시술을 받고 싶어요...",
+      "voiceFile": "story_day9_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "솔직하네. 이렇게 솔직한 나나라서 시술 보람이 있어."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "선생님 시술은... 정말 특별해요...",
+      "voiceFile": "story_day9_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그건 나나의 몸이 내 시술을 완벽하게 받아들이기 때문이야."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "제 몸은... 선생님 손 아니면 만족할 수 없게 됐어요...",
+      "voiceFile": "story_day9_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(완전히 내 시술에 의존하고 있어... 완벽한 상태야.)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "음... 오늘 부탁이 있어요...",
+      "voiceFile": "story_day9_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "뭔데?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "더... 격렬하게... 시술해 주셨으면...",
+      "voiceFile": "story_day9_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "지난번엔 부드럽게 해 주셨지만... 오늘은 더...",
+      "voiceFile": "story_day9_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "세게 눌러주고... 격렬하게...",
+      "voiceFile": "story_day9_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "격렬하게? 그렇게 강하게 해도 괜찮겠어?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "요즘 부드럽게만 하는 건... 부족해요...",
+      "voiceFile": "story_day9_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "더 강한 자극을... 원하게 됐어요...",
+      "voiceFile": "story_day9_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "멋진 변화네. 자신의 몸을 솔직하게 대하고 있다는 증거야."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "선생님 덕분이에요... 제 몸을 깨워주셨어요...",
+      "voiceFile": "story_day9_013"
+    },
+    {
+      "id": "choice_massage9",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "네 부탁 잘 들었어, 나나.",
+      "choices": [
+        {
+          "label": "하지만 너무 무리하지는 마",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "careful_path"
+        },
+        {
+          "label": "오늘은 네가 견딜 수 있는 한계까지",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "limit_path"
+        },
+        {
+          "label": "넌 이제 완전히 내 전용 몸이야",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "mine_path"
+        }
+      ]
+    },
+    {
+      "id": "careful_path",
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "네... 선생님은 친절하세요.",
+      "voiceFile": "story_day9_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "나나는 소중한 고객이니까. 전문가로서 제대로 케어해야지.",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "limit_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "견딜 수 있는 한계까지...?",
+      "voiceFile": "story_day9_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응. 네가 원하는 강도로 지금까지 중 가장 격렬한 시술을 해 줄게."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "네, 네... 부탁드려요...",
+      "next": "prepare_massage",
+      "voiceFile": "story_day9_016"
+    },
+    {
+      "id": "mine_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "넌 이제 완전히 내 전용 몸이야. 내 시술 없이는 만족할 수 없잖아?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "전, 전용...?",
+      "voiceFile": "story_day9_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그렇게 말하면... 부끄러워요...",
+      "voiceFile": "story_day9_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "하지만 사실이잖아? 네 몸은 이제 나한테만 반응하니까."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "...그건... 맞을지도...",
+      "next": "prepare_massage",
+      "voiceFile": "story_day9_019"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "음... 또 하나 부탁이 있어요...",
+      "voiceFile": "story_day9_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "뭔데?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "오늘은... 그 특별한 옷... 더 작은 거 없나요...?",
+      "voiceFile": "story_day9_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "더 작은 거?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "네... 더 많이 노출하고 싶어요...",
+      "voiceFile": "story_day9_022"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "선생님께 전부 보여드리고... 전부 만져주셨으면...",
+      "voiceFile": "story_day9_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(스스로 더 노출을 요구하다니... 완전히 개발됐어.)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "거기까지 말한다면, 차라리 아무것도 안 입는 게 어때?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "에...? 그, 그건...",
+      "voiceFile": "story_day9_024"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "아직은... 너무 부끄러워요...",
+      "voiceFile": "story_day9_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "농담이야. 하지만 나나가 그렇게까지 말한다면, 다음에 더 작은 걸 찾아볼게."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "정, 정말요...? 감사합니다...",
+      "voiceFile": "story_day9_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그럼 오늘은, 평소 옷으로 갈아입자."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(평소 옷으론... 이제 만족할 수 없어...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day9_027"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(더... 더 보여주고 싶고... 더 만져주셨으면 하는 마음... 이런 내가... 조금... 무서워...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day9_028"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "갈, 갈아입었어요...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day9_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(이미 익숙해졌을 텐데... 나나의 발달한 몸은 정말 매력적이야...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "선생님... 오늘도 잘 부탁드려요...",
+      "voiceFile": "story_day9_030"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "완벽해. 정말 아름다워, 나나."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "감, 감사합니다...",
+      "voiceFile": "story_day9_031"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "...부탁드려요... 오늘은... 특별한 시술을...",
+      "voiceFile": "story_day9_032"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응. 오늘은 네가 원하는 만큼 깊게 시술해 줄게. 준비됐어?"
+    }
+  ]
+}

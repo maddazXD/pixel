@@ -1,0 +1,1119 @@
+{
+  "talks": {
+    "talk_weather": {
+      "topicName": "Obrolan Cuaca",
+      "trustEffect": 1,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Hari ini panas lagi, ya. Capek banget nggak perjalanan ke sini?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Aku kan bawa mobil, jadi nggak terlalu capek sih. ...Tapi rasanya kayak mau mati pas jalan 30 detik dari parkiran ke sini."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "AC-nya sudah nyala kok, santai saja, dinginkan dulu tubuhmu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Mm. Di sini sejuk banget. Jauh lebih enak daripada di kantor."
+        }
+      ]
+    },
+    "talk_stiff": {
+      "topicName": "Tentang Bahu Kaku",
+      "trustEffect": 1,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Sudah berapa lama bahumu kaku kayak gini?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Mana aku tahu. Sudah dari dulu rasanya. Aku malah sudah lupa rasanya kalau bahu nggak kaku itu kayak gimana."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu wajar kok buat orang yang banyak kerja di meja. Urusan komputer dan segala macamnya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Mengurus pembukuan, menjadwalkan penagihan, hal-hal kayak gitu. ...Sebenarnya bukan cuma bahu sih, tapi tengkukku juga rasanya berat terus."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "(Kerja di meja memang berpengaruh, tapi beban dari payudara sebesar itu pasti jadi penyumbang utamanya juga...)"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Otot trapeziusmu kencang banget. Kalau nggak sering-sering dilemaskan, nanti malah bisa bikin sakit kepala."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Aku memang sering sakit kepala sih. Kukira itu migrain, ternyata gara-gara bahu ya?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kemungkinan besar begitu. Kalau rutin dirawat, harusnya bisa membaik."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Hmm. Ya sudah, aku lihat perkembangan nanti saja."
+        }
+      ]
+    },
+    "talk_first_time": {
+      "topicName": "Pertama Kali ke Klinik",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu pernah ke chiropractor atau pijat sebelumnya?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Aku rutin ke esthetician dua kali sebulan, tapi... kalau pijat fisik langsung kayak gini baru pertama kali."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu gugup?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Nggak. Sama sekali nggak."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tapi bahumu keras banget kayak batu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Diem deh. Memang dari dulu begini."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tenang saja, aku nggak akan menyakitimu. Rileks saja."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Mm. ...Ah, rasanya beda banget ya sama di esthetician."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bedanya gimana?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Nggak tahu ya, kayak lebih terasa sampai ke dalam. Kalau esthetician kan cuma di permukaan saja..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Yah, lumayan lah. Cuma itu saja kok."
+        }
+      ]
+    },
+    "talk_sleep": {
+      "topicName": "Kebiasaan Tidur",
+      "trustEffect": 1,
+      "developEffect": 1,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu biasanya tidur gimana? Miring? Atau telentang?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Miring ke samping. Kalau tidur telentang... berat dadaku bikin susah napas."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Iya, masuk akal sih. Tapi tidur miring bikin bahumu lebih pegal."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Semua posisi pasti bikin pegal di bagian tertentu, jadi mau gimana lagi."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bantal guling mungkin bisa bantu. Itu bisa membagi beban dadamu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Bantal guling... Jangan berani-berani bayangin aku tidur pakai bantal guling."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku nggak bayangin kok."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Sebenarnya, aku memang susah tidur dari awal. Terlalu banyak pikiran."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Masalah kerjaan?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Iya. Tagihan buat besok, apa orang itu bakal kerja dengan bener. Kepalaku nggak bisa berhenti mikir."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu mungkin bakal merasa agak ngantuk setelah terapi, jadi usahain tidur lebih awal malam ini."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Mm. Aku bakal lakuin itu."
+        }
+      ]
+    },
+    "talk_massage_effect": {
+      "topicName": "Efek Pijatan",
+      "trustEffect": 2,
+      "developEffect": 1,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Gimana perasaan tubuhmu belakangan ini? Dibandingkan pas pertama kali datang ke sini?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Biasa aja. Normal-normal aja."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ketegangan di bahumu jauh lebih berkurang dibandingkan kunjungan pertamamu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Masa sih?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kulitmu juga kelihatan lebih sehat. Itu tandanya sirkulasi darahmu membaik."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Kamu bener-bener merhatiin kulit orang dan semacamnya ya..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu kan pekerjaanku."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Yah, kurasa belakangan ini aku memang lebih gampang tidur. Sedikit aja sih."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Senang dengarnya. Saat tubuhmu rileks, itu punya efek positif ke sistem sarafmu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Terus, setelah terapi, tubuhku jadi hangat untuk beberapa saat. Kayak pas di mobil waktu perjalanan pulang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Aku nggak muji kamu ya. Aku cuma bilang mungkin terapinya berhasil."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Iya, dimengerti."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Kamu lagi senyum ya?"
+        }
+      ]
+    },
+    "talk_work": {
+      "topicName": "Obrolan Pekerjaan",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Seperti apa pekerjaanmu di hari biasa?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Rentenir. Pinjamkan uang, lalu tagih. Cuma itu saja."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu juga turun tangan sendiri buat menagih?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Aku pribadi yang menangani yang besar-besar. Aku nggak bisa membiarkan diriku diremehkan."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Menjadi wanita di posisi puncak industri ini pasti berat, ya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Awalnya, nggak ada yang mau dengar aku. Mereka bilang, 'Apa sih yang bisa dilakukan seorang gadis?'"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Gimana caranya kamu mendapatkan rasa hormat mereka?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Dengan kekerasan. Aku kan jago bela diri, jadi aku hajar orang paling besar duluan sampai pingsan."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Setelah itu, aku perketat manajemen keuangannya. Tunjukkan hasil lewat angka, dan nggak ada yang bisa protes."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu luar biasa..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Memang berat, tapi aku nggak benci pekerjaan ini. Yah, meski ini bikin pundakku jadi kaku sih."
+        }
+      ]
+    },
+    "talk_liricure": {
+      "topicName": "Bersenandung",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Hmm hm hmm~ Hm hm, hm hmm~"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Tatsu-nee, kamu lagi bersenandung ya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...! Enggak, kok."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Lagu itu... bukannya LiliCure?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Hah? LiliCure apaan?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu anime Minggu pagi. Yang tentang gadis-gadis yang berubah wujud."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Aku nggak tahu apa itu! ...Anaknya Yasu selalu menyanyikannya di mobil, jadi lagunya nempel di kepalaku."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "(Yasu... oh, anak buah Tatsu-nee...) Tunggu, dia sudah punya anak...!"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Iya. Anak perempuan umur 5 tahun. ...Dia memang ceroboh di kantor, tapi kalau sudah menyangkut putrinya, sikapnya berubah total."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Waktu itu, aku sempat nebeng mobil Yasu sepulang kerja, dan ada boneka LiliCure di kursi anak."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Tape mobilnya juga memutar CD LiliCure... Setelah mendengarkannya selama satu jam, aku jadi hafal lagunya."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Yasu kedengarannya ayah yang hebat."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Iya. Itu satu-satunya kualitas yang bisa dibanggakan darinya."
+        }
+      ]
+    },
+    "talk_marriage": {
+      "topicName": "Tentang Pernikahan",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Cerita tentang putri Yasu itu terus terbayang di pikiranku."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Hah? Kenapa memangnya?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, apa kamu pernah memikirkan soal pernikahan?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Hah? Tiba-tiba sekali, dari mana kepikiran begitu?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku cuma penasaran bagaimana perasaanmu melihat Yasu jadi seorang ayah."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Bukan apa-apa. Dia ya dia, aku ya aku."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Pria mana yang mau menikahi bos rentenir? Kalaupun ada, pasti cuma mengincar uangnya saja."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Menurutku tidak begitu kok."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "...Jangan bicara begitu dengan santai. Serius deh."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Tapi, yah, saat aku melihat putri Yasu... terkadang aku memikirkannya, sedikit saja."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "......"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Seandainya aku menjalani hidup normal, mungkin aku bisa punya hal seperti itu juga. ...Ah, kekanak-kanakan sekali ucapanku. Lupakan saja."
+        }
+      ]
+    },
+    "talk_food": {
+      "topicName": "Makanan Favorit",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu makan dengan benar, seperti makan siang?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Aku sering makan yakiniku sama anak buahku. Daging kualitas A5."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Yakiniku premium... mantap."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Pakai uang mereka sih. Hak istimewa bos."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ada makanan lain yang kamu suka?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Daging. Sake Jepang. ...Dan... makanan manis."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Makanan manis?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Kenapa? Ada masalah? Aku diam-diam makan kue sus dari minimarket di kantor pas nggak ada orang."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Diam-diam?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Nggak bisa makan yang manis-manis di depan anak buah. Ini soal wibawa."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ada makanan yang kamu benci?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Natto. Sama daun ketumbar. ...Kenapa wajahmu kelihatan 'kok normal banget' begitu?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku nggak pasang wajah begitu kok."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Tadi iya. Aku tahu."
+        }
+      ]
+    },
+    "talk_holiday": {
+      "topicName": "Hari Libur",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa yang kamu lakukan saat hari libur?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Pergi ke spa mewah atau main mahjong."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apakah spa-hopping itu beda dengan apa yang kita lakukan di sini?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Beda banget. Spa itu cuma buat relaksasi. ...Di sini itu, gimana ya bilangnya... lebih dalam, entah kenapa."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Ah, aku nggak bisa jelasin dengan benar. Pokoknya beda, oke?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu main mahjong sama siapa?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Sama orang-orang kayak Yasu. ...Tapi aku hampir selalu menang sih."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kompetitif ya?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Menang itu sudah kewajiban. Dalam pekerjaan maupun judi. Kalau kalah, kamu bakal diremehkan."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Nggak apa-apa kok sesekali kalah. Di sini, kamu nggak perlu pusing soal menang atau kalah."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Hmph. ...Menyebalkan sekali betapa sulitnya mendebatmu."
+        }
+      ]
+    },
+    "talk_name": {
+      "topicName": "Tentang Namanya",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kalau dipikir-pikir, nama lengkap yang kamu tulis di formulir pendaftaran... Tatsumi Urara, kan?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Ah. Soal itu."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Urara itu nama yang indah."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Sudahlah. Jangan panggil aku dengan nama itu."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu nggak suka?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Nggak cocok buatku, kan? Bos rentenir bernama 'Urara.' Itu sih lelucon."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Siapa yang memberimu nama itu?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Ayahku. Waktu aku lahir, dia ingin aku 'tumbuh jadi orang yang cantik.'"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Wajahnya saja aku sudah nggak ingat. Nama ini satu-satunya yang dia tinggalkan untukku."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Sepertinya dia sangat menyayangimu. Dilihat dari arti di balik namanya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Entahlah. Tapi dunia tempatku hidup terlalu keras untuk nama seperti itu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Jadi aku pakai nama 'Tatsu-nee.' ...Itu lebih praktis."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Jangan bilang siapa-siapa ya. Soal yang baru saja kubilang."
+        }
+      ]
+    },
+    "talk_scent": {
+      "topicName": "Aroma Minyaknya",
+      "trustEffect": 3,
+      "developEffect": 1,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Akhir-akhir ini, kamu kelihatan lega pas mencium aroma minyak sebelum perawatan."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Jangan perhatikan aku seperti itu."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ingatan aroma itu gampang sekali melekat di tubuh."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Aku tahu. Belakangan ini bau oli itu menempel di setelanku"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Salah satu anak buahku bilang, 'Bos, belakangan ini baumu enak'"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa yang kamu katakan?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "'Diam kamu'"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Tentu saja"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Masalahnya, belakangan ini saat aku stres di kantor, aku teringat bau oli ini. Dan itu sedikit menenangkan pikiranku"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Seperti anjing Pavlov"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu sudah terkondisikan. ...Tapi dalam artian yang baik"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Rasanya seperti kamu sudah menjinakkan aku. Entah bagaimana perasaanku soal itu"
+        }
+      ]
+    },
+    "talk_reason": {
+      "topicName": "Alasan Dia Terus Datang",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Untungnya, belakangan ini pelangganku makin banyak"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Hmm"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bisnis sudah mulai stabil, jadi kamu tidak perlu merasa wajib datang lagi, Tatsu-nee"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "...Hah? Apa maksudnya itu. Kamu menyuruhku untuk tidak datang?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "B-Bukan, bukan itu maksudku. Kamu sangat boleh datang kalau tidak keberatan..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Aku tidak keberatan"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Hah?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Aku datang karena bahuku kaku. Aku tidak datang demi kamu"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Kehilangan akses perawatanmu akan jauh lebih merepotkan (berbisik)"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "?"
+        }
+      ]
+    },
+    "talk_future": {
+      "topicName": "Batas Waktu Pelunasan",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Sudah hampir 3 bulan sekarang. Batas waktu pelunasannya"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Iya"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu ingat saat pertama kali kamu datang ke sini, Tatsu-nee?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Tentu saja. Aku datang untuk menagih hutang. ...Lalu kamu malah bilang 'biarkan aku merawatmu'"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku putus asa saat itu"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Waktu berlalu cepat, ya. Awalnya aku pikir itu benar-benar merepotkan"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bahkan setelah pelunasannya selesai, aku ingin kamu tetap datang"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Hah? Kenapa aku harus terus datang setelah utangnya lunas?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku tidak bilang kamu harus. Aku bilang aku ingin kamu datang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "......"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Bahu ku masih kaku. Melunasi utang tidak memperbaiki itu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Yah, akan kupikirkan nanti."
+        }
+      ]
+    },
+    "talk_betrayal": {
+      "topicName": "Pengkhianatan",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Hei."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ya?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Bisa aku percaya padamu?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Kenapa tiba-tiba tanya begitu?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Lupakan saja. Cuma bergumam sendiri."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "......"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Aku pernah cerita sedikit soal ayahku sebelumnya. Orang yang memberiku nama, yang wajahnya saja sudah tidak bisa kuingat."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Ayahku juga seorang rentenir. Punya kantor kecil. ...Terlalu baik hati untuk kebaikannya sendiri."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Dia punya rekan yang dia percaya lebih dari siapa pun. Sahabat baik, rekan pemilik, bahkan menganggapku seperti keluarga sendiri."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Orang itu mengambil semuanya lalu kabur. Uangnya, daftar klien, buku catatannya. Membebankan semua utang pada ayahku."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "......"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Ayahku terpojok... dan begitulah akhirnya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Aku masih SMP. Yang tersisa hanyalah utang, bisnis yang sekarat, dan nama 'Urara' yang tidak cocok untukku."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Jadi aku yang mengambil alih. Bisnis rentenir itu. Aku memutuskan untuk tidak jadi lembek seperti ayahku."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Dia mati karena mempercayai seseorang. ...Jadi aku tidak percaya pada siapa pun. Berkuasa dengan kekuatan. Itu cara yang paling pasti."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Terima kasih sudah menceritakannya padaku."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Kenapa aku malah bicara begitu ya. Bahkan pada Yasu pun aku belum pernah cerita soal ini."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Tanganmu itu curang. Saat kamu menyentuhku... pertahananku runtuh."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Mungkin kamu memang berbeda."
+        }
+      ]
+    },
+    "talk_looking_back": {
+      "topicName": "Mengenang Masa Lalu",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, kamu sudah cukup lama datang ke sini."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Ya. Awalnya sebagai jaminan utang, dan sebelum aku sadar, aku sudah membuat janji temu secara rutin."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Awalnya kamu sangat waspada, lho."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Jelaslah. Menyerahkan tubuhku pada terapis yang mencurigakan"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Terus sekarang?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "............"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Datang ke sini, aku bisa melepas beban. Bukan cuma tubuhku, tapi juga... pikiranku"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Di kantor aku nggak bisa menunjukkan kelemahan pada siapa pun, dan saat sendirian pun aku masih merasa tertekan"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Cuma di sinilah tempatnya. ...Tempat di mana aku nggak perlu memikirkan apa pun"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "......"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Kenapa kamu diam saja. Aku tahu apa yang kubilang tadi memalukan"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Enggak. ...Aku senang, sebagai seorang terapis"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...'Sebagai seorang terapis', ya"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Terserahlah. Lanjutkan kerja bagusmu"
+        }
+      ]
+    }
+  }
+}

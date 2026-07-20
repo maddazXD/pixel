@@ -1,0 +1,168 @@
+[
+  {
+    "id": "tatsu_trust_level_2",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 2 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…算了，上次做完之后感觉确实好了一点。" },
+      { "character": "player", "expression": "normal_01", "text": "真的吗！太好了。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…就好了一点。别得意。" },
+      { "character": "player", "expression": "normal_01", "text": "（说是『一点』…但态度明显软化了…）" },
+      { "character": "tatsu", "expression": "normal_02", "text": "…其他地方也可以碰。不只是肩膀。" },
+      { "character": "player", "expression": "normal_01", "text": "谢谢！我会更仔细地进行治疗的。" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_3",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 3 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…最近肩膀没以前那么僵了。" },
+      { "character": "player", "expression": "normal_01", "text": "这是您坚持来的成果。" },
+      { "character": "tatsu", "expression": "normal_02", "text": "在高级SPA花了几十万都没用…" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…你比那些强多了。" },
+      { "character": "player", "expression": "normal_01", "text": "（被龙姐夸了…！光是没被杀掉就该感恩了…）" },
+      { "character": "player", "expression": "normal_01", "text": "谢、谢谢…！我会更加努力的！" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_4",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 4 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…喂。" },
+      { "character": "player", "expression": "normal_01", "text": "嗯？" },
+      { "character": "tatsu", "expression": "normal_02", "text": "最近下属跟我说『社长，您最近皮肤状态真好啊』。" },
+      { "character": "player", "expression": "normal_01", "text": "血液循环在改善。治疗效果出来了。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…化妆也更服帖了。" },
+      { "character": "player", "expression": "normal_01", "text": "（龙姐本来就是美人，现在更漂亮了…）" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…什么表情啊。恶心死了。" },
+      { "character": "player", "expression": "normal_01", "text": "对、对不起！没什么！" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_5",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 5 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…你当初为什么想当整体师啊？" },
+      { "character": "player", "expression": "normal_01", "text": "诶…？" },
+      { "character": "tatsu", "expression": "normal_02", "text": "借钱也要开店，说明你是认真的吧。" },
+      { "character": "player", "expression": "normal_01", "text": "…我喜欢碰别人的身体，让他们舒服。" },
+      { "character": "player", "expression": "normal_01", "text": "（…尤其是女人的身体，但这不能说）" },
+      { "character": "tatsu", "expression": "normal_01", "text": "嗯哼…" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…反正我确实舒服了，所以…认可你的手艺吧。" },
+      { "character": "player", "expression": "normal_01", "text": "谢谢…！" },
+      { "character": "player", "expression": "normal_01", "text": "（龙姐对我感兴趣了…？…不，应该是想多了…）" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_6",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 6 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…喂，你听我说。" },
+      { "character": "player", "expression": "normal_01", "text": "好的，怎么了。" },
+      { "character": "tatsu", "expression": "normal_02", "text": "今天去催债，遇到了特别烦的事…" },
+      { "character": "player", "expression": "normal_01", "text": "…辛苦了。" },
+      { "character": "tatsu", "expression": "normal_02", "text": "…算了，工作嘛。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…来这里之后，总觉得能放松下来。" },
+      { "character": "player", "expression": "normal_01", "text": "（龙姐…居然跟我抱怨了…）" },
+      { "character": "player", "expression": "normal_01", "text": "随时都可以说。一边做治疗一边就好。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…居然跟你诉苦。跟欠我钱的人。" },
+      { "character": "tatsu", "expression": "normal_02", "text": "…不过，也不坏。" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_7",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 7 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…上周不是没来嘛。" },
+      { "character": "player", "expression": "normal_01", "text": "是啊。您很忙来着。" },
+      { "character": "tatsu", "expression": "normal_02", "text": "…然后身体就特别沉。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "肩膀脖子都完全不行…工作都做不了。" },
+      { "character": "player", "expression": "normal_01", "text": "一直在调理的突然中断，就容易反弹。" },
+      { "character": "player", "expression": "normal_01", "text": "（龙姐的身体，已经离不开我的治疗了…）" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…以后不能再空一周了。" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…才、才不是想见你什么的。是身体的问题。" },
+      { "character": "player", "expression": "normal_01", "text": "是、是的！当然！" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_8",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 8 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "normal_02", "text": "…喂。" },
+      { "character": "player", "expression": "normal_01", "text": "嗯？" },
+      { "character": "tatsu", "expression": "normal_02", "text": "你给别的客人…也做这样的按摩吗？" },
+      { "character": "player", "expression": "normal_01", "text": "诶？这个…手法本身是一样的…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…哼。" },
+      { "character": "player", "expression": "normal_01", "text": "（…生气了？）" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…我不是说要你特别对待我…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…但一想到你对别的女人也做一样的事…就来气。" },
+      { "character": "player", "expression": "normal_01", "text": "龙、龙姐…？" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…没什么。快开始。" },
+      { "character": "player", "expression": "normal_01", "text": "（龙姐…难道…在吃醋…？）" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_9",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 9 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…只跟你说。" },
+      { "character": "player", "expression": "normal_01", "text": "嗯。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "像这样把身体交给别人…我是第一次。" },
+      { "character": "player", "expression": "normal_01", "text": "…是吗？" },
+      { "character": "tatsu", "expression": "normal_02", "text": "当了高利贷老板之后，就没法信任任何人了。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…但是你…总觉得很安心。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "手很温暖…按摩也很细心…" },
+      { "character": "player", "expression": "normal_01", "text": "（龙姐…居然把这么脆弱的一面给我看…）" },
+      { "character": "player", "expression": "normal_01", "text": "…我也很高兴能给龙姐按摩。" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…别说恶心的话。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…不过，谢了。" }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_10",
+    "triggerType": "trustLevel",
+    "triggerCondition": { "trustLevel": 10 },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…喂。" },
+      { "character": "player", "expression": "normal_01", "text": "嗯？" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…你还记得我的本名吗。" },
+      { "character": "player", "expression": "normal_01", "text": "辰巳…丽，对吧。问诊表上写着的。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…Urara。读作Urara。" },
+      { "character": "player", "expression": "normal_01", "text": "Urara…小姐…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…别叫得那么恶心。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…但是只有你…可以用那个名字叫我。" },
+      { "character": "player", "expression": "normal_01", "text": "（龙姐…允许我叫她本名了…）" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…在别人面前绝对不许叫。杀了你。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…我信任你。" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "身体…全部都交给你了。" },
+      { "character": "player", "expression": "normal_01", "text": "…好的。交给我吧，Urara…小姐。" },
+      { "character": "tatsu", "expression": "alert_01", "text": "呜…！都说了别那么叫…" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…算了…也不坏…" }
+    ]
+  }
+]

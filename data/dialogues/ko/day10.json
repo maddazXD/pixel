@@ -1,0 +1,365 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──10주차 아침.\n{{playerName}}의 망상은 이제 끝이 없다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(크크크... 나나의 몸은 완전히 내 거야...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(요즘엔 꿈에서도 날 찾는다니... 크크크...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "안, 안녕하세요...",
+      "voiceFile": "story_day10_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "어머, 오늘 얼굴이 빨갛네. 무슨 일 있었어?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "음... 어젯밤에 또 이상한 꿈을 꿨어요...",
+      "voiceFile": "story_day10_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(왔어! 꿈에서도 날 찾고 있어!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그래? 어떤 꿈? 자세히 말해 봐."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "선생님이... 손이 엄청 많았어요...",
+      "voiceFile": "story_day10_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "천, 천수관음 같았어요... 만져져서...",
+      "voiceFile": "story_day10_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "천수관음!? (그건 나도 생각 못했는데...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "오늘 아침에 일어났을 때... 음... 땀을 많이 흘렸어요...",
+      "voiceFile": "story_day10_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "엄마가 걱정하셨어요...",
+      "voiceFile": "story_day10_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "건강하다는 증거야. 신진대사가 활발해진 거지."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "하지만... 좀 부끄러워요...",
+      "voiceFile": "story_day10_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(얼마나 젖었을까... 최고네...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그리고... 요즘 학교에서도 문제가 있어요...",
+      "voiceFile": "story_day10_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "학교에서?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "수업 중에... 음... 몸이 뜨거워져요...",
+      "voiceFile": "story_day10_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "보건실 갈래나고 물어봤어요... 너무 부끄러웠어요...",
+      "voiceFile": "story_day10_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(수업 중에 나를 생각하며 젖어! 미쳤어! 흥분돼!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그건... 자극이 좀 강했나 봐. 오늘은 적당히 해 줄게."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "네? 적당히요?",
+      "voiceFile": "story_day10_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "저, 저기... 하지만...",
+      "voiceFile": "story_day10_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "선생님 시술이 없으면... 불안해요...",
+      "voiceFile": "story_day10_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "지난번에 빠졌을 때도... 정말 힘들었어요...",
+      "voiceFile": "story_day10_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(울면서 자위했다니... 새로운 정보네... 메모 메모...)"
+    },
+    {
+      "id": "choice_massage10",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "그렇구나. 그럼 오늘은 어떻게 할까?",
+      "choices": [
+        {
+          "label": "정상적으로 시술할게 (거짓말)",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "normal_lie_path"
+        },
+        {
+          "label": "새로 개발한 특수 오일을 써 볼까",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "special_oil_path"
+        },
+        {
+          "label": "오늘은 하체 중심으로... 크크크",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "lower_focus_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_lie_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "정상 시술... 다행이에요.",
+      "voiceFile": "story_day10_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(거짓말이지만! 어느 때보다 격렬하게 할 거야!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응, 정상적으로 부드럽게 철저하게 시술해 줄게.",
+      "next": "prepare_crazy"
+    },
+    {
+      "id": "special_oil_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "새로 개발한 오일이요?",
+      "voiceFile": "story_day10_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응! \"꿈틀천국 오일\"이라는 거야..."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "꿈, 꿈틀!?",
+      "voiceFile": "story_day10_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "아, 잘못 말했다. \"극락정토 오일\"이야. 비슷하게 들리지?",
+      "next": "prepare_crazy"
+    },
+    {
+      "id": "lower_focus_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "하, 하체 중심이라니... 무슨 뜻이죠...?",
+      "voiceFile": "story_day10_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응, 골반 부위가 중요하거든."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그, 그렇군요...",
+      "next": "prepare_crazy",
+      "voiceFile": "story_day10_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(방금 이상하게 웃으신 것 같은데...)",
+      "next": "prepare_crazy",
+      "voiceFile": "story_day10_020"
+    },
+    {
+      "id": "prepare_crazy",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "음... 요즘 생각하는 게 있는데...",
+      "voiceFile": "story_day10_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "응?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "선생님 병원에는 독특한 향이 나요...",
+      "voiceFile": "story_day10_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "향?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "뭐랄까... 신비로워요...",
+      "voiceFile": "story_day10_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(그건 내 욕망의 냄새!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "아, 그건 특수 향이야. 릴랙스 효과가 있거든."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "향이라고요... 굉장히 독특하네요...",
+      "voiceFile": "story_day10_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "인도에서 직수입한 \"갠지스강 향\"이야."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "갠지스강!? 괜찮은 거예요!?",
+      "voiceFile": "story_day10_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "괜찮아, 괜찮아. 자, 갈아입어, 갈아입어."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(익숙해졌어... 이 향에...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day10_026"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(진정되는데... 동시에 불안해져...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day10_027"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "갈, 갈아입었어요...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day10_028"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(오... 갈아입기만 했는데 벌써 허벅지에 뭔가 번들거려...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "음... 이건 좀 부끄러워요...",
+      "voiceFile": "story_day10_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "건강해서 좋아. 자, 오늘의 즐거운 시술 시간이야."
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "크크크... 오늘은 어디까지 갈 수 있는지 실험해 볼까..."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "──Pagi di minggu kedua sejak pembukaan. Melihat tumpukan tagihan yang diselipkan diam-diam ke kotak suratku, kepalaku jadi pening."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Listrik, air, sewa... Gawat, aku bangkrut...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Uangku makin menipis... Tatsu-nee masih jadi satu-satunya pelangganku.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tapi setidaknya aku dapat penangguhan bunga... Aku harus berterima kasih pada Tatsu-nee.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Tapi lagi pula, berterima kasih pada rentenir... kenapa bisa jadi begini...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Yo.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tatsu-nee! Kamu datang!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Yah, ternyata berhasil juga, kuakui itu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Setelah perawatan minggu lalu, bahuku terasa lebih ringan.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Benarkah!? Senang mendengarnya!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Jangan besar kepala. Hutang tetaplah hutang.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "I-Iya, aku tahu..."
+    },
+    {
+      "character": "player",
+      "text": "(Tapi rasanya senang dia mengakui hasilnya...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Berkat kamu, aku berhasil main mahjong 3 ronde.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Itu mengesankan!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Jadi, apa rencananya untuk hari ini?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Hari ini aku berencana fokus ke punggung dan pinggangmu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Punggung dan pinggang, ya. Iya, bagian itu juga kaku.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku ingin kamu berbaring telungkup untuk perawatannya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Telungkup? Yah, kalau memang begitu caranya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Iya. Aku akan memijat menyeluruh dari punggung sampai ke pinggangmu."
+    },
+    {
+      "id": "choice_massage2",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Bolehkah aku memeriksa kondisi punggung dan pinggangmu?",
+      "choices": [
+        {
+          "label": "Biar aku periksa ketegangan otot punggungmu",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "normal_path"
+        },
+        {
+          "label": "Pantatmu bagus juga",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "nice_butt_path"
+        },
+        {
+          "label": "Remas pantatnya",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "butt_grab_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Otot punggungmu tegang sekali. Biar aku kendurkan perlahan jaringan dalamnya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Yah, selama kamu serius, aku izinkan.",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "nice_butt_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "(Melihat Tatsu-nee berbaring tengkurap, aku tak bisa menahan diri untuk tidak keceplosan...)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tatsu-nee... Pantatmu bagus sekali."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Hah? Apa yang baru saja kamu katakan?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "T-Tidak! Maksudku itu dari sudut pandang terapis! Keseimbangan ototnya sangat mengesankan...!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Dasar bajingan, itu bukan sesuatu yang pantas diucapkan saat perawatan.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "M-Maaf...!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Cih. Ulangi lagi dan aku akan menambahkannya ke bungamu.",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "butt_grab_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Biar aku periksa ketegangan di gluteus maximus-mu..."
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "(Remas)",
+      "cutInImage": "tatsu_shirimomi"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...!! Apa-apaan yang kamu lakukan!!",
+      "outfit": "suit",
+      "cutInImage": "tatsu_shirimomi"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "(K-Kekencangan yang luar biasa...!)",
+      "cutInImage": "tatsu_shirimomi"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Hei, kamu dengar tidak!? Kamu pikir kamu menyentuh di mana!!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "I-Ini penilaian gluteus maximus! Ini perlu untuk perawatannya...!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Lakukan itu lagi dan aku akan benar-benar mematahkan jari-jarimu.",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tapi pertama-tama, tolong ganti pakaian perawatannya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Potongan kain itu lagi, ya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Ya ampun, aku benar-benar bisa masuk angin pakai baju ini.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "(Tatsu-nee dengan enggan mulai berganti pakaian...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Sudah kubilang jangan melihat.",
+      "outfit": "suit",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Tapi mataku tidak bisa berhenti... Ya ampun...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Sudah selesai ganti. Jangan berani-berani menatap.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Tubuh itu benar-benar luar biasa, setiap saat...)"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Baiklah, mari kita lanjutkan perawatannya."
+    }
+  ]
+}

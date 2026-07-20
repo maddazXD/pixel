@@ -1,0 +1,30 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Minggu ke-10... akhirnya mencapai dua digit)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Berkat Nana-chan yang menyebarkan berita, kliniknya jadi laris manis)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Sepertinya reputasi hari ini adalah 'perawatan yang muncul di dalam mimpi')"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Yah, aku memang menggunakan teknik khusus... meski itu rahasia dagang)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Aku harus membuat rencana yang matang dan beraksi minggu ini juga)"
+    }
+  ]
+}

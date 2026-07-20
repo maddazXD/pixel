@@ -1,0 +1,25 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(11주차... 개업한 지 거의 3개월이 됐네...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나짱은 여전히 매주 오는 단골이야)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(빚 상환 기한이 다가오고 있어. 마지막 스퍼트를 해야 해)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그럼, 이번 주는 뭘 할까...)"
+    }
+  ]
+}

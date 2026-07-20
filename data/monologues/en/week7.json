@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Minggu ke-7 sudah berakhir... waktu cepat sekali berlalu)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Berkat Nana-chan yang mengenalkanku pada teman-temannya, aku jadi dapat klien baru)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Reputasinya bagus, dan penjualanku terus meningkat dengan stabil)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Mungkin aku harus membeli peralatan baru)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Aku juga ingin ikut seminar tingkat lanjut untuk meningkatkan keahlianku)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Atau haruskah aku mencoba berjudi demi kemenangan besar supaya pelunasan utang lebih cepat...?)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tidak, mungkin sebaiknya aku cari pekerjaan paruh waktu saja...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Baiklah kalau begitu, apa yang harus kulakukan minggu ini...)"
+    }
+  ]
+}

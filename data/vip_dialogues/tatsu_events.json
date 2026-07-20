@@ -1,0 +1,545 @@
+{
+  "half_repaid": {
+    "title": "借金50%返済達成記念",
+    "dialogues": [
+      {
+        "character": "player",
+        "text": "では失礼して…",
+        "tatsuImage": "fadeout"
+      },
+      {
+        "character": "タツ姐",
+        "text": "なっ…！？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "胸筋、すごい凝ってますね。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "しっかりマッサージしないと。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "お、おい！そこはっ…！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "これも施術の一環ですよ。リンパの流れを良くするために…",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "リンパとか…関係ねぇだろ！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "それに…",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "なんで脱ぐ必要があるんだよ…！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "そりゃあ…",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "直接肌に触れた方が効果がありますから。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "乳輪も刺激しますね。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "や、やめろ！そこは…",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "んんっ♡",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "player",
+        "text": "タツ姐、意外と敏感なんですね。",
+        "resetBubbles": true,
+        "tatsuImage": "close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "ば、ばか！そんなんじゃ…ねぇよ！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "乳首も刺激しますね",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "タツ姐",
+        "text": "んっ♡ ち、乳首は…！",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "あ、あぁ…♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "なんで…こんなに…♡",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "くりくりと円を描くように…",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "タツ姐",
+        "text": "ああっ…♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "優しく、時に激しく…",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "やぁあっ…♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "緩急を付けて刺激するのがポイントです。",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "タツ姐",
+        "text": "そ、そんなこと、されたら…！",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "タツ姐",
+        "text": "変に、なる…から…！",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "大丈夫。",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "気持ちいい時の自然な反応ですよ。",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "もう…いいだろ…！",
+        "tatsuImage": "nipple",
+        "resetBubbles": true
+      },
+      {
+        "character": "タツ姐",
+        "text": "そろそろ終わりに…",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "まだやめませんよ。",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "タツ姐",
+        "text": "変に、なる…から…！",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "これはご褒美ですよね？",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "タツ姐",
+        "text": "こ、こんな褒美…聞いてない…！",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "でも体は喜んでますよ。",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "タツ姐",
+        "text": "あぁっ！そこ…！だめ…♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "じゃあ、下の方も…",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "なっ…！それは…ほんとにダメだって…！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "でも、ご褒美は…",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "も、もう十分だろ！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "続きは…",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "全額完済してからだ。",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "player",
+        "text": "え…？それって…",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "（どうせこいつが完済できるわけないだろ…）",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "と、とにかく！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "残りもちゃんと返せよ！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "わかりました！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "俺、頑張ります！",
+        "tatsuImage": "default"
+      }
+    ]
+  },
+  "full_repaid": {
+    "title": "借金完済達成記念",
+    "dialogues": [
+      {
+        "character": "player",
+        "text": "じゃあ、ベッドに横になってください。",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "タツ姐",
+        "text": "はぁ？ 何するつもりだ！",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "借金完済記念の特別マッサージですよ。",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "続きは完成してからって",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "言ってましたよね？",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "タツ姐",
+        "text": "く、くそ…約束は約束だからな…",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "じゃあ、挿れますよ。",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "タツ姐",
+        "text": "ま、待て！心の準備が…",
+        "tatsuImage": "fadeout"
+      },
+      {
+        "character": "タツ姐",
+        "text": "んんっ！",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "player",
+        "text": "濡れてるからすぐに入りましたね。",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "player",
+        "text": "期待してたんですか？",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "なっ…！そんなわけ…ないだろ！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "動きますね。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "んんっ♡ 奥に当たって…！",
+        "resetBubbles": true,
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "あっ、あぁっ…！おっぱい揺れて…！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "すごい揺れ方ですね。自分で見えるでしょう？",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "タツ姐",
+        "text": "う、うるさいっ…！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "クリトリスも勃起してカチカチですよ。",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "気持ちいいんでしょう？",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "ち、違う…！そんなんじゃ…",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "タツ姐",
+        "text": "んああっ♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "こんなこと…誰かに見られたら…！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "大丈夫です。今日は休業ですから。",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "タツ姐",
+        "text": "そ、そういう問題じゃ…あっ！",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "奥をグリグリすると…",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "そこ…！子宮に当たって…！",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "タツ姐",
+        "text": "あっ、あぁっ…♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "…い…イっちゃうからぁっ…♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "思いっきりイってください。",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "タツ姐",
+        "text": "だめ…！もう…！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "中に出しますね。",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "タツ姐",
+        "text": "な、中は…！中はだめ…だからっ…！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "大丈夫です。責任は取りますから。",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "タツ姐",
+        "text": "そ、そういう問題じゃ…！",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "タツ姐",
+        "text": "あっ…♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "だめ…イく…！",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "イっちゃううう！！",
+        "tatsuImage": "ejaculation_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "あああっ♡♡",
+        "tatsuImage": "ejaculation"
+      },
+      {
+        "character": "player",
+        "text": "出しましたよ…タツ姐の中にたっぷりと。",
+        "tatsuImage": "cum_close_tx"
+      },
+      {
+        "character": "タツ姐",
+        "text": "はぁ…はぁ……",
+        "resetBubbles": true,
+        "tatsuImage": "cum_close_tx"
+      },
+      {
+        "character": "タツ姐",
+        "text": "本当に…中に出しやがって…",
+        "resetBubbles": true,
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "タツ姐",
+        "text": "お腹の中…熱い……",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "おっぱい揺らしながらイくタツ姐、すごく可愛かったですよ。",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "タツ姐",
+        "text": "か、可愛いとか…言うな…！",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "タツ姐",
+        "text": "くそ……ここまでされるとは…",
+        "tatsuImage": "cum_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "お、おい…もう二度と借金するんじゃねぇぞ！",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "はい！もう借金はしません！",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "タツ姐",
+        "text": "で、でも…まぁ…",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "タツ姐",
+        "text": "たまには…顔見せに来てもいいけどよ…",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "タツ姐…！",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "いつでも、子宮マッサージ受けに来てくださいね。",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "タツ姐",
+        "text": "ば、ばか！そういう意味じゃ…！",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "でも、体はすっきりしたんじゃないですか？",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "タツ姐",
+        "text": "………。",
+        "tatsuImage": "cum_close"
+      },
+      {
+        "character": "タツ姐",
+        "text": "…まぁ、悪くはなかったけどよ。",
+        "tatsuImage": "cum"
+      }
+    ]
+  }
+}

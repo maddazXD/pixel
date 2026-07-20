@@ -1,0 +1,92 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（确认一下上周的收支吧……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（上周的客人也只有奈奈酱一个人吗……）",
+      "conditions": {
+        "maxCustomerCount": 1
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（客人正在慢慢增加。继续加油吧。）",
+      "conditions": {
+        "minCustomerCount": 2,
+        "maxCustomerCount": 9
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（上周预约很多。进展顺利。）",
+      "conditions": {
+        "minCustomerCount": 10,
+        "maxCustomerCount": 29
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（客人增加了不少。忙得手忙脚乱的。销售额也很稳定！）",
+      "conditions": {
+        "minCustomerCount": 30,
+        "maxCustomerCount": 79
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（客、客人太多了…！每天从早到晚工作也应付不过来…。老实说很辛苦，但销售额非常好！）",
+      "conditions": {
+        "minCustomerCount": 80
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（债务还剩很多。前路漫漫啊…）",
+      "conditions": {
+        "maxDebtPaidRatio": 0.3
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（还款进展顺利，但还只还了一半多一点…。要更加努力才行。）",
+      "conditions": {
+        "minDebtPaidRatio": 0.3,
+        "maxDebtPaidRatio": 0.6
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（债务再稍微努力一下就能还清了。要打起精神赚钱才行。）",
+      "conditions": {
+        "minDebtPaidRatio": 0.6,
+        "maxDebtPaidRatio": 0.9
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（债务已经还清了！这下终于自由了…！）",
+      "conditions": {
+        "minDebtPaidRatio": 1.0
+      }
+    }
+  ]
+}

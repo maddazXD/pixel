@@ -1,0 +1,50 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が帰った後……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（12週目……3ヶ月が経った）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（予約の2時間前から店の前をうろうろしてたって……可愛いところもあるんだな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『お前の前だと肩の力が抜ける』って言ってくれた）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（闇金のボスが、俺の前でだけ弱いところを見せる……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『これからもよろしくな』……か）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（借金返済の期限だ。この3ヶ月の成果が問われる）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……やり残したことがないようにしないとな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、これからどうしようか……）"
+    }
+  ]
+}

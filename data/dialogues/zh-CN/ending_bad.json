@@ -1,0 +1,380 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──数个月后。\n整体院负债累累，濒临崩溃。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "这个月又亏损了...已经完了..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "奈奈最后一次来是在3个月前。\n从那以后再也没有出现过。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(奈奈...要是能更积极地接近她就好了...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "辰姐",
+      "expression": "normal",
+      "text": "喂!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "辰、辰姐...!",
+      "hideCharacter": true
+    },
+    {
+      "character": "小弟A",
+      "hideCharacter": true,
+      "text": "大姐，这就是那个整体师吗？"
+    },
+    {
+      "character": "小弟B",
+      "hideCharacter": true,
+      "text": "瘦得跟竹竿似的。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "这、这些人是谁!?"
+    },
+    {
+      "character": "辰姐",
+      "expression": "angry",
+      "text": "他们都是我组织里的人。不说这个了...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "expression": "angry",
+      "text": "你的借款，已经拖欠半年了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "对、对不起...! 再给我一点时间...!"
+    },
+    {
+      "character": "辰姐",
+      "expression": "angry",
+      "text": "...时间？我已经等够了。看来是我看走眼了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "expression": "normal",
+      "text": "既然还不起钱...就用身体来还吧。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "用、用身体...!?"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "我、我明白了...我已经做好觉悟了..."
+    },
+    {
+      "character": "辰姐",
+      "expression": "surprised",
+      "text": "啊？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "虽、虽然那方面没什么自信...但我准备好献出菊花了！"
+    },
+    {
+      "character": "小弟A",
+      "hideCharacter": true,
+      "text": "啊!? 这家伙在说什么!?"
+    },
+    {
+      "character": "小弟B",
+      "hideCharacter": true,
+      "text": "谁要你那肮脏的屁股!"
+    },
+    {
+      "character": "辰姐",
+      "expression": "normal",
+      "text": "...真是的，你在想什么呢。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "expression": "normal",
+      "text": "喂，把他带走。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "小弟A",
+      "hideCharacter": true,
+      "text": "是! 快走吧!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "不、不要! 你们是要卖我的器官吧!?...至少要菊花! 菊花随便你们!"
+    },
+    {
+      "character": "小弟A",
+      "hideCharacter": true,
+      "text": "说了不要! 恶心!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "怎么会...我的菊花，就这么没价值吗..."
+    },
+    {
+      "character": "小弟B",
+      "hideCharacter": true,
+      "text": "你为什么会觉得它有价值？"
+    },
+    {
+      "character": "小弟A",
+      "hideCharacter": true,
+      "text": "好了，上车。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "呜哇啊啊啊! 至少要菊花! 只要菊花!"
+    },
+    {
+      "character": "小弟B",
+      "hideCharacter": true,
+      "text": "闭嘴! 还在说!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}}被组织的人拖走了。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(啊...我就这样结束了吗...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(至少...想再见奈奈一面...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──几天后"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "整体院所在的地方挂上了\"招租\"的牌子。"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "咦...? 这里应该有整体院的...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_001"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "老师...去哪儿了呢...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "最近太忙了，一次都没来...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_003"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_closeeyes_closemouth",
+      "text": "应该多来几次的...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_004"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "老师的手法虽然特别...但真的让身体很舒服...",
+      "characterImage": null,
+      "voiceFile": "ending_bad_005"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "奈奈带着些许寂寞的神情，凝视着整体院曾经所在的地方。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──某地下设施"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "在昏暗的地下，有一个满身大汗搬运货物的男人。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "哈...哈...好重..."
+    },
+    {
+      "character": "小弟A",
+      "hideCharacter": true,
+      "text": "喂新人! 别休息!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "对、对不起..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "在辰姐的组织工作的{{playerName}}。\n每天被迫在仓库分类和搬运非法物品。"
+    },
+    {
+      "character": "小弟B",
+      "hideCharacter": true,
+      "text": "嘛，想想总比被卖器官好。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(呜...好累...还要在这里干几年啊...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(不过，偶尔也有好事...)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──那天晚上，辰姐的办公室"
+    },
+    {
+      "character": "辰姐",
+      "expression": "normal",
+      "text": "喂。过来一下。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "是、是!"
+    },
+    {
+      "character": "辰姐",
+      "expression": "tired",
+      "text": "肩膀酸了。给我按按。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...! 交给我! 我可是前专业人士!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "{{playerName}}绕到辰姐身后，开始按摩她的肩膀。"
+    },
+    {
+      "character": "辰姐",
+      "expression": "satisfied",
+      "text": "嗯...还不错嘛。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(机会来了...! 慢慢把手往下移...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "大姐，胸肌好像也很僵硬。这里也..."
+    },
+    {
+      "character": "辰姐",
+      "expression": "angry",
+      "text": "...喂。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "!"
+    },
+    {
+      "character": "辰姐",
+      "expression": "angry",
+      "text": "你想摸哪儿？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "不、不是! 纯粹是为了按摩...!"
+    },
+    {
+      "character": "辰姐",
+      "expression": "angry",
+      "text": "别得意忘形。再敢这样我就打断你的手指。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "是、是! 我只按肩膀!"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...要让她更放松...下次一定要摸到胸...!)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "成为地下劳工的{{playerName}}。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "虽然每天都是重体力劳动，但他仍不屈不挠地继续瞄准胸部。\n从某种意义上来说，这也许也是一种幸福。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【BAD? END - 地下劳工END】",
+      "triggerEnding": "bad"
+    }
+  ]
+}

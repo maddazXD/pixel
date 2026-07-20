@@ -1,0 +1,367 @@
+{
+  "title": "Pelunasan Hutang Penuh - Perjalanan Pemandian Air Panas",
+  "dialogues": [
+    {
+      "character": "Tatsu-nee",
+      "text": "......Pelunasan dikonfirmasi.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Ya.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Haruskah aku mengucapkan selamat, atau semacamnya?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Silakan saja kalau mau.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Selamat.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Terima kasih.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "............",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Jadi? Hutangnya sudah lunas. Tidak ada alasan lagi bagiku untuk datang ke sini.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "......Tatsu-nee. Bahumu yang kaku itu masih belum sembuh, kan?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Yah, ini sudah kronis, jadi ya begitu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Kalau begitu datang lagi minggu depan. Kali ini -- aku akan benar-benar menarik bayaran darimu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Hah? Kamu mau menarik bayaran dari seorang rentenir?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Bukan sebagai rentenir. Sebagai pelanggan.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Hmph. Pijatanmu tidak buruk juga, kurasa. ......Akan kupikirkan.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Oh ya, satu hal lagi.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Apa, masih ada lagi?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Untuk merayakan pelunasan hutangmu......bagaimana kalau kita pergi ke pemandian air panas?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "..........Hah?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Kamu bilang kamu suka pergi ke spa mewah, kan? Tapi apa kamu pernah ke pemandian air panas yang asli? Jenis yang jauh di pegunungan, dengan aliran alami.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Aku baru pernah ke spa di dalam kota saja.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Kalau begitu kamu harus mencobanya setidaknya sekali. Rasanya benar-benar berbeda dari spa.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Kamu serius? Jangan besar kepala hanya karena hutangmu sudah lunas.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Aku tidak besar kepala. Sebagai terapis pijat, aku ingin kamu merasakan pemandian air panas yang asli.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tatsu-nee terdiam sejenak. Sepertinya dia sedang memikirkan sesuatu.)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Kalau itu dianggap sebagai perjalanan bisnis, ya sudah. Mungkin bisa berguna untuk menilai pinjaman ryokan.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Itu alasan paling dipaksakan yang pernah kudengar......)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Kamar terpisah. Kalau macam-macam, kubunuh kau.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Tidak akan.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Kapan kita berangkat?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia tidak menolak......!)"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "Pergi liburan ke pemandian air panas",
+          "next": "onsen_start"
+        }
+      ]
+    },
+    {
+      "id": "onsen_start",
+      "character": "Tatsu-nee",
+      "text": "......Hoh. Kamar yang bagus.",
+      "characterImage": "tatsu/tatsu.png",
+      "background": "onsen_bg"
+    },
+    {
+      "character": "player",
+      "text": "Aku sudah pesan kamar dengan pemandian air panas pribadi.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Memangnya kau mampu bayar ini? Kau kan baru saja melunasi hutangmu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Berkat dirimu, tokoku jadi laris manis.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Hmph.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Jadi, di mana pemandiannya?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Tepat di sana. Kau bisa langsung masuk dari kamar.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Lumayan juga.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Mumpung kita di sini, bagaimana kalau kita masuk bareng? Sebagai bagian dari terapi, aku bisa jelaskan manfaat air panas ini.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Hah? Sama kau?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Sebagai terapis pijat, tentu saja.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Kalau macam-macam, kubunuh kau.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Tidak akan.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "Masuk ke pemandian air panas",
+          "next": "onsen_bath"
+        }
+      ]
+    },
+    {
+      "id": "onsen_bath",
+      "character": "Tatsu-nee",
+      "text": "......Ahh. Enak sekali. Benar-benar beda dari spa biasa.",
+      "hideCharacter": true,
+      "background": "blackout"
+    },
+    {
+      "character": "player",
+      "text": "Kan? Ini airnya langsung dari sumber alami.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Airnya terasa lembut sekali.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "Tatsu-nee, bahumu tegang sekali. Biar kupijat sebentar ya.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Kau mau memijat bahkan di dalam air?",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "Otot jadi lebih rileks di air panas, jadi pijatannya lebih efektif.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Nn......",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Kau terlalu dekat.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "Maaf, aku tidak bisa menjangkaunya dari posisi lain.",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "............",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Hei.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "Y-ya?",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Apa kau sudah terbiasa dengan hal seperti ini?",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "Hah? Aku kan melakukan pijatan setiap hari--",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Bukan itu maksudku.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "(Tatsu-nee perlahan berbalik menghadapku.)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Begitu hutangnya lunas, kau mengajakku ke pemandian air panas, telanjang dan menempel padaku...... Apa semua ini sudah direncanakan?",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "T-tidak, bukan begitu--",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Terserahlah.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "(Tatsu-nee mengangkangiku--)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Kau selalu menyentuhku sesuka hatimu, kan? Hari ini giliranku.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "Menyerah padanya",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}

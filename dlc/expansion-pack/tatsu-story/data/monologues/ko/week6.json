@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 돌아간 후……)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(잠을 못 자고, 이상한 꿈을 꾼다고……몸이 원하기 시작한 거다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(성감대에 대한 접근을 제안했을 때는 솔직히 맞을 줄 알았는데.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('효과가 있는 건 사실이니까'라며 마지못해 승낙해줬다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(……그 사람, 옷 갈아입을 때 표정이 살짝 변한 것 같았다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(사채업의 보스가 내 시술을 기대하고 있다고……?)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(반환점이다. 여기서부터가 진짜일지도 모른다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자, 이번 주는 어떻게 할까……)"
+    }
+  ]
+}

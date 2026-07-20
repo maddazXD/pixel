@@ -1,0 +1,500 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "──3週目の朝。\nタツ姐との施術も3週目に入った。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（不思議なもんだ…闇金の取り立て人を毎週待ちわびるようになるとは。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（でも正直、タツ姐との施術は嫌じゃない。怖いけど…根は悪い人じゃない気がする。）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（…残金を見て現実に引き戻される。やっぱり客を増やさないとな…。）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "おう。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タツ姐さん！今日もありがとうございます。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "で、借金の返済はどうなってんだ？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "そ、それが…まだ客が増えなくて…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "客、増えてねぇのか？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "は、はい…なかなか厳しくて…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "利子猶予してやってんだから、ちゃんと結果出せよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "angry",
+      "text": "（くそ…もっと金があれば……）"
+    },
+    {
+      "id": "borrow_choice",
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（…あててここで追加で借金してみるか…？）",
+      "choices": [
+        {
+          "label": "10万円借りたい",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "borrow_10"
+        },
+        {
+          "label": "50万円借りたい",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "borrow_50"
+        },
+        {
+          "label": "借りない",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "no_borrow"
+        }
+      ]
+    },
+    {
+      "id": "borrow_10",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "あ、あの…タツ姐さん。その…10万円ほど、追加で借りられませんか…？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "はぁ？返せもしねぇのにまだ借りんのか？",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…まぁいい。10万くらいなら小遣いみてぇなもんだ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "100,000G借金をしました",
+      "moneyDelta": 100000,
+      "debtDelta": 100000,
+      "playSE": "cash_register"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "ただし、次は利子込みで返してもらうからな。",
+      "outfit": "suit",
+      "next": "after_borrow"
+    },
+    {
+      "id": "borrow_50",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "あ、あの…タツ姐さん。50万円…追加で借りたいんですが…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…50万だと？…お前、正気か？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "設備投資に回せば、客も増えると思うんです…！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…ふん。まぁ、お前の施術は悪くねぇからな。投資としてやるよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "え！？ 本当ですか！？（マジか。言ってみるもんだな…）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "500,000G借金をしました",
+      "moneyDelta": 500000,
+      "debtDelta": 500000,
+      "playSE": "cash_register"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "ただし、返せなかったら……分かってんだろうな？",
+      "outfit": "suit",
+      "next": "after_borrow"
+    },
+    {
+      "id": "no_borrow",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "す、すみません！頑張ります！",
+      "next": "after_borrow"
+    },
+    {
+      "id": "after_borrow",
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…まぁ、お前の施術のおかげでアタシの仕事は捗ってるけどな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "本当ですか！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "先週、仕事で3時間立ちっぱなしだったんだけどよ。\nお前の施術受けた後だったから、肩が持ったんだよな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それは何よりです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "毎日ストレスばっかりでな…取り立ても、部下の管理も…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "社長って立場は楽じゃねぇんだよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "",
+      "playSE": "phone_ring"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…ちょっと待て。電話だ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "おいヤス、あの件どうなった？……はぁ？まだ回収できてねぇ？",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "テメェ何やってんだ！！今日中に回収しろ、できなかったら……分かってんだろうな？",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…すまん。仕事の電話だ。で、何の話だっけ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（ひぃ、怖い…怒らせないようにしないと…）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "え、えっと…今日はどのあたりが気になりますか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "肩と背中だな。あと…腰もだるいんだよな。3時間立ちっぱなしの翌日から、ずっと腰に来てやがる。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "肩甲骨周りと腰ですね。立ち仕事が多いと、骨盤にも負担がかかりますから。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "骨盤？そんなとこまで影響すんのか。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "はい。骨盤が歪むと腰痛の原因になりますし、太ももの付け根あたりにも張りが出やすいんです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…ふーん。確かに脚も張ってる気はすんな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "ただし、効果なかったら…わかってるな？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（怖ぇ…）"
+    },
+    {
+      "id": "choice_massage3",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今日は腰回りも含めて、しっかり施術させていただきますね。",
+      "choices": [
+        {
+          "label": "骨盤の歪みが原因かもしれませんね",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "pelvis_path"
+        },
+        {
+          "label": "太ももの付け根、かなり張ってそうですね",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "thigh_path"
+        },
+        {
+          "label": "男が放っておかないでしょう",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "men_path"
+        }
+      ]
+    },
+    {
+      "id": "pelvis_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "3時間立ちっぱなしだと、骨盤にかなり負担がかかります。歪みが出てるかもしれませんね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "骨盤の歪み、ね。そういうもんか。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ヒールを履いて長時間立つと特に歪みやすいんです。腰痛だけじゃなく、脚のむくみにも繋がります。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…確かに、夕方になると脚がパンパンになんだよな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "年じゃないですよ。骨盤矯正と合わせて腰回りをほぐせば、かなり楽になるはずです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…ま、お前の施術は信用してやるよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（お、タツ姐が素直に信用してくれるのは嬉しいな。）",
+      "next": "change_clothes"
+    },
+    {
+      "id": "thigh_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "腰がだるいってことは、太ももの付け根もかなり張ってそうですね。ちょっと確認させてください。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "太もも？まぁ、確かに張ってる気はするが…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "内転筋の張りを確認しますね。ここが固いと骨盤が引っ張られて——"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "おい、どこ触ろうとしてんだ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "す、すみません！内転筋は太ももの内側にあるので、どうしても際どい場所に…！"
+    },
+    {
+      "character": "player",
+      "text": "（…まぁいい、あとでマッサージの時にたっぷり触ってやる…）",
+      "next": "change_clothes"
+    },
+    {
+      "id": "men_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "しかしタツ姐さんって、おっぱいもでか…スタイルいいし顔もきれいだし…男が放っておかないでしょう。（怖いけど）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…はぁ？何急に言ってんだ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "いや、それだけ魅力的な方なら、夜の方もお忙しいんじゃないかと…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "テメェ何言って——",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "腰痛の原因って色々あるじゃないですか！激しい運動とか、夜の営みとか…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "殺すぞ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "す、すみません！施術者として原因を特定したかっただけで…！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……別に、そういうの……したことねぇし……。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（え…？今、なんて…？）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…なんでもねえ。",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それでは、施術用のウェアにお着替えをお願いします。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "はいはい…慣れたよ、この布切れにも。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "（タツ姐が着替え始める…）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…見んなっつってんだろ。",
+      "outfit": "suit",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "着替えたぞ。…早く始めろ。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（やっぱり毎回、目のやり場に困るな…）"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それでは、施術を始めさせていただきます。"
+    }
+  ]
+}

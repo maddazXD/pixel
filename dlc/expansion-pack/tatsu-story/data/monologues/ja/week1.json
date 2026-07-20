@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が帰った後、一人残された施術室……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……マジで闇金のボスを施術しちまった）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（しかも利子の猶予と引き換えに……なんて無茶な交渉だ）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（でも肩こりは本物だったな。あの凝り方は相当だ）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（同意書を全部書き直させられたのはヒヤッとしたけど……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（まぁ、施術自体はうまくいった。来週も来てくれるなら、少しは光が見える）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（借金返済まで12週間……なんとかするしかない）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週は何をして過ごそうか……）"
+    }
+  ]
+}

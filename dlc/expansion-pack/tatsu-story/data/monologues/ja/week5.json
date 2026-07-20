@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が帰った後……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（紹介のおかげで新規客が増えてきた。経営に少し余裕が出てきたな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『潰れたら誰が私の肩こりを解決するんだ』って……心配してくれてるのか？）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（触れるとビクッとなるって言ってたな。身体が敏感になってきてる）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（血流改善と神経活性化……施術の効果が全身に出てきた証拠だ）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『女として磨きがかかってきた』って言った時の照れた顔……意外な一面だった）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週はどう過ごそうか……）"
+    }
+  ]
+}

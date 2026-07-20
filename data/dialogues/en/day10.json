@@ -1,0 +1,365 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Pagi di minggu ke-10. Delusi {{playerName}} sudah benar-benar tidak ada batasnya."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Hehehe... tubuh Nana sudah sepenuhnya milikku...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Belakangan ini dia bahkan mencariku di dalam mimpinya... hehehe...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "S-selamat pagi...",
+      "voiceFile": "story_day10_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ya ampun, wajahmu merah sekali hari ini. Ada apa?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... semalam, aku mimpi aneh lagi...",
+      "voiceFile": "story_day10_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Nah, ini dia! Dia bahkan mencariku di dalam mimpinya!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Oh ya? Mimpi seperti apa? Ceritakan padaku secara detail."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Sensei punya... banyak sekali tangan...",
+      "voiceFile": "story_day10_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "S-seperti Kannon seribu tangan... aku disentuh...",
+      "voiceFile": "story_day10_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Kannon seribu tangan!? (Aku bahkan tidak membayangkan sampai ke sana...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Waktu aku bangun pagi tadi... um... aku berkeringat banyak sekali...",
+      "voiceFile": "story_day10_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "Ibuku sampai khawatir padaku...",
+      "voiceFile": "story_day10_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Itu tandanya kamu sehat. Metabolisme tubuhmu sedang aktif."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Tapi... rasanya memalukan sekali...",
+      "voiceFile": "story_day10_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Seberapa basah dia sampai begitu... itu yang paling nikmat...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Dan... belakangan ini, aku juga mengalami masalah di sekolah...",
+      "voiceFile": "story_day10_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Di sekolah?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "Saat pelajaran... um... tubuhku terasa panas...",
+      "voiceFile": "story_day10_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Mereka bertanya apa aku mau ke ruang UKS... memalukan sekali rasanya...",
+      "voiceFile": "story_day10_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Dia memikirkanku sampai basah saat di kelas! Gila! Seru sekali!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Itu... mungkin stimulasinya terlalu kuat. Hari ini aku akan lebih moderat."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Eh? Moderat?",
+      "voiceFile": "story_day10_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "U-um... tapi...",
+      "voiceFile": "story_day10_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Eh?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Tanpa perawatanmu, sensei... aku merasa gelisah...",
+      "voiceFile": "story_day10_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Waktu aku melewatkannya terakhir kali juga... rasanya benar-benar tidak enak...",
+      "voiceFile": "story_day10_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Menangis sambil masturbasi... itu hal baru... catat, catat...)"
+    },
+    {
+      "id": "choice_massage10",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Begitu ya. Jadi, apa yang harus kita lakukan hari ini?",
+      "choices": [
+        {
+          "label": "Aku akan merawatmu seperti biasa (bohong)",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "normal_lie_path"
+        },
+        {
+          "label": "Ayo kita coba minyak spesial yang baru dikembangkan",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "special_oil_path"
+        },
+        {
+          "label": "Hari ini mari kita fokus pada tubuh bagian bawah... hehehe",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "lower_focus_path"
+        }
+      ]
+    },
+    {
+      "id": "normal_lie_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Perawatan biasa... syukurlah kalau begitu.",
+      "voiceFile": "story_day10_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Padahal itu bohong! Aku akan membuatnya jauh lebih intens dari sebelumnya!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ya, dengan biasa, lembut, dan menyeluruh, aku akan merawatmu.",
+      "next": "prepare_crazy"
+    },
+    {
+      "id": "special_oil_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Minyak yang baru dikembangkan?",
+      "voiceFile": "story_day10_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ya! Namanya 'Minyak Surga Menggeliat'..."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "M-menggeliat!?",
+      "voiceFile": "story_day10_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ah, salah sebut. Maksudku 'Minyak Negeri Firdaus'. Terdengar mirip, kan?",
+      "next": "prepare_crazy"
+    },
+    {
+      "id": "lower_focus_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "F-fokus pada tubuh bagian bawah... maksudmu...?",
+      "voiceFile": "story_day10_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ya, area panggul itu penting."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "B-begitu ya...",
+      "next": "prepare_crazy",
+      "voiceFile": "story_day10_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(Rasanya dia tertawa dengan aneh tadi...)",
+      "next": "prepare_crazy",
+      "voiceFile": "story_day10_020"
+    },
+    {
+      "id": "prepare_crazy",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... akhir-akhir ini aku kepikiran...",
+      "voiceFile": "story_day10_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Hmm?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Klinikmu punya aroma yang unik, sensei...",
+      "voiceFile": "story_day10_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Aroma?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Bagaimana ya mengatakannya... aromanya misterius...",
+      "voiceFile": "story_day10_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(Itu bau dari hasratku!)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ah, itu dupa spesial. Efeknya untuk relaksasi."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Dupa... katamu. Wanginya cukup unik...",
+      "voiceFile": "story_day10_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ini 'Wewangian Sungai Gangga' yang diimpor langsung dari India."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Sungai Gangga!? Apa itu aman!?",
+      "voiceFile": "story_day10_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Aman, tenang saja. Ayo, cepat ganti pakaianmu."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(Aku sudah mulai terbiasa... dengan aroma ini...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day10_026"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(Rasanya menenangkan... tapi juga membuatku gelisah...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day10_027"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "A-aku sudah selesai ganti...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day10_028"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "(Oh... baru saja ganti pakaian, sudah ada sesuatu yang berkilau di pahanya...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Um... ini agak memalukan...",
+      "voiceFile": "story_day10_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Itu tandanya sehat, baguslah. Sekarang, waktunya untuk perawatan seru hari ini."
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Hehehe... hari ini mari kita bereksperimen sampai sejauh mana kau bisa bertahan..."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "id": "tatsu_first_climax_awake",
+    "triggerType": "firstClimaxAwake",
+    "triggerCondition": { "isSleeping": false },
+    "priority": 20,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "climax_01", "text": "…！？什、什么…刚才那个…！" },
+      { "character": "tatsu", "expression": "climax_01", "text": "啊…啊啊…♡♡" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "哈…哈…" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "………" },
+      { "character": "player", "expression": "normal_01", "text": "（好、好厉害…龙姐她…高潮了…？）" },
+      { "character": "player", "expression": "normal_01", "text": "那、那个…您没事吧？肌肉好像突然放松了…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…别看" },
+      { "character": "player", "expression": "normal_01", "text": "对、对不起…！" },
+      { "character": "tatsu", "expression": "pleasure_01", "text": "…这种事…还是第一次…" },
+      { "character": "tatsu", "expression": "alert_01", "text": "…今天的事要是告诉别人，我杀了你" },
+      { "character": "player", "expression": "normal_01", "text": "不、不会说的！绝对不会！" }
+    ]
+  },
+  {
+    "id": "tatsu_first_climax_sleeping",
+    "triggerType": "firstClimaxSleeping",
+    "triggerCondition": { "isSleeping": true },
+    "priority": 20,
+    "oneTimeOnly": true,
+    "dialogue": [
+      { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "嗯…♡" },
+      { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "啊…哈…♡" },
+      { "character": "player", "expression": "normal_01", "text": "（诶…龙姐明明在睡觉，反应却这么强烈…）" },
+      { "character": "tatsu", "expression": "climax_sleeping_01", "text": "嗯嗯…♡♡" },
+      { "character": "tatsu", "expression": "climax_sleeping_01", "text": "呼啊…♡" },
+      { "character": "tatsu", "expression": "pleasure_sleeping_01", "text": "呼…呼…" },
+      { "character": "player", "expression": "normal_01", "text": "（那个龙姐…居然会露出这种表情…）" },
+      { "character": "player", "expression": "normal_01", "text": "（要是醒着的话肯定会被杀掉，但…现在就让我看一看吧…）" }
+    ]
+  }
+]

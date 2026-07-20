@@ -1,0 +1,280 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──5週目の朝。\n少しずつ常連の数も増え、店の空気にも余裕が出てきた。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ついに5週目。タツ姐が紹介してくれた客が何人かリピートしてくれてるし、少しずつ軌道に乗ってきたか…？）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…おう。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タツ姐さん、おはようございます！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…ほらよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "え？ これ…カフェラテ？ これってあのおしゃれな店のやつじゃないですか！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "近くのカフェで買ったら、間違えて2つ頼んじまっただけだ。別に深い意味はねぇぞ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（間違えて2つ買うわけないだろ。…なんか心なしか、いつもより可愛く見えてきた気がするな…）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ありがとうございます！ いただきます。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "あ、そうだ。タツ姐さんが紹介してくれた方々、何人かリピートしてくれてるんです。本当に助かってます。（全員ガタイのいい男ばっかりだけどな…）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "ふーん。まぁ、アタシは紹介しただけだからな。リピートされてるのはお前の腕のおかげだろ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closeeyes",
+      "text": "あ、ありがとうございます…！（珍しく素直に褒められた…！）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…つーかよ、最近ウチの部下が変なこと言いやがってな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "変なこと？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "「社長、最近機嫌いいっすね」だってよ。ハァ？ いつも通りだっつーの。\n…まぁ、肩こりが楽になったから仕事が捗ってるだけだ。お前の施術のおかげかもな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それは嬉しいです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "sweat",
+      "text": "……で、今日の話なんだけどよ。この前の火照りは少しマシになったんだけど…今度は触るとビクってなるんだよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ビクって…？ え、どの辺がですか？ やっぱり胸とか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "何言ってんだ、アホか。…風呂入った時とか…なんか、いつもと全然感覚が違うんだよ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "なるほど…。"
+    },
+    {
+      "id": "choice_massage5",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タツ姐さんの身体、確実に変わってきてますね…",
+      "choices": [
+        {
+          "label": "健康的な反応ですよ",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "healthy_path"
+        },
+        {
+          "label": "女性としての感覚が戻ってきたんですよ",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "feminine_path"
+        },
+        {
+          "label": "もっと気持ちよくなれますよ",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "pleasure_path"
+        }
+      ]
+    },
+    {
+      "id": "healthy_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "凝り固まってた身体がほぐれて、正常な感覚が戻ってきたんです。すごく健康的な反応ですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…健康的、ね。まぁ、確かに最近調子はいい。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "心配いりませんよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…ま、お前がそう言うなら信じてやるよ。",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "feminine_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ホルモンバランスが整ってきたんです。女性としての感覚が、だんだん戻ってきてるんですね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…今まで女じゃなかったみたいな言い方すんなよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "あ、いや！ そうじゃなくて…最近すごく綺麗になったなって思って…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……ふん。口だけは達者だな。",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "pleasure_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "身体がほぐれて感度が上がってきたんですよ。まだまだこれから、もっと気持ちよくなれます。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…その言い方、なんか引っかかるんだけど。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "施術の話ですよ！ あはは…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "……これ以上敏感になったら困るんだけど…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（よし！じゃあもっと困らせてやろう…！）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…何だその顔。変なこと考えんなよ。",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "もちろんです！　じゃあ、施術ウェアに着替えてもらえますか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "はいはい。もうこの際どい服にも慣れたわ…。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "（……最近、この服を着ると、なんかムズムズして変な感じになるんだよな…）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "（あいつの施術のせいだな…）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…着替えたぞ。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "（うわ…やっぱりすごいプロポーションだな…）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今日は特別に、いつもより丁寧にやりますね。タツ姐は特別なお客様なので、VIP待遇でいきます。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "VIPねぇ。ふん、頼んだぞ。",
+      "outfit": "bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それでは、施術を始めさせていただきます。"
+    }
+  ]
+}

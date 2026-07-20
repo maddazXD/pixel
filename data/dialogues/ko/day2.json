@@ -1,0 +1,275 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──개업 후 두 번째 주 아침.\n지난주에 우편함에 조용히 쌓인 청구서 더미를 보며 어지러움을 느꼈다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "와... 이게..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(남은 돈이 이렇게 적어... 그리고 여전히 환자는 한 명뿐.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(하지만 알아—인내는 힘이야. 파동은 절대 배신하지 않는다. 스승님이 하시던 말씀이다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(......하지만 솔직히 지금은 파동보다 현금이 더 좋겠는데......)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "안녕하세요. 저... 또 왔어요...",
+      "voiceFile": "story_day2_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "......어서 오세요. 정말 기뻐요. 오늘 와주셔서... 저를 살려주셨어요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "아, 저... 그렇게까지는...",
+      "voiceFile": "story_day2_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "지난주 마사지가 정말 좋았어요... 어깨가 가벼워진 느낌이에요.",
+      "voiceFile": "story_day2_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "하지만... 그 옷은 여전히 좀 부끄러웠어요...",
+      "voiceFile": "story_day2_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "알겠어요. 하지만 잘 어울렸어요. 오늘도 편하게 즐기세요."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "그럼, 오늘 몸 상태는 어떠세요? 불편한 곳 있나요?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "저... 요즘 다리가 저려요... 부종인 것 같아요...",
+      "voiceFile": "story_day2_005"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "최근에 오래 앉아 있어서... 종아리랑 엉덩이 주변이 좀 무거운 느낌이...",
+      "voiceFile": "story_day2_006"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "다리 부종이군요. 그럼 오늘은 엎드려서 시술해 볼까요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "엎드린다고요... 그게?",
+      "voiceFile": "story_day2_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "네. 엎드리면 허벅지 뒤쪽과 엉덩이 근육을 작업하기 쉬워요. 혈액순환을 개선하는 데도 도움이 됩니다."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그-그렇군요... 하지만 그 자세면... 엉덩이가... 더 눈에 띄겠네요...",
+      "voiceFile": "story_day2_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "괜찮아요. 전문적으로 제대로 시술해 드릴 테니 걱정 마세요."
+    },
+    {
+      "id": "choice_massage2",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "자, 그럼 준비되면 시작하죠.",
+      "choices": [
+        {
+          "label": "오래 앉아 있으면 정말 혈류가 나빠져요",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "serious_path"
+        },
+        {
+          "label": "엉덩이가 예쁘네요",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "cute_butt_path"
+        },
+        {
+          "label": "만져보고 확인해도 될까요?",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "touch_path"
+        }
+      ]
+    },
+    {
+      "id": "serious_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "네... 최근 자세가 꽤 안 좋았다고 생각했어요...",
+      "voiceFile": "story_day2_009"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "그런 작은 습관들이 쌓여서 몸에 나타나는 거예요.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "cute_butt_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "예-예쁘다니요...!? 갑-갑자기 그런 말 하지 마세요...!",
+      "voiceFile": "story_day2_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "아, 미안해요. 솔직한 생각이 튀어나왔네요. 좋은 의미로 한 거예요, 알죠?",
+      "next": "change_clothes"
+    },
+    {
+      "id": "touch_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "엑...!?",
+      "voiceFile": "story_day2_011",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "흠. 알겠네요...",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "저-저기...?",
+      "voiceFile": "story_day2_012",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "이건 대둔근이라고 해요. 실제로 몸에서 가장 큰 근육이죠.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "오래 앉아 있으면 이 근육이 굳어지고 혈류가 나빠져요.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "햐아...! 저-저기... 하지만...!",
+      "voiceFile": "story_day2_013",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "대부분의 요통은 사실 엉덩이 근육 때문이에요. 이걸 풀지 않으면 개선하기 어려워요.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그-그렇군요... 몰랐어요...",
+      "voiceFile": "story_day2_014",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "네, 꽤 굳어 있네요. 다리가 붓는 게 당연해요. 제대로 풀어드리죠.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "네-네... 사실 몸이 전보다 따뜻해진 느낌이에요...\n혈류가 개선되고 있는 건가요...?",
+      "voiceFile": "story_day2_015",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "좋아요, 오늘도 시술복으로 갈아입어 주세요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "네-네...",
+      "voiceFile": "story_day2_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(또... 그 부끄러운 옷을 입어야 해...)",
+      "voiceFile": "story_day2_017",
+      "cutInImage": "nana_changing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "......",
+      "voiceFile": "story_day2_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "갈아입었어요...",
+      "voiceFile": "story_day2_019",
+      "outfit": "micro_bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "좋아요, 그럼 시술을 시작하겠습니다."
+    }
+  ]
+}

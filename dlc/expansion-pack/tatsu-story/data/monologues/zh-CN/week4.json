@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐离开后……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（已经一个月了……刚开始的时候觉得给高利贷做治疗简直是疯了）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（她说『会上瘾』。看来已经成了固定客户了）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（而且还说要介绍帮里的人来……这可是大事）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（虽然听说全是男的，但只要客人增加就没什么好抱怨的）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐对换衣服的抵触感也少了很多……应该是习惯了吧）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那么，这周做点什么好呢……）"
+    }
+  ]
+}

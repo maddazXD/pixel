@@ -1,0 +1,370 @@
+{
+  "talks": {
+    "talk_weather": {
+      "topicName": "天気の話",
+      "trustEffect": 1,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "今日も暑かったでしょう。ここまで来るの大変じゃなかったですか？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "車だから別に。……まあ、駐車場からここまでの30秒で死ぬかと思ったけど" },
+        { "character": "player", "expression": "normal_01", "text": "エアコン効いてるんで、ゆっくり涼んでいってください" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……ん。確かに涼しいな、ここ。事務所よりマシだわ" }
+      ]
+    },
+
+    "talk_stiff": {
+      "topicName": "肩こりについて",
+      "trustEffect": 1,
+      "developEffect": 0,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "肩こりはいつ頃からですか？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……さあ。気づいたらずっとだな。もう凝ってない状態がわかんねー" },
+        { "character": "player", "expression": "normal_01", "text": "デスクワークが多い方に多いですね。パソコン作業とか" },
+        { "character": "tatsu", "expression": "normal_02", "text": "帳簿の管理とか、取り立てのスケジュール組んだりとかな。……肩っつーか、首の後ろがずっと重いんだよ" },
+        { "character": "player", "expression": "normal_01", "text": "（……肩こりの原因、デスクワークもあるだろうけど、この胸の重さも相当だろうな……）" },
+        { "character": "player", "expression": "normal_01", "text": "僧帽筋がかなり固まってますね。定期的にほぐさないと頭痛にもなりますよ" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……頭痛は確かに多い。偏頭痛だと思ってたけど、肩のせいなのか？" },
+        { "character": "player", "expression": "normal_01", "text": "その可能性は高いですね。施術を続ければ改善すると思います" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……ふーん。まあ、様子見てやるよ" }
+      ]
+    },
+
+    "talk_first_time": {
+      "topicName": "初めての整体",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "整体とかマッサージって、受けたことあります？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "エステなら月2で通ってるけど……こういう、がっつり身体触るタイプのは初めてだな" },
+        { "character": "player", "expression": "normal_01", "text": "緊張してますか？" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……してねーよ。別に" },
+        { "character": "player", "expression": "normal_01", "text": "肩、ガチガチですけど" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……うるせーな。元からだよ" },
+        { "character": "player", "expression": "normal_01", "text": "大丈夫ですよ、痛くしないんで。力抜いてください" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……ん。……あー、確かにエステとは全然違うな" },
+        { "character": "player", "expression": "normal_01", "text": "どう違います？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……なんつーか、奥まで届く感じ。エステはもっと表面っつーか……" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……まあ、悪くねーよ。それだけだ" }
+      ]
+    },
+
+    "talk_sleep": {
+      "topicName": "寝方のクセ",
+      "trustEffect": 1,
+      "developEffect": 1,
+      "alertnessEffect": -1,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 3,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "寝るときって、どんな体勢ですか？横向き？仰向け？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "横向きだな。仰向けだと……胸が重くて息苦しいんだよ" },
+        { "character": "player", "expression": "normal_01", "text": "ああ、やっぱりそうなりますよね。横向きだと肩に負担かかりやすいですけど" },
+        { "character": "tatsu", "expression": "normal_02", "text": "どっち向いてもどっかに負担かかるんだから、しょうがねーだろ" },
+        { "character": "player", "expression": "normal_01", "text": "抱き枕を使うと楽になりますよ。胸の重さが分散されるので" },
+        { "character": "tatsu", "expression": "alert_02", "text": "抱き枕……アタシが抱き枕抱えて寝てるとこ想像すんなよ" },
+        { "character": "player", "expression": "normal_01", "text": "してませんよ" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……つーか、そもそも寝つきが悪いんだよ。色々考えちまって" },
+        { "character": "player", "expression": "normal_01", "text": "仕事のこと？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……まあな。明日の回収とか、あいつちゃんと動くかなとか。頭が止まんねーんだ" },
+        { "character": "player", "expression": "normal_01", "text": "施術の後は少し眠くなると思うので、今日は早めに休んでくださいね" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……ん。そうする" }
+      ]
+    },
+
+    "talk_massage_effect": {
+      "topicName": "マッサージの効果",
+      "trustEffect": 2,
+      "developEffect": 1,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "最近、身体の調子どうですか？通い始めた頃と比べて" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……別に。普通だけど" },
+        { "character": "player", "expression": "normal_01", "text": "肩の張り、初回と比べるとかなり柔らかくなってますよ" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……そうかよ" },
+        { "character": "player", "expression": "normal_01", "text": "肌のツヤも良くなってます。血行が改善されてる証拠ですね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "あんた、よく人の肌とかそんな細かいとこ見てんな……" },
+        { "character": "player", "expression": "normal_01", "text": "仕事ですから" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……まあ、確かに前より寝つきは良くなった気がする。ちょっとだけな" },
+        { "character": "player", "expression": "normal_01", "text": "それは嬉しいですね。身体がほぐれると自律神経にも良い影響がありますから" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……あとなんか、施術の後しばらく身体がぽかぽかすんだよ。帰りの車ん中とかで" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……褒めてねーからな。効果があるかもって言っただけだ" },
+        { "character": "player", "expression": "normal_01", "text": "はい、承知してます" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……なんか笑ってねーか？" }
+      ]
+    },
+
+    "talk_work": {
+      "topicName": "仕事の話",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "普段のお仕事って、どんな感じなんですか？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "金貸しだよ。貸して、回収する。それだけだ" },
+        { "character": "player", "expression": "normal_01", "text": "取り立てとかも自分で？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "デカい案件はアタシが直接行く。ナメられたら終わりだからな" },
+        { "character": "player", "expression": "normal_01", "text": "この業界で女性がトップって、大変じゃないですか？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "最初は誰も言うこと聞かなかったよ。「小娘に何ができる」ってな" },
+        { "character": "player", "expression": "normal_01", "text": "どうやって認めさせたんですか？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……力ずくだよ。格闘技やってたから、まず一番デカい奴をぶっ飛ばした" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "そっから金の管理を徹底した。数字で結果出せば文句は言えねーからな" },
+        { "character": "player", "expression": "normal_01", "text": "すごいですね……" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……大変だけど嫌いじゃねーよ、この仕事。まあ、肩は凝るけどな" }
+      ]
+    },
+
+    "talk_liricure": {
+      "topicName": "鼻歌",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "sleeping_01", "text": "ふんふふーん♪ ふんふん、ふふーん♪" },
+        { "character": "player", "expression": "normal_01", "text": "……タツ姐さん、鼻歌歌ってますね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……！　歌ってねーよ" },
+        { "character": "player", "expression": "normal_01", "text": "その曲……もしかしてリリキュアですか？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "は？　なんだよリリキュアって" },
+        { "character": "player", "expression": "normal_01", "text": "日曜朝にやってるアニメですよ。女の子が変身するやつ" },
+        { "character": "tatsu", "expression": "alert_01", "text": "知らねーよそんなの！　……ヤスの娘が車ん中でずっと歌ってて、耳に残っただけだ" },
+        { "character": "player", "expression": "normal_01", "text": "（ヤス……ああ、タツ姐さんの部下の……）え、お子さんいたんですか……！" },
+        { "character": "tatsu", "expression": "normal_02", "text": "いるよ。5歳の娘。……あいつ、仕事はドジだけど娘のことになると目の色変わるんだよ" },
+        { "character": "tatsu", "expression": "normal_02", "text": "この前、仕事の帰りにヤスの車乗せてもらったら、チャイルドシートにリリキュアのぬいぐるみがあってさ" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "カーステからもリリキュアのCD流れてきて……1時間も聴いてたら覚えちまったんだよ" },
+        { "character": "player", "expression": "normal_01", "text": "ヤスさん、いいパパなんですね" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……まあな。あいつの唯一の取り柄だよ" }
+      ]
+    },
+
+    "talk_marriage": {
+      "topicName": "結婚について",
+      "trustEffect": 3,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "この前のヤスさんの娘さんの話、ちょっと気になったんですけど" },
+        { "character": "tatsu", "expression": "normal_02", "text": "あ？　何がだよ" },
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さんは、結婚とか考えたことあります？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……はぁ？　なんでそうなるんだよ" },
+        { "character": "player", "expression": "normal_01", "text": "いや、ヤスさんがパパやってるの見て、どう思ったのかなって" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……別に。あいつはあいつ、アタシはアタシだ" },
+        { "character": "tatsu", "expression": "normal_02", "text": "闇金の女社長と結婚したがる男なんかいねーよ。いたとしても金目当てだろ" },
+        { "character": "player", "expression": "normal_01", "text": "そんなことないと思いますけど" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……お前、気安くそういうこと言うなよ。マジで" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……でもまあ、ヤスの娘見てると……ちょっとだけ思う時はある" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……普通に生きてたら、こういうのもあったのかなって。……ガキみてーなこと言ってんな、忘れろ" }
+      ]
+    },
+
+    "talk_food": {
+      "topicName": "好きな食べ物",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "お昼ごはんとかちゃんと食べてますか？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "部下と焼肉行くことが多いな。A5ランクの" },
+        { "character": "player", "expression": "normal_01", "text": "高級焼肉……いいですね" },
+        { "character": "tatsu", "expression": "normal_02", "text": "部下の奢りだけどな。社長特権ってやつだ" },
+        { "character": "player", "expression": "normal_01", "text": "他に好きな食べ物ってあります？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "肉。日本酒。……あと……甘いもの" },
+        { "character": "player", "expression": "normal_01", "text": "甘いもの？" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……悪いかよ。コンビニのシュークリームとか、事務所で一人の時にこっそり食ってる" },
+        { "character": "player", "expression": "normal_01", "text": "こっそり？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "部下の前で甘いもんなんか食えるか。威厳の問題だよ" },
+        { "character": "player", "expression": "normal_01", "text": "嫌いな食べ物は？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "納豆。あとパクチー。……なんだよその「意外と普通ですね」って顔は" },
+        { "character": "player", "expression": "normal_01", "text": "してませんよ" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……してたよ。見りゃ分かる" }
+      ]
+    },
+
+    "talk_holiday": {
+      "topicName": "休日の過ごし方",
+      "trustEffect": 2,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 1,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "休みの日って何してるんですか？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "高級スパに行くか、麻雀だな" },
+        { "character": "player", "expression": "normal_01", "text": "スパ巡りが趣味って、ここの施術とは違います？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "全然違ぇよ。スパはリラックスだけ。……ここは、なんつーか……もっと深いっつーか" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……あー、うまく言えねー。とにかく違うんだよ" },
+        { "character": "player", "expression": "normal_01", "text": "麻雀は誰と？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "ヤスとかの部下と。……ほぼアタシが勝つけどな" },
+        { "character": "player", "expression": "normal_01", "text": "負けず嫌い？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "勝つのが当たり前なんだよ。仕事もギャンブルも。負けたら舐められるからな" },
+        { "character": "player", "expression": "normal_01", "text": "……たまには負けてもいいんじゃないですか？ ここでは勝ち負けとか気にしなくていいですから" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……ふん。……お前に言われると反論しにくいのが腹立つわ" }
+      ]
+    },
+
+    "talk_name": {
+      "topicName": "名前の話",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "そういえば、最初の受付票に書いてもらったフルネーム……辰巳麗さん、っていうんですね" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……あー。それな" },
+        { "character": "player", "expression": "normal_01", "text": "麗って、いい名前ですね" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……やめろ。その名前で呼ぶな" },
+        { "character": "player", "expression": "normal_01", "text": "嫌なんですか？" },
+        { "character": "tatsu", "expression": "alert_01", "text": "似合わねーだろ。闇金の社長が「うらら」って。ギャグかよ" },
+        { "character": "player", "expression": "normal_01", "text": "誰がつけたんですか？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……親父。生まれた時に、「麗しい子になるように」って" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……顔も覚えてねー親父が残したのが、この名前だけだ" },
+        { "character": "player", "expression": "normal_01", "text": "……大切にされてたんですね。名前の由来を聞く限り" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……さあな。でもこの名前で生きてくには、アタシの世界は荒すぎた" },
+        { "character": "tatsu", "expression": "normal_02", "text": "だから「タツ姐」で通してる。……その方が都合がいいからな" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……誰にも言うなよ。今の話" }
+      ]
+    },
+
+    "talk_scent": {
+      "topicName": "オイルの匂い",
+      "trustEffect": 3,
+      "developEffect": 1,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "最近、施術前にオイルの匂い嗅いで安心した顔してますね" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……見てんじゃねーよ" },
+        { "character": "player", "expression": "normal_01", "text": "匂いの記憶って、身体に残りやすいんですよ" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……知ってる。最近、このオイルの匂いがスーツにも染みついてきた" },
+        { "character": "tatsu", "expression": "normal_02", "text": "部下に「姐さん、なんかいい匂いしますね」って言われたぞ" },
+        { "character": "player", "expression": "normal_01", "text": "何て答えたんですか？" },
+        { "character": "tatsu", "expression": "normal_01", "text": "「うるせぇ」って" },
+        { "character": "player", "expression": "normal_01", "text": "……でしょうね" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……つーかさ。最近、事務所で煮詰まった時にこのオイルの匂い思い出すんだよ。そうすると、ちょっと肩の力が抜ける" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……パブロフの犬みてーだな" },
+        { "character": "player", "expression": "normal_01", "text": "条件付けされてますね。……いい方向にですけど" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……あんたに飼い慣らされてるみたいで複雑だわ" }
+      ]
+    },
+
+    "talk_reason": {
+      "topicName": "通う理由",
+      "trustEffect": 4,
+      "developEffect": 0,
+      "alertnessEffect": -8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "最近、ありがたいことに他のお客さんも増えてきまして" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……ふーん" },
+        { "character": "player", "expression": "normal_01", "text": "経営も安定してきたし、タツ姐さんに無理に来てもらわなくても大丈夫ですよ" },
+        { "character": "tatsu", "expression": "alert_01", "text": "……は？　どういう意味だよそれ。来るなってことか？" },
+        { "character": "player", "expression": "normal_01", "text": "い、いや、そういうわけではなくて。ご迷惑じゃなければ、全然来てもらっていいんですけど……" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……迷惑じゃねーよ" },
+        { "character": "player", "expression": "normal_01", "text": "え？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "アタシは肩が凝るから来てんだよ。別にお前のために来てるわけじゃねえ" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……お前の施術が受けられなくなる方が迷惑だっての（小声）" },
+        { "character": "player", "expression": "normal_01", "text": "？" }
+      ]
+    },
+
+    "talk_future": {
+      "topicName": "返済期限",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "そろそろ3か月ですね。返済期限" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……そうだな" },
+        { "character": "player", "expression": "normal_01", "text": "最初にタツ姐さんが来た時のこと、覚えてます？" },
+        { "character": "tatsu", "expression": "normal_02", "text": "当たり前だろ。借金取りに来たんだからな。……そしたらお前が「施術させてくれ」とか言い出して" },
+        { "character": "player", "expression": "normal_01", "text": "必死でしたからね、あの時は" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……あっという間だったな。最初はクソめんどくせーって思ってたのに" },
+        { "character": "player", "expression": "normal_01", "text": "返済が終わっても、施術は続けてもらえると嬉しいです" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……は？　なんで返済終わってもアタシが来なきゃいけねーんだよ" },
+        { "character": "player", "expression": "normal_01", "text": "来なきゃいけないとは言ってません。来てほしいなって" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……肩、まだ凝ってるし。返済終わったからって治るわけじゃねーからな" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……まあ、考えとくよ" }
+      ]
+    },
+
+    "talk_betrayal": {
+      "topicName": "裏切り",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……なあ" },
+        { "character": "player", "expression": "normal_01", "text": "はい？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……お前って、信用していいのかな" },
+        { "character": "player", "expression": "normal_01", "text": "……急にどうしたんですか？" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……忘れろ。独り言だ" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……親父の話、前にちょっとしたろ。名前つけてくれた、顔も覚えてねー親父" },
+        { "character": "player", "expression": "normal_01", "text": "はい" },
+        { "character": "tatsu", "expression": "normal_02", "text": "親父も金貸しだったんだよ。小さい事務所でやってた。……人が良すぎるくらいの男でさ" },
+        { "character": "tatsu", "expression": "normal_02", "text": "一番信頼してたパートナーがいたんだ。親友で、共同経営者で、アタシのことも可愛がってくれて" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……そいつが全部持ち逃げした。金も、顧客名簿も、帳簿も。親父に全部の借金押し付けてな" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "親父、追い詰められて……それで、終わった" },
+        { "character": "tatsu", "expression": "normal_02", "text": "アタシが中学の時だ。残ったのは借金と、潰れかけの事務所と、「麗」っていう似合わねー名前だけ" },
+        { "character": "tatsu", "expression": "normal_02", "text": "……だから継いだんだよ。闇金。親父みたいに甘くやらねーって決めて" },
+        { "character": "tatsu", "expression": "alert_01", "text": "人を信じたから死んだんだ。あの人は。……だからアタシは、誰も信じねー。力で支配する。それが一番確実だ" },
+        { "character": "player", "expression": "normal_01", "text": "……話してくれて、ありがとうございます" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……なんで話しちまったんだろうな。こんなこと、ヤスにも言ったことねーのに" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……お前の手が、ずりーんだよ。触られてると……ガードが下がる" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……お前は、違うのかもな" }
+      ]
+    },
+
+    "talk_looking_back": {
+      "topicName": "振り返り",
+      "trustEffect": 5,
+      "developEffect": 0,
+      "alertnessEffect": -8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 2,
+      "dialogues": [
+        { "character": "player", "expression": "normal_01", "text": "タツ姐さん、もうだいぶ通ってもらってますね" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……そうだな。最初は借金のカタだっつーのに、いつの間にか普通に予約取ってるわ" },
+        { "character": "player", "expression": "normal_01", "text": "最初の頃、すごい警戒されてましたよね" },
+        { "character": "tatsu", "expression": "normal_02", "text": "当たり前だろ。得体の知れねー整体師に身体預けるんだぞ" },
+        { "character": "player", "expression": "normal_01", "text": "今は？" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "…………" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……ここ来ると、力が抜ける。身体だけじゃなく、なんつーか……頭の中も" },
+        { "character": "tatsu", "expression": "normal_02", "text": "組じゃ誰にも弱いとこ見せらんねーし、一人の時は一人の時で気が張ってるし" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "ここだけだよ。……何も考えなくていい場所" },
+        { "character": "player", "expression": "normal_01", "text": "……" },
+        { "character": "tatsu", "expression": "alert_02", "text": "……なに黙ってんだよ。気持ち悪いこと言ったのは分かってる" },
+        { "character": "player", "expression": "normal_01", "text": "いえ。……嬉しいです、セラピストとして" },
+        { "character": "tatsu", "expression": "normal_01", "text": "……「セラピストとして」ね" },
+        { "character": "tatsu", "expression": "sleeping_01", "text": "……まあいいよ。引き続き、よろしく頼むわ" }
+      ]
+    }
+  }
+}

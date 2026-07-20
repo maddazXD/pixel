@@ -1,0 +1,551 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──第11周的早晨。\n龙姐的身体已经到了没有治疗就无法正常生活的程度。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（第11周…快3个月了。龙姐完全离不开我了。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（多亏了这个，经营也稳定下来了…全都是托龙姐的福。）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "…来了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "龙姐！…话说，您看起来心情不太好。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "…是啊。都怪你。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "诶？怪我？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…前几天的事。教训手下的时候…突然想起了你的治疗。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "教训手下的时候…？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "是啊。然后…手就…没力气了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "手下居然说'姐，您今天好温柔啊'…我要杀了他。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（教训人都变温柔了…她到底有多想着治疗的事啊…）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "高利贷老板工作的时候满脑子都是这种事…该死…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "说明我的治疗确实有效啊。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…别得意。",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…但还有更糟糕的事…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "更糟糕？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…你的声音…打电话预约的时候…一听到你的声音…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "听到我的声音后？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…当场…内裤就湿了…只是听到声音…身体就自己…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（气味之后是声音…五感一个接一个被我支配了…）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…上周是气味。这次是声音。…我的身体到底怎么了…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "嗅觉、听觉…下一个会是什么呢。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "别说得那么开心…！",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…所以说…我想了。这样下去不行。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "想到什么对策了？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "…我想如果自己学会的话，就不用来这里了…所以开始学整体按摩了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "学按摩！？龙姐您？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "是啊。买了书，也买了教学DVD。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "教学DVD？请问…叫什么系列？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "嗯…叫'变态按摩师的手法'系列。出了20多卷，评价看起来不错，就全买了。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（'变态按摩师的手法'…！？那…完全是成人片啊…！！）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…龙姐。那个…您看了吗？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "全看了。一开始还认真地边看边做笔记来着…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "边做笔记…"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…看到一半…感觉…不太对劲了…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "不对劲是…"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…………那是成人片…对吧…？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…看标题不就知道了吗…'变态按摩师'啊…"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "吵、吵死了！我对那方面不了解啊…！封面上女的做出那种表情我还以为是按摩太舒服了才那样的…！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（高利贷老板觉得成人片封面是'因为按摩太舒服了'…太单纯了…）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…那，发现之后呢？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "………………。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "您说全看完了吧？发现之后也…？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…………停不下来了……看着看着就联想到你的治疗了……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（高利贷老板把按摩成人片全部看完…还做了笔记…）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…看的时候一直…身体好烫…感觉你在碰我…",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "…而且还不止这些…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "还有啊…？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…手下拿文件到我房间的时候…那堆DVD和笔记本…就在桌上…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "被看到了…？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "'姐…这么多DVD是啥啊……等等……变态按摩师的……？'他说…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（被手下发现了大量按摩成人片的高利贷老板…）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "'是教材！！学习用的！！别再问了！！'我虽然吼了回去…但他肯定不信…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…不会信的吧…"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…而且笔记本上写的'Vol.7 女高○生的治疗很有参考价值'也被看到了…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（Vol.7…女高中生篇吗…连笔记本都被看到了，这太致命了…）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "从第二天起手下们的眼神…变得…温柔了…用那种'姐也有自己的事情啊…'的眼神看我…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "龙姐…上周偷毛巾，柔顺剂调查，这次又是全套成人片…每周规模都在升级啊…"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "别一个个列出来！！全是你的错！！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…那最后，自己试着做了感觉怎么样？按摩。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…完全不行。自己按同样的地方…什么感觉都没有…",
+      "outfit": "suit"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…不是你的手…就不行……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（毛巾→柔顺剂→学按摩→看成人片→自己试→全部失败→还是得找我。…完美路线。）"
+    },
+    {
+      "id": "choice_massage11",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "原来如此…您真是费了不少心思啊。",
+      "choices": [
+        {
+          "label": "您能那样努力我很高兴",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "trust_path"
+        },
+        {
+          "label": "您已经逃不掉了",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "captive_path"
+        },
+        {
+          "label": "用成人片预习过了那就好办了",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "av_path"
+        }
+      ]
+    },
+    {
+      "id": "trust_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "偷毛巾，调查柔顺剂，甚至还学按摩…您能做到那种程度，我真的很高兴。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…！高兴什么…又不是为了你才做的…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "但最后还是来找我了对吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…………嗯。…不来你这里…不行啊…",
+      "outfit": "suit",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "captive_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "毛巾不行，柔顺剂不行，DVD不行，自己的手也不行。您已经逃不掉我了。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "逃什么…又不是被抓住了…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "闻到我的气味就发情，听到我的声音就湿了，什么办法都没用，只能每周来这里。这不就是被抓住了吗？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…………没法反驳这一点最让人火大……",
+      "outfit": "suit",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "av_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那就是说，您已经用DVD预习过了。今天的治疗会做什么，大概都知道了吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "什…？你要做跟那些DVD一样的事…！？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "谁知道呢。龙姐，您做着笔记看了Vol.7对吧？还记得那一卷是什么样的治疗吗？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…！那、那个是…就是…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "全20卷做着笔记看完的人，现在要做什么应该全都能想象出来了吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…别说了…别让我想象…身体已经…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "DVD里的那些女人，最后都变成什么样了？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…………全都…………被搞得…一塌糊涂……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今天的龙姐说不定也会变成那样呢。",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "那，换衣服吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "…嗯。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "（龙姐开始换衣服…）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "（…DVD里看到的那些…全都想起来了…那些女人一开始明明很抗拒…到最后都主动求着要了…）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "（…我也…一样…一开始明明很讨厌…现在却期待来这里…）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "（…因为看了DVD有了知识…知道他会对我做什么…明明害怕…却有个期待着的自己…）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "（…偷毛巾，调查柔顺剂，看了全套成人片…我到底在干什么啊……高利贷老板居然……）",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "…换好了。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "（…她一来大腿就在发光了…聊DVD的时候一直在兴奋…）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "今天因为用DVD预习过了，每碰到哪里您都会知道的吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "…别说了…别说多余的话…快点…开始吧……",
+      "outfit": "bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "好的。那么…'变态按摩师的手法'实操篇，开始吧。"
+    }
+  ]
+}

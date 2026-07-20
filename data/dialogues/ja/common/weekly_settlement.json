@@ -1,0 +1,92 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（先週の収支を確認しよう……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（先週も客はナナちゃん1人、か……）",
+      "conditions": {
+        "maxCustomerCount": 1
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（少しずつ客が増えてきたな。引き続き頑張ろう。）",
+      "conditions": {
+        "minCustomerCount": 2,
+        "maxCustomerCount": 9
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（先週は予約が多かったな。順調だ。）",
+      "conditions": {
+        "minCustomerCount": 10,
+        "maxCustomerCount": 29
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（かなり客が増えてきたな。忙しくて手が回らないくらいだ。売り上げも順調だな！）",
+      "conditions": {
+        "minCustomerCount": 30,
+        "maxCustomerCount": 79
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（き、客が多すぎる…！毎日、一日中働いても捌ききれない…。正直しんどいが、売上は絶好調だ！）",
+      "conditions": {
+        "minCustomerCount": 80
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（借金はまだまだ残っている。先は長いな…）",
+      "conditions": {
+        "maxDebtPaidRatio": 0.3
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（返済は順調だが、まだ半分ちょっとか…。もっと頑張らないとな。）",
+      "conditions": {
+        "minDebtPaidRatio": 0.3,
+        "maxDebtPaidRatio": 0.6
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（借金もあと少しで返済できそうだ。気合を入れて稼がないとな。）",
+      "conditions": {
+        "minDebtPaidRatio": 0.6,
+        "maxDebtPaidRatio": 0.9
+      }
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（借金は完済済みだ！これで晴れて自由の身だ…！）",
+      "conditions": {
+        "minDebtPaidRatio": 1.0
+      }
+    }
+  ]
+}

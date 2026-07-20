@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐走了之后……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（睡不着觉，做奇怪的梦……她的身体已经开始渴望了。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（提议对敏感带进行治疗的时候，我真以为她会揍我。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（不过她勉强同意了，说'有效果是事实'。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……换衣服的时候，她的表情好像有些变化。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（高利贷的老板……在期待我的治疗……？）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（已经过了一半了。从这里开始也许才是正戏。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那么，这周该怎么办呢……）"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 돌아간 후……)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(소개 덕분에 새로운 손님이 늘어나고 있다. 경영에 조금 여유가 생겼군.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('망하면 누가 내 어깨 결림을 해결해주냐'라니……걱정해주고 있는 건가?)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(만지면 움찔한다고 했지. 몸이 민감해지고 있어.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(혈류 개선과 신경 활성화……시술의 효과가 온몸에 나타나고 있다는 증거다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('여자로서 더 빛나고 있다'고 했을 때의 부끄러워하던 얼굴……의외의 모습이었다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자, 이번 주는 어떻게 보낼까……)"
+    }
+  ]
+}

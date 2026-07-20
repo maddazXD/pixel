@@ -1,0 +1,367 @@
+{
+  "title": "빚 완납 달성 - 온천 여행",
+  "dialogues": [
+    {
+      "character": "타츠네",
+      "text": "……완납, 확인했다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "네.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……축하한다, 라고 해야 하나?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "해주셔도 괜찮습니다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……축하한다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "감사합니다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "………….",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……그래서? 이제 빚도 없으니. 내가 올 이유도 없겠지.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "……타츠네 씨. 어깨 결림, 아직 안 나았잖아요.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……뭐, 만성적인 거니까.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "그럼 다음 주에도 와주세요. 이번엔——제대로 돈 받을 겁니다만.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……하? 사채업자한테 돈을 받겠다고?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "사채업자가 아니라. 손님으로요.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……흥. 네 시술, 나쁘진 않으니까. ……생각해 볼게.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "그리고, 한 가지 더.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "뭐야, 아직 있어?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "완납 축하로……온천, 가지 않으실래요?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "…………하?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "타츠네 씨, 고급 스파 투어가 취미라고 하셨잖아요. 근데 진짜 온천은 가본 적 있으세요? 산속 깊은 곳에서 자연적으로 솟아나는 그런 거요.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……스파는 도내 것만 다녔지.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "그럼 한번 가보시죠. 스파랑은 완전히 다르니까요.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……너, 제정신이야? 완납했다고 기어오르지 마.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "기어오르는 게 아니에요. 정체사로서, 진짜 온천을 경험해 보셨으면 합니다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 잠깐 말이 없어졌다. 뭔가 생각하고 있는 것 같다.)"
+    },
+    {
+      "character": "타츠네",
+      "text": "……업무 시찰도 겸해서라면, 뭐. 온천 료칸 경영 같은 거, 융자 참고가 되겠지.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(억지스러운 핑계다……)"
+    },
+    {
+      "character": "타츠네",
+      "text": "방은 따로다. 이상한 짓 하면 죽여버린다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "안 합니다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……언제 가는 거야?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(거절 안 했다……!)"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "온천 여행으로",
+          "next": "onsen_start"
+        }
+      ]
+    },
+    {
+      "id": "onsen_start",
+      "character": "타츠네",
+      "text": "……호오. 괜찮은 방이네.",
+      "characterImage": "tatsu/tatsu.png",
+      "background": "onsen_bg"
+    },
+    {
+      "character": "player",
+      "text": "노천탕 딸린 객실로 잡았습니다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……돈, 괜찮아? 완납한 지 얼마 안 됐잖아.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "타츠네 씨 덕분에 가게도 잘 되고 있으니까요.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……흥.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……그래서, 탕은?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "저기요. 방에서 바로 나갈 수 있게 되어 있어요.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……나쁘지 않네.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "이왕이면, 같이 들어가지 않으실래요? 시술의 연장으로, 온천 효능도 설명해 드릴게요.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……하? 너랑?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "정체사로서, 입니다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "text": "……이상한 짓 하면 죽여버린다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "안 합니다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "온천에 들어가기",
+          "next": "onsen_bath"
+        }
+      ]
+    },
+    {
+      "id": "onsen_bath",
+      "character": "타츠네",
+      "text": "……하아. 좋은 물이네. 스파랑은 완전 다르다.",
+      "hideCharacter": true,
+      "background": "blackout"
+    },
+    {
+      "character": "player",
+      "text": "그렇죠? 원천수 그대로 흘려보내는 거라서요.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……물이 부드럽다.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "타츠네 씨, 어깨 주변이 뭉쳐 있네요. 좀 풀어드릴게요.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……너, 탕 안에서도 시술할 거야?",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "온천 안에서는 근육이 이완되어 있어서, 효과가 있거든요.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……응……",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……가깝다.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "죄송합니다, 이 자세가 아니면 닿지 않아서.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "………….",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……야.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "네, 네?",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……이런 거, 익숙해?",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "네? 시술은 매일 하고 있으니——",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……그런 얘기가 아니야.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "(타츠네가 천천히 나를 향해 몸을 돌렸다.)",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……완납하자마자, 온천에 데려오고, 벌거벗은 채로 밀착하고…… 다 계산된 거야?",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "아, 아닙니다——",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……뭐, 됐어.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "(타츠네가 내 위에 올라탔다——)",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "text": "……항상 마음대로 만졌지? 오늘은 내 차례다.",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "몸을 맡기다",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}

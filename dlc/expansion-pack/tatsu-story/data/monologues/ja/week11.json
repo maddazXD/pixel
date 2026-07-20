@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が帰った後……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（部下をシメてる最中に手が甘くなるって……組のボスとしてはまずいな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（店の看板を見ただけで反応する。電話の声を聞いただけで顔が赤くなる）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（視覚、聴覚……五感の全てが俺の施術と結びついてしまった）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（それでも『お前の施術は必要だ』って……来ることをやめない）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『アタシの身体はもうお前のもんだ』……あの言葉、本心だったな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（来週で最後だ。借金の返済期限……そしてこの関係の行方も）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週はどうしようか……）"
+    }
+  ]
+}

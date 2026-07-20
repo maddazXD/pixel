@@ -1,0 +1,2109 @@
+{
+  "talks": {
+    "erotic_breast_size": {
+      "topicName": "Ukuran Payudara",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Kalau dilihat lagi, itu benar-benar besar ya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Berhenti menatap. Aku tahu itu pekerjaanmu, tapi tetap saja."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Boleh aku tanya ukuranmu? Sebagai referensi selama perawatan."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...K."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "K...!?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Apa. Ada masalah?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tidak... itu pasti bikin bahu dan punggungmu sangat pegal."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Iya. Susah sekali cari bra ukuran segitu. Yang lucu-lucu sudah pasti tidak ada, cuma ada yang polos dan fungsional saja."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Bikin bahuku kaku, sakit kalau lari karena membal, dan semua orang menatap. Tidak ada bagus-bagusnya sama sekali."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Begitu ya. Fascia di sekitar dadamu sangat kencang. Biar aku kerjakan bagian itu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Ngh. Jangan sentuh bagian itu terlalu banyak... Maksudku, aku tahu ini perawatan, tapi..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tekanannya oke?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "pleasure_01",
+          "text": "...Tidak apa-apa. ...Rasanya malah... agak enak."
+        }
+      ]
+    },
+    "erotic_nipple": {
+      "topicName": "Obrolan Puting",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Selama perawatan dada, aku mungkin akan menyentuh putingmu. Apa tidak apa-apa?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Hah? Kenapa tiba-tiba..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Saat menguras limfa di sekitar kelenjar susu, aku pasti akan lewat di dekat sana."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Itu pekerjaanmu, kan. Lakukan sesukamu."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Di sekitar sini... apa kamu merasakan sesuatu?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "pleasure_01",
+          "text": "Ngh...! Y-ya, tentu saja aku merasakannya...!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu cukup sensitif ya. Reaksinya kuat."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "D-diam... Aku bahkan tidak tahu hal itu tentang diriku sendiri..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Belum pernah ada yang menyentuhku di sana sebelumnya..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu sendiri juga tidak pernah menyentuhnya?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Tidak!! Kenapa kamu malah tanya begitu!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Maaf. Tapi itu membantuku menyesuaikan perawatannya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Ngh... baiklah, terserah kamu deh... tapi jangan asal sentuh ya... jantungku bisa copot nanti..."
+        }
+      ]
+    },
+    "erotic_virgin_ask": {
+      "topicName": "Pengalaman Seksual 1",
+      "trustEffect": 0,
+      "developEffect": 1,
+      "alertnessEffect": 0,
+      "pleasureEffect": 0,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Apa kamu pernah berhubungan intim sebelumnya?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Hah? Kenapa aku harus jawab itu?"
+        },
+        {
+          "character": "player",
+          "expression": "alert_02",
+          "text": "Itu buat menyesuaikan perawatannya. Nggak ada maksud aneh-aneh, aku janji."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "......Pernah."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Beneran?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Aku bilang pernah, ya berarti pernah. Jangan suruh aku mengulanginya lagi."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "......"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "...Kenapa lihatnya begitu. Kamu nggak percaya padaku?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Nggak kok. Kalau begitu, aku akan melanjutkan perawatannya dengan asumsi itu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...I-iya."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ngomong-ngomong, kira-kira sudah berapa kali?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Jangan tanya detailnya!! Itu nggak ada hubungannya sama perawatan!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Maaf (dilihat dari reaksinya, dia mungkin belum pernah...)"
+        }
+      ]
+    },
+    "erotic_virgin_reveal": {
+      "topicName": "Pengalaman Seksual 2",
+      "trustEffect": 2,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tadi kamu bilang kalau kamu punya pengalaman seksual..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Kenapa tiba-tiba bahas itu."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Selama melakukan perawatan, aku perhatikan... reaksimu itu seperti orang yang baru pertama kali disentuh. Semuanya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Apa maksudmu sebenarnya?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu sebenarnya belum punya pengalaman, kan?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "............"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Iya, iya. Aku belum pernah. Puas sekarang?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Nggak, sebenarnya itu malah bagus... lupakan saja. Aku cuma tanya untuk keperluan perawatan."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Masih perawan di usia 26 itu memalukan, tahu nggak? Di industri ini, kamu nggak bisa percaya sama laki-laki."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Setiap cowok yang datang cuma mau uang atau tubuhku. ...Jadi ya begitu. Cuma itu alasannya."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Aku mengerti."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Kalau kamu berani ketawa, aku bunuh kamu."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku nggak akan ketawa. Terima kasih sudah mau cerita padaku."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Hmph."
+        }
+      ]
+    },
+    "erotic_voice": {
+      "topicName": "Menahan Suara Desahan",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu nggak perlu maksain diri buat nahan suaramu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Aku nggak nahan apa-apa kok."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu lagi gigit bibirmu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Ngh... nggak, aku nggak gigit."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ngeluarin suaramu bisa bikin tubuhmu lebih rileks. Kalau ditahan, ototmu malah jadi tegang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Bukan itu masalahnya."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Cuma ada kita berdua di sini, Tatsu-nee."
+        },
+        {
+          "character": "tatsu",
+          "expression": "pleasure_sleepy_01",
+          "text": "...Ngh... ya sudah. Aku bakal... lepasin sedikit..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "pleasure_01",
+          "text": "...Mm...ngh..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Nah, gitu. Jauh lebih baik, kan."
+        }
+      ]
+    },
+    "erotic_underwear": {
+      "topicName": "Obrolan Soal Pakaian Dalam",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Untuk hari perawatan, aku saranin pakai bra tanpa kawat. Yang pakai kawat ninggalin bekas."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Tanpa kawat dengan ukuran segini? Mana bisa nahan bebannya."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tapi bekas di kulitmu gara-gara bra itu kelihatan dalam banget."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Kamu merhatiin hal kayak gitu juga...?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bekas itu tandanya bra-nya terlalu ketat. Nggak bagus buat sirkulasi darah."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Ya sudah. ...Tapi serius deh, nggak ada pilihan yang lucu buat ukuran K-cup. Cuma ada bra nenek-nenek yang jelek."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Pasti susah ya..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Kadang aku pengen bisa pakai bra yang ada rendanya... nggak, lupakan saja. Nggak usah dipikirin."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "(Tatsu-nee pakai bra yang lucu... aku pengen lihat deh)"
+        }
+      ]
+    },
+    "erotic_wetness": {
+      "topicName": "Reaksi Tubuh",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Tatsu-nee, sepertinya bagian bawahmu agak basah."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...!?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "J-jangan dilihat!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu respon tubuh yang normal. Sirkulasi yang lancar emang bikin kayak gitu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Normal... bukan itu masalahnya...!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Enggak perlu malu. Itu justru tandanya pengobatannya berhasil."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Akhir-akhir ini, setiap kali kamu menyentuhku... rasanya langsung..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Dulu enggak pernah begini... tubuhku jadi aneh..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Sensitivitasmu memang meningkat. Itu bukan hal yang buruk."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...'Bukan hal yang buruk,' enak banget kamu ngomongnya..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Terus aku harus gimana pas nyetir pulang nanti..."
+        }
+      ]
+    },
+    "erotic_butt": {
+      "topicName": "Terobsesi dengan Pantatnya",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, setiap kali aku merawat bokongmu, aku selalu mikir hal yang sama. Itu beneran luar biasa."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Apanya?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Elastisitasnya. Pas aku tekan, langsung balik lagi. Rasanya menyenangkan, mau berapa kali pun aku lakuin."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Menyenangkan? Kamu lagi main-main ya? Kerjakan tugasmu."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku lagi ngerjain kok. Cuma emang enak banget buat dikerjain. ...Boleh lanjut lagi?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Berapa kali kamu mau meremasnya!! Kamu dari tadi pegang bokongku terus!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Gluteus maximus-mu kondisinya bagus banget, makanya aku harus teliti."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Pembohong!! Kamu cuma lagi bersenang-senang!! Aku bisa lihat matamu berbinar-binar!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Orang yang pernah ikut bela diri punya struktur otot bokong yang beda. Ini demi kepentingan akademis."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Terapis macam apa yang meremas bokong demi 'kepentingan akademis'..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Apa bokongku beneran seenak itu buat dipijat...? Belum pernah ada yang bilang gitu sebelumnya..."
+        }
+      ]
+    },
+    "erotic_masturbation": {
+      "topicName": "Memuaskan Diri Sendiri",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Untuk menjaga efek pengobatannya, perawatan mandiri di rumah juga penting."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Perawatan mandiri? Maksudnya peregangan?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu juga, tapi... apa kamu punya kebiasaan menyentuh tubuhmu sendiri?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Apa maksudmu ngomong gitu?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Supaya bisa sadar perubahan di tubuhmu, ada baiknya kamu sering menyentuh dirimu sendiri."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Apa kamu lagi muter-muter nanya apa aku masturbasi?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "............"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Tepat sasaran, ya..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Enggak. Aku bahkan enggak tahu caranya gimana."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Mengenali tubuh sendiri itu penting. Apa yang terasa enak, bagian mana yang sensitif."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Gara-gara perawatan darimu, belakangan ini aku jadi sadar akan hal itu secara aneh."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Saat aku mandi, kadang aku cuma... ah, lupakan saja."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Lalu?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "'Lalu' apanya!! Aku tidak harus memberitahumu!! ...Kenapa aku malah membicarakan ini. Ini semua salahmu."
+        }
+      ]
+    },
+    "erotic_body_heat": {
+      "topicName": "Suhu Tubuh Meningkat",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, wajahmu memerah. Kamu tidak apa-apa?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Bukan apa-apa. Cuma gerah saja."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Suhu tubuhmu cukup tinggi. Kulitmu juga panas."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Kamu bisa tahu cuma dengan menyentuhnya?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu artinya sirkulasimu membaik. Terutama di sini... dari dada sampai ke lehermu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Kamu tidak perlu menunjuknya seperti itu."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Awalnya kamu tidak bereaksi sebanyak ini."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "...Itu karena kamu terus menyentuh bagian yang aneh-aneh. Apa kamu seorang mesum?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ini kan untuk melancarkan sirkulasi."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Perawatan macam apa yang membuat wajah jadi merah padam cuma karena 'sirkulasi lancar'? Memangnya aku datang ke sini untuk apa."
+        }
+      ]
+    },
+    "erotic_thigh": {
+      "topicName": "Obrolan Soal Paha",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Paha yang bagus."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Hah? Dari mana datangnya pujian itu?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Dagingnya pas, ototnya juga kencang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Aku pergi ke gym, dan dulu aku sering ikut bela diri."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Benar. Paha ini sangat memuaskan untuk dipijat. Aku bisa terus menyentuhnya seharian."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "...Apa yang sedang kamu bicarakan?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh, tapi paha bagian dalammu agak basah."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...! Itu cuma keringat!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Untuk ukuran keringat, lokasinya agak..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Sudah kubilang itu keringat!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Benar. ...Keringat"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Berhenti menyeringai"
+        }
+      ]
+    },
+    "erotic_armpit": {
+      "topicName": "Aroma Ketiak",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bisa angkat lenganmu? Aku harus memijat bagian limfa di bawah... *endus endus*"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Hah!? Jangan mengendusku, bodoh! Kamu mau mati?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tidak apa-apa"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Apanya yang tidak apa-apa...? Itu bagian yang kotor"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Baunya manis dan enak. Aku ingin menjadikannya parfum"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "...Mati saja. Sebenarnya, aku akan membunuhmu"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu agak berkeringat. ...Boleh kuendus lagi?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Tentu saja tidak boleh!? Berapa kali kamu mau mengendusku, dasar mesum!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Baunya enak sekali sampai aku tidak bisa fokus pada perawatan"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Kamu benar-benar menyeramkan"
+        }
+      ]
+    },
+    "erotic_nape": {
+      "topicName": "Obrolan Soal Tengkuk",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Oh, kamu punya tahi lalat di tengkukmu"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Hah? Benarkah? Aku sendiri tidak bisa melihatnya..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kecil. ...Tepat di sini"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Iik!! Apa yang kamu lakukan!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku cuma menyentuhnya"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Jangan menyentuhku tanpa peringatan!! Kukira jantungku mau copot!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tengkukmu sensitif juga ya. Akan kuingat itu"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Jangan diingat. Lupakan saja"
+        }
+      ]
+    },
+    "erotic_twitch": {
+      "topicName": "Tubuh yang Bergetar",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, kamu banyak gemetar hari ini"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Tidak kok"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Saat aku menyentuh sini..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "pleasure_01",
+          "text": "Ah...!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tuh kan"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Jangan 'lihat' aku!! Berhenti melakukannya dengan sengaja!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Awalnya kamu hampir tidak bereaksi sama sekali. Sekarang kamu tersentak ke mana pun aku menyentuhmu"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Aku tahu. Bahkan hanya dengan disentuh saja, tubuhku bereaksi dengan sendirinya..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Aku tidak bisa mengendalikannya. Tubuhku tidak mau mendengarkanku..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu tanda meningkatnya sensitivitas. Tubuhmu mulai jujur"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Terlalu jujur... kalau aku gemetar semudah ini, aku tidak bisa menjaga wibawaku..."
+        }
+      ]
+    },
+    "erotic_nipple_change": {
+      "topicName": "Perubahan pada Puting",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, putingmu sudah keras bahkan sebelum kita mulai"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...!! Jangan dilihat!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Dulu, mereka hanya bereaksi saat aku menyentuhnya selama perawatan. Tapi sekarang..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Diamlah... mereka sudah seperti ini sejak sebelum aku sampai di sini... dengan sendirinya..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Sejak sebelum kamu sampai?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Di mobil saat perjalanan ke sini... mereka sudah seperti ini. Kamu bisa melihatnya menonjol di balik pakaianku. Benar-benar memalukan"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tubuhmu mengingat perawatannya. Ia sedang mengantisipasi dan mempersiapkan diri"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Mempersiapkan untuk apa..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Warnanya juga sedikit berubah. Dibandingkan sebelumnya..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Kenapa kamu mengamatinya sedetail itu setiap saat! Apa kamu sedang latihan jadi penilai puting!?"
+        }
+      ]
+    },
+    "erotic_breast_bounce": {
+      "topicName": "Payudara yang Membal",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Mereka benar-benar bergoyang saat kamu mengubah posisi selama perawatan"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Ya, dengan ukuran segini, gerakan sekecil apa pun membuat mereka berguncang"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Gerakan yang luar biasa. Aku bisa merasakan gravitasi bumi bekerja"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Aku sendiri merasa mereka mengganggu. Sakit saat aku berlari"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh, yang barusan itu benar-benar sesuatu"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Berhenti memberi komentar langsung, dasar bodoh"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Maaf. Tapi setiap kali mereka berguncang, itu memberi tekanan pada otot dada, jadi aku harus melenturkannya"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Kedengarannya masuk akal, tapi aku tahu kamu cuma ingin melihatnya"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "(Ketahuan...)"
+        }
+      ]
+    },
+    "erotic_breathing": {
+      "topicName": "Napas yang Berubah",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Napasmu jadi berat sekali."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Diamlah... Aku tahu..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu tidak perlu menahannya. Bernapaslah dengan alami saja."
+        },
+        {
+          "character": "tatsu",
+          "expression": "pleasure_01",
+          "text": "Kalau aku bernapas alami... hah... malah jadi makin parah..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tidak apa-apa. Ini kan ruang perawatan."
+        },
+        {
+          "character": "tatsu",
+          "expression": "pleasure_02",
+          "text": "...Hah...ngh...mm...ngh..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Nah, ketegangannya sudah hilang. Bagus."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Bagus? Tadi napasku kedengarannya memalukan sekali..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tidak ada yang memalukan. Itu bukti tubuhmu sedang rileks."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Saat kamu menyentuhku, napasku jadi aneh. Aku coba bernapas normal tapi malah terjadi begitu saja. Ini apa, sih?"
+        }
+      ]
+    },
+    "erotic_voice_leak": {
+      "topicName": "Desahan yang Lolos",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "tatsu",
+          "expression": "pleasure_02",
+          "text": "...Mm...ngh...ah..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Belakangan ini kamu sudah tidak menahan suaramu lagi."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Aku menahannya!! Aku menahannya kok!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tidak juga. Suaramu terus keluar dari tadi."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Tidak mungkin... Aku bahkan tidak sadar..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Dulu, kamu sering menggigit bibir dan berusaha keras melawannya. Tubuhmu jadi lebih jujur sekarang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Jujur? Suaranya keluar sendiri... Aku tidak tahu cara menghentikannya..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu tidak perlu menghentikannya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "pleasure_sleeping_01",
+          "text": "...Ngh...ah...jangan...jangan didengarkan..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku mendengarkannya. Kalau bisa, aku pasti sudah merekamnya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "climax_01",
+          "text": "Coba saja kalau berani, bakal kuhajar sampai gigimu rontok semua! Aku serius!!"
+        }
+      ]
+    },
+    "erotic_strange_voice": {
+      "topicName": "Suara yang Aneh",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "tatsu",
+          "expression": "pleasure_03",
+          "text": "...Mm...ngh...aah~"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "............"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "............"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Tadi dengar tidak?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Dengar."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Anggap saja kamu tidak dengar."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tadi itu lucu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Bukan soal lucunya!! Bos rentenir mengeluarkan suara seperti itu saat perawatan...!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Cuma aku yang dengar."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Itu bagian terburuknya... kamu yang mendengarnya itu yang paling berbahaya..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Aku pulang. Aku pergi dulu untuk hari ini."
+        }
+      ]
+    },
+    "erotic_body_hair": {
+      "topicName": "Obrolan Soal Bulu Tubuh",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, kulitmu benar-benar indah. Tidak ada bulu tubuh sama sekali."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Aku rutin olahraga di gym dan berenang, jadi aku merawatnya."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Begitu ya. Itu mempermudah pekerjaanku."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Maksudku, dari sananya memang tidak banyak tumbuh. Itu masalah konstitusi tubuh."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Kenapa aku malah bilang begitu, dasar bodoh."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku tidak tanya. Kamu sendiri yang bilang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Itu karena kamu bilang kulitku indah!! Itu kan alur percakapan yang wajar!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku cuma memuji..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Hmph. Pujian tidak akan memberimu apa-apa."
+        }
+      ]
+    },
+    "erotic_underwear_change": {
+      "topicName": "Dia Mengganti Pakaian Dalamnya",
+      "trustEffect": 1,
+      "developEffect": 2,
+      "alertnessEffect": 0,
+      "pleasureEffect": 1,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "...Hei."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ya?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Tadi kamu bilang yang nirkabel lebih baik, kan? Untuk hari perawatan."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Iya. Itu meninggalkan lebih sedikit bekas."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Aku sudah beli satu. K-cup nirkabel. ...Menghabiskan 3 jam mencarinya secara online."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu sampai bersusah payah begitu?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Aku beli yang ada sedikit renda. ...Hanya kebetulan menarik perhatianku."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "......"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Kenapa kamu menyeringai!! Kamu sendiri yang bilang itu akan mengganggu perawatan!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku tidak menyeringai. Aku cuma senang."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Senang kenapa... terserah. Percakapan ini selesai. Aku tidak akan membahas ini lagi."
+        }
+      ]
+    },
+    "erotic_wetness_worse": {
+      "topicName": "Semakin Menjadi-jadi Setiap Saat",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Hei. Boleh aku tanya sesuatu?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tentu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Apa klien lain... juga jadi seperti ini saat perawatan?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Seperti apa?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Jangan buat aku mengatakannya!! ...Di bawah sana. Aku tanya apa cuma aku saja yang begini."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Reaksimu memang yang paling kuat."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Sudah kuduga... Awalnya cuma sedikit basah, tapi rasanya makin parah tiap minggu."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu bukan cuma perasaanmu. Tubuhmu mulai terbiasa dengan perawatan dan sensitivitasnya meningkat."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Jadi terbiasa malah bikin makin parah bukannya membaik...?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Minggu depan mungkin bakal jauh lebih intens."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Jangan bilang begitu dengan wajah puas seperti itu!! Pikirkan perasaanku!!"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Mulai sekarang aku bakal bawa pembalut. ...Kalau kamu tertawa, kutendang kamu."
+        }
+      ]
+    },
+    "erotic_clit": {
+      "topicName": "Respons Klitoris",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, klitorismu berkedut padahal aku bahkan belum menyentuhnya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "...Apa!? Kenapa tiba-tiba kamu...!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Sudah sangat membengkak. Sampai keluar dari balik tudungnya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "climax_01",
+          "text": "Berhenti menarasikannya!! Mati saja!! Kubunuh kamu!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tapi ini mengesankan. Bereaksi sehebat ini cuma dari perawatan di area sekitarnya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Aku tidak butuh komentarmu soal betapa 'mengesankannya' itu... ngh."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu pernah menyentuhnya sendiri?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Ngh... t-tidak..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Dengan tingkat sensitivitas seperti ini, sentuhan ringan saja mungkin sudah bisa membuatmu klimaks."
+        },
+        {
+          "character": "tatsu",
+          "expression": "climax_01",
+          "text": "Jangan bilang 'klimaks'!!!!!! Kamu bahkan bukan terapis lagi!! Kamu cuma orang mesum!!!!!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu observasi klinis."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Observasi klinis macam apa yang isinya 'mungkin bisa membuatmu klimaks'... Kubunuh kamu..."
+        }
+      ]
+    },
+    "erotic_shape": {
+      "topicName": "Bentuk Tubuhnya",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, kamu punya vagina yang cantik."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "..................Hah?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Yah, aku tidak bisa tidak melihatnya saat perawatan. Bentuknya benar-benar bagus."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Kalau orang asing bilang 'pussy-mu bagus' padamu, biasanya kamu akan panggil polisi."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kita bukan orang asing. Kita sudah melakukan perawatan selama berbulan-bulan."
+        },
+        {
+          "character": "tatsu",
+          "expression": "climax_01",
+          "text": "Berapa bulan perawatan sampai boleh bilang 'pussy-mu bagus'!! Kamu sudah gila ya!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Maaf. Tapi itu memang indah. Warnanya juga merah muda yang cantik."
+        },
+        {
+          "character": "tatsu",
+          "expression": "climax_01",
+          "text": "Jangan bahas warnanya juga!!!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Belum pernah ada yang lihat, kan? Sayang sekali."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Sayang sekali? Ini bukan barang pajangan..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Indah... itu pertama kalinya ada yang memuji bagian tubuhku itu... kenapa perawatan malah berujung ke komentar seperti itu..."
+        }
+      ]
+    },
+    "erotic_anal": {
+      "topicName": "Reaksi Bagian Belakang",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, lubang belakangmu berkedut."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Apa!? Jangan dilaporkan!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku cuma bekerja di dekat situ dan dia bereaksi sendiri. Menarik."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Apanya yang menarik!! Jangan merasa terhibur dengan lubang pantat orang!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Oh, dia bergerak lagi. Padahal aku bahkan tidak menyentuhnya. Kamu merasakannya juga di sana?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Mana aku tahu!! Seumur hidupku aku tidak pernah memikirkannya!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Biar aku periksa sebentar. Ini refleks otot panggul."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Periksa apa!! Jangan disentuh!! Jangan dekatkan jarimu ke sana!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Tuh kan, baru mendekatkan jari saja sudah bereaksi begini. Sangat sensitif."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Ngh...hya...!! Kamu pasti sengaja melakukannya!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ini perawatan."
+        },
+        {
+          "character": "tatsu",
+          "expression": "climax_01",
+          "text": "Di dunia mana mendekatkan jari ke lubang pantat orang itu disebut 'perawatan'!! Mereka bakal mencabut izin praktikmu!!"
+        }
+      ]
+    },
+    "erotic_smell": {
+      "topicName": "Aroma Tubuh",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee, kamu wangi sekali hari ini."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Aku tidak pakai parfum."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bukan parfum. ...Itu aroma tubuhmu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Aroma tubuh? Seperti bau badan...?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Justru sebaliknya. Kamu wangi. Apalagi... pas kamu lagi terangsang, wanginya jadi makin kuat"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...! Berhenti mengendusku!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Pas lagi dekat buat perawatan, aku nggak bisa menahan diri buat nggak menyadarinya"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Aku nggak bisa bilang... ini memalukan..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Wanginya enak banget. Aku bisa menciumnya selamanya"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Tadi kamu juga mengendus ketiakku!! Kamu ini apa, punya fetish bau-bauan!!"
+        }
+      ]
+    },
+    "erotic_after_massage": {
+      "topicName": "Rona Wajah Setelah Perawatan",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Hei, aku mau tanya sesuatu"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa itu?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "Apa normal... kalau tubuhmu tetap terasa panas setelah perawatan?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Peredaran darah yang lancar memang bisa bikin kamu merasa hangat untuk sementara, iya"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...'Sementara' itu berapa lama"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Sekitar 30 menit sampai satu jam"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Punya aku bertahan sampai malam"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Sampai malam?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Bahkan setelah aku pulang dan mandi, itu nggak berhenti... tubuhku tetap panas... aku jadi nggak bisa tidur"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu... sepertinya bukan cuma efek perawatan..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "'Bukan cuma' apa. Selesaikan kalimatmu. ...Nggak, jangan. Aku sudah tahu"
+        }
+      ]
+    },
+    "erotic_think_of_you": {
+      "topicName": "Memikirkanmu Saat Bekerja",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Aku punya keluhan"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa itu?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Akhir-akhir ini aku terus memikirkanmu saat kerja. Ini jadi masalah"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tentang aku?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Tentang perawatannya. Di tengah rapat, tiba-tiba... sensasi tanganmu terasa lagi..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Aku jadi nggak bisa konsentrasi. Laporan bawahanku cuma masuk telinga kiri keluar telinga kanan"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tubuhmu sedang mengingat sensasi perawatannya"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Mengingat? Nggak sehalus itu... pas aku ingat, tubuhku juga..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Kalau ini terjadi pas lagi rapat..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Apa yang terjadi?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "climax_01",
+          "text": "Jangan paksa aku mengatakannya!! Kubunuh kau nanti!!"
+        }
+      ]
+    },
+    "erotic_scent_react": {
+      "topicName": "Reaksi yang Dipicu oleh Aroma",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Hei."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Aku sudah bilang sebelumnya kalau aroma minyak itu membuat bahuku rileks."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ya. Seperti anjing Pavlov, katamu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Rasanya makin parah."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Makin parah?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Bukan cuma bahuku saja yang rileks... begitu aku mencium aromanya, tubuhku... bereaksi."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bereaksi maksudnya..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Di bawah sana. ...Aku jadi basah. Cuma karena mencium aroma minyak itu."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Penciuman dan respons fisik itu saling berkaitan erat, jadi..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Aku tidak butuh penjelasan!! Perbaiki ini!! Ini salahmu!!"
+        }
+      ]
+    },
+    "erotic_toy_recommend": {
+      "topicName": "Merekomendasikan Alat Bantu",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 0,
+      "pleasureEffect": 2,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Melanjutkan diskusi tentang perawatan diri."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Sekarang apa lagi?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tanganmu saja punya keterbatasan, jadi aku sarankan untuk menggunakan alat bantu."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "...Alat bantu? Seperti alat pijat elektrik?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Vibrator."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Hah?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Getarannya melancarkan sirkulasi dan bisa mengendurkan otot yang dalam. Terutama di area sensitif..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "Itu bukan alat pijat, itu mainan dewasa!! Bagaimana bisa kau menyarankannya sesantai itu!!"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Awalnya itu adalah perangkat medis untuk bahu kaku."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Kau bohong. ...Atau jangan-jangan tidak? ...Di mana kau membelinya?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kau bisa membelinya secara daring. Mau kuberikan nomor model spesifiknya?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Tidak!! ...Sebenarnya, beri tahu aku nanti saja. Secara rahasia. Secara rahasia, mengerti?"
+        }
+      ]
+    },
+    "erotic_cant_satisfy": {
+      "topicName": "Nggak Bisa Memuaskan Diriku Sendiri",
+      "trustEffect": 1,
+      "developEffect": 4,
+      "alertnessEffect": 0,
+      "pleasureEffect": 3,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Hei."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ya."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Hal yang kau katakan sebelumnya. Tentang menyentuh tubuhku sendiri."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu sudah mencobanya?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Sudah"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bagaimana rasanya?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Masih kurang"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Masih kurang?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "Saat aku melakukannya sendiri... rasanya tidak sama seperti saat kamu menyentuhku. Jauh dari cukup"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "Aku tidak tahu apa bedanya, tapi... harus tanganmu... kalau tidak, rasanya tidak enak..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "............"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "...Katakan sesuatu. Jangan diam saja. ...Kamu mau mati ya?"
+        }
+      ]
+    },
+    "erotic_want_more": {
+      "topicName": "Sentuh Aku Lagi",
+      "trustEffect": 1,
+      "developEffect": 4,
+      "alertnessEffect": 0,
+      "pleasureEffect": 4,
+      "sleepinessEffect": 0,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kita akhiri sesi perawatan hari ini sampai di sini?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "......"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tatsu-nee?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Sedikit lagi"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Hm?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_02",
+          "text": "...Terus sentuh aku. Sedikit lagi"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "...Di mana?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "...Di mana saja. ...Aku tidak mau... tanganmu pergi"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "......Oke"
+        },
+        {
+          "character": "tatsu",
+          "expression": "pleasure_sleeping_01",
+          "text": "...Mm..."
+        },
+        {
+          "character": "tatsu",
+          "expression": "pleasure_sleepy_01",
+          "text": "...Saat kamu melakukan ini... aku merasa aman... kenapa ya..."
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku akan terus menyentuhmu selama yang kamu mau"
+        },
+        {
+          "character": "tatsu",
+          "expression": "pleasure_sleepy_01",
+          "text": "...Hmph. ...Ya sudah kalau begitu. Sedikit lagi saja. ...Cuma 5 menit lagi, paham?"
+        }
+      ]
+    }
+  }
+}

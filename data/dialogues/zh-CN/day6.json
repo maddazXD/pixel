@@ -1,0 +1,277 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──第6周的早晨。\n新客人开始稳定下来,生意逐渐步入正轨。而我与奈奈的关系也进入了新的阶段……"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(6周……又长又短。奈奈完全成为常客了。)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(而且她的身心确实在变化。也许今天可以再进一步……)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "早上好!",
+      "voiceFile": "story_day6_001"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "那个……这是第6次了吧?完全成习惯了。",
+      "voiceFile": "story_day6_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "是啊。多亏了你,这家店生意兴隆。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "哪里……不过我的朋友们都很满意,我也很高兴。",
+      "voiceFile": "story_day6_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "不过……大家对那套衣服都很惊讶……",
+      "voiceFile": "story_day6_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "哈哈哈,但最后大家都接受了,对吧?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "是的。一旦明白了它的效果,大家都接受了。",
+      "voiceFile": "story_day6_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "话说,今天感觉怎么样?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "其实……最近一直做噩梦……",
+      "voiceFile": "story_day6_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "一直做奇怪的梦。让身体发热的梦……羞耻的梦……",
+      "voiceFile": "story_day6_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "哦……能告诉我是什么样的梦吗?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "不-不能说……!但早上醒来的时候,真的很累……",
+      "voiceFile": "story_day6_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "而且……内裤……那个……有时会湿……",
+      "voiceFile": "story_day6_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(哦……终于到了这个阶段。她的身体完全开始觉醒了……)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "这是你的身体正在成熟的证据。被压抑的欲望在梦中出现了。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "欲望……是说?",
+      "voiceFile": "story_day6_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的。每个人都有想要满足的欲望。如果一直忽视它们,你的身体会受苦。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "那……我该怎么办……?",
+      "voiceFile": "story_day6_011"
+    },
+    {
+      "id": "choice_massage6",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "今天试试特殊的治疗吧。",
+      "choices": [
+        {
+          "label": "专注放松的治疗",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "relax_path"
+        },
+        {
+          "label": "针对深层心理的治疗",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "psychology_path"
+        },
+        {
+          "label": "刺激性感带的治疗",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "erogenous_path"
+        }
+      ]
+    },
+    {
+      "id": "relax_path",
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "放松……听起来很安全。",
+      "voiceFile": "story_day6_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "通过放松身心,你的欲望应该会自然平静下来。",
+      "next": "special_treatment"
+    },
+    {
+      "id": "psychology_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "深层心理……听起来很复杂。",
+      "voiceFile": "story_day6_013"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "身心是相连的。通过释放内心深处隐藏的欲望,你的身体也会感觉更好。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "释放欲望……好心跳加速……",
+      "next": "special_treatment",
+      "voiceFile": "story_day6_014"
+    },
+    {
+      "id": "erogenous_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "性-性感带!?",
+      "voiceFile": "story_day6_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "不要惊讶。这也是正规的医学方法。适当刺激性感带有平衡荷尔蒙的效果。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "但-但是……太羞耻了……!",
+      "voiceFile": "story_day6_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "没关系的。你能接受。通过至今为止的所有治疗,你的身体已经完全准备好了。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "准-准备好了……你是说我的身体在寻求那种东西……",
+      "voiceFile": "story_day6_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "确实在寻求。你的身体是诚实的。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "不-不会吧……",
+      "voiceFile": "story_day6_018",
+      "next": "special_treatment"
+    },
+    {
+      "id": "special_treatment",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那么,能像往常一样换衣服吗?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(按摩敏感部位还是很害羞……但是……)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day6_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(……也有一部分在期待……这样奇怪吗……?)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day6_020"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "换好了……",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day6_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(完美……通过至今为止的所有治疗,奈奈的身体变得非常性感了……)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那么,请躺在床上。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "好-好的……",
+      "voiceFile": "story_day6_022"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那么,开始吧。"
+    }
+  ]
+}

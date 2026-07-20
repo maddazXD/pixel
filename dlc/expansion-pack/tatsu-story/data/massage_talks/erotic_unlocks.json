@@ -1,0 +1,248 @@
+{
+  "weeks": {
+    "week1": {
+      "develop_1": {
+        "minLevel": 1,
+        "topics": [
+          {
+            "topicId": "erotic_breast_size",
+            "priority": 4,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week2": {
+      "develop_2": {
+        "minLevel": 2,
+        "topics": [
+          {
+            "topicId": "erotic_nipple",
+            "priority": 5,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_body_heat",
+            "priority": 3,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week3": {
+      "develop_3": {
+        "minLevel": 3,
+        "topics": [
+          {
+            "topicId": "erotic_virgin",
+            "priority": 4,
+            "oneTimeOnly": true
+          },
+          {
+            "topicId": "erotic_breast_bounce",
+            "priority": 3,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week4": {
+      "develop_3": {
+        "minLevel": 3,
+        "topics": [
+          {
+            "topicId": "erotic_voice",
+            "priority": 4,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_armpit",
+            "priority": 3,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week5": {
+      "develop_4": {
+        "minLevel": 4,
+        "topics": [
+          {
+            "topicId": "erotic_underwear",
+            "priority": 4,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_thigh",
+            "priority": 4,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_nape",
+            "priority": 3,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_body_hair",
+            "priority": 2,
+            "oneTimeOnly": true
+          }
+        ]
+      }
+    },
+    "week6": {
+      "develop_5": {
+        "minLevel": 5,
+        "topics": [
+          {
+            "topicId": "erotic_twitch",
+            "priority": 5,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_breathing",
+            "priority": 4,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_underwear_change",
+            "priority": 3,
+            "oneTimeOnly": true,
+            "requiredEvents": ["heard_erotic_underwear"]
+          }
+        ]
+      }
+    },
+    "week7": {
+      "develop_6": {
+        "minLevel": 6,
+        "topics": [
+          {
+            "topicId": "erotic_wetness",
+            "priority": 7,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_nipple_change",
+            "priority": 5,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_smell",
+            "priority": 4,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week8": {
+      "develop_7": {
+        "minLevel": 7,
+        "topics": [
+          {
+            "topicId": "erotic_voice_leak",
+            "priority": 6,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_strange_voice",
+            "priority": 7,
+            "oneTimeOnly": true,
+            "requiredEvents": ["heard_erotic_voice_leak"]
+          },
+          {
+            "topicId": "erotic_after_massage",
+            "priority": 5,
+            "oneTimeOnly": true
+          }
+        ]
+      }
+    },
+    "week9": {
+      "develop_7": {
+        "minLevel": 7,
+        "topics": [
+          {
+            "topicId": "erotic_butt",
+            "priority": 7,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_think_of_you",
+            "priority": 6,
+            "oneTimeOnly": true
+          },
+          {
+            "topicId": "erotic_shape",
+            "priority": 5,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week10": {
+      "develop_8": {
+        "minLevel": 8,
+        "topics": [
+          {
+            "topicId": "erotic_wetness_worse",
+            "priority": 8,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_clit",
+            "priority": 7,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_scent_react",
+            "priority": 6,
+            "oneTimeOnly": true
+          },
+          {
+            "topicId": "erotic_anal",
+            "priority": 5,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week11": {
+      "develop_9": {
+        "minLevel": 9,
+        "topics": [
+          {
+            "topicId": "erotic_masturbation",
+            "priority": 9,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "erotic_toy_recommend",
+            "priority": 7,
+            "oneTimeOnly": true,
+            "requiredEvents": ["heard_erotic_masturbation"]
+          }
+        ]
+      }
+    },
+    "week12": {
+      "develop_10": {
+        "minLevel": 10,
+        "topics": [
+          {
+            "topicId": "erotic_cant_satisfy",
+            "priority": 10,
+            "oneTimeOnly": true,
+            "requiredEvents": ["heard_erotic_masturbation"]
+          },
+          {
+            "topicId": "erotic_want_more",
+            "priority": 10,
+            "oneTimeOnly": true,
+            "requiredEvents": ["heard_erotic_cant_satisfy"]
+          }
+        ]
+      }
+    }
+  }
+}

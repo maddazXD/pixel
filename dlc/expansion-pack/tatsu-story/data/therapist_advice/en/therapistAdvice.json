@@ -1,0 +1,67 @@
+[
+  {
+    "id": "general",
+    "condition": "general",
+    "texts": [
+      "(Memijat bahu atau kaki mungkin bisa menurunkan kewaspadaannya...)",
+      "(Untuk mengurangi kelelahan, aku harus fokus pada area yang sesuai dengan keluhan utamanya...)",
+      "(Kalau aku bisa membuatnya tidur, perawatannya akan jadi lebih mudah...)",
+      "(Membangun kepercayaan harus jadi prioritas...)",
+      "(Pelan-pelan saja dan perdalam hubungan ini...)",
+      "(Aku harus mulai dengan pijatan yang benar dan profesional...)",
+      "(Mari kita lakukan selangkah demi selangkah...)",
+      "(Aku harus waspada karena aku tidak bisa lanjut kalau staminaku habis...)"
+    ]
+  },
+  {
+    "id": "high_alertness",
+    "condition": "high_alertness",
+    "texts": [
+      "(Dia sedang waspada... aku harus memijat bahu atau kakinya untuk mendapatkan kepercayaan.)",
+      "(Mungkin aku harus mencoba mengobrol untuk mengalihkan perhatiannya...)",
+      "(Untuk saat ini, mari fokus pada area yang aman saja.)",
+      "(Aku tidak boleh memaksakan diri... mari berhati-hati.)",
+      "(Menyentuh area sensitif dalam kondisi seperti ini adalah langkah yang buruk...)",
+      "(Memijat punggung atau bahunya mungkin bisa membuatnya tenang.)"
+    ]
+  },
+  {
+    "id": "low_sleepiness",
+    "condition": "low_sleepiness",
+    "texts": [
+      "(Mungkin aku harus mencoba membuatnya sedikit lebih mengantuk...)",
+      "(Lagipula, dia tidak terlalu waspada saat sedang tidur...)",
+      "(Mari pijat bagian-bagian yang membantunya rileks.)",
+      "(Mengobrol untuk membuatnya merasa nyaman juga bisa berhasil.)"
+    ]
+  },
+  {
+    "id": "conversation_available",
+    "condition": "conversation_available",
+    "texts": [
+      "(Mengobrol mungkin bisa membantunya rileks.)",
+      "(Biar aku bicara dengannya dan membangun sedikit kepercayaan.)",
+      "(Percakapan bisa membantu menurunkan kewaspadaannya.)",
+      "(Obrolan santai seharusnya bisa mencairkan suasana.)"
+    ]
+  },
+  {
+    "id": "climax_state",
+    "condition": "climax_state",
+    "texts": [
+      "(Kondisi ini akan membuatnya kelelahan... aku harus membiarkannya istirahat sebentar.)",
+      "(Indikator kenikmatan akan turun setelah 10 detik, jadi aku harus berhati-hati.)",
+      "(Mungkin aku tidak boleh terlalu memaksanya...)"
+    ]
+  },
+  {
+    "id": "high_fatigue",
+    "condition": "high_fatigue",
+    "texts": [
+      "(Dia kelihatan capek banget... Sepertinya aku harus memberinya pijatan yang enak.)",
+      "(Memijat bahu dan punggungnya pasti bisa membantu mengurangi rasa lelahnya.)",
+      "(Pijat betis juga bakal efektif, nih.)",
+      "(Kalau rasa lelahnya berkurang, aku pasti bakal dapat penilaian yang bagus.)"
+    ]
+  }
+]

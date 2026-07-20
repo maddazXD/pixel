@@ -1,0 +1,1655 @@
+{
+  "talks": {
+    "talk_sensitive": {
+      "topicName": "Titik Sensitif",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Nana, apa kamu punya bagian tubuh yang sensitif?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Hah...? K-kenapa kamu tanya hal seperti itu...?",
+          "voiceFile": "talk_sensitive_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "Cuma buat referensi perawatan saja. Aku akan menghindari bagian yang membuatmu tidak nyaman."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "...Ketiakku dan...leherku...aku langsung geli kalau disentuh di sana...",
+          "voiceFile": "talk_sensitive_002"
+        }
+      ]
+    },
+    "talk_sports_bra": {
+      "topicName": "Obrolan Soal Sport Bra",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu pakai bra olahraga saat berolahraga?"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "Oh, iya...aku pakai bra olahraga...",
+          "voiceFile": "talk_sports_bra_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Dengan ukuran segitu...pasti susah cari yang pas, ya?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "I-iya...aku harus beli dari toko yang khusus menyediakan ukuran besar...",
+          "voiceFile": "talk_sports_bra_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Begitu ya. Saat kamu lari, pasti berguncang hebat, kan?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Um...iya...semua orang jadi menatap, jadi malu sekali...",
+          "voiceFile": "talk_sports_bra_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "(Cowok-cowok di kelasnya pasti beruntung sekali...!)"
+        }
+      ]
+    },
+    "talk_underwear": {
+      "topicName": "Obrolan Soal Celana Dalam",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Biar kutebak celana dalam apa yang kamu pakai hari ini."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa!? K-kenapa kamu...!",
+          "voiceFile": "talk_underwear_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Hmm, putih...atau merah muda...tidak...kurasa biru muda?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "!!...K-kok kamu bisa...",
+          "voiceFile": "talk_underwear_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Ah, tebakanku benar."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Ya ampun...tolong hentikan...ini memalukan sekali...",
+          "voiceFile": "talk_underwear_003"
+        }
+      ]
+    },
+    "talk_embarrassing_memory": {
+      "topicName": "Pengalaman Memalukan",
+      "trustEffect": 1,
+      "developEffect": 2,
+      "alertnessEffect": 3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa hal paling memalukan yang pernah terjadi padamu?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Hah...yah...",
+          "voiceFile": "talk_embarrassing_memory_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Kamu tidak perlu cerita kalau tidak mau..."
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Aku cuma ingin tahu lebih banyak tentangmu..."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "{{playerName}}-san...",
+          "voiceFile": "talk_embarrassing_memory_002"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Um...saat pelajaran renang...baju renangku...",
+          "voiceFile": "talk_embarrassing_memory_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Baju renangmu?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Sedikit melorot...di depan semua orang...dan um...",
+          "voiceFile": "talk_embarrassing_memory_004"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Putingmu menyembul keluar!?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "J-jangan keras-keras...!",
+          "voiceFile": "talk_embarrassing_memory_005"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_03",
+          "text": "Aku tidak mau mengingatnya...",
+          "voiceFile": "talk_embarrassing_memory_006"
+        }
+      ]
+    },
+    "talk_body_growth": {
+      "topicName": "Perkembangan Tubuh",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tubuhmu jadi lebih dewasa belakangan ini."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Hah... b-begitukah...?",
+          "voiceFile": "talk_body_growth_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Payudaramu jadi sedikit lebih besar, ya kan?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "H-hei...! Kamu memperhatikannya...?",
+          "voiceFile": "talk_body_growth_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Memperhatikan perubahan tubuh itu bagian dari tugasku."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Ya ampun... memalukan sekali... tapi memang benar jadi lebih besar belakangan ini...",
+          "voiceFile": "talk_body_growth_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu masa pubertas. Sangat wajar."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Aku tidak bisa membicarakan ini dengan siapa pun... astaga...",
+          "voiceFile": "talk_body_growth_004"
+        }
+      ]
+    },
+    "talk_sensitive_spot": {
+      "topicName": "Bagian Tubuh Sensitif",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Aku sadar saat perawatan kalau kamu bereaksi saat aku menyentuh lehermu."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa...! K-kamu sadar...?",
+          "voiceFile": "talk_sensitive_spot_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa ada bagian sensitif lainnya?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "K-kenapa kamu menanyakan itu...",
+          "voiceFile": "talk_sensitive_spot_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Supaya aku bisa lebih hati-hati saat perawatan."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Telingaku... dan paha bagian dalam... aku tidak tahan di sana...",
+          "voiceFile": "talk_sensitive_spot_003"
+        }
+      ]
+    },
+    "talk_swimsuit": {
+      "topicName": "Masalah Baju Renang",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa yang kamu lakukan saat kelas renang?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Ah... itu... masalah sekali...",
+          "voiceFile": "talk_swimsuit_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Ukuran baju renangnya?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Iya... punya sekolah sama sekali tidak muat...",
+          "voiceFile": "talk_swimsuit_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu dapat izin khusus?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Iya... tapi aku tetap saja mencolok... anak laki-laki terus menatapku...",
+          "voiceFile": "talk_swimsuit_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu pasti berat."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Aku ingin bolos saat hari renang...",
+          "voiceFile": "talk_swimsuit_004"
+        }
+      ]
+    },
+    "talk_male_experience": {
+      "topicName": "Pengalaman Romantis",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu pernah punya pacar?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa!? T-tidak... aku belum pernah...",
+          "voiceFile": "talk_male_experience_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Benarkah? Itu mengejutkan."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Soalnya... aku jadi gugup kalau bicara sama cowok...",
+          "voiceFile": "talk_male_experience_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Masa? Kamu tidak terlihat seperti itu bagiku."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "I-itu... mungkin karena... ini kamu, {{playerName}}-san...(berbisik)",
+          "voiceFile": "talk_male_experience_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Hm?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "T-tidak ada apa-apa...",
+          "voiceFile": "talk_male_experience_004"
+        }
+      ]
+    },
+    "talk_secret_habit": {
+      "topicName": "Kebiasaan Rahasia",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "Akhir-akhir ini, apa kamu mulai tertarik dengan hal-hal seksual?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa!? A-apa yang kamu bicarakan...?",
+          "voiceFile": "talk_secret_habit_001"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "Itu wajar di usiamu."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Y-yah... um... sedikit sih...",
+          "voiceFile": "talk_secret_habit_002"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "Hal-hal seperti apa yang bikin kamu tertarik?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Um... yah... aku baca manga... tapi aku tidak begitu mengerti...",
+          "voiceFile": "talk_secret_habit_003"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "Itu juga bagian dari proses belajar."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Tapi... itu menakutkan dan memalukan... tapi aku penasaran...",
+          "voiceFile": "talk_secret_habit_004"
+        }
+      ]
+    },
+    "talk_erotic_study": {
+      "topicName": "Belajar Hal Erotis",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Dari mana kamu belajar tentang hal-hal seksual?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "A-aku tidak mempelajarinya...!",
+          "voiceFile": "talk_erotic_study_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tapi tadi kamu bilang kamu tertarik."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Yah... um...",
+          "voiceFile": "talk_erotic_study_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Apa kamu menonton video di internet?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "K-kadang... aku baca manga shoujo...",
+          "voiceFile": "talk_erotic_study_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Jadi kamu terangsang dari adegan seksi di manga shoujo itu."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "A-aku tidak terangsang...! Itu cuma bikin jantungku berdebar...",
+          "voiceFile": "talk_erotic_study_004"
+        }
+      ]
+    },
+    "talk_bra_size_virgin": {
+      "topicName": "Ukuran Bra",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, payudaramu hampir tumpah keluar dari baju perawatan itu."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa...!?",
+          "voiceFile": "talk_bra_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Ukuran cup kamu berapa? Kelihatannya besar sekali."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Um... yah... cup H...",
+          "voiceFile": "talk_bra_size_virgen_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "Cup H!? (Pantas saja tidak muat di bikini mikro itu...)"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "(Aku bahkan bisa melihat putingnya...)"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "M-maaf... ukurannya tidak pas...",
+          "voiceFile": "talk_bra_size_virgen_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tidak apa-apa, kok. Tampilan yang meluap keluar itu malah terlihat se... maksudku, imut."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "?"
+        }
+      ]
+    },
+    "talk_bra_size_experienced": {
+      "topicName": "Ukuran Bra",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, payudaramu hampir tumpah keluar dari baju perawatan itu."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa...!?",
+          "voiceFile": "talk_bra_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Ukuran cup kamu berapa? Besar sekali."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Um... yah... cup I...",
+          "voiceFile": "talk_bra_size_experienced_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "Oh, cup I!? (Pantas saja bikini mikro tidak bisa menahannya...)"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "(Aku bisa melihat putingnya...)"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "M-maaf... mereka terus membesar...",
+          "voiceFile": "talk_bra_size_experienced_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tidak apa-apa, kok. Tampilan yang meluap keluar itu malah terlihat se... maksudku, imut."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "?"
+        }
+      ]
+    },
+    "talk_breast_sensitivity": {
+      "topicName": "Sensitivitas Payudara",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Payudara besar cenderung mengalami penyumbatan limfa. Mungkin lebih baik dipijat langsung."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "L-langsung...!?",
+          "voiceFile": "talk_breast_sensitivity_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Dengan cup I, putingmu pasti cukup sensitif juga, kan?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "K-kenapa kamu... tahu soal itu...",
+          "voiceFile": "talk_breast_sensitivity_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Dari pengalaman. Aku bisa lihat putingmu mengeras bahkan dari balik pakaianmu."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa...! M-mereka mengeras...!?",
+          "voiceFile": "talk_breast_sensitivity_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Iya, kaku sekali. Aku jadi penasaran apa yang terjadi kalau aku menyentuhnya."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "T-tolong berhenti... ini memalukan sekali...",
+          "voiceFile": "talk_breast_sensitivity_004"
+        }
+      ]
+    },
+    "talk_body_temperature": {
+      "topicName": "Suhu Tubuh Meningkat",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tubuhmu jadi panas sekali, Nana."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "Oh... benarkah...?",
+          "voiceFile": "talk_body_temperature_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Terutama tubuh bagian bawahmu. Apa darahnya terpusat di sana?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "T-tubuh bagian bawah...! Jangan bicara seperti itu...",
+          "voiceFile": "talk_body_temperature_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Wajahmu juga merah padam, dan seluruh tubuhmu memerah."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Memalukan sekali... tubuhku bereaksi sendiri...",
+          "voiceFile": "talk_body_temperature_003"
+        }
+      ]
+    },
+    "talk_butt_shape": {
+      "topicName": "Bentuk Bokong",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Pantatmu benar-benar kencang dan sintal, Nana."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Hah...! P-pantatku...?",
+          "voiceFile": "talk_butt_shape_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Bentuknya bagus dan kencang."
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "B-benarkah...?",
+          "voiceFile": "talk_butt_shape_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Saat aku menyentuhnya, rasanya kenyal dan lembut."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Hyah...! Jangan disentuh...!",
+          "voiceFile": "talk_butt_shape_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Belahannya juga dalam sekali. Sangat seksi."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Astaga... jangan lihat ke sana...",
+          "voiceFile": "talk_butt_shape_004"
+        }
+      ]
+    },
+    "talk_breast_bounce": {
+      "topicName": "Goyangan Payudara",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Payudaramu berguncang ke sana kemari selama perawatan tadi."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa...!? A-apa seguncang itu...?",
+          "voiceFile": "talk_breast_bounce_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Ukurannya I-cup. Sedikit gerakan saja sudah bikin mereka bergoyang."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Memalukan sekali... padahal aku sudah berusaha menahannya...",
+          "voiceFile": "talk_breast_bounce_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Aku bisa lihat putingmu ikut bergerak. Keras sekali."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Hyah...! Kamu memperhatikan itu juga...!?",
+          "voiceFile": "talk_breast_bounce_003"
+        }
+      ]
+    },
+    "talk_body_hair": {
+      "topicName": "Obrolan Soal Bulu Tubuh",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Ada sesuatu yang aku perhatikan."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Y-ya...?",
+          "voiceFile": "talk_body_hair_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Pakaian perawatan yang minim itu... aku bisa lihat kalau di bawah sana kamu benar-benar mulus."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Apa...! K-kamu bisa lihat...!?",
+          "voiceFile": "talk_body_hair_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Kamu tidak punya rambut. Apa kamu mencukurnya? Atau memang alami?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "I-itu alami... aku memang tidak punya rambut di sana...",
+          "voiceFile": "talk_body_hair_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Wow, seksi sekali. Aku penasaran bagaimana rasanya kalau disentuh."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Hyah...! J-jangan disentuh...!",
+          "voiceFile": "talk_body_hair_004"
+        }
+      ]
+    },
+    "talk_breathing_change": {
+      "topicName": "Perubahan Napas",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, napasmu mulai memburu."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa...!? T-tidak kok...",
+          "voiceFile": "talk_breathing_change_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Napasmu juga panas. Kamu jadi bergairah, kan?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "T-tidak...! Ini cuma karena panas...",
+          "voiceFile": "talk_breathing_change_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Kamu juga mengeluarkan erangan kecil. Aku bisa mendengarnya."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "I-itu...keluar begitu saja...aku tidak bisa menahannya...",
+          "voiceFile": "talk_breathing_change_003"
+        }
+      ]
+    },
+    "talk_twitch_reaction": {
+      "topicName": "Reaksi Kedutan",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tubuhmu gemetar setiap kali aku menyentuhmu. Apa kamu sepeka itu?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Hyah...! T-tidak juga...",
+          "voiceFile": "talk_twitch_reaction_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Seluruh tubuhmu bergetar saat aku menyentuh bagian dalam pahamu."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "T-tapi...itu geli...",
+          "voiceFile": "talk_twitch_reaction_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Bukan cuma geli, kan? Pinggulmu terangkat tuh."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Ugh...tubuhku bereaksi sendiri...",
+          "voiceFile": "talk_twitch_reaction_003"
+        }
+      ]
+    },
+    "talk_nipple_change": {
+      "topicName": "Perubahan Warna Puting",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Hah? Nana, bukannya warna putingmu berubah?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa!? M-mana mungkin...",
+          "voiceFile": "talk_nipple_change_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tadi warnanya merah muda cerah, tapi sekarang jadi lebih gelap."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Y-yah...um...",
+          "voiceFile": "talk_nipple_change_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Putingmu menegang. Kamu merasakannya, kan?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "T-tidak...! Itu cuma...perawatannya melancarkan aliran darah...",
+          "voiceFile": "talk_nipple_change_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Hmm, tapi ujungnya bengkak dan memerah begitu?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Astaga...! Jangan menatap terus...memalukan tahu...",
+          "voiceFile": "talk_nipple_change_004"
+        }
+      ]
+    },
+    "talk_voice_suppression": {
+      "topicName": "Penekanan Suara",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Kamu menggigit bibirmu. Apa kamu berusaha menahan suaramu?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa...! T-tidak juga...",
+          "voiceFile": "talk_voice_suppression_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Aku bisa lihat kamu berusaha keras menahannya sampai mengeluarkan suara \"Mmm! Mmm!\""
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "K-karena...memalukan kalau aku sampai mendesah...",
+          "voiceFile": "talk_voice_suppression_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Kamu tidak perlu menahannya. Aku ingin dengar suara manismu."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "T-tidak mau...aku tidak akan mengeluarkan suara...!",
+          "voiceFile": "talk_voice_suppression_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tapi suaranya sudah mau keluar dari tenggorokanmu, kan?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Ugh... aku sudah tidak tahan lagi...",
+          "voiceFile": "talk_voice_suppression_004"
+        }
+      ]
+    },
+    "talk_inner_thigh": {
+      "topicName": "Paha Bagian Dalam",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Paha bagian dalammu basah sekali. Ini bukan keringat, kan?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa...!? I-ini keringat... kurasa ini keringat...",
+          "voiceFile": "talk_inner_thigh_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tapi kelihatannya menetes dari atas?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "I-itu... um...",
+          "voiceFile": "talk_inner_thigh_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Terasa lengket saat disentuh. Ini cairan dari vaginamu, kan?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Ya ampun... jangan diucapkan... memalukan sekali...",
+          "voiceFile": "talk_inner_thigh_003"
+        }
+      ]
+    },
+    "talk_wet_easily": {
+      "topicName": "Mudah Basah",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, bagian selangkangan pakaian perawatanmu itu..."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa!? A-ada apa dengannya...?",
+          "voiceFile": "talk_wet_easily_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Basah, kan? Apa itu keringat?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "T-tidak...",
+          "voiceFile": "talk_wet_easily_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Apa kau merasakannya? Apa kau cepat basah?"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "...A-aku cepat basah... memalukan sekali...",
+          "voiceFile": "talk_wet_easily_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Wah, kau sensitif sekali. Tubuhmu seksi."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Ugh...",
+          "voiceFile": "talk_wet_easily_004"
+        }
+      ]
+    },
+    "talk_girl_smell": {
+      "topicName": "Aroma Gadis",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Kau wangi sekali, Nana."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Hah...!? A-aroma...?",
+          "voiceFile": "talk_girl_smell_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Aroma manis yang khas pada gadis. Katanya aromanya makin kuat saat kau terangsang."
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Terutama di sekitar selangkanganmu... mungkin karena kau basah?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "I-itu bukan...!",
+          "voiceFile": "talk_girl_smell_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tapi aku tidak membencinya. Justru itu membuatku bergairah."
+        }
+      ]
+    },
+    "talk_clit_size": {
+      "topicName": "Ukuran Klitoris",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, pakaian perawatanmu tipis sekali sampai aku bisa melihat bentuknya..."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Hah...!? B-bentuk apa...?",
+          "voiceFile": "talk_clit_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Klitorismu cukup besar. Kelihatan bengkak sekali."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Hyah...! J-jangan lihat ke sana...",
+          "voiceFile": "talk_clit_size_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Sudah berkembang banget ya. Kelihatannya sensitif. Kamu suka menyentuh dirimu sendiri di situ?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "A-aku tidak...",
+          "voiceFile": "talk_clit_size_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tapi sekarang lagi berkedut, kan? Kelihatannya sensitif sekali."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Ya ampun... ini memalukan sekali...",
+          "voiceFile": "talk_clit_size_004"
+        }
+      ]
+    },
+    "talk_pussy_shape": {
+      "topicName": "Bentuk Vagina",
+      "trustEffect": 0,
+      "developEffect": 9,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Vaginamu bentuknya bagus sekali, Nana."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa...!?",
+          "voiceFile": "talk_pussy_shape_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Aku bisa melihat celahnya dengan jelas. Kelihatannya sangat rapat."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "K-kamu bisa melihatnya...!? Jangan... itu memalukan...",
+          "voiceFile": "talk_pussy_shape_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Bibir vaginamu kecil dan warnanya merah muda yang lucu."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Ugh... jangan dilihat...!",
+          "voiceFile": "talk_pussy_shape_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tapi lubangnya berkedut. Kelihatannya seperti sedang menginginkan sesuatu."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "T-tidak...! Bukan begitu kok...",
+          "voiceFile": "talk_pussy_shape_004"
+        }
+      ]
+    },
+    "talk_love_juice": {
+      "topicName": "Jumlah Cairan Pelumas",
+      "trustEffect": 0,
+      "developEffect": 10,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Nana, ada noda di pakaian perawatanmu."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa...!? N-noda...?",
+          "voiceFile": "talk_love_juice_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Kamu mengeluarkan banyak sekali cairan vagina. Semuanya jadi licin."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "C-cairan vagina...! Tidak... tidak ada apa-apa...!",
+          "voiceFile": "talk_love_juice_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Aku bisa melihatnya membentuk benang-benang. Kamu cepat sekali basah ya."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Ugh... ini tubuhku... aku memang cepat sekali basah...",
+          "voiceFile": "talk_love_juice_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Vaginamu mengeluarkan suara basah. Tubuh yang nakal sekali."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "T-tolong berhenti...! Aku malu sekali sampai rasanya mau mati...",
+          "voiceFile": "talk_love_juice_004"
+        }
+      ]
+    },
+    "talk_anal": {
+      "topicName": "Warna Anus",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Aku lihat saat kamu berbaring tengkurap, lubang pantatmu juga berwarna merah muda yang cantik."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa!? L-lubang pantatku...! Kamu melihatnya!?",
+          "voiceFile": "talk_anal_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Sangat rapat dan bentuknya indah sekali."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "B-bahkan di situ juga... memalukan sekali...!",
+          "voiceFile": "talk_anal_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Tapi itu terus berkedut. Bergerak saat kamu terangsang, ya?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "T-tidak bergerak...! Tolong jangan dilihat...!",
+          "voiceFile": "talk_anal_003"
+        }
+      ]
+    },
+    "talk_masturbation": {
+      "topicName": "Tentang Masturbasi",
+      "trustEffect": 0,
+      "developEffect": 9,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Kamu biasanya gimana kalau lagi sendirian?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Apa!? S-sendirian... kamu ngomongin apa sih...?",
+          "voiceFile": "talk_musturbation_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Masturbasi. Bagian mana yang kamu sentuh?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Itu... memalukan banget...",
+          "voiceFile": "talk_musturbation_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Klitorismu? Atau kamu masukin jari ke dalam?"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "..."
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "Y-yah... bagian atasnya... cuma sedikit...",
+          "voiceFile": "talk_musturbation_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Begitu ya, kamu tipe yang suka di klitoris. Berapa lama sampai kamu klimaks?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Ya ampun...! Jangan tanya hal kayak gitu...",
+          "voiceFile": "talk_musturbation_004"
+        }
+      ]
+    },
+    "talk_health_exam_experience": {
+      "topicName": "Pengalaman Pertama saat Pemeriksaan Kesehatan",
+      "trustEffect": 2,
+      "developEffect": 5,
+      "alertnessEffect": -6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Pemeriksaan kesehatan terakhir kemarin cukup intens, ya?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "I-iya... mereka melakukan banyak hal...",
+          "voiceFile": "talk_health_exam_experience_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Meskipun itu pertama kalinya buatmu, kamu merasa enak?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Awalnya aku nggak suka tapi... tubuhku malah...",
+          "voiceFile": "talk_health_exam_experience_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Mereka mengambil keperawananmu, kan?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Itu kan buat pemeriksaan jadi mau gimana lagi... tapi...",
+          "voiceFile": "talk_health_exam_experience_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa tubuhmu jadi lebih sensitif sejak saat itu?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Iya... aku merasa aneh sejak saat itu...",
+          "voiceFile": "talk_health_exam_experience_004"
+        }
+      ]
+    },
+    "talk_developed_sensitive": {
+      "topicName": "Tubuh yang Sensitif",
+      "trustEffect": 1,
+      "developEffect": 6,
+      "alertnessEffect": -7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Sejak pemeriksaan kesehatan itu, bagian mana yang jadi paling sensitif?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Putingku dan... bagian bawah sana...",
+          "voiceFile": "talk_developed_sensitive_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bisa ceritakan lebih detail?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Pas disentuh, aku langsung gemetar...",
+          "voiceFile": "talk_developed_sensitive_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu juga jadi lebih gampang basah?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Iya... langsung... memalukan banget...",
+          "voiceFile": "talk_developed_sensitive_003"
+        }
+      ]
+    },
+    "talk_virgin_anxiety_curiosity": {
+      "topicName": "Perasaan Tentang Pengalaman Pertama",
+      "trustEffect": 2,
+      "developEffect": 4,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Apa kamu tertarik dengan hal-hal seksual?"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "M-mana mungkin...! Tapi...",
+          "voiceFile": "talk_virgen_anxiety_curiosity_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Kamu takut? Atau penasaran?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Keduanya... aku takut, tapi aku ingin tahu...",
+          "voiceFile": "talk_virgen_anxiety_curiosity_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bagaimana kamu ingin itu dilakukan?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Dengan lembut... aku ingin itu dilakukan dengan lembut...",
+          "voiceFile": "talk_virgen_anxiety_curiosity_003"
+        }
+      ]
+    },
+    "talk_virgin_pure_body": {
+      "topicName": "Reaksi Tubuh yang Belum Berpengalaman",
+      "trustEffect": 1,
+      "developEffect": 5,
+      "alertnessEffect": -6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Tubuh seorang perawan konon sangat sensitif."
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "Benarkah begitu...?",
+          "voiceFile": "talk_virgen_pure_body_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Bukankah akhir-akhir ini kamu juga jadi lebih sensitif, Nana?"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Saat dipijat... aku merasa aneh...",
+          "voiceFile": "talk_virgen_pure_body_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "Itu normal. Itu bukti kemurnianmu."
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "Benarkah...? Syukurlah kalau begitu...",
+          "voiceFile": "talk_virgen_pure_body_003"
+        }
+      ]
+    }
+  }
+}

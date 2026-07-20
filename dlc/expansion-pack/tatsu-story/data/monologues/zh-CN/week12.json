@@ -1,0 +1,50 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐走了之后……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（第12周……3个月过去了。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（预约前2小时就在店门口徘徊了……还挺可爱的嘛。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（她说'在你面前可以放松下来'。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（高利贷的老板，只在我面前展露脆弱的一面……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（'以后也拜托你了'……吗。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（到了借款的还款期限。这3个月的成果将接受考验。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……不能留下遗憾。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那么，接下来该怎么办……）"
+    }
+  ]
+}

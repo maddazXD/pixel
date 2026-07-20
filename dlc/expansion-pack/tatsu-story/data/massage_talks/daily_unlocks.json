@@ -1,0 +1,169 @@
+{
+  "weeks": {
+    "week1": {
+      "trust_1": {
+        "minLevel": 1,
+        "topics": [
+          {
+            "topicId": "talk_first_time",
+            "priority": 5,
+            "oneTimeOnly": true
+          },
+          {
+            "topicId": "talk_weather",
+            "priority": 3,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_stiff",
+            "priority": 2,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week2": {
+      "trust_2": {
+        "minLevel": 2,
+        "topics": [
+          {
+            "topicId": "talk_sleep",
+            "priority": 3,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week3": {
+      "trust_3": {
+        "minLevel": 3,
+        "topics": [
+          {
+            "topicId": "talk_work",
+            "priority": 4,
+            "oneTimeOnly": true
+          }
+        ]
+      }
+    },
+    "week4": {
+      "trust_4": {
+        "minLevel": 4,
+        "topics": [
+          {
+            "topicId": "talk_massage_effect",
+            "priority": 4,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week5": {
+      "trust_4": {
+        "minLevel": 4,
+        "topics": [
+          {
+            "topicId": "talk_liricure",
+            "priority": 5,
+            "oneTimeOnly": true
+          }
+        ]
+      }
+    },
+    "week6": {
+      "trust_5": {
+        "minLevel": 5,
+        "topics": [
+          {
+            "topicId": "talk_food",
+            "priority": 3,
+            "oneTimeOnly": false
+          },
+          {
+            "topicId": "talk_marriage",
+            "priority": 6,
+            "oneTimeOnly": true,
+            "requiredEvents": ["heard_talk_liricure"]
+          }
+        ]
+      }
+    },
+    "week7": {
+      "trust_5": {
+        "minLevel": 5,
+        "topics": [
+          {
+            "topicId": "talk_holiday",
+            "priority": 3,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week8": {
+      "trust_6": {
+        "minLevel": 6,
+        "topics": [
+          {
+            "topicId": "talk_name",
+            "priority": 7,
+            "oneTimeOnly": true
+          }
+        ]
+      }
+    },
+    "week9": {
+      "trust_7": {
+        "minLevel": 7,
+        "topics": [
+          {
+            "topicId": "talk_scent",
+            "priority": 4,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week10": {
+      "trust_8": {
+        "minLevel": 8,
+        "topics": [
+          {
+            "topicId": "talk_betrayal",
+            "priority": 10,
+            "oneTimeOnly": true
+          },
+          {
+            "topicId": "talk_looking_back",
+            "priority": 5,
+            "oneTimeOnly": false
+          }
+        ]
+      }
+    },
+    "week11": {
+      "trust_9": {
+        "minLevel": 9,
+        "topics": [
+          {
+            "topicId": "talk_reason",
+            "priority": 8,
+            "oneTimeOnly": true
+          }
+        ]
+      }
+    },
+    "week12": {
+      "trust_9": {
+        "minLevel": 9,
+        "topics": [
+          {
+            "topicId": "talk_future",
+            "priority": 10,
+            "oneTimeOnly": true
+          }
+        ]
+      }
+    }
+  }
+}

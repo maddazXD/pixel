@@ -1,0 +1,16 @@
+{
+  "dialogues": [
+    {
+      "id": "greeting",
+      "character": "店員",
+      "expression": "smile",
+      "text": "いらっしゃいませ♡　何かお探しでしょうか？"
+    },
+    {
+      "id": "after_greeting",
+      "character": "店員",
+      "expression": "normal",
+      "text": "気になる商品があったら、お気軽にお声かけくださいね♡"
+    }
+  ]
+}

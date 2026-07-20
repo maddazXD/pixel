@@ -1,0 +1,275 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Pagi di minggu kedua setelah pembukaan. Melihat tumpukan tagihan yang diselipkan diam-diam ke dalam kotak surat sejak minggu lalu, kepalaku jadi pening."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "Wah... ini..."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Uangku tinggal sedikit sekali... Dan sejauh ini, baru ada satu pasien.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tapi aku tahu—kegigihan adalah kunci. Ombak tidak akan pernah mengkhianatimu. Begitu kata guruku dulu.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(......Tapi jujur saja, saat ini aku lebih butuh uang tunai daripada ombak......)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Halo. Aku... datang lagi...",
+      "voiceFile": "story_day2_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "......Selamat datang. Aku senang sekali. Kedatanganmu hari ini... benar-benar menyelamatkanku."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Uh, um... tidak seheboh itu juga kok...",
+      "voiceFile": "story_day2_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "Pijatan yang kamu berikan minggu lalu rasanya enak sekali... Bahuku jadi terasa lebih ringan.",
+      "voiceFile": "story_day2_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Tapi... pakaian itu masih terasa agak memalukan...",
+      "voiceFile": "story_day2_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Begitu ya. Tapi itu terlihat cocok untukmu. Santai saja dan nikmati waktumu hari ini juga."
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Jadi, bagaimana perasaan tubuhmu hari ini? Ada yang mengganggumu?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Yah... akhir-akhir ini, kakiku sering kesemutan... Kurasa mungkin karena bengkak...",
+      "voiceFile": "story_day2_005"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Aku terlalu lama duduk belakangan ini... Betis dan area bokongku terasa agak berat...",
+      "voiceFile": "story_day2_006"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Kaki bengkak, ya. Kalau begitu, mari kita coba perawatan dengan posisi tengkurap hari ini."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Tengkurap... maksudnya?",
+      "voiceFile": "story_day2_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Iya. Saat kamu tengkurap, lebih mudah untuk memijat bagian belakang kaki dan otot bokongmu. Itu juga membantu melancarkan sirkulasi darah."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "B-begitu ya... Tapi dalam posisi itu... bokongku akan... jadi lebih terlihat...",
+      "voiceFile": "story_day2_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Tidak apa-apa. Aku akan menanganimu secara profesional dan benar, jadi jangan khawatir."
+    },
+    {
+      "id": "choice_massage2",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Baiklah kalau begitu, mari kita mulai kalau kamu sudah siap.",
+      "choices": [
+        {
+          "label": "Duduk terlalu lama benar-benar menghambat aliran darah",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "serious_path"
+        },
+        {
+          "label": "Bokongmu lucu",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "cute_butt_path"
+        },
+        {
+          "label": "Boleh aku sentuh untuk memeriksanya?",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "touch_path"
+        }
+      ]
+    },
+    {
+      "id": "serious_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "Ya... aku memang merasa postur tubuhku agak buruk belakangan ini...",
+      "voiceFile": "story_day2_009"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Kebiasaan-kebiasaan kecil itu menumpuk dan akan terlihat pada tubuhmu.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "cute_butt_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "L-lucu...!? J-jangan bilang hal seperti itu tiba-tiba...!",
+      "voiceFile": "story_day2_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ah, maaf. Itu tadi jujur dari hatiku. Maksudku itu pujian, kok.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "touch_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Hah...!?",
+      "voiceFile": "story_day2_011",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Hmm. Begitu ya...",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "E-em...?",
+      "voiceFile": "story_day2_012",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Ini namanya gluteus maximus. Sebenarnya ini otot terbesar di tubuh manusia.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Kalau kamu duduk terlalu lama, otot ini jadi kaku dan aliran darah jadi tidak lancar.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "Hyah...! E-em... tapi...!",
+      "voiceFile": "story_day2_013",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Kebanyakan nyeri punggung bawah itu sebenarnya disebabkan oleh otot bokong. Kalau tidak dilenturkan, susah buat sembuh.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "O-oh begitu... Aku baru tahu...",
+      "voiceFile": "story_day2_014",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Iya, ini kaku sekali. Pantas saja kakimu bengkak. Ayo kita coba lenturkan pelan-pelan.",
+      "cutInImage": "nana_butt_massage"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "I-iya... Sebenarnya, tubuhku terasa lebih hangat dari sebelumnya... Apa itu artinya aliran darahku membaik...?",
+      "voiceFile": "story_day2_015",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "Baiklah, silakan ganti baju perawatanmu lagi hari ini."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "O-oke...",
+      "voiceFile": "story_day2_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(Lagi... aku harus pakai baju yang memalukan itu...)",
+      "voiceFile": "story_day2_017",
+      "cutInImage": "nana_changing"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "......",
+      "voiceFile": "story_day2_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "Aku sudah ganti baju...",
+      "voiceFile": "story_day2_019",
+      "outfit": "micro_bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "Bagus, kalau begitu mari kita mulai perawatannya."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나짱이 돌아갔어...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(4주차... 요즘 치료할 때 정말 편안해진 것 같아)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(오늘 치료 중에, 정말 솔직한 반응을 보였어)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(\"선생님... 거기...\"라고 말하면서 몸은 솔직하게 반응하고)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(신뢰 관계도 쌓였으니, 다음 단계로 넘어갈 때가 된 것 같아)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(더 깊은 부위의 치료가 필요할지도...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그럼, 이번 주는 뭘 할까...)"
+    }
+  ]
+}

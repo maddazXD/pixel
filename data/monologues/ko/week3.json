@@ -1,0 +1,51 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(3주차... 시간 정말 빠르네...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나나짱은 요즘 훨씬 편안해 보여)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(나를 믿어주는 걸까...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(솔직히, 나... 나나짱 오는 걸 기대하기 시작했어...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(아니, 안 돼! 고객과 치료사의 관계를 잊으면 안 돼!)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(하지만... 상환 기한은 기다려주지 않아...)",
+      "cutInImage": "debt_paper"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(이대로라면 못 갚을지도...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(새 고객도 안 오고, 광고할 돈도 없고...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(이번 주도 최선을 다할 수밖에...)"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "title": "Pelatihan Khusus Master - Tahap 1: Titik Akupunktur Kaki",
+  "intro": {
+    "dialogues": [
+      {
+        "character": "Master",
+        "text": "Baiklah kalau begitu... hari ini adalah awal dari pelatihanmu."
+      },
+      {
+        "character": "Master",
+        "text": "Dasar dari olah tubuh adalah memahami meridian. Kau sadar akan hal itu, bukan?"
+      },
+      {
+        "character": "player",
+        "text": "Ya, Guru."
+      },
+      {
+        "character": "Master",
+        "text": "Mm. Di antara semua bagian, telapak kaki adalah tempat di mana meridian seluruh tubuh bertemu - area yang sangat vital."
+      },
+      {
+        "character": "Master",
+        "text": "Ada lebih dari enam puluh titik akupunktur yang dikenal sebagai zona refleks... kuasai ini, dan tidak berlebihan jika dikatakan kau bisa mengendalikan seluruh tubuh."
+      },
+      {
+        "character": "Master",
+        "text": "Namun, belajar dari buku saja tidak akan cukup."
+      },
+      {
+        "character": "Master",
+        "text": "...Hanya melalui praktik, barulah hal itu bisa tercapai."
+      },
+      {
+        "character": "player",
+        "text": "Praktik... maksudnya?"
+      },
+      {
+        "character": "Master",
+        "text": "Akulah yang akan membiarkanmu berlatih pada tubuhku. Bersyukurlah."
+      },
+      {
+        "character": "Master",
+        "text": "Ayo sekarang. Mulailah dengan memastikan posisi titik-titik akupunktur menggunakan kakiku."
+      }
+    ]
+  },
+  "climax": {
+    "image": "images/live2devent/shishou_1_climax.png",
+    "afterImage": "images/live2devent/shishou_1_climax_after.png",
+    "dialogueDelay": 600,
+    "pulseDuration": 2500,
+    "dialogues": [
+      {
+        "character": "Master",
+        "text": "Ngh... ah, ahhh... t-tidak... meridian di telapak kakiku... semuanya... terhubung..."
+      },
+      {
+        "character": "Master",
+        "text": "Titik-titik akupunktur itu... mengalir... ke seluruh tubuhku..."
+      },
+      {
+        "character": "Master",
+        "text": "S-Sejak menjadi tubuh ini... sensasi di kakiku tak tertandingi dibandingkan saat aku masih pria...!",
+        "textWoman": "Ah...♡ Tubuh yang diremajakan ini...♡ Indra-indranya begitu tajam... aku tidak bisa menahan...♡"
+      },
+      {
+        "character": "Master",
+        "text": "Aku adalah... sang Guru...! Hanya dengan digosok menggunakan kakiku..."
+      },
+      {
+        "character": "Master",
+        "text": "Tidak mungkin aku akan klimaks dari---"
+      },
+      {
+        "character": "Master",
+        "text": "---NNNGH!!!"
+      },
+      {
+        "character": "Master",
+        "text": "A-AKU KLIMAAAKS...!!!"
+      },
+      {
+        "character": "Master",
+        "text": "Hah... haah... hah..."
+      },
+      {
+        "character": "player",
+        "text": "............",
+        "image": "images/live2devent/shishou_1_climax_after.png"
+      },
+      {
+        "character": "Master",
+        "text": "......ehem."
+      },
+      {
+        "character": "Master",
+        "text": "...I-Itu tadi, kau tahu..."
+      },
+      {
+        "character": "Master",
+        "text": "Ketika zona refleks di telapak kaki aktif dalam reaksi berantai... respons seperti ini juga bisa terjadi pada pihak praktisi... itu tadi hanyalah demonstrasi."
+      },
+      {
+        "character": "Master",
+        "text": "...A-Apa? Jika kau mengerti, maka jawab aku!"
+      },
+      {
+        "character": "player",
+        "text": "(Dia jelas baru saja klimaks... dan itu dari kakinya, tidak kurang dari itu...)"
+      },
+      {
+        "character": "player",
+        "text": "...Ya. Itu sangat mendidik, Guru."
+      },
+      {
+        "character": "Master",
+        "text": "Hmph... akan kuberi kau hadiah. Semacam aplikasi tingkat lanjut dari titik akupunktur kaki."
+      },
+      {
+        "character": "player",
+        "text": "Hah...?"
+      }
+    ],
+    "afterDialogues": [
+      {
+        "character": "Master",
+        "text": "Ini juga bagian dari pelatihan... Akan kuajarkan padamu sensasi dari kaki.",
+        "image": "images/live2devent/shishou_1_footjob.png"
+      },
+      {
+        "character": "Master",
+        "text": "Hmph... triknya adalah menyebarkan tekanan ke seluruh telapak kaki seperti ini."
+      },
+      {
+        "character": "Master",
+        "text": "Menggunakan lengkungan kaki... untuk melilitnya, seperti ini..."
+      },
+      {
+        "character": "player",
+        "text": "Ngh... Tuan, Anda hebat sekali dalam hal ini..."
+      },
+      {
+        "character": "Master",
+        "text": "Tentu saja. Sadarilah posisimu saat berbicara denganku."
+      },
+      {
+        "character": "Master",
+        "text": "Menggunakan bantalan jari kaki untuk menggulung ujungnya seperti ini..."
+      },
+      {
+        "character": "Master",
+        "text": "...ngh."
+      },
+      {
+        "character": "player",
+        "text": "...Tuan?"
+      },
+      {
+        "character": "Master",
+        "text": "...Bukan apa-apa. Mari kita lanjutkan."
+      },
+      {
+        "character": "Master",
+        "text": "Mm..."
+      },
+      {
+        "character": "player",
+        "text": "(...Tunggu. Apakah kaki Tuan gemetar sedikit dari tadi?)"
+      },
+      {
+        "character": "Master",
+        "text": "S-Sekarang, ini bagian yang penting... menggunakan zona refleks telapak kaki untuk memvariasikan tekanan..."
+      },
+      {
+        "character": "Master",
+        "text": "Ungh...!"
+      },
+      {
+        "character": "player",
+        "text": "Tuan, kaki Anda gemetar..."
+      },
+      {
+        "character": "Master",
+        "text": "D-Diam...! Milikmu... itu terlalu keras...! Itu menekan tepat ke titik akupunktur telapak kakiku...!"
+      },
+      {
+        "character": "Master",
+        "text": "B-Bagaimana bisa... hanya dengan menyentuhnya pakai kakiku, sampai begini...! Saat aku masih laki-laki, aku tidak pernah merasakan hal seperti ini...!",
+        "textWoman": "Ngh... tubuh muda ini... terlalu sensitif...♡ Ini bergetar dari telapak kakiku ke seluruh tubuhku... tak tertahankan...♡"
+      },
+      {
+        "character": "player",
+        "text": "Eh, titik akupunktur?"
+      },
+      {
+        "character": "Master",
+        "text": "Bukankah sudah kubilang kalau meridian seluruh tubuh berpusat di telapak kaki...!"
+      },
+      {
+        "character": "Master",
+        "text": "Saat aku memberikan tekanan seperti ini... reaksinya menstimulasi titik akupunkturku sendiri juga... itu hal yang wajar...!"
+      },
+      {
+        "character": "player",
+        "text": "(Semua yang dia katakan malah berbalik menyiksanya...)"
+      },
+      {
+        "character": "Master",
+        "text": "Ahh... ah... k-kau bodoh... tidak bisakah kau membuatnya... sedikit lebih lembut...!"
+      },
+      {
+        "character": "player",
+        "text": "Itu tidak mungkin bisa dilakukan..."
+      },
+      {
+        "character": "Master",
+        "text": "Ngh...! Titik Yongquan... kontak langsung...!"
+      },
+      {
+        "character": "Master",
+        "text": "I-Ini latihan... bagian dari latihan... telapak kaki yang bereaksi itu... sangat wajar...!"
+      },
+      {
+        "character": "player",
+        "text": "Ngh...! Tuan... aku... sudah di batas kemampuanku...!",
+        "image": "images/live2devent/shishou_1_ejaculation.png"
+      },
+      {
+        "character": "Master",
+        "text": "...Hmph. Inilah esensi sebenarnya dari titik akupunktur kaki...!"
+      },
+      {
+        "character": "Master",
+        "text": "...I-Ini tadi latihan, mengerti...! Jangan salah paham...!"
+      },
+      {
+        "character": "player",
+        "text": "............"
+      },
+      {
+        "character": "player",
+        "text": "(Itu tadi luar biasa... hanya dengan kakinya saja...)"
+      },
+      {
+        "character": "player",
+        "text": "(Latihan Tuan memang tidak bisa diremehkan... aku jadi tidak sabar menunggu yang berikutnya.)",
+        "image": "images/live2devent/shishou_1_footjob.png"
+      }
+    ]
+  },
+  "outro": {
+    "dialogues": [
+      {
+        "character": "Master",
+        "text": "...Hmph. Yah, untuk hari pertama, lumayanlah."
+      },
+      {
+        "character": "Master",
+        "text": "Kau sepertinya sudah hafal posisi titik-titik akupunktur kaki... dan kendali tekananmu... tidak terlalu buruk."
+      },
+      {
+        "character": "Master",
+        "text": "...Seminar berikutnya juga akan melibatkan praktik langsung pada tubuhku."
+      },
+      {
+        "character": "Master",
+        "text": "J-Jangan sampai absen. ...Kau harus datang, tanpa terkecuali."
+      },
+      {
+        "character": "Master",
+        "text": "B-Bukan berarti... aku menantikan perkembanganmu atau semacamnya...!"
+      }
+    ]
+  }
+}

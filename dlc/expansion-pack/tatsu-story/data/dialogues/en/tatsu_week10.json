@@ -1,0 +1,711 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Pagi Minggu ke-10. Tubuh Tatsu-nee sudah mencapai titik di mana dia tidak bisa lagi merasa puas tanpa perawatan itu."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Sepuluh minggu... Tatsu-nee benar-benar bergantung padaku sekarang. Ini sempurna...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Kira-kira reaksi seperti apa yang akan dia tunjukkan hari ini...?)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Berkat dia, basis klienku jadi stabil... Semua ini berkat Tatsu-nee.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Yo.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Tatsu-nee! ...Eh, wajahmu kelihatan agak... berbeda hari ini."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "...! Bukan apa-apa. Jangan dipikirkan.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Tapi wajahmu merah sekali..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Tadi di luar cuma lagi panas saja.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Itu jelas bohong... Dia sudah terangsang cuma dengan memikirkan perawatannya...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Kamu baik-baik saja? Sini, biar kulihat lebih dekat."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Terapis mendekat ke arah Tatsu-nee."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "...! Jangan terlalu dekat...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "Hah? Ada apa?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Kalau kamu terlalu dekat... itu, um...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Kalau aku dekat...?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Aromamu...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "Aromaku...? Kenapa dengan aromaku?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Tubuhku mengingatnya...! Aroma tubuhmu...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Ya...! Dia sudah hafal aroma tubuhku...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Cuma dengan mengingat aroma itu... tubuhku... jadi panas sekali...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Aromaku membuat tubuhmu bereaksi?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Bereaksi...! Kamu membuatku terdengar seperti jalang yang sedang birahi...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Jalang yang sedang birahi...! Kata-kata itu keluar dari mulut Tatsu-nee...! Luar biasa...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Bahkan saat kerja... kalau aku tiba-tiba teringat aroma tubuhmu... di bawah sana...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Di bawah sana...?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Aku jadi basah...! Aku langsung basah kuyup...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Basah kuyup...! Tatsu-nee bilang sesuatu yang begitu mesum...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Belakangan ini aku jadi selalu bawa celana dalam cadangan...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "Celana dalam cadangan!?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Aku harus menggantinya berkali-kali sehari...! Setiap kali aku teringat aroma tubuhmu...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Ini luar biasa... sangat merangsang...! Sampai basah berkali-kali sehari...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Itu... benar-benar reaksi feromon."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "Feromon!? Apa-apaan itu!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Itu adalah komponen aroma yang dihasilkan hewan untuk menarik lawan jenis. Tubuhmu sudah sepenuhnya merespons feromonku, Tatsu-nee."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! Kalau begitu, aku benar-benar jalang...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Jalang...! Tatsu-nee menyebut dirinya sendiri begitu...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Makanya saat aku masuk ke sini tadi... aku sudah... tamat...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Sudah tamat, maksudnya...?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Celana dalamku... sudah basah... cuma gara-gara mencium aromamu...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Sempurna...! Sudah basah kuyup cuma karena aromaku...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Kalau begitu hari ini, aku akan memastikanmu puas dengan aromaku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "Hah!? Biarkan aku menciumnya...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "Ayo, tubuhmu menginginkannya, kan? Aromaku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! ...Yah... iya, tapi...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Hari ini aku akan memanjakanmu dari jarak dekat. Nikmatilah aromaku sepuas hatimu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...! ...Dasar bodoh...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Hehe... Dia benar-benar sudah jadi jalang yang birahi karena aromaku...)",
+      "hideCharacter": true
+    },
+    {
+      "id": "choice_massage10",
+      "character": "player",
+      "expression": "shy",
+      "text": "(Apa yang harus kukatakan di sini...)",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "Tidak apa-apa, itu hal yang sangat wajar",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "gentle_path"
+        },
+        {
+          "label": "Kamu benar-benar bereaksi terhadap feromonku.",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "pheromone_path"
+        },
+        {
+          "label": "Kamu persis seperti anjing betina yang sedang birahi.",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "bitch_path"
+        }
+      ]
+    },
+    {
+      "id": "gentle_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "Tidak apa-apa. Ini cuma respons alami tubuh."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Alami, ya... Yah, kalau kamu bilang begitu...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Itu artinya tubuhmu memang sangat menginginkan perawatanku.",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "pheromone_path",
+      "character": "player",
+      "expression": "smile",
+      "text": "Kamu benar-benar bereaksi terhadap feromonku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "Feromon...?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Itu zat aroma yang dihasilkan hewan untuk menarik lawan jenis. Tubuhmu sudah sepenuhnya responsif terhadap feromonku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! Hewan, katamu...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Tapi itu justru menunjukkan betapa jujurnya tubuhmu sekarang."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Terlalu jujur sampai-sampai menyusahkanku...",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "bitch_path",
+      "character": "player",
+      "expression": "shy",
+      "text": "Kamu persis seperti anjing betina yang sedang birahi."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Hah!? Anjing betina!? Jangan main-main denganku!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Tapi itu benar, kan? Kamu langsung basah kuyup cuma karena mencium aromaku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! Itu...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "Kamu harus ganti celana dalam berkali-kali sehari, kan? Setiap kali kamu teringat aromaku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...! ...Iya, tapi...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Itu persis seperti anjing betina yang birahi karena aroma tuannya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...! Tuan...! Aku bukan peliharaanmu!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Kalau begitu, mau kita lewatkan saja perawatan hari ini?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "alert",
+      "text": "...! H-Hei!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Maksudku, kamu bukan anjing betina, kan? Kalau begitu kamu seharusnya tidak butuh aroma atau perawatanku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! Itu...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Atau... kamu sebenarnya menginginkannya? Perawatanku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...! ...Aku menginginkannya...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "Kalau begitu akui dengan benar. Kau ini apa, Tatsu-nee?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! ...Anjing betina...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Jalang siapa?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...! ...Anjing betina... milikmu...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "Sebutkan lebih jelas. Apa yang terjadi saat kamu mencium aromaku?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! ...Aku basah...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Di mana kamu basah? Katakan dengan benar."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...! ...Vaginaku...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Ya...! Kata 'vagina' keluar dari mulut Tatsu-nee...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Katakan lebih jelas lagi. Semuanya yang terjadi saat kamu mencium aromaku."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! ...Saat aku mencium aromamu... vaginaku... jadi basah kuyup...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Itu belum cukup. Bagaimana dengan klitorismu?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...! A-Aku tidak bisa mengatakannya...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "Kalau kau tidak bisa mengatakannya, tidak ada perawatan hari ini."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! ...Klitorisku... jadi... keras...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Luar biasa...! Tatsu-nee mengucapkan hal-hal kotor seperti itu...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Sekarang satukan semuanya. Apa yang terjadi saat kau mencium aromaku?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...! ...Saat aku mencium aromamu... vaginaku jadi basah menetes... dan klitorisku jadi keras sekali...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Sempurna...! Pengakuan yang sangat kotor dari Tatsu-nee...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Satu hal terakhir. Kamu ini apa, Tatsu-nee?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! ...Aku... jalang... yang jadi birahi... karena aromamu...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Luar biasa...! Aku benar-benar menghancurkannya dengan kata-kata kotor...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Anak pintar. Sekarang hari ini, aku akan memanjakan jalang kecilku, Tatsu-nee, sepuas hatiku.",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "normal",
+      "text": "Baiklah, silakan ganti pakaianmu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Ya.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "Tatsu-nee mulai berganti pakaian.",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "(...Sial, celana dalamku sudah basah kuyup...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Ruangan ini... dipenuhi dengan aromanya...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "(...Setiap napas yang kuambil... aromanya memenuhiku... dan vaginaku berdenyut...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Napas Tatsu-nee mulai berat... Dia benar-benar birahi hanya karena aroma ruangan ini...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Klitorisku... juga sudah keras sekali... hanya karena mencium aromanya...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "(...Dia memanggilku jalang, tapi... mungkin dia benar... hanya karena aromanya saja, aku jadi begini...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Sempurna... Dia tidak bisa hidup tanpa aromaku lagi...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Aku sudah selesai berganti pakaian.",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Wah... cairan cintanya menetes ke pahanya... hanya karena aroma ruangan ini saja...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Jangan dilihat...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Kamu basah cuma gara-gara mencium aroma ruangan ini?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...! ...Aromamu... memenuhi seluruh ruangan ini... Aku tidak bisa menahannya lagi...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Kamu benar-benar suka aroma tubuhku sampai segitunya?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...! ...Bukan berarti aku menyukainya... tubuhku hanya... bereaksi sendiri...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Sempurna... Dia benar-benar terbuai oleh aromaku...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "embarrassed",
+      "text": "...Cepat... perawatannya... tolong... aku... sudah di batas kemampuanku...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "Kamu benar-benar tidak bisa menahannya, ya? Lucu sekali."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Jangan panggil aku lucu...! Cepatlah...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(Dia benar-benar sedang birahi... Aku akan memanjakannya habis-habisan hari ini...)",
+      "hideCharacter": true
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "Kalau begitu hari ini, aku akan merawatmu dengan sangat dekat. Hiruplah aromaku sepuasnya."
+    }
+  ]
+}

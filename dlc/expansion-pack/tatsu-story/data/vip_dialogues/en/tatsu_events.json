@@ -1,0 +1,414 @@
+{
+  "full_repaid": {
+    "title": "Perayaan Pelunasan Hutang Penuh - Perjalanan ke Pemandian Air Panas",
+    "dialogues": [
+      {
+        "character": "Tatsu-nee",
+        "text": "......Aku akan memandikanmu. Seluruh tubuhmu.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Tunggu, itu--",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Pembalasan. Duduk diam dan jangan banyak bicara.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aku akan memandikanmu dengan tubuhku sendiri.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "......Maksudnya sama saja?",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "(Ini cuma pembalasan......ini hanya pembalasan......!)",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Diamlah. Aku akan naik ke atas.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Apa......!?",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Sabunnya sudah kena.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Tatsu-nee-san......sebenarnya bagian mana yang mau kau cuci?",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Ya seluruh tubuhmu, jelas saja!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Kenapa tadi sempat terdiam......",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Diam! Mulai ya!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......ngh",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......a-apa ini......hangat sekali......",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Justru kau yang......hangat, Tatsu-nee-san......",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......! Jangan bilang hal-hal aneh!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......mm...♡ Aku mulai gerak ya.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......ngh......licin sekali......aku terus merosot...♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "......ngh......",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Bagaimana rasanya......disentuh olehku.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "......gawat......ini menekan tepat di......",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ya jelaslah. Aku kan sedang memandikanmu.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "(Aku cuma memandikannya......hanya memandikan......!)",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Mm......♡ gesekannya......terasa aneh...♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Tatsu-nee-san, kau mengeluarkan suara-suara aneh.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "D-diam...! Sudah kubilang, ini pembalasan...♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Niat awalnya kan cuma mau mengerjaimu......♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Tapi kenapa malah aku......yang merasa keenakan......♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Sial, sabunnya bikin......terlalu licin...♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Setiap kali ujungnya......menyentuhku......♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Tatsu-nee-san......itu sudah hampir masuk......",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Belum masuk! Aku cuma sedang memandikanmu!♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ahh...♡ Di situ......itu menekan tepat ke......♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ya Tuhan......aku belum pernah merasakan yang seperti ini......♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "......Aku tidak tahan lagi......",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Hah? Sudah? Payah sekali.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aku bahkan belum dekat dengan--",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......ngh♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Tidak mungkin......aku juga......sesuatu......♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "T-tunggu......jangan berani-beraninya kau keluar duluan sebelum aku...!♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "......nnghh......!",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ahh......itu keluar......hangat sekali......!♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Di perutku......semuanya......♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Ah......ngh♡♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aku juga......ngh♡♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......nnghh♡♡♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Hah......hah......",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": ".............",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Tadi tidak sampai masuk.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "......Benar.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aku cuma sedang memandikanmu tadi.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "......Benar.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Tapi kita berdua malah keluar......apa-apaan itu tadi......",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": ".............",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Jangan dijawab. Aku tidak bertanya.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Minggu depan. Aku akan buat janji temu.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "......Untuk sesi?",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Memangnya untuk apa lagi.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Tidak ada lagi perlakuan khusus. Kali ini aku yang bayar.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Tentu saja. Aku akan memberikan yang terbaik untukmu.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Seorang klien, ya.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Memangnya cuma itu aku bagimu.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Hah?",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Aku tidak bilang apa-apa!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Kalau kau berani cerita ke siapa pun soal hari ini, kubunuh kau.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Tidak akan.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Cih. Balas budi apanya......ini yang paling buruk.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "......Tapi.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "......Apa.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "Aku senang kau memandikanku, Tatsu-nee-san.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "............!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "Tatsu-nee",
+        "text": "Bodoh! Jangan pernah katakan itu lagi!",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "(CEO rentenir dengan mulut yang kasar.)",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "(Tapi dia suka manga shoujo, dan telinganya memerah saat dia malu.)",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "(Bagiku, Tatsu-nee itu......dia sudah tidak bisa dikategorikan lagi.)",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "(--Tapi dia pasti akan membunuhku kalau aku bilang begitu padanya.)",
+        "tatsuImage": "default"
+      }
+    ]
+  }
+}

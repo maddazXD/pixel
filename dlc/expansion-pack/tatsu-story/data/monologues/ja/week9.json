@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が帰った後……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（もっと強い刺激が欲しいって……自分から言ってきたな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（施術のことを考えるだけで身体が熱くなるって、完全に条件反射だ）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『調教されてるみたい』って自分で言ってた……自覚はあるんだな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『こんなに誰かに依存するのは初めて』か……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（闇金のボスが俺に依存してる。借金の力関係とは全く別のところで）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（残り3週間。返済もだけど……この関係も、どうなっていくんだろう）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週はどうしようか……）"
+    }
+  ]
+}

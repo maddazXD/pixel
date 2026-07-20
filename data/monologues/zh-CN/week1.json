@@ -1,0 +1,46 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(奈奈酱离开后，我独自一人留在治疗室...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(呼，第一位客人...总算是平安度过了...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(奈奈酱好天真...而且...好可爱...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(穿着治疗服的样子真的很性感...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(等等，我在想什么！我得先把债务还清才行！)",
+      "cutInImage": "debt_paper"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(距离还款期限还有12周。照这个速度，根本还不上...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(必须想办法赚更多钱...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(那么，这周该做什么呢...)"
+    }
+  ]
+}

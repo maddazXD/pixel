@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 돌아간 후……)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(꿈에 내가 나온다고……아침에 일어나면 속옷이 젖어있다고……)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그 사람의 몸이 완전히 변하기 시작했다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(유두가 민감해져서 낮에도 갑자기 몸이 뜨거워진다고 했다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(시술 전부터 이미……준비가 된 상태였지.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(사채업의 보스가 이런 상태가 될 줄 누가 상상이나 했을까?)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(……내 시술이 이만큼 변화시킨 거다. 정체사로서 나쁜 기분은 아니다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자, 이번 주는 어떻게 할까……)"
+    }
+  ]
+}

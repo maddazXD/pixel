@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が帰った後……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（2ヶ月か。あの人の身体は……もう完全に俺の手を覚えてしまった）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（自分でどうにかしようとしてもダメだったって……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『深部まで施術してくれ』って自分から求めてきたな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（あの組のボスが、俺に身体を委ねてる。この状況、最初は想像もできなかった）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（力関係が……少しずつ変わってきてるのを感じる）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週はどう過ごそうか……）"
+    }
+  ]
+}

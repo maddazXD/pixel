@@ -1,0 +1,92 @@
+{
+  "title": "全额债务偿还达成",
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...好！终于还清全部债务了...！"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "辰姐",
+      "text": "喂！你在吗！？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "龙姐！？怎么了，这么着急...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "是真的吗！？你真的全部还清了！？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "是的！全部还清了！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "你真的...全部还清了...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "你的债务清零了。你自由了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "非常感谢！这都是托奈奈...不，托客人的福！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "但、但是...那个...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "还记得全额还清时的约定吗？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "啊，全额还清的特别庆祝。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "啧...你还记得啊。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "辰姐",
+      "text": "...约定就是约定。我会遵守的。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "接受奖励",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}

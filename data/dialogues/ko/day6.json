@@ -1,0 +1,277 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──6주차 아침.\n새 손님들이 자리 잡기 시작했고 가게도 점차 궤도에 올랐다. 그리고 나나와의 관계도 새로운 단계로..."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(6주차... 길었지만 짧았어. 나나는 완전히 단골이 됐지.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그리고 몸과 마음 모두 확실히 변하고 있어. 어쩌면 오늘은 한 걸음 더 나아갈 수 있을지도...)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "좋은 아침이에요!",
+      "voiceFile": "story_day6_001"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "저... 이제 6번째죠? 완전히 습관이 됐어요.",
+      "voiceFile": "story_day6_002"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "그렇죠. 나나씨 덕분에 이 가게가 번창하고 있어요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "아니에요... 하지만 친구들도 다 만족하는 것 같아서 저도 기뻐요.",
+      "voiceFile": "story_day6_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "하지만... 다들 그 옷에 놀랐어요...",
+      "voiceFile": "story_day6_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "하하하, 하지만 결국 다들 받아들였죠?"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "네. 효과를 이해하면 다들 받아들여요.",
+      "voiceFile": "story_day6_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "그나저나 오늘 컨디션은 어때요?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "사실... 요즘 악몽을 꿔요...",
+      "voiceFile": "story_day6_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "이상한 꿈을 계속 꿔요. 몸이 뜨거워지는 꿈... 부끄러운 꿈...",
+      "voiceFile": "story_day6_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "오... 어떤 꿈인지 좀 더 자세히 말해줄 수 있어요?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "말-말할 수 없어요...! 하지만 아침에 일어나면 정말 피곤해요...",
+      "voiceFile": "story_day6_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그리고... 속옷이... 저기... 가끔 젖어 있어요...",
+      "voiceFile": "story_day6_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(오... 드디어 이 단계에 도달했구나. 몸이 완전히 깨어나기 시작했어...)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "몸이 성숙해지고 있다는 증거예요. 억눌린 욕망이 꿈으로 나타나고 있어요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "욕망... 이요?",
+      "voiceFile": "story_day6_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "네. 누구나 채우고 싶은 욕망이 있어요. 계속 무시하면 몸이 고통받아요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그럼... 어떻게 해야 하죠...?",
+      "voiceFile": "story_day6_011"
+    },
+    {
+      "id": "choice_massage6",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "오늘은 특별한 시술을 해봐요.",
+      "choices": [
+        {
+          "label": "릴랙스 중심 시술",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "relax_path"
+        },
+        {
+          "label": "심층 심리를 겨냥한 시술",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "psychology_path"
+        },
+        {
+          "label": "성감대를 자극하는 시술",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "erogenous_path"
+        }
+      ]
+    },
+    {
+      "id": "relax_path",
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "릴랙스... 안전한 것 같네요.",
+      "voiceFile": "story_day6_012"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "몸과 마음을 편하게 하면 욕망도 자연스럽게 가라앉을 거예요.",
+      "next": "special_treatment"
+    },
+    {
+      "id": "psychology_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "심층 심리... 복잡한 것 같네요.",
+      "voiceFile": "story_day6_013"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "몸과 마음은 연결되어 있어요. 마음 깊은 곳에 숨겨진 욕망을 해방하면 몸도 편해져요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "욕망을 해방... 가슴이 두근거리네요...",
+      "next": "special_treatment",
+      "voiceFile": "story_day6_014"
+    },
+    {
+      "id": "erogenous_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "성-성감대!?",
+      "voiceFile": "story_day6_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "놀라지 마세요. 이것도 제대로 된 의학적 접근이에요. 성감대에 적절한 자극을 주면 호르몬 균형을 맞추는 효과가 있어요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "하-하지만... 너무 부끄러워요...!",
+      "voiceFile": "story_day6_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "괜찮아요. 받아들일 수 있어요. 지금까지의 모든 시술로 몸은 충분히 준비됐어요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "준-준비됐다니... 제 몸이 그런 걸 원한다는 것처럼...",
+      "voiceFile": "story_day6_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "실제로 원하고 있어요. 몸은 정직하니까요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그-그럴 리가...",
+      "voiceFile": "story_day6_018",
+      "next": "special_treatment"
+    },
+    {
+      "id": "special_treatment",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "자, 그럼 평소처럼 갈아입어 줄래요?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(민감한 부위를 마사지하는 건 여전히 부끄럽지만...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day6_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(……기대하는 부분도 있어... 이상한 건가...?)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day6_020"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "갈아입었어요...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day6_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(완벽해... 지금까지의 모든 시술로 나나의 몸이 놀랍도록 관능적으로 변했어...)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "자, 그럼 침대에 누워요."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "네-네...",
+      "voiceFile": "story_day6_022"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "자, 그럼 시작하죠."
+    }
+  ]
+}

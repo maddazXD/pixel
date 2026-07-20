@@ -1,0 +1,50 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 돌아간 후……)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(12주째……3개월이 지났다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(예약 2시간 전부터 가게 앞을 서성거렸다니……귀여운 면도 있구나.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('네 앞에서는 어깨 힘이 풀린다'고 말해줬다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(사채업의 보스가 나 앞에서만 약한 모습을 보여준다……)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('앞으로도 잘 부탁해'……라.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(빚 상환 기한이다. 이 3개월의 성과가 시험대에 오른다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(……후회 없도록 해야지.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자, 이제 어떻게 할까……)"
+    }
+  ]
+}

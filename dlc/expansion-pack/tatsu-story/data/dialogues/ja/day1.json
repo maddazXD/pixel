@@ -1,0 +1,664 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（夢だったんだよな……『性感整体院』ってやつを、自分の手で開業するのが。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（それっぽい理論書き上げて、サイト作って、SEO業者にも大金を払った。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（もちろんチラシも撒いた。『背徳の波動整体』。俺は、本気だった。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……でも、初日の予約数は……ゼロ。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……銀行にも消費者金融にも断られて、結局『ドラゴン・ファイナンス』なんて闇金から開業資金を借りちまったのに……。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（返済期限は3か月後……12週間か。失敗したら、マジで終わりだ。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（客が来ない...どうしよう...このままじゃ借金返せない...）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ドアチャイムが鳴った。客...！？）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "おう、いるかい？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "タ、タツ姐さん…！"
+    },
+    {
+      "character": "player",
+      "text": "（やばい…闇金のタツ姐だ。さっそく取り立てに来たのか…）"
+    },
+    {
+      "character": "player",
+      "text": "（それにしても相変わらずすごい胸だな…）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "なんだその顔は。客が来たってのに嬉しくなさそうじゃねぇか。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "い、いえ…そんなことは…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "で、どうなんだ？今日が開業初日だろ？客は来たのか？"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それが…まだ…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "sweat",
+      "text": "はぁ？客ゼロか？大丈夫かよ、おい。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "まぁいい。今日は様子見に来ただけだ。3か月後、ちゃんと返せよ？"
+    },
+    {
+      "character": "player",
+      "expression": "closeeyes",
+      "text": "（タツ姐が肩を回してる…すごく凝ってそうだな…。あれだけデカいとそりゃ肩も凝るだろうな…）"
+    },
+    {
+      "character": "player",
+      "text": "（待てよ…これはチャンスかもしれない！）"
+    },
+    {
+      "character": "player",
+      "text": "あの、タツ姐さん…肩、凝ってません？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "あ？……まぁ、慢性的にな。それがどうした？"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それなら…提案があるんですが。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "提案？"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "週に1回、タツ姐さんの施術をさせてください。その代わり…利子の支払いを少し猶予していただけませんか？"
+    },
+
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "はぁ？マッサージで利子猶予だと？お前舐めてんのか？"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "い、いえ！真剣です！俺の整体、効果は保証します！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "まぁ、確かに肩こりはひどいんだよな…高級スパ行っても全然治らねぇし。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…………。"
+    },
+    {
+      "character": "タツ姐",
+      "text": "いいよ。週一回来てやる。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "ただし、効果がなかったら容赦しねぇぞ。それと、元金の返済は待たねぇ。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "わかりました！ありがとうございます！（よし…これで少しは時間が稼げる…！）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "で、どうすりゃいいんだ？"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "まずはカウンセリングシートに記入をお願いします。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "カウンセリングシート？面倒くせぇな。"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "…………",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "名前と…症状は肩こりと腰痛、っと。",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "（うわっ！近くで見ると、やっぱりおっぱいでっか…！顔も美人だし……）",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "………ん？",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "sweat",
+      "text": "「お尻を叩かれる施術」…？「舐められる施術」…！？",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…おい！これ整体じゃねぇだろ！"
+    },
+    {
+      "character": "player",
+      "expression": "angry",
+      "text": "あ、あくまで特殊な施術法の一例でして…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "sweat",
+      "text": "「胸まわりについて」…「おま…周辺について」？しまいにゃ「性行為の経験について」だと…？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "お前……ふざけんな！"
+    },
+    {
+      "character": "player",
+      "expression": "angry",
+      "text": "す、すみません！でもホルモンバランスや自律神経の状態が肩こりに影響するので…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "……アホらしい。こんなもん全部書けるか。"
+    },
+    {
+      "character": "player",
+      "expression": "closeeyes",
+      "text": "で、でも…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "途中までは書いといたぞ。後は知らねぇ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "…………",
+      "docImage": "counseling_sheet",
+      "docNeedConfirm": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "ありがとうございます。えっと…辰巳麗（うらら）さん…ですね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "おい！その名前で呼ぶな！タツ姐って呼べ！",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "angry",
+      "text": "す、すみません！タツ姐！"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "それと、こちらの「施術同意書」にもサインをお願いします。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "施術同意書？ちょっと待て、読ませろ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "…………",
+      "docImage": "consent_sheet",
+      "docNeedConfirm": true
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "あ、形式的なものですので、サインだけで…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "黙れ。こういうのは細かく読むもんだ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "（やばい…闇金社長だから契約書とかには厳しいんだ…）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "sweat",
+      "text": "「胸部（乳房・乳首周辺）」…「乳首への軽い撫で刺激、弾く刺激」…？",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "おい。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "angry",
+      "text": "は、はい！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "やっぱりただのマッサージじゃねぇだろ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "angry",
+      "text": "い、いえ！これは医学的に必要な施術項目でして…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "黙れ。まだ読んでる途中だ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "……「クリトリス・膣口周辺」…「膣内にディルド型、バイブ型」……「媚薬」に「睡眠薬」…",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "「施術中の様子を動画・写真・音声で記録」…「広報資料として活用」…",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "……AV撮影の同意書かよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…………。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "全部読んだぞ。一個一個ツッコむのも馬鹿らしい。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "……お前、死にたいのか？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "angry",
+      "text": "す、すみません！でも全部医学的な根拠が…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "うるせぇ。…こんな同意書にサインする奴、いるのか？",
+      "outfit": "suit"
+    },
+
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "い、います！効果が実感できれば、皆さん納得してくださいます！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "sweat",
+      "text": "そいつら大丈夫か…？アタシはサインしねぇよ、こんなもん。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "え…！？で、でも同意書がないと施術が…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "ちょっと待ってろ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "……。",
+      "cutInImage": "tatsu_writing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "ほら、書き直した。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closeeyes",
+      "text": "え…？"
+    },
+    {
+      "character": "player",
+      "expression": "closeeyes",
+      "text": "「施術者は、本同意書に記載されたすべての施術内容について、全責任を負うものとする」\n「万が一、被施術者に身体的・精神的被害が発生した場合、施術者は損害賠償を含む一切の責任を負う」\n「また、被施術者の承諾なく記録・公開を行った場合、刑事告訴を含む法的措置を取ることに同意する」",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ちょ、ちょっと待ってください！こんなの…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "お前がサインしろ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "え、えぇ！？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "それとも、施術やめるか？そしたら利子猶予の話もナシだぞ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "（うわっ…完全に立場逆転してる…）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "わ、わかりました…サインします…。"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "（施術者欄に自分の名前をサインする。）",
+      "nameInput": true
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "……"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "よし。これで契約成立だな。安心しろ。ちゃんと施術してくれりゃ、何もしねぇよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "（さすが闇金社長…同意書を書き換えるなんて…）"
+    },
+    {
+      "id": "choice_massage",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "気を取り直して…。カウンセリングシートを見せてもらいましたが、やっぱり肩こりが気になってるんですね。",
+      "choices": [
+        {
+          "label": "プロとして丁寧に施術します",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "professional_path"
+        },
+        {
+          "label": "そのおっぱいを支えるのは大変ですよね",
+          "trustDelta": 0,
+          "developDelta": 1,
+          "next": "breast_path"
+        },
+        {
+          "label": "ちょっと触ってもいいですか？",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "honored_path"
+        }
+      ]
+    },
+    {
+      "id": "professional_path",
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…まぁ、プロなんだろ？ちゃんとやってくれよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "はい、お任せください。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "breast_path",
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…はぁ？何でそんなこと知ってんだ？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "い、いえ…一般的にそういう方は肩こりになりやすいと言われてまして…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…ふん。まぁ、確かにそうかもな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それなら、しっかりケアさせていただきますね。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "honored_path",
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "はぁ！？何言ってんだ？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "す、すみません！真面目に施術します！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…変なこと考えてたら指折るからな。",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それでは、施術用の専用ウェアに着替えていただけますか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "着替え？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "はい。リラクゼーション効果を高めるための特別なウェアです。あと、服が汚れたらいけないので。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…まぁ、そういうもんか。わかった。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "sweat",
+      "text": "……はぁ！？何だこの布切れは！？",
+      "cutInImage": "tatsu_changing",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "sweat",
+      "text": "施術用のウェアです。",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "舐めてんじゃねぇぞ！こんなの着れるか！",
+      "cutInImage": "tatsu_changing",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "angry",
+      "text": "直接肌に触れて施術する必要があるんです。これが一番効果的なんですよ。",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "sweat",
+      "text": "…ったく。まぁ、施術だしな…。",
+      "cutInImage": "tatsu_changing",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "（…これで肩こりが治るってんなら、まぁいいか…）",
+      "cutInImage": "tatsu_changing",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "おい、着替えたぞ。変なとこ見んじゃねぇぞ！",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（やばい……すごいプロポーション……！）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "よくお似合いですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "sweat",
+      "text": "うるせぇ。さっさと始めろ！",
+      "outfit": "bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それでは、施術を始めさせていただきます。"
+    }
+  ]
+}

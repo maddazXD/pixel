@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（2ヶ月目に突入…あっという間だったな）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃんは毎日のように来てくれる常連客になった）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（最近は施術の要望も具体的になってきて、プロ意識が試されるな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（借金返済のことは忘れないようにしないとな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ショップで新しい施術道具を買ってみるのもいいかもしれない）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（バイトで稼いで資金を増やすのも手だな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（今週は何をしようか…）"
+    }
+  ]
+}

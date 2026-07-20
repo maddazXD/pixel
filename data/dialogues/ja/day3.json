@@ -1,0 +1,481 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3週目の朝。\n先週のマッサージがうまくいったのか、ナナちゃんからの信頼を感じるようになった。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（2週連続で来てくれるなんて……これは、もしかして……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（いや、まだ早い。でも確実に彼女は俺の施術を気に入ってくれている。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（今日は少し、踏み込んでみてもいいかもしれない……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（それはそれとして、先週の収支を確認するか……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（…やっぱり、固定費が多いよな。これじゃ借金返済どころか赤字だよ……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ドアチャイムが鳴った。ナナちゃんかな？）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "おう、いるかい？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "タ、タツ姐さん…！",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（やばい…闇金のタツ姐だ。先月借りた金の取り立てに来たんだ…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（それにしても相変わらずすごい胸だな…あれだけデカいと肩も凝るだろうな…）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "なんだその顔は。客が来たってのに嬉しくなさそうじゃねぇか。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "い、いえ…そんなことは…",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "で、どうなんだ？今月の分は用意できてんだろうな？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_choice",
+      "character": "player",
+      "expression": "alert",
+      "text": "そ、それが…もう少し時間を…",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "言い訳をする",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_excuse"
+        },
+        {
+          "label": "来週には必ず払うと約束する",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_promise"
+        },
+        {
+          "label": "追加で10万円借りたい",
+          "trustDelta": 0,
+          "developDelta": 0,
+          "next": "tatsu_borrow"
+        }
+      ]
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "その、お客さんが少なくて…この不景気で…",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "言い訳なんざ聞きたくねぇんだよ。金を出せって言ってんだ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "す、すみません…",
+      "hideCharacter": true,
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_promise",
+      "character": "player",
+      "expression": "alert",
+      "text": "来週には必ず全額お支払いしますので！",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "来週？そんな悠長なこと言ってる場合か？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "tatsu_excuse",
+      "character": "player",
+      "expression": "alert",
+      "text": "す、すみません…",
+      "hideCharacter": true,
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_borrow",
+      "character": "player",
+      "expression": "alert",
+      "text": "実は…追加で10万円借りたいんですが…",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "はぁ？返せもしねぇのに追加で借りたいだと？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…まぁいい。利子は倍になるがな。次返せなかったら…分かってんだろうな？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が胸ポケットから札束を取り出す。その時、前かがみになって谷間が…）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "ほらよ、10万だ。これでお前の借金は60万だからな。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "100,000G借金をしました",
+      "moneyDelta": 100000,
+      "debtDelta": 100000,
+      "playSE": "cash_register",
+      "next": "tatsu_threat"
+    },
+    {
+      "id": "tatsu_threat",
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…今日は顔見に来ただけだ。次はねぇぞ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "次払えなかったら、臓器でも売ってもらうからな。腎臓なら片方なくても生きていけるだろ？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ゾッとする…でも、タツ姐の肩、すごく凝ってそうだな。あの重そうな胸を支えてるんだから…）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "じゃあな。次来る時は覚悟しとけよ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ドアが閉まる音…はぁ…また脅されてしまった…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（でも、タツ姐も整体が必要そうだな…あの爆乳じゃ肩こりもひどいだろうし…いや、何考えてるんだ俺は）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（また、ドアチャイムが…今度こそナナちゃんだろうか？）"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "おはようございます！今日もよろしくお願いします。",
+      "characterImage": null,
+      "voiceFile": "story_day3_001"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "さっきすごく怒った顔の女の人とすれ違ったんですけど…お客さんですか？",
+      "characterImage": null,
+      "voiceFile": "story_day3_002"
+    },
+    {
+      "character": "player",
+      "expression": "doubt_closemouth_sweat",
+      "text": "あ、ああ…ちょっと知り合いが寄っただけだよ。気にしないで。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "そうですか…なんだか顔色が悪いようですけど、大丈夫ですか？",
+      "characterImage": null,
+      "voiceFile": "story_day3_003"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "大丈夫だよ。ナナちゃんの心配してくれる気持ちが嬉しいな。"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "さて、今日も来てくれてありがとう。調子はどう？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "先週のマッサージのおかげで、すごくよく眠れました。肩の調子も良くて…",
+      "characterImage": null,
+      "voiceFile": "story_day3_004"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "でも、今日は……腰のあたりが少し重くて……。",
+      "characterImage": null,
+      "voiceFile": "story_day3_005"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "腰か。それは気になるね。どんな感じの重さ？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "なんというか……鈍い感じで、時々ズキンとして……。座ってると楽なんですけど。",
+      "characterImage": null,
+      "voiceFile": "story_day3_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あと……太ももの付け根のあたりも、なんだかこわばってる感じで……。",
+      "characterImage": null,
+      "voiceFile": "story_day3_007"
+    },
+    {
+      "id": "choice_massage3",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "なるほど。腰から太ももにかけてのコリか。これは丁寧にほぐしてあげないとね。",
+      "choices": [
+        {
+          "label": "骨盤の歪みが原因かも",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "pelvis_path"
+        },
+        {
+          "label": "そのあたりは敏感な場所だね",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "sensitive_path"
+        },
+        {
+          "label": "腰痛ってもしかして…",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "check_path"
+        }
+      ]
+    },
+    {
+      "id": "pelvis_path",
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "骨盤の歪み……ですか？",
+      "characterImage": null,
+      "voiceFile": "story_day3_008"
+    },
+    {
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "うん。長時間の座り仕事とか、姿勢の癖で骨盤が歪むと、腰や太ももに影響が出るんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "そうなんですね……確かに、最近ずっと勉強で座りっぱなしでした。",
+      "characterImage": null,
+      "next": "change_clothes",
+      "voiceFile": "story_day3_009"
+    },
+    {
+      "id": "sensitive_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "び、敏感って……そ、そんな……。",
+      "characterImage": null,
+      "voiceFile": "story_day3_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "あ、いや、神経が集中してる場所だから、刺激に敏感だって意味だよ。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "でも、だからこそしっかりケアしてあげれば、すごく気持ちよくなるんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "き、気持ちよく……そうなんですか……。",
+      "characterImage": null,
+      "next": "change_clothes",
+      "voiceFile": "story_day3_011"
+    },
+    {
+      "id": "check_path",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "腰が痛いって…もしかして最近、激しい運動でもした？"
+    },
+    {
+      "character": "nana",
+      "expression": "doubt_openmouth_sweat",
+      "text": "え？い、いえ…特に運動は…",
+      "characterImage": null,
+      "voiceFile": "story_day3_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "じゃあ、夜更かしとか…ベッドで何か無理な体勢を…？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "ど、どうしてそんなこと聞くんですか！？",
+      "characterImage": null,
+      "voiceFile": "story_day3_013"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "いや、腰痛の原因って意外なところにあったりするから。例えば…恋人とか、いる？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "い、いませんけど……",
+      "characterImage": null,
+      "voiceFile": "story_day3_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ごめんごめん。でも若い女性の腰痛って、たまにそういう…激しい夜の…ね"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "なっ…！変なこと言わないでください…！",
+      "characterImage": null,
+      "voiceFile": "story_day3_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そうだよね。ナナちゃんは真面目な子だもんね。",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "それじゃあ、いつものウェアに着替えてもらえるかな？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "はい……。もう慣れました……。",
+      "characterImage": null,
+      "voiceFile": "story_day3_016"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "（最初はすごく恥ずかしかったけど……この服の方が、マッサージしやすいのかも……。）",
+      "characterImage": null,
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day3_017"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "着替えました。今日もよろしくお願いします。",
+      "characterImage": null,
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day3_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "うん、ありがとう。今日は腰回りをしっかりケアしてあげるからね。"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それじゃあ、施術を始めようか。"
+    }
+  ]
+}

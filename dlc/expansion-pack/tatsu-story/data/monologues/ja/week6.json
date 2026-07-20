@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が帰った後……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（眠れない、妙な夢を見る……か。身体が求め始めてるな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（性感帯へのアプローチを提案した時は、さすがに殴られるかと思ったけど）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『効果があるのは事実だ』って渋々ながら承諾してくれた）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……あの人、着替え中に少し表情が変わってた気がする）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（闇金のボスが、俺の施術を期待してる……？）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（折り返し地点だ。ここからが本番かもしれない）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週はどうしようか……）"
+    }
+  ]
+}

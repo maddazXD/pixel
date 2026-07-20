@@ -1,0 +1,51 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（3週目か……時間が経つのは早いな……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃん、最近はだいぶリラックスしてきた感じがする）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（信頼してくれてるんだろうか……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（正直、俺も……ナナちゃんが来るのが楽しみになってきてる……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（って、ダメだダメだ！客と店主の関係を忘れちゃいけない！）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（でも……返済期限は待ってくれないんだよな……）",
+      "cutInImage": "debt_paper"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（このままじゃ、間に合わないかもしれない……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（新しい客も来ないし、広告を出す金もない……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……今週も、何とか頑張るしかないか）"
+    }
+  ]
+}

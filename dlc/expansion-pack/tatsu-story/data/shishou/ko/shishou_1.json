@@ -1,0 +1,83 @@
+{
+  "title": "사부님의 특별 지도 제1단계 「발의 경혈」",
+  "intro": {
+    "dialogues": [
+      { "character": "사부님", "text": "자……오늘부터 너의 지도를 시작하겠노라" },
+      { "character": "사부님", "text": "정체의 기본은 먼저 경락을 이해하는 것이니라. 알고 있겠지?" },
+      { "character": "player", "text": "네, 사부님" },
+      { "character": "사부님", "text": "음. ……그중에서도 발바닥은 온몸의 경락이 집중되어 있는 중요한 부위니라" },
+      { "character": "사부님", "text": "반사구라 불리는 경혈이 60개 이상 있어……이곳을 정복하면 온몸을 다스릴 수 있다 해도 과언이 아니니라" },
+      { "character": "사부님", "text": "허나, 이론만으로는 몸에 익지 않느니라" },
+      { "character": "사부님", "text": "……실천뿐이니라" },
+      { "character": "player", "text": "실천……이라 하면?" },
+      { "character": "사부님", "text": "이 늙은이의 몸으로 연습시켜 주겠다는 것이니라. 감사히 여기거라" },
+      { "character": "사부님", "text": "자. 우선 이 늙은이의 발로 경혈 위치를 확인하거라" }
+    ]
+  },
+  "climax": {
+    "image": "images/live2devent/shishou_1_climax.png",
+    "afterImage": "images/live2devent/shishou_1_climax_after.png",
+    "dialogueDelay": 600,
+    "pulseDuration": 2500,
+    "dialogues": [
+      { "character": "사부님", "text": "윽……아, 아아……안 돼……발바닥의, 경락이……전부……이어져……" },
+      { "character": "사부님", "text": "경혈이……연쇄하여……온몸에……" },
+      { "character": "사부님", "text": "이, 이 몸이 되고 나서……발의 감각이, 남자일 때와는 비교가 안 되는 것이니라……!", "textWoman": "앗……♡ 몸이 젊어져 있으니……♡ 감각이 예민해서……제어가……♡" },
+      { "character": "사부님", "text": "이 늙은이는……사부이니라……! 이런……발로 문지르는 것만으로……" },
+      { "character": "사부님", "text": "가는 것이 말이———" },
+      { "character": "사부님", "text": "———읏!!!" },
+      { "character": "사부님", "text": "으, 으아아아아……!!!" },
+      { "character": "사부님", "text": "하아……하아……하아……" },
+      { "character": "player", "text": "…………", "image": "images/live2devent/shishou_1_climax_after.png" },
+      { "character": "사부님", "text": "…………에헴" },
+      { "character": "사부님", "text": "……지, 지금 것은 말이니라" },
+      { "character": "사부님", "text": "발바닥의 반사구가 연쇄적으로 활성화되면……시술자 측에도 이러한 반응이 나타난다는……실연이니라" },
+      { "character": "사부님", "text": "……뭐, 뭐냐. 알았으면 대답을 하지 않고" },
+      { "character": "player", "text": "(아무리 봐도 간 건데……게다가 발로……)" },
+      { "character": "player", "text": "……네. 공부가 되었습니다, 사부님" },
+      { "character": "사부님", "text": "흥……상을 주겠노라. 발 경혈의 응용……이라는 것이니라" },
+      { "character": "player", "text": "네…?" }
+    ],
+    "afterDialogues": [
+      { "character": "사부님", "text": "이것도 지도의 일환이니라……발의 감각을 가르쳐 주겠노라", "image": "images/live2devent/shishou_1_footjob.png" },
+      { "character": "사부님", "text": "흥……이렇게 말이니라, 발바닥 전체로 압을 분산시키는 것이 요령이니라" },
+      { "character": "사부님", "text": "발 아치를 사용하여……이렇게, 감싸듯이……" },
+      { "character": "player", "text": "윽……사부님, 잘하시네요……" },
+      { "character": "사부님", "text": "당연하지. 누구에게 말하는 게냐" },
+      { "character": "사부님", "text": "발가락 끝으로 이렇게……끝부분을 굴리듯이 하면……" },
+      { "character": "사부님", "text": "……윽" },
+      { "character": "player", "text": "……사부님?" },
+      { "character": "사부님", "text": "……아, 아무것도 아니니라. 계속하겠노라" },
+      { "character": "사부님", "text": "음……" },
+      { "character": "player", "text": "(……어라. 사부님 발이 아까부터 미세하게 떨리고 있지 않나?)" },
+      { "character": "사부님", "text": "여, 여기서부터가 중요하니라……발바닥의 반사구를 이용하여 압력을 변화시키며……" },
+      { "character": "사부님", "text": "으윽……!" },
+      { "character": "player", "text": "사부님, 발이 떨리고 있는데요……" },
+      { "character": "사부님", "text": "시, 시끄럽다……! 네놈의……이, 너무 딱딱한 것이니라……! 이 늙은이의 발바닥 경혈에 그대로 들어와 있단 말이니라……!" },
+      { "character": "사부님", "text": "바, 바보 같은……발로 만지고 있을 뿐인데, 이렇게까지……! 남자일 때는 이런 감각……없었는데……!", "textWoman": "윽……이 젊은 몸……너무 민감한 것이니라……♡ 발바닥에서 온몸으로 울려서……견딜 수가 없느니라……♡" },
+      { "character": "player", "text": "어, 경혈이요?" },
+      { "character": "사부님", "text": "발바닥에는 온몸의 경락이 집중되어 있다고 했지 않았느냐……!" },
+      { "character": "사부님", "text": "이렇게 압을 가하면……그 반동으로, 이 늙은이의 경혈도 자극을 받는 것은……당연한……" },
+      { "character": "player", "text": "(자기가 한 말이 전부 자기한테 돌아오고 있어……)" },
+      { "character": "사부님", "text": "앗……, 아……, 바, 바보……좀 더……부드러워질 수는 없느냐……" },
+      { "character": "player", "text": "그건 무리입니다……" },
+      { "character": "사부님", "text": "윽……쿠으……! 용천에……바로 들어와……" },
+      { "character": "사부님", "text": "이, 이것은 지도이니라……지도의 일환으로……발바닥이 반응하는 것은……정상적인……" },
+      { "character": "player", "text": "윽……! 사부님…저도…한계…!", "image": "images/live2devent/shishou_1_ejaculation.png" },
+      { "character": "사부님", "text": "…흐흥. 이것이 발 경혈의 진수이니라…!" },
+      { "character": "사부님", "text": "…이, 이것은 지도이니라…! 착각하지 말거라…!" },
+      { "character": "player", "text": "…………" },
+      { "character": "player", "text": "(대단했어…발만으로 저렇게까지…)" },
+      { "character": "player", "text": "(사부님의 지도, 얕보면 안 되겠다…다음이 기대된다)", "image": "images/live2devent/shishou_1_footjob.png" }
+    ]
+  },
+  "outro": {
+    "dialogues": [
+      { "character": "사부님", "text": "……흥. 뭐, 첫날치고는 그럭저럭이니라" },
+      { "character": "사부님", "text": "발 경혈 위치는 외운 것 같고……힘 조절도……그리 나쁘지는 않았느니라" },
+      { "character": "사부님", "text": "……다음 세미나에서도 이 늙은이의 몸으로 실기를 하겠노라" },
+      { "character": "사부님", "text": "빠, 빠지지 말거라. ……반드시 오는 것이니라" },
+      { "character": "사부님", "text": "별, 별로……네놈의 성장이 기대된다거나, 그런 게 아니니라……!" }
+    ]
+  }
+}

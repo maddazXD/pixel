@@ -1,0 +1,120 @@
+{
+  "intro": {
+    "dialogues": [
+      { "character": "バニー店員", "text": "6連勝…♡ お客様、すごいですね♡", "expression": "happy" },
+      { "character": "バニー店員", "text": "ここまで勝ち続ける方、なかなかいないんですよ？" },
+      { "character": "player", "text": "そ、そうなの……？" },
+      { "character": "バニー店員", "text": "はい♡ ですから、特別中の特別です♡", "expression": "happy" },
+      { "character": "バニー店員", "text": "6連勝のお客様には……" },
+      { "character": "バニー店員", "text": "おっぱいだけじゃなく…下も、お触り自由になります♡", "expression": "excited" },
+      { "character": "player", "text": "下って……" },
+      { "character": "バニー店員", "text": "おまんこです♡", "expression": "excited" },
+      { "character": "バニー店員", "text": "じゃあ…脚ひらきますね♡", "expression": "excited" },
+      { "character": "バニー店員", "text": "はい♡ 好きなところ、好きなだけ触ってください♡", "expression": "happy" }
+    ]
+  },
+  "interactive": {
+    "baseImage": "casino/reward_vagina_base.png",
+    "expressions": {
+      "pleasure": "casino/reward_vagina_pleasure.png",
+      "climax": "casino/reward_vagina_climax.png"
+    },
+    "gaugeLabel": "興奮度",
+    "gaugeMax": 100,
+    "characterName": "バニー店員",
+    "idleLines": [
+      "恥ずかしがらなくていいですよ♡",
+      "おまんこ、見られてるだけでちょっと…♡",
+      "触ってくれないと…寂しいです♡"
+    ],
+    "progressLines": [
+      { "gauge": 20, "speech": "んっ…♡ たくさん触ってくれますね…♡" },
+      { "gauge": 40, "speech": "はぁ…♡ おまんこ…どんどん濡れてきちゃって…♡" },
+      { "gauge": 60, "speech": "あっ♡ もう…とろとろです…♡ お客様のせい…♡" },
+      { "gauge": 80, "speech": "ふぁ…♡ こんなに触られたの…初めて…♡" }
+    ],
+    "hotspots": [
+      {
+        "id": "clitoris",
+        "area": { "x": 42, "y": 48, "width": 16, "height": 12 },
+        "isCorrect": true,
+        "gaugeIncrease": 5,
+        "expression": "climax",
+        "speeches": [
+          "ひゃっ♡ いきなりそこ…♡",
+          "んんっ♡ クリちゃん…敏感なんです…♡",
+          "あっ♡ 直接触られると…っ♡",
+          "やっ♡ そこばっかり…意地悪♡",
+          "ふぁ…♡ クリ…気持ちいい…♡",
+          "あっあっ♡ そんなに弄られたら…♡"
+        ]
+      },
+      {
+        "id": "vagina",
+        "area": { "x": 40, "y": 58, "width": 20, "height": 14 },
+        "isCorrect": true,
+        "gaugeIncrease": 4,
+        "expression": "pleasure",
+        "speeches": [
+          "んっ♡ 入り口…触ってるの分かります…♡",
+          "ぁ…♡ 指…入れたいんですか？♡",
+          "ひくっ…♡ 膣口がぴくぴくしちゃう…♡",
+          "濡れてきちゃいました…♡ お客様のせいですよ♡",
+          "んぅ…♡ 奥まで入れたくなっちゃいますよね…♡",
+          "あっ♡ そこ…中に入りかけてます…♡"
+        ]
+      },
+      {
+        "id": "thigh",
+        "area": { "x": 20, "y": 60, "width": 18, "height": 20 },
+        "isCorrect": true,
+        "gaugeIncrease": 3,
+        "expression": "pleasure",
+        "speeches": [
+          "ふふっ♡ くすぐったい…♡",
+          "太ももから攻めるの…焦らし上手ですね♡",
+          "ストッキング越しでも…伝わっちゃいます♡",
+          "んっ…♡ だんだん上に来てる…♡",
+          "内もも触られると…おまんこまで期待しちゃう…♡"
+        ]
+      },
+      {
+        "id": "breast",
+        "area": { "x": 30, "y": 20, "width": 40, "height": 22 },
+        "isCorrect": true,
+        "gaugeIncrease": 3,
+        "expression": "pleasure",
+        "speeches": [
+          "そっちも触るんですね♡ 欲張り♡",
+          "んっ♡ おまんことおっぱい同時に…贅沢ですね♡",
+          "はぁ…♡ 上も下も…全部お客様のものです♡"
+        ]
+      }
+    ]
+  },
+  "climax": {
+    "image": "images/live2devent/vagina_climax.png",
+    "afterImage": "images/live2devent/vagina_climax_after.png",
+    "dialogueDelay": 600,
+    "pulseDuration": 2500,
+    "dialogues": [
+      { "character": "バニー店員", "text": "あっ…♡ んんっ……♡　いっ……イっちゃう…♡" },
+      { "character": "バニー店員", "text": "おまんこ…びくびくしてる…っ♡ もう…ダメぇ…っ♡♡" },
+      { "character": "バニー店員", "text": "イクっ…♡ お客様の指で……イっちゃう……っ♡♡" }
+    ]
+  },
+  "outro": {
+    "dialogues": [
+      { "character": "バニー店員", "text": "はぁ……はぁ……♡", "expression": "pleasure" },
+      { "character": "バニー店員", "text": "お客様…けっこう大胆に触りますね…♡" },
+      { "character": "player", "text": "……ごめん、つい夢中で……" },
+      { "character": "バニー店員", "text": "謝らないでください♡ 嬉しかったですから♡", "expression": "happy" },
+      { "character": "バニー店員", "text": "見てください…こんなに濡れちゃって…♡", "expression": "excited" },
+      { "character": "バニー店員", "text": "テーブルまで濡らしちゃいました…♡" },
+      { "character": "バニー店員", "text": "……ねぇ、お客様♡" },
+      { "character": "バニー店員", "text": "もっと上を目指してみませんか？♡", "expression": "happy" },
+      { "character": "バニー店員", "text": "次のご褒美は…触るだけじゃ済まないかも♡", "expression": "excited" },
+      { "character": "バニー店員", "text": "楽しみにしていてくださいね♡", "expression": "happy" }
+    ]
+  }
+}

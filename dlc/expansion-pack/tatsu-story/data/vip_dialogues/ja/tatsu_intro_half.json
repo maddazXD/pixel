@@ -1,0 +1,530 @@
+{
+  "title": "借金50%返済達成 - 競馬デート",
+  "dialogues": [
+    {
+      "character": "タツ姐",
+      "text": "おう。返済ちょうど半分だな。",
+      "characterImage": "tatsu/tatsu_normal_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "はい。おかげさまで。",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "ふん。「おかげさま」ってのはアタシに対して使う言葉じゃねぇだろ。",
+      "characterImage": "tatsu/tatsu_normal_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "……あの、タツ姐さん。半分返したお祝いに、今度の休みちょっと付き合ってくれませんか。",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "…………はぁ？",
+      "characterImage": "tatsu/tatsu_sweat_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "デート、っていうと大げさですけど。日頃のお礼に。",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……で、デート？",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "あ、いや、そんな大したもんじゃないんですけど。楽しいところに。",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "…………。",
+      "characterImage": "tatsu/tatsu_closeeyes_suit.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "（デート……こいつ今デートって言ったか……？）",
+      "characterImage": "tatsu/tatsu_sweat_suit.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "（債務者とデートとかおかしいだろ……！ でも……楽しいところって……）",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "（水族館とか……？ 遊園地とか……？ まさか夜景の見えるレストラン……？）",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……ったく。しょうがねぇな。付き合ってやるよ。",
+      "characterImage": "tatsu/tatsu_closeeyes_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "ありがとうございます！ じゃあ日曜に。",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "べ、別に楽しみにしてるわけじゃねぇからな。",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（よし、OKもらえた。日曜の競馬、タツ姐と一緒なら楽しそうだな。）"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "競馬場デートへ",
+          "next": "keiba_start"
+        }
+      ]
+    },
+    {
+      "id": "keiba_start",
+      "character": "タツ姐",
+      "text": "……おい。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png",
+      "background": "keiba_bg",
+      "changeBGM": "zawameki"
+    },
+    {
+      "character": "player",
+      "text": "はい？",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……ここ、競馬場だよな。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "はい。楽しいところって言ったじゃないですか。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "（アタシは……何を期待してたんだ……何でちょっとだけオシャレしてきちまったんだ……）",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "返済資金を稼ぐのにたまに来てるんですけど、一人だと寂しくて。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "闇金から借りた金を競馬で返す……頭おかしいだろ。",
+      "characterImage": "tatsu/tatsu_date_sweat.png"
+    },
+    {
+      "character": "player",
+      "text": "ははは……。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……まぁ、アタシもギャンブルは好きだしな。来ちまったもんはしょうがねぇ。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "ただし馬券代はお前持ちだぞ。「デート」なんだろ？",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "は、はい……。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "見せろ。出走表。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "はい、どうぞ。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "…………。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……6番。パドック見なくても分かる。血統がいい。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "えっ、俺は3番の追い込み馬かなと——",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "はぁ？ 3番なんか脚質が合ってねぇだろ。今日の馬場は重いぞ。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "……詳しいですね？",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "闇金やってりゃデータ分析くらいできる。人の返済能力と馬の能力、見るとこは一緒だ。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "すごい例えですね……",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "ふん。じゃあ勝負だ。お前の3番とアタシの6番。負けた方がビール買いに行く。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "いいですよ。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "レースが始まった。",
+      "hideCharacter": true,
+      "changeBGM": "hoserase"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……4コーナー……よし、6番上がってきた……！",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "行けっ！ 差せ！ 差せぇっ！！",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "（タツ姐、めちゃくちゃ本気だ……闇金の取り立てより怖い顔してる……）",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "っしゃあああ！！",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "えっ、6番勝った……！？",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "言っただろ！ アタシの目利きを舐めんな！",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "ほら、ビール。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "……はい。行ってきます。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "",
+      "text": "……",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "よし。次は8番。単勝。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "8番って10番人気ですよ？",
+    "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "だからいいんだろ。オッズが美味い。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "いや、さすがに——",
+    "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "…………来た。来たぞ。8番来た。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "嘘でしょ！？",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "25倍……ふっふーん。",
+      "characterImage": "tatsu/tatsu_date_happysmile.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "ほら見ろ。データと嗅覚だ。闇金の社長はな、金の匂いには敏感なんだよ。",
+      "characterImage": "tatsu/tatsu_date_happysmile.png"
+    },
+    {
+      "character": "player",
+      "text": "……もはやプロじゃないですか。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "当たり前だろ。……アタシの分析は、最終レースで本気出す。ここまでは小手調べだ。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "……",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……ったく。最後の最後で。",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "でもトータルではだいぶ勝ってますよ？",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……まぁ、そうだけどよ。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "お腹空きません？ この中にレストランあるんですけど。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png",
+      "changeBGM": "tatsu",
+      "bgmFadeDuration": 3000
+    },
+    {
+      "character": "player",
+      "text": "勝った分で奢りますよ。タツ姐さんの予想のおかげで俺も儲けましたし。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……ふん。当然だろ。",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "……",
+      "hideCharacter": true
+    },
+    {
+      "character": "タツ姐",
+      "text": "……意外といけるな。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "ビールもいきます？",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "ああ。……にしても、お前の予想はダメだな。3番とか選んでた時点で素人丸出しだ。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "すみません……",
+    "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "次はアタシがもっとちゃんと分析してやる。二人で予想した方が精度上がるだろ。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "それって……また来てくれるってことですか？",
+    "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……うるさい。そんなわけないだろ。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "そうですよね。あ、箸が……",
+    "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "何やってんだ。だらしねぇな。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "ちょっと拾いますね。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "（……ん？）",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "（おおっ……！タツ姐のパンツが……！）",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "（なるほど。水色か……。）",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "……。",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "おい。何にやにやしてんだ？",
+      "characterImage": "tatsu/tatsu_date_sweat.png"
+    },
+    {
+      "character": "player",
+      "text": "いや、水色なんだなって。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……は？……おい。",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "あ。",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "お前、何見てんだ！",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "つい！ つい目に入って……！",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "なにがついだ！ふざけんな！！",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "す、すみません……！あまりに美しかったのでつい見とれてしまいました……！",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……なにいってんだ？",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……もういいよ。で、今日は……まぁ……。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "楽しかったですね。",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "か、勘違いすんじゃねぇぞ！ 勝ったから気分がいいだけだ！",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "お前と一緒だったから楽しかったとか、そういうんじゃねぇからな！",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "player",
+      "text": "（……別にそこまで言ってないんだけどな。）",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "じゃあな。残りの半分、きっちり返せよ。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……来週もちゃんと予約入れとけよ。施術の方な。",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……競馬の方は、アタシのスケジュール見てまた連絡する。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "え、本当ですか？（さっき行かないって言ってたのに……。）",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "……負けっぱなしは性に合わねぇからな。",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（……「また」があるんだな。借金の取り立てとは関係なく。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（借金取りと債務者、か。この関係も、少し変わってきたのかもな。）"
+    }
+  ]
+}

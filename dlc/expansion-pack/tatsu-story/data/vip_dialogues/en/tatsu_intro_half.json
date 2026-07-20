@@ -1,0 +1,530 @@
+{
+  "title": "50% Utang Terbayar - Kencan Balap Kuda",
+  "dialogues": [
+    {
+      "character": "Tatsu-nee",
+      "text": "Yo. Kamu sudah melunasi tepat setengahnya.",
+      "characterImage": "tatsu/tatsu_normal_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "Iya. Berkat kamu.",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Hah. Kamu tidak bilang 'berkat kamu' ke rentenir.",
+      "characterImage": "tatsu/tatsu_normal_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "...Um, Tatsu-nee. Untuk merayakan pelunasan setengahnya, maukah kamu menghabiskan hari liburmu nanti bersamaku?",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Hah?",
+      "characterImage": "tatsu/tatsu_sweat_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "Mungkin berlebihan kalau disebut kencan, tapi... sebagai ucapan terima kasih untuk semuanya.",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...K-kencan?",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "Oh, tidak semewah itu kok. Cuma ke tempat yang seru saja.",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "............",
+      "characterImage": "tatsu/tatsu_closeeyes_suit.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "(Kencan... Apa dia baru saja bilang kencan...?)",
+      "characterImage": "tatsu/tatsu_sweat_suit.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "(Kencan dengan debitur itu gila...! Tapi... katanya tempat yang seru...)",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "(Akuarium...? Taman hiburan...? Atau mungkin restoran dengan pemandangan malam...?)",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Cih. Baiklah. Aku ikut.",
+      "characterImage": "tatsu/tatsu_closeeyes_suit.png"
+    },
+    {
+      "character": "player",
+      "text": "Makasih! Kalau begitu, hari Minggu ya.",
+      "characterImage": "tatsu/tatsu_closemouth_suit.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "B-bukan berarti aku menantikannya atau apa ya!",
+      "characterImage": "tatsu/tatsu_shy_suit.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Oke, dia bilang iya. Hari Minggu di pacuan kuda bersama Tatsu-nee... ini bakal seru.)"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "Pergi ke pacuan kuda",
+          "next": "keiba_start"
+        }
+      ]
+    },
+    {
+      "id": "keiba_start",
+      "character": "Tatsu-nee",
+      "text": "...Hei.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png",
+      "background": "keiba_bg",
+      "changeBGM": "zawameki"
+    },
+    {
+      "character": "player",
+      "text": "Ya?",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Ini pacuan kuda, kan.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "Iya. Aku bilang tempat yang seru, kan?",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "(Apa yang sebenarnya kuharapkan... Kenapa aku dandan sedikit untuk ini...)",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "Aku kadang ke sini buat cari uang tambahan untuk cicilan, tapi rasanya sepi kalau sendirian.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Melunasi utang ke rentenir pakai uang menang pacuan kuda... Kamu sudah gila.",
+      "characterImage": "tatsu/tatsu_date_sweat.png"
+    },
+    {
+      "character": "player",
+      "text": "Hahaha...",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Yah, aku memang suka judi. Kita sudah di sini, jadi ya sudahlah.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Tapi kamu yang bayarin taruhanku ya. Ini kan 'kencan', kan?",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "I-Iya...",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Coba kulihat. Kartu balapannya.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "Ini dia.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "............",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Nomor 6. Nggak perlu lihat paddock segala. Silsilahnya bagus banget.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "Masa sih? Aku tadinya mikir Nomor 3, si pengejar itu--",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Hah? Gaya lari Nomor 3 sama sekali nggak cocok. Lintasan hari ini lagi berat.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "...Kamu beneran paham ginian?",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Kalau sudah kelamaan jalanin bisnis pinjaman, kamu bakal jago analisis data. Menilai kemampuan bayar debitur sama kemampuan kuda -- itu sama saja.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "Analogi macam apa itu...",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Heh. Kita taruhan saja. Nomor 3 pilihanmu lawan Nomor 6 pilihanku. Yang kalah beliin bir.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "Boleh juga.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "Balapan dimulai.",
+      "hideCharacter": true,
+      "changeBGM": "hoserase"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Tikungan terakhir... Ya, Nomor 6 mulai maju...!",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Ayo! Salip mereka! Salip merekaaa!!",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "(Tatsu-nee serius banget... Dia kelihatan lebih serem daripada pas lagi nagih utang...)",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "YEEESSSS!!",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "Tunggu, Nomor 6 menang...!?",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Sudah kubilang! Jangan remehkan mataku dalam menilai bakat!",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Nah sekarang, birnya.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "...Iya, Bu. Aku ambilkan sekarang.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "",
+      "text": "......",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Oke. Selanjutnya, Nomor 8. Taruhan menang.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "Nomor 8? Itu kan unggulan ke-10!",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Justru karena itu. Odds-nya menggiurkan.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "Nggak mungkin, itu terlalu berisiko--",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "......Sudah datang. Itu dia datang. Nomor 8 berhasil masuk.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "player",
+      "text": "Kamu bercanda!?",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "25 banding 1... Heh heh~",
+      "characterImage": "tatsu/tatsu_date_happysmile.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Lihat kan? Data dan insting. Bos rentenir punya penciuman tajam soal uang.",
+      "characterImage": "tatsu/tatsu_date_happysmile.png"
+    },
+    {
+      "character": "player",
+      "text": "...Kamu benar-benar sudah seperti profesional.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Jelaslah. ...Aku menyimpan analisis asliku untuk balapan terakhir. Semua yang tadi itu cuma pemanasan.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "......",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Sialan. Tepat di detik terakhir.",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "Tapi secara keseluruhan kamu masih untung banyak, kan?",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Yah, begitulah.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "Lapar? Ada restoran di dalam area balapan.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png",
+      "changeBGM": "tatsu",
+      "bgmFadeDuration": 3000
+    },
+    {
+      "character": "player",
+      "text": "Aku traktir pakai uang kemenangan kita. Aku juga dapat banyak, berkat pilihanmu.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Hmph. Tentu saja.",
+      "characterImage": "tatsu/tatsu_date_smile.png"
+    },
+    {
+      "character": "",
+      "text": "......",
+      "hideCharacter": true
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Sebenarnya, lumayan juga.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "Mau bir juga?",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Iya. ...Ngomong-ngomong, pilihanmu tadi payah banget. Memilih Nomor 3 itu benar-benar langkah amatiran.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "Maaf...",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Lain kali aku bakal buatkan analisis yang benar buatmu. Prediksi kita bakal lebih akurat kalau kita kerja sama.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "Itu artinya... kamu mau datang lagi?",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Diamlah. Tentu saja tidak.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "Baiklah. Oh, sumpitku...",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Apa yang kamu lakukan? Ceroboh sekali.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "Biar aku ambilkan saja.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "(...Hm?)",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "(Wah...! Celana dalam Tatsu-nee...!)",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "(Begitu ya. Warna biru muda...)",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "player",
+      "text": "......",
+      "cutInImage": "tatsu_panty",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Hei. Kenapa kamu nyengir begitu?",
+      "characterImage": "tatsu/tatsu_date_sweat.png"
+    },
+    {
+      "character": "player",
+      "text": "Enggak, aku cuma lagi mikir... biru muda, ya.",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Hah? ...Hei.",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "Oh.",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Apa-apaan yang kamu lihat itu!",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "Itu kecelakaan! Mataku cuma nggak sengaja tertuju ke sana...!",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Kecelakaan apanya! Jangan macam-macam denganku!!",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "player",
+      "text": "M-maaf...! Itu tadi indah banget sampai aku nggak bisa berhenti menatapnya...!",
+      "characterImage": "tatsu/tatsu_date_angry.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Apa sih yang kamu bicarakan?",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Terserahlah. Jadi, hari ini... yah...",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "player",
+      "text": "Seru, kan?",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "J-jangan salah paham! Aku cuma lagi suasana hati yang bagus karena aku menang!",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Bukan berarti aku senang karena pergi bersamamu atau apa pun itu!",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "player",
+      "text": "(...Aku bahkan nggak bilang sampai segitunya.)",
+      "characterImage": "tatsu/tatsu_date_shy.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Sampai nanti. Lunasi setengah sisanya tanpa gagal.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Pastikan kamu buat janji buat minggu depan juga. Untuk perawatannya.",
+      "characterImage": "tatsu/tatsu_date_closeeyes.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Soal balapan itu, nanti aku cek jadwalku dan kabari kamu lagi.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "text": "Tunggu, beneran? (Dia baru saja bilang nggak akan datang...)",
+      "characterImage": "tatsu/tatsu_date_closemouth.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Aku cuma nggak suka meninggalkan sesuatu dengan kekalahan.",
+      "characterImage": "tatsu/tatsu_date_normal.png"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Berarti bakal ada 'kesempatan berikutnya.' Nggak ada hubungannya sama utang itu.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Rentenir dan debitur, ya. Hubungan ini... mungkin mulai berubah.)"
+    }
+  ]
+}

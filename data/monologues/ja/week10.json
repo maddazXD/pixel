@@ -1,0 +1,30 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（10週目か…ついに大台に乗った）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃんが口コミで広めてくれたおかげで、店は大繁盛だ）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（今日も『夢にまで出てくる施術』と評判らしい）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（まあ、特別な技術を使ってるからな…企業秘密だけど）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（今週もしっかり計画を立てて動かないとな）"
+    }
+  ]
+}

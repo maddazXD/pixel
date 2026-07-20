@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 돌아간 후……)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(부하를 혼내는 중에 손이 부드러워진다고……조직 보스로서는 문제가 있지.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(가게 간판만 봐도 반응하고, 전화 목소리만 들어도 얼굴이 빨개진다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(시각, 청각……오감 전부가 내 시술과 연결되어 버렸다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(그래도 '네 시술은 필요하다'고……오는 것을 멈추지 않는다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('내 몸은 이제 네 거야'……그 말, 진심이었다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(다음 주가 마지막이다. 빚 상환 기한……그리고 이 관계의 행방도.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자, 이번 주는 어떻게 할까……)"
+    }
+  ]
+}

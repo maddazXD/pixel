@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が帰った後……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（肩が軽くなったって言ってくれたな。麻雀3半荘もできたって）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（素直じゃないけど、ちゃんと効果は感じてくれてるみたいだ）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（背中と腰、かなり張ってたな……デスクワークと緊張の蓄積か）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（触れた時のあの反応……身体は正直だ）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（来週も来てくれるなら、もう少し深い部分にアプローチしてみよう）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週はどう過ごそうか……）"
+    }
+  ]
+}

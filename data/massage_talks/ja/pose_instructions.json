@@ -1,0 +1,470 @@
+{
+  "poseInstructions": [
+    {
+      "instructionId": "pose_orientation_front",
+      "instructionName": "仰向けになってもらう",
+      "category": "体位変更",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "front"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "back",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "じゃあナナちゃん、今度は仰向けになってもらえる？前から施術したいから。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_01",
+          "text": "…はい、わかりました…",
+          "voiceFile": "pose_orientation_front_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_back",
+      "instructionName": "うつぶせになってもらう",
+      "category": "体位変更",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "back"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "今度はうつぶせになってもらえる？背中とか肩甲骨周りをほぐしたいから。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_01",
+          "text": "…はい…",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_side",
+      "instructionName": "横向きになってもらう",
+      "category": "体位変更",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "side"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "back"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "横向きになってもらえる？横から施術したいから。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_01",
+          "text": "…はい、横向きですね…",
+          "voiceFile": "pose_orientation_side_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_front",
+      "instructionName": "腕を上げてもらう",
+      "category": "腕の位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "腕を上に上げてもらえる？脇の下とか二の腕の方までほぐしたいから。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "…こんな感じですか？",
+          "voiceFile": "pose_pose_arm_up_front_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "そうそう、その感じ。ありがとう。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_front",
+      "instructionName": "腕を下ろしてもらう",
+      "category": "腕の位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "今度は腕を下ろして楽にしてもらえる？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_01",
+          "text": "…はい…",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_side",
+      "instructionName": "腕を上げてもらう（横向き）",
+      "category": "腕の位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "腕を上げてもらえる？脇とお腹の方もマッサージしたいから。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "…こんな感じですか？",
+          "voiceFile": "pose_pose_arm_up_front_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "そうそう、その感じでお願い。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_side",
+      "instructionName": "腕を下ろしてもらう（横向き）",
+      "category": "腕の位置",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "腕を下ろして楽にしてもらえる？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_01",
+          "text": "…はい…",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_paizuri",
+      "instructionName": "胸を寄せてもらう（パイズリポーズ）",
+      "category": "特殊姿勢",
+      "priority": 6,
+      "targetPose": {
+        "armPose": "paizuri"
+      },
+      "conditions": {
+        "minTrustLevel": 4,
+        "minDevelopLevel": 3,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ちょっと胸を寄せるような感じで腕を内側にしてもらえる？デコルテのマッサージをしたいから。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_01",
+          "text": "え…胸を…？こ、こんな感じですか…？",
+          "voiceFile": "pose_pose_arm_paizuri_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "そう、その姿勢。ありがとう。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_front",
+      "instructionName": "脚を開いてもらう",
+      "category": "脚の位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 3,
+        "minDevelopLevel": 2,
+        "currentOrientation": "front",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "次は太ももの内側もほぐしていきたいんだけど…"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ちょっと脚を開いてもらってもいい？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "わかりました…",
+          "voiceFile": "pose_leg_open_front_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_back",
+      "instructionName": "脚を開いてもらう",
+      "category": "脚の位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 2,
+        "currentOrientation": "back",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "次は太ももの内側もほぐしていきたいんだけど…"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ちょっと脚を開いてもらってもいい？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "わかりました…",
+          "voiceFile": "pose_leg_open_front_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_front",
+      "instructionName": "脚を閉じてもらう",
+      "category": "脚の位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "currentLegPose": "open",
+        "states": [
+          "normal",
+          "sleepy",
+          "sleeping"
+        ]
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "脚を閉じてもらえるかな？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_01",
+          "text": "はい…",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_back",
+      "instructionName": "脚を閉じてもらう",
+      "category": "脚の位置",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "脚を閉じてもらえるかな？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_01",
+          "text": "はい…",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_hipup_open",
+      "instructionName": "お尻を上げて脚を開いてもらう",
+      "category": "特殊姿勢",
+      "priority": 4,
+      "targetPose": {
+        "legPose": "hipup_open"
+      },
+      "conditions": {
+        "minTrustLevel": 5,
+        "minDevelopLevel": 4,
+        "currentOrientation": "back",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ちょっとお尻を上げて、膝立ちみたいな感じになってもらえる？腰回りを集中的にやりたいから。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_01",
+          "text": "え…こ、こんな恥ずかしい格好…",
+          "voiceFile": "pose_pose_leg_hipuup_open_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "治療のためだから。ありがとう。"
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_normal_from_hipup",
+      "instructionName": "楽な姿勢に戻してもらう",
+      "category": "脚の位置",
+      "priority": 8,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "hipup_open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "じゃあ、楽な姿勢に戻していいよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_01",
+          "text": "はい…",
+          "voiceFile": "pose_orientation_back_001"
+        }
+      ]
+    },
+    {
+      "instructionId": "wake_up",
+      "instructionName": "ナナちゃんを起こす",
+      "category": "その他",
+      "priority": 1,
+      "targetPose": null,
+      "effect": "wake_up",
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "displayMode": "sleeping-only"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃん、起きてもらっていい？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleeping_01",
+          "text": "ん…ふぁ…あ、すみません…寝ちゃってました…",
+          "voiceFile": "pose_wake_up_001"
+        }
+      ]
+    }
+  ]
+}

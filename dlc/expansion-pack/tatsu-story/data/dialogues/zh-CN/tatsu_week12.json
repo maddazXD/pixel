@@ -1,0 +1,517 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──第12周的早晨。\n经过三个月的治疗，龙姐和整体师之间的关系，已经变得非常特别了。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（第12周……下周就是一个节点了。和龙姐的关系，之后会怎样呢……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（很顺利……债务马上就能还清了。这都是多亏了龙姐……）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……嗯。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "龙姐！……等等，你今天好像有点不对劲。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……没什么。很正常。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "可是您脸很红啊？是不是发烧了？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……不是。就是……发生了点丢人的事……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "丢人的事？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……那个……在店门口……来来回回走了好几遍。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "诶？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "今天的预约本来是两小时之后的……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……等不了……就在这附近一直转悠……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "整整两个小时……！？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……大概经过了五次……店门口……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "司机问了我三次'大姐，咱们去哪儿啊？'……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完全上瘾了啊……好可爱……）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "别笑……！我也……这种事还是第一次……！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "我没笑啊。这说明您真的很期待我的治疗嘛。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……不只是期待……已经……是必需品了……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "没有你的治疗……就安静不下来……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "龙姐……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……还有啊。更丢人的事……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "还有更丢人的？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……昨晚……泡澡的时候……想了些奇怪的事。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "奇怪的事？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……如果……你有十只手的话……会怎样……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "十只……！？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……如果同时触摸全身的话……会是什么感觉呢……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……等回过神来的时候……在浴缸里……一个人……那个……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（光靠幻想就高潮了……被开发到这种程度了啊……）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "angry",
+      "text": "……所以说！都怪你！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "抱歉。不过这说明龙姐的身体变得更加坦诚了。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……太坦诚了……作为组织的老大……很危险……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "组织的工作还好吧？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……嗯。勉强还行。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……可是开会的时候……也会想起你。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "手下在认真汇报的时候……脑子里……在回忆你的治疗……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（脑子里全是我啊……）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……喂。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "嗯？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……在你面前的话……肩膀上的力气就卸下来了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "诶？"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "当组织的老大……必须时刻保持警惕。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "不能露出软弱的一面……谁也不能信任……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……但是……在你面前……不知为什么……很安心。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "龙姐……"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……只有在你面前……才能展现真实的自己。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……那些丢人的事……你也全都……知道了嘛……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "gentle",
+      "text": "我会接受龙姐的一切。无论是作为组织的老大，还是作为一个女人。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……谢了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……不过，别误会啊？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……这只是……身体保养而已。……就这样……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "好好好。我知道的。"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（不过这种傲娇真的好可爱啊……）"
+    },
+    {
+      "id": "choice_massage12",
+      "character": "player",
+      "expression": "normal",
+      "text": "对我来说，龙姐是……",
+      "choices": [
+        {
+          "label": "无可替代的重要之人",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "precious_path"
+        },
+        {
+          "label": "最棒的客人",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "customer_path"
+        },
+        {
+          "label": "已经完全属于我了呢",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "mine_path"
+        }
+      ]
+    },
+    {
+      "id": "precious_path",
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……重要……别说那种话啦……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "可这是真心话。因为有龙姐，我才能走到这一步。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……我也……很高兴遇到了你。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……以后也……多多关照了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "嗯。我也是。",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "customer_path",
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "最棒的客人啊……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "smile",
+      "text": "哼。我也觉得你是最棒的整体师。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "谢谢。今后也会好好照顾龙姐的。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "嗯。期待你的表现。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（作为专业人士，这是很好的关系……）",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "mine_path",
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……属于你……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "没错吧？已经离不开我的治疗了。光听到我的声音就会湿掉。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……那是……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "已经完全变成我专用的身体了哦。龙姐。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "……该死……我承认……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……我的身体……已经……是你专用的了……",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完美……你已经逃不掉了，龙姐……）",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "normal",
+      "text": "那么，今天也开始治疗吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……嗯。……好好地……拜托了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "龙姐开始换衣服",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "（……提前两个小时就在附近转悠……太丢人了……）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "embarrassed",
+      "text": "（……但是……这是事实啊……你的治疗……已经……成为生活的一部分了……）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "（……以后……会变成什么样呢……我……）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（龙姐……开始说心里话了啊……真高兴。）"
+    },
+    {
+      "character": "龙姐",
+      "expression": "normal",
+      "text": "……换好了。",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "今天也很好看呢。那么，开始吧。"
+    },
+    {
+      "character": "龙姐",
+      "expression": "shy",
+      "text": "……嗯。……今天也……拜托你了。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "交给我吧。龙姐的一切，我都会好好承接的。"
+    }
+  ]
+}

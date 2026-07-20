@@ -1,0 +1,293 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3ヶ月後。\n整体院は順調に営業していた。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "先生…こんにちは…",
+      "voiceFile": "ending_develop_max_001"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ナナちゃん。今週も来たんだね。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "はい…その…また…お願いしたくて…",
+      "voiceFile": "ending_develop_max_002"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "もう、肩こりはよくなったと思うけど…まだ通ってくれるんだね。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "ぅ……その…身体が…求めちゃってるんです…",
+      "voiceFile": "ending_develop_max_003"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "普通のマッサージじゃ…もう…物足りないんです…",
+      "voiceFile": "ending_develop_max_004"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "そっか。今日もいつものコース？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "…はい。お願いします。",
+      "voiceFile": "ending_develop_max_005"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──施術中"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "outfit": "naked",
+      "text": "んっ…♡ああっ…♡",
+      "voiceFile": "ending_develop_max_006"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "もう身体がすぐ反応するようになったね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "は、恥ずかしいです…こんなに…すぐに…",
+      "voiceFile": "ending_develop_max_007"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "でも気持ちいいんでしょ？"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "…はい…気持ち…いいです…",
+      "voiceFile": "ending_develop_max_008"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──しばらくして"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "はぁ…はぁ…♡",
+      "voiceFile": "ending_develop_max_009"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "今日もよく感じてたね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの……",
+      "voiceFile": "ending_develop_max_010"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ん？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "…お礼に…私も…先生にマッサージ…していいですか…？",
+      "voiceFile": "ending_develop_max_011"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "え？ナナちゃんが俺に？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "は、はい…いつも気持ちよくしてもらってるから…",
+      "voiceFile": "ending_develop_max_012"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "私も…先生を…気持ちよくしたくて…",
+      "voiceFile": "ending_develop_max_013"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "そっか。じゃあ…お願いしようかな。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "はい…お口で…先生のを…マッサージしますね…",
+      "voiceFile": "ending_develop_max_014"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "え？口で？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あんまり…うまくできるか分からないですけど……",
+      "voiceFile": "ending_develop_max_015"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（自分からそこまで…完全に堕ちたな…）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "ナナちゃんが恥ずかしそうに、ズボンに手を伸ばしてくる。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "…失礼します…",
+      "voiceFile": "ending_develop_max_016"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "ナナちゃんは少し震える手で、俺のちんぽを取り出した。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "ぁ…もう…こんなに…♡",
+      "voiceFile": "ending_develop_max_017"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "…んむ…",
+      "voiceFile": "ending_develop_max_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "んっ、ふぅ…。れろっ…あむ……んちゅっ…♡ れろ……んっ…むちゅっ…♡",
+      "voiceFile": "ending_develop_max_019"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（こんなに一生懸命にしてくれて…可愛いな…）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "…ぷはっ…♡",
+      "voiceFile": "ending_develop_max_020"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "先生…どう…でしたか…？",
+      "voiceFile": "ending_develop_max_021"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "すごく気持ちよかったよ。ナナちゃん、ありがとう。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_happysmile",
+      "text": "よかったです…",
+      "voiceFile": "ending_develop_max_022"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "ナナちゃんが恥ずかしそうに、でも期待した目でこちらを見つめている。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…先生…",
+      "voiceFile": "ending_develop_max_023"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ん？"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "次は……お…おまんこで、マッサージ…してもいいですか…？",
+      "voiceFile": "ending_develop_max_024"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ほぉ。ついに自分からそんなこと言うようになったんだね。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "だって……身体が…疼いて…我慢できないんです…",
+      "voiceFile": "ending_develop_max_025"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "しょうがないな。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "ありがとうございます…♡",
+      "voiceFile": "ending_develop_max_026"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "ナナちゃんの身体は完全に開発され、快楽なしでは満足できなくなっていた。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "恥ずかしがりながらも、自分から求めてしまう。\nそれは信頼関係というよりも、身体が求める本能的な欲求だった。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【DEVELOP MAX END - 開発された身体】",
+      "triggerEnding": "develop_max"
+    }
+  ]
+}

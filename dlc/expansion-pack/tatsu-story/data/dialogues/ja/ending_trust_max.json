@@ -1,0 +1,519 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3ヶ月後。\nその日は、施術の予約が入っていない日だった。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "いらっしゃ…タツ姐？今日は予約入ってないですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…別に。近くに来たから寄っただけだ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（近くに来た…？このへん、闇金の取引先なんてないだろ…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "お茶でも出しますか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…ああ。もらう。",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "タツ姐は施術台じゃなく、待合室のソファにどかっと座った。\nいつものスーツ姿だけど、どこか疲れた顔をしている。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "どうぞ。…何かありました？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…別に。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…………。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "……………。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…部下に裏切られた。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…………。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "3年も面倒見てやった奴が、金持って飛びやがった。取引先も2つ持ってかれた。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…金はどうでもいい。取引先もまた作りゃいい。でもよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…信じてた奴に裏切られんのは、何回やってもキツいな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（…タツ姐がこんな顔するの、初めて見た。闇金の社長として、いつも強くいなきゃいけない人が…。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…タツ姐。施術しましょうか。予約空いてますし。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…いいのか。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "身体がガチガチですよ、たぶん。ストレスは全部筋肉にきますからね。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──施術中"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…やっぱり。肩も首も背中も、全部パンパンに張ってる。相当溜め込んでたでしょう。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…ん…。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ここ、押しますね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…っ。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "（…腰のあたりでビクってなった。あの12週間の条件反射、まだ残ってるんだな…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…………。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…なぁ。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "はい。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…アタシ、親父がいねぇんだよ。ガキの頃にいなくなった。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…………。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "だから全部一人で決めてきた。金のことも、人のことも。相談できる相手なんていなかった。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "社長になってからは尚更だ。弱みを見せたら終わりだからな。部下の前で弱音なんて吐けるわけねぇ。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "（…タツ姐が、こんな話をしてくれるなんて。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…なのにさ。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "なんでかお前の前だと、こうやってベラベラ喋っちまうんだよ。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…施術中って、不思議と本音が出やすいんですよ。身体がほぐれると、心もほぐれるんです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…上手いこと言いやがって。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "ここは施術台の上ですから。何を言っても外には漏れません。俺が保証します。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…………。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…お前、アニキみてぇだな。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…アニキ？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…いや、なんつーか…。何があっても動じねぇし、黙って話聞いてくれるし。こういう奴が家族にいたら、アタシもう少し楽に生きれたんだろうなって…。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "（…闇金の社長に「アニキ」って呼ばれる日が来るとは思わなかったな。）"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…光栄です。じゃあ、アニキとして言わせてもらいますけど。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…なんだよ。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "裏切った奴のことは、タツ姐の人を見る目が間違ってたんじゃないですよ。信じられるタツ姐だから、人がついてくるんです。たまたまハズレを引いただけ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closemouth",
+      "text": "…………。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…ったく。お前に言われると、なんか信じちまうんだよな。",
+      "outfit": "bikini"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──施術後"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "ふぅ…。ああ、だいぶ楽になった。身体も頭も。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "それは良かったです。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…あとよ。ウチの若いのが身体ボロボロなんだ。取り立てで走り回ってるから、肩も腰もガタガタでよ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "お前んとこ、紹介してもいいか？",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "もちろんです。喜んで診ますよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "そうか。来週から何人か連れてくる。金はちゃんと払わせるからな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（闇金の社長が部下を連れてくる…。ありがたいけど、黒塗りの車で乗りつけるのだけは勘弁してほしいな…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "…あとよ。あの時の買収話、まだ生きてるからな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "勘弁してくださいよ。あの時は机バンッてされて心臓止まるかと思いました。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "closeeyes",
+      "text": "ふっ。冗談だ。…半分な。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（半分冗談ってことは半分本気ってことだよな…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "…まぁでもよ。マジで困ったことがあったら言えよ。金でも人でも、何とかしてやる。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…ありがとうございます。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "感謝とかいらねぇよ。アニキに借りがあるだけだ。…身体も、それ以外も。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "（…素直に「心配してる」って言えないところ。でも、さっき施術台で見せてくれた顔を知ってるから、それで十分だ。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "じゃあな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "はい。…またいつでも来てください。予約なくても大丈夫ですから。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "ヤス",
+      "hideCharacter": true,
+      "text": "姐さん！お迎えに上がりました！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "おう。ちょっと待ってろ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "ヤス",
+      "hideCharacter": true,
+      "text": "…あっ。もしかしてアンタが、姐さんがいつも通ってるっていう…。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "あ、はい。整体師の…"
+    },
+    {
+      "character": "ヤス",
+      "hideCharacter": true,
+      "text": "アニキ！っすね！いやー、姐さんが毎週欠かさず通うなんて初めてなんで、俺ら皆気になってたんすよ！"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…え？アニキ…？"
+    },
+    {
+      "character": "ヤス",
+      "hideCharacter": true,
+      "text": "姐さんのコレっしょ？"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "ヤスは小指を立ててニヤニヤしている。"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "いや、違いますよ…？ただの施術師と患者で…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "ッ…！バカッ！！違ぇよ！！",
+      "outfit": "suit"
+    },
+    {
+      "character": "ヤス",
+      "hideCharacter": true,
+      "text": "え〜？だって姐さん、ここ行く前いっつもソワソワしてるし、帰ってきたら機嫌いいし…"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "ヤス。車。今すぐ。口閉じろ。",
+      "outfit": "suit"
+    },
+    {
+      "character": "ヤス",
+      "hideCharacter": true,
+      "text": "は、はいっ！すんません！…アニキ、姐さんをよろしくお願いしやす！"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "ヤスッ！！",
+      "outfit": "suit"
+    },
+    {
+      "character": "ヤス",
+      "hideCharacter": true,
+      "text": "うひゃっ！行きます行きます！"
+    },
+    {
+      "character": "player",
+      "text": "（…完全に恋人だと思われてる…。タツ姐、真っ赤だな…。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "…あいつの言ったことは全部忘れろ。いいな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…はい。"
+    },
+    {
+      "character": "player",
+      "text": "（…ソワソワしてるのか、ここに来る前。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "…っ。…じゃあな。来週もな。",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "はい。来週も。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "タツ姐の背中を見送りながら、ふと思う。"
+    },
+    {
+      "character": "player",
+      "text": "（あの12週間。身体のどこを触れば声が漏れるか、全部覚えてしまった。）"
+    },
+    {
+      "character": "player",
+      "text": "（…もっと踏み込んでいたら、ヤスの勘違いも勘違いじゃなくなってたのかな。）"
+    },
+    {
+      "character": "player",
+      "text": "（…でも、あの人が唯一弱音を吐ける場所でいられるなら、それでいい。）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "毎週の施術と、たまに予約なしでふらっと来る日。\n部下を紹介してくれたおかげで、経営も安定してきた。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "闇金の社長が唯一素を見せる場所。\nその部下たちには、なぜか「アニキ」と呼ばれている。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "…ヤスの勘違いと、あの12週間で覚えた身体の記憶は、\n施術台の上だけの秘密にしておこう。",
+      "triggerEnding": "trust_max"
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "gift_flowers": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_smile_openmouth",
+        "text": "わあ…！綺麗なお花ですね。",
+        "voiceFile": "gift_flowers_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "ナナちゃんに似合うと思って選んだんだ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_openmouth",
+        "text": "え？私に…ですか？",
+        "voiceFile": "gift_flowers_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "いつも頑張ってるナナちゃんに、感謝の気持ちを込めて。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_happysmile",
+        "text": "ありがとうございます。大切に飾りますね…。",
+        "voiceFile": "gift_flowers_003"
+      }
+    ]
+  },
+  "gift_matcha_chocolate": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_smile_openmouth",
+        "text": "わあ！抹茶のチョコレートですか？",
+        "voiceFile": "gift_matcha_chocolate_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "うん。京都の有名なお店の宇治抹茶を使ってるんだって。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_happysmile",
+        "text": "私、抹茶が大好きなんです…！ありがとうございます！",
+        "voiceFile": "gift_matcha_chocolate_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_happysmile",
+        "text": "喜んでもらえて嬉しいよ。疲れた時に食べてね。"
+      }
+    ]
+  },
+  "gift_headphones": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_openmouth",
+        "text": "ヘッドホン…？しかもすごく高そうな…",
+        "voiceFile": "gift_headphones_001"
+      },
+      {
+        "character": "ナナ",
+        "expression": "doubt_openmouth_sweat",
+        "text": "これ、本当に私がもらっていいんですか？",
+        "voiceFile": "gift_headphones_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "もちろん。ナナちゃんに使ってほしいんだ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_smile",
+        "text": "ピアノの練習で使わせていただきますね。音質がすごく良さそう…",
+        "voiceFile": "gift_headphones_003"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_happysmile",
+        "text": "本当にありがとうございます…！",
+        "voiceFile": "gift_headphones_004"
+      }
+    ]
+  },
+  "gift_music_box": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_smile_openmouth",
+        "text": "オルゴール…？わあ、綺麗な音色…",
+        "voiceFile": "gift_music_box_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "ナナちゃんの優しい雰囲気に合うと思って選んだんだ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_closeeyes_smile",
+        "text": "このメロディー、心が落ち着きます…",
+        "voiceFile": "gift_music_box_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closeeyes_smile",
+        "text": "寝る前に聴くと、きっといい夢が見られるよ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_smile",
+        "text": "大切にします…。ありがとうございます。",
+        "voiceFile": "gift_music_box_003"
+      }
+    ]
+  },
+  "gift_posture_support": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_openmouth",
+        "text": "これは…姿勢矯正サポーター？",
+        "voiceFile": "gift_posture_support_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "ちょっと姿勢が気になってね。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_nervoussmile",
+        "text": "私の姿勢の悪さ、気づいてくださってたんですね…",
+        "voiceFile": "gift_posture_support_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_nervoussmile",
+        "text": "体のプロとして、ナナちゃんの健康が心配なんだ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_smile_openmouth",
+        "text": "勉強中に使わせていただきます。ありがとうございます！",
+        "voiceFile": "gift_posture_support_003"
+      }
+    ]
+  },
+  "gift_book_stand": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_smile_openmouth",
+        "text": "ブックスタンドですか…？おしゃれでかわいいですね。",
+        "voiceFile": "gift_book_stand_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "読書好きなナナちゃんの首を守りたくて。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_smile",
+        "text": "読書のときに首が痛くなることがあったので、嬉しいです。",
+        "voiceFile": "gift_book_stand_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "これで長時間の読書も快適になるよ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_happysmile",
+        "text": "ありがとうございます。",
+        "voiceFile": "gift_book_stand_003"
+      }
+    ]
+  },
+  "gift_black_lingerie": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "え…？これ…下着…？",
+        "voiceFile": "gift_black_lingerie_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "特別な機能性下着だよ。リンパの流れを良くする設計になってるんだ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_openmouth",
+        "text": "し、しかも…す、透けてる…！",
+        "voiceFile": "gift_black_lingerie_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "通気性が大事だからね。ムレないように透け感のある素材を使ってるんだよ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "こ、こんなの受け取れません！",
+        "voiceFile": "gift_black_lingerie_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "遠慮しないで。ナナちゃんがこれを着けてる姿、見てみたいな…"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_lookaway_openmouth",
+        "text": "え…？そ、それは…",
+        "voiceFile": "gift_black_lingerie_004"
+      }
+    ]
+  },
+  "gift_pink_rotor": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_smile",
+        "text": "わぁ…ピンク色で可愛い…",
+        "voiceFile": "gift_pink_rotor_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "小型マッサージ機だよ。普段の施術でも使ってる、ちゃんとしたやつ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_openmouth",
+        "text": "わ、これ、振動するんですね。ブルブルって…",
+        "voiceFile": "gift_pink_rotor_002"
+      },
+      {
+        "character": "ナナ",
+        "expression": "doubt_openmouth_sweat",
+        "text": "どこに使うんですか…？",
+        "voiceFile": "gift_pink_rotor_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_openmouth_sweat",
+        "text": "肩とか首筋とか…あと、クリ…えーっと、陰核に当てると特に効果的だよ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "い、陰核…？",
+        "voiceFile": "gift_pink_rotor_004"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "リンパが集中してるから、こを振動でマッサージすると…"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "全身の血流が良くなって、すごく気持ちいいよ。試してみて。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_openmouth",
+        "text": "き、気持ちいい…？",
+        "voiceFile": "gift_pink_rotor_005"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_closemouth",
+        "text": "……",
+        "voiceFile": "gift_pink_rotor_006"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "お風呂上がりとか、寝る前に使うと効果的だよ。下着の上からでもいいから。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "し、下着の上から…？",
+        "voiceFile": "gift_pink_rotor_007"
+      }
+    ]
+  },
+  "gift_custom_dildo": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "これ…もしかして…お、おちん…",
+        "voiceFile": "gift_custom_dildo_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "そう！俺のちん…じゃなくて、特別マッサージ器具を型取りして作ったんだ！"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_closemouth",
+        "text": "……",
+        "voiceFile": "gift_custom_dildo_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "これがあれば、いつでも自分で深部マッサージができるよ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_openmouth",
+        "text": "じ、自分で…ですか…？",
+        "voiceFile": "gift_custom_dildo_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "そう！寂しい時とか、体が疼いた時に使ってみて。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_lookaway",
+        "text": "……",
+        "voiceFile": "gift_custom_dildo_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_lookaway",
+        "text": "（今夜あたりさっそく使ったりするのかな…ぐふふ…）"
+      }
+    ]
+  },
+  "gift_massage_av": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_openmouth",
+        "text": "これ…DVD…？",
+        "voiceFile": "gift_massage_av_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "整体マッサージの教材DVDだよ。プロの技術が学べるんだ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "doubt_openmouth_sweat",
+        "text": "でも…パッケージの女の人…なんだか変な顔してますけど…",
+        "voiceFile": "gift_massage_av_002"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "それは施術が気持ちよすぎて、ああいう表情になっちゃうんだよ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "doubt_openmouth_sweat",
+        "text": "『変態整体師の手技』って書いてますけど…",
+        "voiceFile": "gift_massage_av_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "そう、有名な教材シリーズなんだ。Vol.7は特に評判が良くてね。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "他のも…あるんですか？",
+        "voiceFile": "gift_massage_av_004"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "全部で20巻以上出てるよ。でもVol.7が一番おすすめ。女子高生への施術が丁寧に解説されてるから。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "doubt_openmouth_sweat",
+        "text": "そ、そうなんですか…",
+        "voiceFile": "gift_massage_av_005"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "今度家で一人でゆっくり見てみて。施術の参考になるから。"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "感想も聞かせてね。どのシーンが一番参考になったか。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "か、感想…？",
+        "voiceFile": "gift_massage_av_006"
+      }
+    ]
+  },
+  "gift_teddy_bear": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_happysmile",
+        "text": "わあ！可愛いクマさん…！",
+        "voiceFile": "gift_teddy_bear_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_happysmile",
+        "text": "ナナちゃんの部屋に置いてもらえたらと思って。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_smile_openmouth",
+        "text": "ふわふわで気持ちいい…！抱きしめて寝たくなっちゃいます。",
+        "voiceFile": "gift_teddy_bear_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "疲れた時とか寂しい時に、抱きしめてもらえたら嬉しいな。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_happysmile",
+        "text": "はい…！ありがとうございます。",
+        "voiceFile": "gift_teddy_bear_003"
+      }
+    ]
+  },
+  "gift_aroma_diffuser": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_smile_openmouth",
+        "text": "アロマディフューザー…？わあ、おしゃれなデザイン…",
+        "voiceFile": "gift_aroma_diffuser_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "勉強で疲れた時にリラックスできるようにと思って。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_happysmile",
+        "text": "私、アロマの香りが大好きなんです…！",
+        "voiceFile": "gift_aroma_diffuser_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_happysmile",
+        "text": "ラベンダーとかカモミールのオイルも一緒に入ってるよ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_smile",
+        "text": "ありがとうございます…！部屋がいい香りになりそう。",
+        "voiceFile": "gift_aroma_diffuser_003"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile",
+        "text": "睡眠の質も良くなるから、ゆっくり休んでね。"
+      }
+    ]
+  },
+  "gift_eye_mask": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_openmouth",
+        "text": "アイマスク…？",
+        "voiceFile": "gift_eye_mask_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "勉強で目が疲れてるみたいだから、これで休めてもらえたらと思って。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_smile_openmouth",
+        "text": "デザインも可愛い…！それに、いい香りがします。",
+        "voiceFile": "gift_eye_mask_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_smile_openmouth",
+        "text": "ラベンダーの香り付きなんだ。リラックス効果があるんだって。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_smile",
+        "text": "最近、目が疲れやすくて…本当に助かります。",
+        "voiceFile": "gift_eye_mask_003"
+      }
+    ]
+  },
+  "gift_luxury_bag": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "え…？これって…",
+        "voiceFile": "gift_luxury_bag_001"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "ナナちゃんに似合うと思って。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "doubt_openmouth_sweat",
+        "text": "あの…これ、相当高価なものですよね…？",
+        "voiceFile": "gift_luxury_bag_002"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "まあ、ちょっと奮発しちゃったかな。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "doubt_openmouth_sweat",
+        "text": "こ、こんな高価なもの……いただけないですよ…",
+        "voiceFile": "gift_luxury_bag_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "いいんだよ。ナナちゃんに使ってもらいたいんだ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_openmouth",
+        "text": "ありがとうございます…でも、なんだか申し訳なくて…",
+        "voiceFile": "gift_luxury_bag_004"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "ナナちゃんが喜んでくれたら、それでいいんだ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_happysmile",
+        "text": "ありがとうございます…本当に、本当に嬉しいです…",
+        "voiceFile": "gift_luxury_bag_005"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_happysmile",
+        "text": "大切にしますね…！",
+        "voiceFile": "gift_luxury_bag_006"
+      }
+    ]
+  },
+  "gift_vibrator": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "normal_openmouth",
+        "text": "これ…何ですか…？",
+        "voiceFile": "gift_vibrator_001"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "電動マッサージ器だよ。肩こりとか腰痛に効くんだ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "normal_openmouth",
+        "text": "電動…マッサージ器…？",
+        "voiceFile": "gift_vibrator_002"
+      },
+      {
+        "character": "player",
+        "expression": "normal_closemouth",
+        "text": "振動が強力だから、凝ってる部分に当てると気持ちいいよ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "doubt_openmouth_sweat",
+        "text": "でも…なんだか形が…",
+        "voiceFile": "gift_vibrator_003"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "人間工学に基づいたデザインなんだって。全身どこでも使えるよ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "doubt_openmouth_sweat",
+        "text": "全身…どこでも…？",
+        "voiceFile": "gift_vibrator_004"
+      },
+      {
+        "character": "player",
+        "expression": "doubt_closemouth_sweat",
+        "text": "うん。特に敏感な部分に使うと、すごくリラックスできるらしいよ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "び、敏感な…部分…？",
+        "voiceFile": "gift_vibrator_005"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "一人の時にゆっくり試してみて。使い方は説明書に書いてあるから。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_lookaway",
+        "text": "は、はい…",
+        "voiceFile": "gift_vibrator_006"
+      }
+    ]
+  },
+  "gift_diamond_ring_rejected": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "え…！？これって…ダイヤモンドの指輪…！？",
+        "voiceFile": "gift_diamond_ring_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "うん！頑張ってお金貯めて買ったんだ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_openmouth",
+        "text": "こ…これを私に……？",
+        "voiceFile": "gift_diamond_ring_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "ナナちゃんに似合うと思って。"
+      },
+      {
+        "character": "player",
+        "expression": "blush_openmouth",
+        "text": "受け取ってくれるかな？"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_closeeyes_closemouth",
+        "text": "えっと……その……すみません…",
+        "voiceFile": "gift_diamond_ring_rejected_001"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_lookaway_openmouth",
+        "text": "お気持ちは嬉しいですが……受け取れません…",
+        "voiceFile": "gift_diamond_ring_rejected_002"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_openmouth",
+        "text": "こういうのは、大切な方にあげた方がいいと思います…",
+        "voiceFile": "gift_diamond_ring_rejected_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "え……"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closeeyes_closemouth",
+        "text": "（…嘘だろ……、信頼レベルが足りなかったか…）"
+      }
+    ]
+  },
+  "gift_diamond_ring_accepted": {
+    "dialogues": [
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "え…！？これって…ダイヤモンドの指輪…！？",
+        "voiceFile": "gift_diamond_ring_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "うん！頑張ってお金貯めて買ったんだ。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_openmouth",
+        "text": "こ…これを私に……？",
+        "voiceFile": "gift_diamond_ring_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "ナナちゃんに似合うと思って。"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "受け取ってくれるかな？"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_openmouth",
+        "text": "そ、そんな……本当に良いんですか？",
+        "voiceFile": "gift_diamond_ring_accepted_001"
+      },
+      {
+        "character": "player",
+        "expression": "blush_closemouth",
+        "text": "うん。ナナちゃんのために買ったものだから。"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_happysmile",
+        "text": "…ありがとうございます。嬉しいです…",
+        "voiceFile": "gift_diamond_ring_accepted_002"
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "つけてあげるね。手を出して。"
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "左手の薬指に…"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_surprised_sweat",
+        "text": "え！？そ、そこは…",
+        "voiceFile": "gift_diamond_ring_accepted_003"
+      },
+      {
+        "character": "player",
+        "expression": "blush_surprised_sweat",
+        "text": "（そっと薬指に指輪をはめる）",
+        "cutInImage": "diamond_ring"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_nervoussmile",
+        "text": "わあ…ぴったり…",
+        "cutInImage": "diamond_ring",
+        "voiceFile": "gift_diamond_ring_accepted_004"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_nervoussmile",
+        "text": "綺麗ですね…キラキラしてる…",
+        "cutInImage": "diamond_ring",
+        "voiceFile": "gift_diamond_ring_accepted_005"
+      },
+      {
+        "character": "ナナ",
+        "expression": "blush_happysmile",
+        "text": "本当にありがとうございます。大切にしますね…",
+        "voiceFile": "gift_diamond_ring_accepted_006"
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "（やった！！これでナナちゃんと結婚できるかな…ふふ…）"
+      },
+      {
+        "character": "player",
+        "expression": "blush_happysmile",
+        "text": "（薬指には指輪をはめて…ついでに俺のちんぽもハメるか！？なんつって…ぐへへへ…）"
+      }
+    ]
+  }
+}

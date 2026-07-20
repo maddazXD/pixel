@@ -1,0 +1,71 @@
+[
+  {
+    "id": "normal",
+    "state": "normal",
+    "texts": [
+      "(...Tempat yang lumayan juga.)",
+      "(Sudah lama sekali sejak terakhir kali aku pijat...)",
+      "(Badanku mulai terasa agak enakan...)",
+      "(...Rasanya cukup rileks di sini.)",
+      "(Yah... kurasa sesekali begini tidak buruk juga.)",
+      "(Bahu-ku tadi benar-benar kaku...)",
+      "(Terapis ini punya keahlian yang bagus...)"
+    ]
+  },
+  {
+    "id": "sleepy",
+    "state": "sleepy",
+    "texts": [
+      "(Kelopak mataku terasa berat... sial...)",
+      "(Tertidur di sini bakal memalukan... tapi aku mengantuk sekali...)",
+      "(Semuanya terasa melayang... rasanya enak...)",
+      "(Aku hampir kehilangan kesadaran...)",
+      "(Tidak boleh tertidur di tempat seperti ini...)"
+    ]
+  },
+  {
+    "id": "sleeping",
+    "state": "sleeping",
+    "texts": [
+      "(Zzz...)",
+      "(Mmm...)",
+      "(...haa...)",
+      "(Gumam...)"
+    ]
+  },
+  {
+    "id": "alert",
+    "state": "alert",
+    "texts": [
+      "(Hei, hei... apa yang sedang kamu coba lakukan?)",
+      "(...Apa aku benar-benar bisa mempercayai orang ini?)",
+      "(Tunggu dulu... seriusan?)",
+      "(Apa aku pergi saja ya...?)",
+      "(Ada sesuatu yang terasa aneh di sini...)"
+    ]
+  },
+  {
+    "id": "pleasure",
+    "state": "pleasure",
+    "texts": [
+      "(Ngh... apa ini...)",
+      "(Aku tidak mau mereka berpikir kalau aku... menikmatinya...)",
+      "(Tubuhku... panas sekali...)",
+      "(Ini benar-benar... gawat...)",
+      "(...Bukan berarti aku ingin mereka menyentuhku lebih jauh atau apa pun itu...)",
+      "(Ini cuma... pijatan... kan...?)"
+    ]
+  },
+  {
+    "id": "climax",
+    "state": "climax",
+    "texts": [
+      "(Sial... pikiranku jadi kosong... ♡)",
+      "(Aku tidak tahan lagi... ♡)",
+      "(Tubuhku bergerak sendiri... ♡)",
+      "(Aku belum pernah merasakan... hal seperti ini... ♡)",
+      "(Dari pijatan... bisa jadi seperti ini... ♡)",
+      "(Ini memalukan sekali... ♡)"
+    ]
+  }
+]

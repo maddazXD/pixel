@@ -1,0 +1,526 @@
+[
+  {
+    "id": "tatsu_trust_level_2",
+    "triggerType": "trustLevel",
+    "triggerCondition": {
+      "trustLevel": 2
+    },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Yah, setelah sesi terakhir, rasanya memang agak mendingan, kurasa."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Benarkah? Aku senang mendengarnya!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Cuma sedikit. Jangan besar kepala."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Dia bilang 'cuma sedikit'... tapi sikapnya jelas mulai melunak...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Kamu boleh menyentuh bagian lain juga. Bukan cuma bahu saja."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Terima kasih! Aku akan memastikan untuk memberikan perawatan yang lebih menyeluruh."
+      }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_3",
+    "triggerType": "trustLevel",
+    "triggerCondition": {
+      "trustLevel": 3
+    },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Bahu kaku milikku belakangan ini mulai membaik."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Itu karena kamu datang secara rutin."
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "Aku sudah menghabiskan ratusan ribu di spa mewah dan tidak ada yang berhasil..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Kamu jauh lebih efektif daripada mereka semua."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee memujiku...! Aku harus bersyukur karena tidak dibunuh saja...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "T-Terima kasih banyak! Aku akan bekerja lebih keras lagi untuk meningkatkan kemampuanku!"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_4",
+    "triggerType": "trustLevel",
+    "triggerCondition": {
+      "trustLevel": 4
+    },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Hei."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Ya?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "Bawahanku baru saja bilang padaku, 'Bos, kulit Anda terlihat bagus belakangan ini.'"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Sirkulasi darahmu pasti sedang membaik. Perawatannya mulai menunjukkan hasil."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Riasan wajahku juga jadi lebih mulus."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee sudah cantik, dan dia jadi makin cantik saja...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Ada apa dengan wajah itu? Kamu membuatku merinding."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "M-Maaf! Tidak ada apa-apa!"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_5",
+    "triggerType": "trustLevel",
+    "triggerCondition": {
+      "trustLevel": 5
+    },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Hei, kenapa kamu memutuskan untuk jadi terapis?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Hah...?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "Kamu sampai berhutang untuk membuka tempat praktik sendiri. Kamu pasti sangat serius soal ini."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...Aku suka menyentuh tubuh orang dan membantu mereka merasa lebih baik."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(...Terutama tubuh wanita, tapi aku tidak bisa bilang begitu.)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_01",
+        "text": "Hmm..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Yah, kamu memang membantuku merasa lebih baik, jadi... aku akui kemampuanmu."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Terima kasih banyak...!"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Apa Tatsu-nee...mulai tertarik padaku...? Tidak...pasti cuma perasaanku saja...)"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_6",
+    "triggerType": "trustLevel",
+    "triggerCondition": {
+      "trustLevel": 6
+    },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Hei, dengarkan ini sebentar."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Tentu, ada apa?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "Tadi saat menagih, ada kejadian yang benar-benar menyebalkan..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...Kedengarannya berat ya."
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Yah, namanya juga pekerjaan, jadi ya sudahlah."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Saat aku ke sini, aku merasa...tenang begitu saja."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee...mulai terbuka padaku soal keluh kesahnya...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Aku akan selalu mendengarkan. Asalkan kamu tidak keberatan aku lanjut kerja sambil kita mengobrol."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Ya ampun, malah curhat ke kamu. Si orang yang berhutang padaku."
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Yah, tapi rasanya tidak buruk juga."
+      }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_7",
+    "triggerType": "trustLevel",
+    "triggerCondition": {
+      "trustLevel": 7
+    },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Minggu lalu, aku tidak bisa datang, kan?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Iya. Kamu sibuk, kan?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Lalu tubuhku terasa berat sekali."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Bahu dan leherku benar-benar kaku...aku sampai tidak bisa kerja sama sekali."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Saat perawatan rutin terputus, gejalanya memang jadi gampang muncul lagi."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tubuh Tatsu-nee sudah tidak bisa puas lagi tanpa perawatanku...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Jangan sampai bolos lagi minggu depan."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...B-Bukannya aku ingin bertemu denganmu atau apa ya. Ini soal tubuhku."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "I-Iya! Tentu saja!"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_8",
+    "triggerType": "trustLevel",
+    "triggerCondition": {
+      "trustLevel": 8
+    },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "...Hei."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Ya?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "Apa kamu...melakukan perawatan seperti ini ke klien lain juga?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Hm? Yah...tekniknya sih sama, tapi..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Hmph."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(...Apa dia marah?)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Aku tidak bilang kamu harus memberiku perlakuan khusus, tapi..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Memikirkan kamu melakukan hal yang sama ke wanita lain...membuatku kesal."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "T-Tatsu-nee...?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Bukan apa-apa. Cepat mulai saja."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Apa Tatsu-nee... cemburu...?)"
+      }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_9",
+    "triggerType": "trustLevel",
+    "triggerCondition": {
+      "trustLevel": 9
+    },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Aku cuma mau bilang ini padamu."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Ya?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Ini pertama kalinya... aku membiarkan seseorang menyentuh tubuhku seperti ini."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...Benarkah?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal_02",
+        "text": "Saat kau jadi bos rentenir, kau tidak bisa percaya pada siapa pun."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Tapi bersamamu... entah kenapa aku merasa tenang."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Tanganmu hangat... dan caramu memperlakukanku begitu lembut..."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee... menunjukkan sisi rentannya padaku...)"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...Aku juga senang bisa merawatmu, Tatsu-nee."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Jangan bilang hal-hal yang bikin merinding."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Tapi, terima kasih."
+      }
+    ]
+  },
+  {
+    "id": "tatsu_trust_level_10",
+    "triggerType": "trustLevel",
+    "triggerCondition": {
+      "trustLevel": 10
+    },
+    "priority": 10,
+    "oneTimeOnly": true,
+    "dialogue": [
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Hei."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Ya?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Apa kau ingat nama asliku?"
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Tatsumi... Rei, kan? Itu tertulis di formulir pendaftaran."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Urara. Dibacanya Urara."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "Urara...-san..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Jangan mengucapkannya dengan aneh begitu."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Tapi kau... hanya kau satu-satunya yang boleh memanggilku begitu."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "(Tatsu-nee... membiarkanku memanggilnya dengan nama aslinya...)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "...Jangan pernah panggil aku begitu di depan orang lain. Akan kubunuh kau."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Aku percaya padamu."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "Tubuhku... segalanya. Aku serahkan semuanya padamu."
+      },
+      {
+        "character": "player",
+        "expression": "normal_01",
+        "text": "...Ya. Serahkan saja padaku... Urara-san."
+      },
+      {
+        "character": "tatsu",
+        "expression": "alert_01",
+        "text": "Ugh...! Sudah kubilang jangan membuatnya terdengar aneh..."
+      },
+      {
+        "character": "tatsu",
+        "expression": "pleasure_01",
+        "text": "...Yah...tapi tidak buruk juga kok..."
+      }
+    ]
+  }
+]

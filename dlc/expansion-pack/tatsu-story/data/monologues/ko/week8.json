@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 돌아간 후……)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(2개월이 됐다. 그 사람의 몸은……이미 완전히 내 손을 기억해버렸다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(스스로 어떻게 해보려고 했는데 안 됐다고……)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('깊은 부분까지 시술해달라'고 스스로 요구해왔지.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(저 조직의 보스가 나에게 몸을 맡기고 있다. 이런 상황, 처음에는 상상도 못 했다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(힘의 관계가……조금씩 변하고 있는 걸 느낀다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자, 이번 주는 어떻게 보낼까……)"
+    }
+  ]
+}

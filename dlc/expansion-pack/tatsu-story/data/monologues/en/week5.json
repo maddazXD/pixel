@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Berkat referensinya, klien baru mulai berdatangan. Bisnis ini akhirnya bisa sedikit bernapas lega.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('Kalau kamu sampai bangkrut, siapa yang bakal benerin bahuku yang kaku ini?'... Apa dia benar-benar mengkhawatirkanku?)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia bilang dia merasa geli saat aku menyentuhnya sekarang. Tubuhnya mulai jadi lebih sensitif.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Peningkatan aliran darah dan aktivasi saraf... Ini bukti bahwa efek perawatannya mulai menyebar ke seluruh tubuhnya.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Wajahnya yang malu-malu saat kubilang dia jadi makin anggun sebagai wanita... Sisi dirinya yang tak terduga.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, bagaimana sebaiknya aku menghabiskan minggu ini...)"
+    }
+  ]
+}

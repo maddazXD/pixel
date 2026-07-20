@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia bilang dia menyuruh anak buahnya berdiri selama 3 jam dan bahunya tetap kuat... Memangnya buat apa hal seperti itu?)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Yah, itu artinya pengobatannya menunjukkan hasil dalam kehidupan sehari-harinya. Itu pertanda bagus.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Tetap saja, tadi itu hampir saja. Tanganku terpeleset saat memeriksa otot dadanya...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia membiarkannya begitu saja dengan bilang 'Lakukan yang benar,' tapi kalau salah sedikit saja, jariku bisa putus.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Bisnis masih sulit. Tanpa pelanggan tambahan, melunasi pinjaman itu cuma mimpi di siang bolong.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, apa yang harus kulakukan minggu ini...)"
+    }
+  ]
+}

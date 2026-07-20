@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐走了之后……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（想要更强的刺激……她自己主动提出来了。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（光是想到治疗身体就发热，这完全是条件反射了。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（她自己说'好像被调教了一样'……看来她是有自觉的。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（'这样依赖一个人还是第一次'……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（高利贷的老板依赖着我。在和债务的权力关系完全不同的层面上。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（还剩3周。还款的事先不说……这段关系又会走向何方呢。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那么，这周该怎么办……）"
+    }
+  ]
+}

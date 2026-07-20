@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia bilang bahunya terasa lebih ringan. Bahkan sempat main mahjong tiga ronde.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia memang tidak banyak bicara, tapi sepertinya dia merasakan hasilnya.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Punggung dan pinggang bawahnya tegang sekali... Mungkin karena kerja di meja dan stres yang menumpuk.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Cara dia bereaksi saat aku menyentuhnya... Tubuh tidak bisa berbohong.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Kalau dia datang lagi minggu depan, aku akan coba pijat bagian yang lebih dalam.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, bagaimana sebaiknya aku menghabiskan minggu ini...)"
+    }
+  ]
+}

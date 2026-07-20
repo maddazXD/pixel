@@ -1,0 +1,191 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──半年後。\n整体院は地域に根付いた整体院として営業していた。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "先生、こんにちは。今月もお世話になります。",
+      "voiceFile": "ending_normal_001"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ナナちゃん、いらっしゃい。調子はどう？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_openmouth",
+      "text": "最近また肩こりがひどくて…",
+      "voiceFile": "ending_normal_002"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "やっぱり先生の施術が一番効くんです。",
+      "voiceFile": "ending_normal_003"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（まあ、これはこれで安定した関係かな…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "それは嬉しいな。今日も60分コースでいい？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile",
+      "text": "はい、お願いします。",
+      "voiceFile": "ending_normal_004"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…例の特別なウェアも着た方がいいですか？",
+      "voiceFile": "ending_normal_005"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "うん、あれを着ると効果が上がるからね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "わかりました。最初は恥ずかしかったけど、今は慣れました…。",
+      "voiceFile": "ending_normal_006"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──施術中"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "ん…気持ちいいです…",
+      "voiceFile": "ending_normal_007"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "肩の凝りがだいぶほぐれてきたね。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "先生の手、本当に魔法みたいです。",
+      "voiceFile": "ending_normal_008"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（もっと攻めてもよかったかな…いや、これくらいが安全か…）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──施術後"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "すごく楽になりました。ありがとうございます。",
+      "voiceFile": "ending_normal_009"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "それは良かった。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "先生、来月の予約も入れていいですか？",
+      "voiceFile": "ending_normal_010"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "もちろん。第2火曜日でいいかな？"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "はい、その日でお願いします。",
+      "voiceFile": "ending_normal_011"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "先生のおかげで、毎月調子が良くなります。",
+      "voiceFile": "ending_normal_012"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "君みたいな常連さんがいてくれて、本当に助かるよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_happysmile",
+      "text": "そんな…私の方こそ、いつもお世話になってます。",
+      "voiceFile": "ending_normal_013"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──さらに数ヶ月後"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "先生、最近お店混んでますね。",
+      "voiceFile": "ending_normal_014"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "おかげさまでね。ナナちゃんみたいに定期的に来てくれる人が増えたんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "それは良かったです。先生の腕がいいからですよ。",
+      "voiceFile": "ending_normal_015"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "ありがとう。そう言ってもらえると嬉しいよ。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（これはこれで、いい関係なのかもしれないな…）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "適度な距離を保ちながら、良い関係が続いていく。\nそれもまた、ひとつの幸せの形なのかもしれない。"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【NORMAL END - 良い顧客関係】",
+      "triggerEnding": "normal"
+    }
+  ]
+}

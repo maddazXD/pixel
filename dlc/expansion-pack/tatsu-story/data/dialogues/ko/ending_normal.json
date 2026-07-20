@@ -1,0 +1,270 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──반년 후.\n정체원은 여전히 그럭저럭 영업을 이어가고 있었다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "왔어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "어서 오세요. 오늘도 정각이시네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "시간은 곧 돈이니까. 1분 1초도 낭비하고 싶지 않거든. …자, 빨리 시작해.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(반년 동안, 매주 빠짐없이 다니고 있다. 태풍 오는 날에도 왔다.)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "오늘도 평소대로요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "어. 어깨랑 허리 집중적으로 부탁해.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "알겠습니다. 그럼 옷 갈아입어 주세요."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──시술 중"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "견갑골 안쪽이 또 뻣뻣해졌네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…연말에는 대출 신청이 많거든. 서류 작업이 늘어나.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "사채업도 연말에는 바쁘군요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "사채업이라고 하지 마. 대금업이야.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네네. …여기 누를게요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "…윽.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(…지금, 살짝 어깨가 움찔했다.)"
+    },
+    {
+      "character": "player",
+      "text": "(그 12주간의 조건반사가 아직 조금 남아 있는 거겠지…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…뭐야. 손이 멈췄잖아.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "아뇨, 아무것도 아닙니다. 계속할게요."
+    },
+    {
+      "character": "player",
+      "text": "(…좀 더 다가갔더라면, 다른 관계가 됐을지도 모른다.)"
+    },
+    {
+      "character": "player",
+      "text": "(…뭐, 이것도 이것대로 괜찮은가.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──시술 후"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "후. …아, 한결 나아졌다.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "수고하셨습니다. 다음 주도 같은 시간에요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "당연하지.",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "………….",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…있잖아.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "다음 주 일요일, 경마 있는데.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "가실 거예요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "저번 마지막 레이스에서 진 걸 되찾을 거야.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "3개월 전부터 같은 말씀 하고 계시지 않아요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "시끄러. 이번에야말로야.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "알겠습니다. 그럼 일요일에."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──그로부터 몇 개월 후"
+    },
+    {
+      "character": "player",
+      "text": "(최근, 타츠네가 오는 시간대에 다른 예약을 잡을 수 없게 됐다.)"
+    },
+    {
+      "character": "player",
+      "text": "(이유는 간단하다. 부하가 검은 차로 마중 오니까, 다른 손님들이 겁먹고 돌아간다.)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "왔어. …왠지 오늘 한산하네.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네, 뭐…"
+    },
+    {
+      "character": "player",
+      "text": "(말할 수 없다. 당신 때문이라고는 절대로 말할 수 없다.)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closeeyes",
+      "text": "전세 낸 것 같아서 좋잖아.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(…좋지 않은데, 경영적으로는.)"
+    },
+    {
+      "character": "player",
+      "text": "(하지만, 뭐… 타츠네가 매주 와주는 덕분에 망하지 않고 버티고 있는 것도 사실이다.)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "그럼.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "수고하셨습니다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "………….",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closeeyes",
+      "text": "…다음 주에도.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네. 다음 주에도요."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "매주의 시술과, 가끔의 경마.\n사채업 사장과 정체사의, 묘한 관계가 계속되고 있다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "그 이상도 그 이하도 아니지만,\n나쁘지 않다고, 생각한다.",
+      "triggerEnding": "normal"
+    }
+  ]
+}

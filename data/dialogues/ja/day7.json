@@ -1,0 +1,333 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──7週目の朝。\nナナちゃんの身体は明らかに変化してきている。そして、彼女自身もそれを自覚し始めていた。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（もう7週間か…。ナナちゃんの身体は、俺の手に完全に慣れてきた感じがする。）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "おはようございます。今日もお願いします。",
+      "voiceFile": "story_day7_001"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "おはよう、ナナちゃん。今日も元気そうだね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "はい…でも、最近なんだか身体が変で…。",
+      "voiceFile": "story_day7_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "変？どんな風に？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "その…朝起きた時から、身体が火照ってるというか…。",
+      "voiceFile": "story_day7_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "特に…胸とか、下腹部とか…すごく敏感になってて…。",
+      "voiceFile": "story_day7_004"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "服が擦れるだけでも、ビクッとしちゃうんです…。",
+      "voiceFile": "story_day7_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（おお…ついにここまで来たか。身体が完全に開発されてきてる証拠だ。）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それは身体が活性化してる証拠だよ。血行が良くなって、神経も敏感になってるんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そうなんですか…でも、なんだか恥ずかしくて…。",
+      "voiceFile": "story_day7_006"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "授業中も、椅子に座ってるだけで…変な感じがして…。",
+      "voiceFile": "story_day7_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "変な感じ？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "あの…お股のあたりが、じんじんして…ムズムズするんです…。",
+      "voiceFile": "story_day7_008"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "時々、濡れちゃうこともあって……。",
+      "voiceFile": "story_day7_009"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（これは…完全に性的に覚醒してきてるな。いい傾向だ。）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それは自然な反応だよ。若い女性の身体は、ホルモンバランスが整うとそういう変化が起きるんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "本当ですか…？私、変じゃないですか…？",
+      "voiceFile": "story_day7_010"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "全然変じゃないよ。むしろ健康的な証拠だ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "でも…最近、変な夢も見るようになって…。",
+      "voiceFile": "story_day7_011"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "先生が出てくる夢を…。",
+      "voiceFile": "story_day7_012"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "え？俺が？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "は、はい…マッサージされてる夢なんですけど…すごく気持ちよくて…。",
+      "voiceFile": "story_day7_013"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "目が覚めた時、下着がびしょびしょで…シーツも汚れてて…。",
+      "voiceFile": "story_day7_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（夢でイってるのか…これは予想以上に開発が進んでるな。）"
+    },
+    {
+      "id": "choice_massage7",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "なるほど…それは深層心理が求めているものが夢に現れてるんだね。",
+      "choices": [
+        {
+          "label": "心配しなくていいよ",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "reassure_path"
+        },
+        {
+          "label": "身体が成熟してきた証拠だね",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "mature_path"
+        },
+        {
+          "label": "もっと開放的になってもいいんだよ",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "liberate_path"
+        }
+      ]
+    },
+    {
+      "id": "reassure_path",
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "本当ですか…安心しました。",
+      "voiceFile": "story_day7_015"
+    },
+    {
+      "character": "player",
+      "expression": "normal_smile",
+      "text": "うん。ナナちゃんは何も悪くない。自然な身体の反応だから。",
+      "next": "continue_talk"
+    },
+    {
+      "id": "mature_path",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "成熟…ですか…。",
+      "voiceFile": "story_day7_016"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう。ナナちゃんの身体は、大人の女性になってきてるんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "大人の女性…なんだか恥ずかしいです…。",
+      "next": "continue_talk",
+      "voiceFile": "story_day7_017"
+    },
+    {
+      "id": "liberate_path",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "開放的に…？",
+      "voiceFile": "story_day7_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう。自分の欲求を抑え込む必要はないんだ。身体が求めるものに素直になっていい。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "で、でも…そんなの恥ずかしくて…。",
+      "voiceFile": "story_day7_019"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "恥ずかしがることじゃない。人間の自然な欲求なんだから。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "先生がそう言うなら…少しずつ、受け入れてみます…。",
+      "next": "continue_talk",
+      "voiceFile": "story_day7_020"
+    },
+    {
+      "id": "continue_talk",
+      "character": "player",
+      "expression": "normal_closemouth",
+      "text": "それで、今日はどこが気になる？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "えっと…全身が敏感なんですけど…特に胸が…。",
+      "voiceFile": "story_day7_021"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "ブラジャーがきつく感じて…乳首が擦れて痛いくらいで…。",
+      "voiceFile": "story_day7_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（乳首まで敏感になってるのか…完璧だ。）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それは血流が良くなって、胸も張ってきてるんだろうね。今日は重点的にケアしてあげるよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "は、はい…お願いします…。",
+      "voiceFile": "story_day7_023"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "じゃあ、着替えてもらおうか。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "（この服を着るのも…なんだかドキドキじゃなくて…ゾクゾクする感じ…）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day7_024"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "（私、変になっちゃったのかな…？）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day7_025"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "着替えました…。",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day7_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（うわ…明らかに身体つきが変わってきてる。胸も張ってるし、肌もツヤツヤだ。）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…じっと見ないでください…恥ずかしいです…。",
+      "voiceFile": "story_day7_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ごめんごめん。でも本当に綺麗になったなって思って。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "そ、そんな…綺麗だなんて…。",
+      "voiceFile": "story_day7_028"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それじゃあ始めようか。"
+    }
+  ]
+}

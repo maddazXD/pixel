@@ -1,0 +1,316 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "第8周的早晨。\n通过两个月的治疗,菜菜的身体确实发生了变化。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(8周的治疗...菜菜身体的反应日益改善。)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(治疗的效果正在明显显现。)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "早上好...",
+      "voiceFile": "story_day8_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "早上好,菜菜。今天看起来有点没精神?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "嗯...其实...整个周末,我都在想老师的事...",
+      "voiceFile": "story_day8_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "想我?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "是的...从周六晚上开始,身体就一直很热...",
+      "voiceFile": "story_day8_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "我试着...嗯...自己抚摸...但完全不满足...",
+      "voiceFile": "story_day8_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(她自慰了...但还是无法满足。这很完美。)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "好像...必须是老师的手才行...",
+      "voiceFile": "story_day8_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "我的身体到底怎么了...?",
+      "voiceFile": "story_day8_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那是因为...菜菜的身体已经完全记住了我的治疗。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "记住了...?",
+      "voiceFile": "story_day8_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的。身体有记忆。特别是愉悦的感觉会被深深记住。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "所以...我的身体记住了老师的手...?",
+      "voiceFile": "story_day8_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "没错。你的身体已经完全适应了我的治疗。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "确实,没有老师的手我无法满足...",
+      "voiceFile": "story_day8_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "...我的身体变得奇怪了吗...?",
+      "voiceFile": "story_day8_010"
+    },
+    {
+      "id": "choice_massage8",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(菜菜的身体正在被充分开发。该如何传达这一点呢...)",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "不奇怪,这是正常反应",
+          "trustDelta": 1,
+          "developDelta": 0,
+          "next": "customer_path"
+        },
+        {
+          "label": "菜菜特别敏感",
+          "trustDelta": 2,
+          "developDelta": 1,
+          "next": "special_path"
+        },
+        {
+          "label": "不奇怪,你已经变成我喜欢的样子了",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "possess_path"
+        }
+      ]
+    },
+    {
+      "id": "customer_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "不奇怪。这是正常的反应。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "通过接受每周的治疗,你的身体只是变得更容易放松了。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "是、是这样吗...?那就放心了...",
+      "next": "continue_conversation",
+      "voiceFile": "story_day8_011"
+    },
+    {
+      "id": "special_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "菜菜,你有着特别敏感的体质。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "你的敏感度比普通人高,治疗效果也更加明显。所以才会有这么大的反应。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "我真的那么敏感吗...?",
+      "voiceFile": "story_day8_012"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "难怪...老师的手让我感觉这么舒服...",
+      "next": "continue_conversation",
+      "voiceFile": "story_day8_013"
+    },
+    {
+      "id": "possess_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "不奇怪...你已经变成我喜欢的身体了。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "你喜欢的...?",
+      "voiceFile": "story_day8_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "是的。通过反复的每周治疗,你的身体已经完美适应了我的手。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "不会吧...我的身体已经变成...老师喜欢的样子了...?",
+      "voiceFile": "story_day8_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "你自己也明白吧?没有我的手你就无法满足。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "...确实...是这样但是...",
+      "next": "continue_conversation",
+      "voiceFile": "story_day8_016"
+    },
+    {
+      "id": "continue_conversation",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "嗯...今天我有个请求...",
+      "voiceFile": "story_day8_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "请求?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "能不能...更深入地治疗我...?",
+      "voiceFile": "story_day8_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "更深入?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "是的...最近,身体深处感觉...发痒...",
+      "voiceFile": "story_day8_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "特别是...小腹下面...更深的地方...",
+      "voiceFile": "story_day8_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(她终于自己开口要求了...这是重大进展。)"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "我明白了。今天我会特别护理你的深处。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "真的吗...?太感谢了...",
+      "voiceFile": "story_day8_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "那么,换衣服吧。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "(今天...会更深入...会是什么感觉呢...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day8_022"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "(心跳加速...)",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day8_023"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "换好了...",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day8_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "(仍然是美妙的身体...而且明显是期待的表情...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "{{playerName}}先生...请多关照...",
+      "voiceFile": "story_day8_025"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "好的,交给我吧。那么,开始吧。"
+    }
+  ]
+}

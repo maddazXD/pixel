@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐走了之后……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（两个月了。她的身体……已经完全记住了我的手感。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（她说自己试过了但是不行……）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（'给我做到深层'……她主动要求了。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那个组织的老大把身体交给了我。这种状况，一开始完全想象不到。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（力量关系……在一点点地发生变化。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那么，这周该怎么过呢……）"
+    }
+  ]
+}

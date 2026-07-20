@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐离开后……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（她说肩膀轻松了很多。还说打了三个半庄的麻将）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（虽然嘴上不说，但看来确实感受到了效果）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（后背和腰绷得很紧……大概是久坐办公和紧张积累的结果吧）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（碰到她时的那个反应……身体是诚实的）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（下周如果她还来的话，试着深入一些部位看看吧）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那么，这周怎么度过呢……）"
+    }
+  ]
+}

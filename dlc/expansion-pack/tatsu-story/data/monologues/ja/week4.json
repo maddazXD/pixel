@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐が帰った後……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（1ヶ月か……最初は借金取りに施術するなんて正気じゃないと思ったけど）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『クセになる』って言ってたな。リピーターとして定着してくれたか）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（しかも組の連中を紹介してくれるって……これは大きい）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（全員男らしいけど、客が増えるなら文句は言えない）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（タツ姐、着替えの抵抗感もだいぶなくなってきたな……慣れてくれたんだろう）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週はどうしようかな……）"
+    }
+  ]
+}

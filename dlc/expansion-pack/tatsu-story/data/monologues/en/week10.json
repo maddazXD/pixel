@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia ingat aroma tubuhku, dan hanya dengan mengingatnya saja membuat dia...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Saat dia melangkah masuk ke ruangan, tubuhnya sudah bereaksi.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Harus mengganti celana dalam beberapa kali sehari... Itu sudah parah.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia menertawakan dirinya sendiri, menyebutnya 'seperti betina yang sedang birahi'.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Akulah yang membuatnya jadi begini. Aku merasa bertanggung jawab.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tinggal 2 minggu lagi... Aku harus menyelesaikan banyak hal.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, bagaimana sebaiknya aku menghabiskan minggu ini...)"
+    }
+  ]
+}

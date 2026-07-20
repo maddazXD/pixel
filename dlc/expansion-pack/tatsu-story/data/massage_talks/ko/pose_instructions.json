@@ -1,0 +1,445 @@
+{
+  "poseInstructions": [
+    {
+      "instructionId": "pose_orientation_front",
+      "instructionName": "등을 대고 눕기",
+      "category": "체위 변경",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "front"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "back",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "타츠네, 이번에는 등을 대고 누워주실 수 있나요? 앞쪽을 시술하고 싶어서요."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…알았어."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_back",
+      "instructionName": "엎드리기",
+      "category": "체위 변경",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "back"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "side"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "이번에는 엎드려주실 수 있나요? 등과 견갑골 주변을 풀고 싶어서요."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…그래."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_orientation_side",
+      "instructionName": "옆으로 눕기",
+      "category": "체위 변경",
+      "priority": 10,
+      "targetPose": {
+        "orientation": "side"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": [
+          "front",
+          "back"
+        ],
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "옆으로 누워주실 수 있나요? 옆에서 시술하고 싶어서요."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…옆으로. 알았어."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_front",
+      "instructionName": "팔 올리기",
+      "category": "팔 위치",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "팔을 위로 올려주실 수 있나요? 겨드랑이랑 팔뚝 쪽까지 풀고 싶어서요."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…이렇게?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "네, 그대로요. 감사합니다."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_front",
+      "instructionName": "팔 내리기",
+      "category": "팔 위치",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "팔을 내리고 편하게 해주세요."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "…그래."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_up_side",
+      "instructionName": "팔 올리기 (옆으로)",
+      "category": "팔 위치",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "up"
+      },
+      "conditions": {
+        "minTrustLevel": 2,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "팔을 올려주실 수 있나요? 겨드랑이랑 배 쪽도 마사지하고 싶어서요."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…이렇게?"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "네, 그대로 유지해주세요."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_down_side",
+      "instructionName": "팔 내리기 (옆으로)",
+      "category": "팔 위치",
+      "priority": 8,
+      "targetPose": {
+        "armPose": "down"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "side",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "팔을 내리고 편하게 해주세요."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "…그래."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_arm_paizuri",
+      "instructionName": "가슴 모으기 (파이즈리 포즈)",
+      "category": "특수 자세",
+      "priority": 6,
+      "targetPose": {
+        "armPose": "paizuri"
+      },
+      "conditions": {
+        "minTrustLevel": 4,
+        "minDevelopLevel": 3,
+        "currentOrientation": "front",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "가슴을 모으는 느낌으로 팔을 안쪽으로 해주실 수 있나요? 데콜테 마사지를 하고 싶어서요."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "…하? 가슴을…? 이, 이렇게냐…"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "네, 그 자세입니다. 감사합니다."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_front",
+      "instructionName": "다리 벌리기",
+      "category": "다리 위치",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 3,
+        "minDevelopLevel": 2,
+        "currentOrientation": "front",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "허벅지 안쪽도 풀고 싶은데…다리를 좀 벌려주실 수 있나요?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…참, 어쩔 수 없지."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_open_back",
+      "instructionName": "다리 벌리기",
+      "category": "다리 위치",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 2,
+        "currentOrientation": "back",
+        "currentLegPose": "closed",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "허벅지 안쪽도 풀고 싶은데…다리를 좀 벌려주실 수 있나요?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_02",
+          "text": "…알았어."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_front",
+      "instructionName": "다리 모으기",
+      "category": "다리 위치",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "front",
+        "currentLegPose": "open",
+        "states": [
+          "normal",
+          "sleepy",
+          "sleeping"
+        ]
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "다리를 모아주실 수 있나요?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "…그래."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_closed_back",
+      "instructionName": "다리 모으기",
+      "category": "다리 위치",
+      "priority": 7,
+      "targetPose": {
+        "legPose": "closed"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "다리를 모아주실 수 있나요?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "…그래."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_hipup_open",
+      "instructionName": "엉덩이 올리고 다리 벌리기",
+      "category": "특수 자세",
+      "priority": 4,
+      "targetPose": {
+        "legPose": "hipup_open"
+      },
+      "conditions": {
+        "minTrustLevel": 5,
+        "minDevelopLevel": 4,
+        "currentOrientation": "back",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "엉덩이를 올려서 무릎 꿇은 것처럼 해주실 수 있나요? 허리 주변을 집중적으로 하고 싶어서요."
+        },
+        {
+          "character": "tatsu",
+          "expression": "alert_01",
+          "text": "…하? 이런 자세…창피하잖아…"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "시술을 위한 거니까요. 감사합니다."
+        }
+      ]
+    },
+    {
+      "instructionId": "pose_leg_normal_from_hipup",
+      "instructionName": "편한 자세로 돌아가기",
+      "category": "다리 위치",
+      "priority": 8,
+      "targetPose": {
+        "legPose": "open"
+      },
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "currentOrientation": "back",
+        "currentLegPose": "hipup_open",
+        "displayMode": "non-alert-non-sleeping"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "편한 자세로 돌아가셔도 돼요."
+        },
+        {
+          "character": "tatsu",
+          "expression": "normal_01",
+          "text": "…참, 이제야."
+        }
+      ]
+    },
+    {
+      "instructionId": "wake_up",
+      "instructionName": "타츠네 깨우기",
+      "category": "기타",
+      "priority": 1,
+      "targetPose": null,
+      "effect": "wake_up",
+      "conditions": {
+        "minTrustLevel": 1,
+        "minDevelopLevel": 1,
+        "displayMode": "sleeping-only"
+      },
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "타츠네, 일어나주실 수 있나요?"
+        },
+        {
+          "character": "tatsu",
+          "expression": "sleeping_01",
+          "text": "…응…? …아…잤구나…"
+        }
+      ]
+    }
+  ]
+}

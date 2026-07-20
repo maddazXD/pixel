@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Setelah Tatsu-nee pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Sudah sebulan ya... Awalnya kupikir mengobati rentenir itu gila.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Dia bilang ini 'bikin ketagihan.' Sepertinya dia sudah jadi pelanggan tetap.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Ditambah lagi, dia mau merekomendasikan anak buahnya... Itu luar biasa.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Sepertinya mereka semua laki-laki, tapi kalau itu berarti makin banyak pelanggan, aku tidak bisa protes.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Tatsu-nee sepertinya sudah tidak terlalu keberatan lagi buat ganti baju... Dia pasti sudah mulai terbiasa.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nah, apa yang harus kulakukan minggu ini...)"
+    }
+  ]
+}

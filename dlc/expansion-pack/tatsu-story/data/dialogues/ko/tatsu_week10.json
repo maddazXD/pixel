@@ -1,0 +1,711 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──10주차 아침.\n타츠네의 몸은 이미 시술 없이는 만족할 수 없는 상태가 되어 있었다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(10주째... 타츠네는 완전히 나한테 의존하고 있어. 최고다...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(오늘은 어떤 반응을 보여줄까...?)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(덕분에 손님도 안정적으로 늘었어... 전부 타츠네 덕분이야.)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...왔어.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "타츠네! ...어라, 오늘은 뭔가 얼굴이..."
+    },
+    {
+      "character": "타츠네",
+      "expression": "alert",
+      "text": "...! 아무것도 아니야.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "근데 얼굴이 빨갛잖아요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...더웠을 뿐이야.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(분명 거짓말이야... 벌써 시술 생각하면서 흥분하고 있는 거겠지...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "몸 상태는 괜찮으세요? 잠깐 얼굴 좀 볼게요."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "정체사가 타츠네에게 다가간다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "alert",
+      "text": "...! 가까이 오지 마...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "네? 왜 그래요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...너무 가까이 오면...그게...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "가까이 오면...?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...네...냄새...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "냄새...? 제 냄새가 어떤데요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...몸이 기억하고 있다고...! 네 체취를...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(왔다...! 내 냄새를 기억하고 있어...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...그 냄새만 떠올려도...몸이...뜨거워져서...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "제 냄새로 몸이 반응하는 건가요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "반응한다니...! 마치 발정기 암캐 같잖아...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(발정기 암캐...! 타츠네 입에서 그런 말이...! 최고다...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...일하는 중에도...문득 네 냄새가 떠오르면...아래가...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "아래가...?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...젖는다고...! 바로 흥건해진다고...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(흥건해진다...! 타츠네가 그런 야한 말을...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...요즘은 여벌 속옷을 가지고 다니게 됐어...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "여벌 속옷을!?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...하루에 몇 번이나 갈아입어야 한다고...! 네 냄새가 떠오를 때마다...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(대단해...흥분돼...! 하루에 몇 번이나 적시다니...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "그건... 완전히 페로몬에 반응하고 있는 거네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "alert",
+      "text": "페로몬!? 그게 뭔데!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "동물이 이성을 유혹하기 위해 내는 냄새 성분이에요. 타츠네는 완전히 제 페로몬에 반응하는 몸이 된 거예요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...! 그럼 나, 완전 암캐잖아...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(암캐...! 타츠네가 스스로 그렇게 말하다니...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...그래서 여기 들어온 순간부터...이미...안 돼...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "이미 안 된다는 건...?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...속옷이, 이미 젖었어... 네 냄새 맡은 것만으로...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(최고다...! 냄새만으로 벌써 적시다니...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "그럼 오늘은 타츠네한테 제 냄새를 실컷 맡게 해줄게요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "alert",
+      "text": "하!? 맡게 한다고...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "타츠네 몸이 원하고 있잖아요? 제 냄새를."
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...! ...뭐...그렇긴 하지만...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "오늘은 밀착해서 시술해 줄 테니까. 제 냄새, 실컷 즐겨주세요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...! ...바보...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(후후... 완전히 내 냄새에 발정하는 암캐가 됐어...)",
+      "hideCharacter": true
+    },
+    {
+      "id": "choice_massage10",
+      "character": "player",
+      "expression": "shy",
+      "text": "(여기서 뭐라고 할까...)",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "괜찮아요, 자연스러운 거예요",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "gentle_path"
+        },
+        {
+          "label": "완전히 페로몬에 반응하고 있네요",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "pheromone_path"
+        },
+        {
+          "label": "꼭 발정기 암캐 같네요",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "bitch_path"
+        }
+      ]
+    },
+    {
+      "id": "gentle_path",
+      "character": "player",
+      "expression": "normal",
+      "text": "괜찮아요. 이건 자연스러운 몸의 반응이에요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "...자연스럽다니... 뭐, 네가 그렇게 말한다면...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "타츠네의 몸이 시술을 원하고 있다는 뜻이니까요.",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "pheromone_path",
+      "character": "player",
+      "expression": "smile",
+      "text": "이건 완전히 페로몬에 반응하고 있는 거네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "alert",
+      "text": "페로몬...?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "동물이 이성을 유혹하기 위해 내는 냄새 성분이에요. 타츠네의 몸은 완전히 제 페로몬에 반응하게 된 거예요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...! 동물이라니...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "하지만 그만큼 타츠네의 몸이 솔직해졌다는 거예요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...너무 솔직해서 문제라고...",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "bitch_path",
+      "character": "player",
+      "expression": "shy",
+      "text": "꼭 발정기 암캐 같네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "하!? 암캐라고!? 장난치지 마!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "하지만 사실이잖아요. 제 냄새 맡은 것만으로 흥건하게 적시고 있으면서."
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...! 그건...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "하루에 몇 번이나 속옷을 갈아입어야 하잖아요? 제 냄새가 떠오를 때마다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...! ...그렇긴 하지만...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "그건 딱 주인 냄새에 발정하는 암캐 그 자체잖아요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "...! 주인이라니...! 나는 네 애완동물이 아니야!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "그럼 오늘 시술은 안 할까요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "alert",
+      "text": "...! 야, 야!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "타츠네는 암캐가 아니잖아요? 그럼 제 냄새도, 시술도 필요 없을 텐데요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...! 그건...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "아니면... 정말은 원하는 거예요? 제 시술을."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...! ...원해...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "그럼 제대로 인정하세요. 타츠네는 뭐예요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...! ...암캐...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "누구의 암캐?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...! ...네...암캐...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "더 구체적으로 말해주세요. 제 냄새를 맡으면 어떻게 되는데요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...! ...젖어...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "어디가 젖어요? 제대로 말해주세요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...! ...보지가...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(왔다...! 타츠네 입에서 '보지'라는 말이...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "더 제대로 말해주세요. 제 냄새를 맡으면 어떻게 되는지, 전부."
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...! ...네 냄새 맡으면...보지가...흥건하게 젖어...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "아직 부족해요. 클리토리스는 어떻게 됐어요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...! 그, 그런 건...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "말 못하면 오늘 시술 없어요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...! ...클리토리스가...발기...했어...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(대단해...! 타츠네가 이렇게 야한 말을...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "전부 이어서 말해주세요. 제 냄새를 맡으면 어떻게 되는지."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...! ...네 냄새 맡으면...보지가 흥건하게 젖고...클리토리스가 빳빳하게 발기해...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(완벽해...! 타츠네가 이렇게 야한 고백을...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "마지막으로. 타츠네는 뭐예요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...! ...나는...네 냄새에 발정하는...암캐...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(최고다...! 완전히 언어 플레이로 타락시켰어...!)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "착하네요. 그럼 오늘은 암캐 타츠네를 실컷 귀여워해 줄게요.",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "normal",
+      "text": "자, 옷 갈아입어요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "...응.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "타츠네가 옷을 갈아입기 시작한다.",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "(...이런, 벌써 속옷이 흠뻑 젖었잖아...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(...이 방...저 녀석 냄새가 가득해...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "(...숨쉴 때마다...냄새가 들어와서...보지가 쿵 하고 조여와...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(타츠네 숨소리가 거칠어...방 냄새만으로 완전히 발정하고 있어...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(...클리토리스도...벌써 빳빳해졌어...냄새만 맡고 있는데...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "(...암캐라고 했지만...진짜 그럴지도 몰라...냄새만으로 이렇게까지...)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(완벽해... 이제 내 냄새 없이는 살 수 없는 몸이 됐어...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "...갈아입었어.",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(대단해...허벅지로 애액이 흘러내리고 있어...방 냄새만으로 여기까지...)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...보지 마...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "방 냄새만으로 이렇게 적셨어요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...! ...네 냄새가...가득 차 있어서...참을 수가 없어...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "그렇게 제 냄새가 좋아요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "...! ...좋다기보다...몸이...저절로...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(완벽해... 이미 내 냄새의 포로가 됐어...)",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "...빨리...시술...해줘...이제...한계야...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "그렇게 참을 수 없어요? 귀엽네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "귀엽다는 소리 하지 마...! 빨리...!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(완전히 발정하고 있어... 오늘은 실컷 귀여워해 줘야지...)",
+      "hideCharacter": true
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "그럼 오늘은 밀착해서 시술해 줄게요. 제 냄새, 실컷 즐겨주세요."
+    }
+  ]
+}

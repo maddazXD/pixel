@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐走了之后……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（多亏了她的介绍，新客人越来越多了。经营上总算有了些余裕。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（'你要是倒了谁来解决我的肩膀酸痛'……她是在担心我吗？）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（她说被触碰时会不自觉地颤抖。身体变得越来越敏感了。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（血液循环改善和神经活化……这是治疗效果扩散到全身的证据。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（说她'作为女人越来越有魅力了'时那害羞的表情……真是意想不到的一面。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那么，这周该怎么过呢……）"
+    }
+  ]
+}

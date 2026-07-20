@@ -1,0 +1,25 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(第9周结束了...顺利得有点可怕)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(奈奈酱朋友的转介绍一直在增加)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(很多客人说\"奈奈酱一直在夸这里\")"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(那么，这周该把时间花在什么上面呢)"
+    }
+  ]
+}

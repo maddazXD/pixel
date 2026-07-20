@@ -1,0 +1,292 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──5주째 아침.\n단골 손님도 조금씩 늘어나고, 가게 분위기에도 여유가 생기기 시작했다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(드디어 5주째. 여기 와서 신규 문의도 늘어난 것 같은데…)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(입소문이 퍼지고 있는 건가…혹시 타츠네 덕분인가?)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "왔어, 오늘도 와줬다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "타츠네, 안녕하세요! 요즘 새로운 손님이 늘고 있어요."
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "…혹시 누군가에게 소개해주신 건가요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "……뭐, 조직 애들이 '누나는 어디서 받으세요?'하고 물어봐서. 조금 알려줬어."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "거래처한테도 몇 명 소개해줬고. 약속이니까."
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "정말 감사합니다! 실제로 몇 분이 방문해주셨어요."
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "…뭐, 전부 남자분들이었지만."
+    },
+    {
+      "character": "타츠네",
+      "expression": "smile",
+      "text": "당연하지. 내 부하들이랑 거래처 사람들이니까."
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(역시…거유 미소녀는 아직 안 오는구나…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "smile",
+      "text": "흥…네 가게가 망하면 누가 내 어깨 결림 해결해줄 건데."
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "아하하…그건 최고의 칭찬이네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "smile",
+      "text": "물론, 빚 갚는 것도 잊지 마세요…고객님♡…이라고. 농담이야."
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "물, 물론이죠!"
+    },
+    {
+      "character": "player",
+      "expression": "alert",
+      "text": "(무, 무서워…! 말투랑 목소리가 전혀 안 맞아…!)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "……그런데 요즘 좀 신경 쓰이는 게 있어."
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "신경 쓰이는 거요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "요즘 만지면 이상한 느낌이 들어. 몸이 움찔거린다고 해야 하나."
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "그건…몸이 민감해지고 있는 건지도 모르겠네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "alert",
+      "text": "뭐? 민감해? …그럴 리가.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "혈액순환 개선과 신경 활성화가 진행되고 있다는 증거예요. 좋은 징조입니다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "흐응……그런 건가?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "choice_massage5",
+      "character": "player",
+      "expression": "normal",
+      "text": "타츠네의 몸도 확실히 변화하고 있네요.",
+      "choices": [
+        {
+          "label": "스트레스와 쾌감의 균형이 잡혀온 증거예요",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "balanced_path"
+        },
+        {
+          "label": "여자로서 더 빛나고 계신 거 아닐까요?",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "hormone_path"
+        },
+        {
+          "label": "그 반응, 꽤 개발이 진행된 거예요",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "develop_path"
+        }
+      ]
+    },
+    {
+      "id": "balanced_path",
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "쾌감…? 그런 거랑은 다를 것 같은데. 뭐, 나쁘진 않지만.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "제대로 효과가 나고 있다는 뜻이네요.",
+      "next": "change_clothes"
+    },
+    {
+      "id": "hormone_path",
+      "character": "타츠네",
+      "expression": "alert",
+      "text": "뭐? 여자로서? ……뭔 건방진 소리야.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "아니 아니, 그런 뜻이 아니라…여성 호르몬 분비가 좋아지고 있다는 증거예요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "요즘 피부 상태가 좋은 건 그 때문인가.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "아름다움에도 더 빛이 나고 계세요.",
+      "next": "change_clothes"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "……흥.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "develop_path",
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "하앗!? 개발!? 너…그게 무슨 뜻이야?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "아, 아니…체감이 높아지고 있다는 뜻이에요. 좋은 징조니까요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "……이상한 소리 하지 마, 바보.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "(그런데 저 반응…꽤 맞는 것 같은데)",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal",
+      "text": "그럼, 슬슬 평소 시술복으로 갈아입어 주시겠어요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "알았어 알았어. 이 변태 같은 옷에도 이젠 익숙해졌다고.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "타츠네가 하는 수 없다는 듯이 갈아입기 시작한다.",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "(누워 있으면…가슴이랑 배가 다 보이잖아…)",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "(뭐…이상한 짓 하면 관절 하나둘 빼버리면 되지)",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…갈아입었어.",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(으으…역시 어디 봐야 할지 모르겠다…)"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "그러면 오늘은 특히 정성들여 시술해드릴게요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그, 그래. 기대하고 있을게.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "그러면 시술을 시작하겠습니다."
+    }
+  ]
+}

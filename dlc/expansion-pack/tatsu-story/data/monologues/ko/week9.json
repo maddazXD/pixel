@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(타츠네가 돌아간 후……)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(더 강한 자극이 필요하다고……스스로 말했다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(시술 생각만 해도 몸이 뜨거워진다고, 완전히 조건 반사다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('조교당하는 것 같다'고 스스로 말했어……자각은 있는 거구나.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "('이렇게 누군가에게 의존하는 건 처음이다'라……)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(사채업의 보스가 나에게 의존하고 있다. 빚의 역학관계와는 전혀 다른 차원에서.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(남은 3주. 상환도 그렇지만……이 관계도 어떻게 될까.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(자, 이번 주는 어떻게 할까……)"
+    }
+  ]
+}

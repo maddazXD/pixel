@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（龙姐走了之后……）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（在训斥手下的时候手变软了……作为组织的老大，这可不妙。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（光是看到店的招牌就有反应。光是听到我电话里的声音脸就会变红。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（视觉、听觉……五感全部都和我的治疗联系在一起了。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（即便如此还是说'需要你的治疗'……不会停止来这里。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（'我的身体已经是你的了'……那句话，是真心的。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（下周就是最后了。借款的还款期限……还有这段关系的走向。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（那么，这周该怎么办……）"
+    }
+  ]
+}

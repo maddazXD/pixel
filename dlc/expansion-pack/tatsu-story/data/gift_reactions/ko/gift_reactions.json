@@ -1,0 +1,690 @@
+{
+  "default": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…흥. 나한테?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…뭐, 받아주지."
+      }
+    ]
+  },
+  "gift_flowers": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…꽃?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "피곤하신 것 같아서… 괜찮으시면 받아주세요."
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "꽃을 받은 게… 얼마만인지 모르겠네."
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…내 사무실, 삭막하거든. 놔두지 뭐."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "(순순히 받아줬다…!)"
+      }
+    ]
+  },
+  "gift_matcha_chocolate": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "말차 초콜릿…?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "교토 유명 찻집의 우지 말차를 사용한 거예요."
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "흐응… 나 단 거 좋아하거든. 알고 있었어?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "앗, 그러셨어요!? 다행이다…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "…부하들 앞에선 절대 안 먹지만. 고마워."
+      }
+    ]
+  },
+  "gift_neck_pillow": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "넥 필로우? …따뜻하네, 이거."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "어깨가 많이 뻐근하시다고 하셔서, 시술 사이에 쓰시면 좋을 것 같아서요."
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "…은근히 효과 있네. 사무실에서도 쓸 수 있겠다."
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…너, 내 몸 상태 잘 보고 있네. …고마워."
+      }
+    ]
+  },
+  "gift_whiskey": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…야, 이거 25년산 몰트잖아. 좀 아는구나."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "술을 좋아하신다고 들어서요."
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "사케파이긴 한데. …뭐, 이런 것도 싫진 않아."
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…오늘 밤, 사무실에서 한잔 해야겠다. 혼자 마시기엔 아깝지만."
+      }
+    ]
+  },
+  "gift_hemp_rope": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…야. 이거, 밧줄이지."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "상질의 삼줄이에요. 근막 이완의 압박법에…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "긴박용이잖아. 나 무시하지 마, 이 정도는 보면 알아."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…뭐, 촉감은 나쁘지 않네. 받아둘게."
+      }
+    ]
+  },
+  "gift_teddy_bear": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…인형?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "나한테… 곰…?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "아, 죄송해요… 마음에 안 드셨나요…?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "……별로. 이런 거 싫지 않거든."
+      },
+      {
+        "character": "tatsu",
+        "expression": "happysmile",
+        "text": "…폭신폭신하네."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "(엄청 마음에 든 것 같은데…)"
+      }
+    ]
+  },
+  "gift_aroma_diffuser": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "아로마…?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "릴랙스 효과가 있어서, 업무 피로에 좋을 거예요."
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "고급 스파에서 이런 거 쓰더라… 나쁘지 않은 향이네."
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…사무실에 놔두지 뭐."
+      }
+    ]
+  },
+  "gift_eye_mask": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "아이마스크?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "업무로 눈이 피로하실 것 같아서요."
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "뭐, 장부랑 서류랑 보느라… 눈이 확실히 피로하긴 해."
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "…라벤더 향이네. 나쁘지 않아."
+      }
+    ]
+  },
+  "gift_black_lingerie": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…야. 이거, 속옷이지."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "기능성 란제리예요. 림프 흐름을 좋게 하는 설계로…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "거짓말하지 마. 그냥 야한 속옷이잖아."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "……"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…뭐, 디자인은 싫지 않지만."
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "다음에 이런 거 건네면, 손가락 자르게 할 거야."
+      }
+    ]
+  },
+  "gift_pink_rotor": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…이거, 뭐야?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "소형 마사지기예요. 어깨 결림 같은 데…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "부르르 떨리고 있잖아. …로터잖아 이거."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "아, 아니에요! 림프 마사지용…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "나 무시하지 마. 사채업 하다 보면 이 정도는 본 적 있어."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…뭐, 받아줄게. 쓸지 말지는… 몰라."
+      }
+    ]
+  },
+  "gift_vibrator": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…전마."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "전동 마사지기예요! 전신 결림에…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "그 변명은 이제 됐어. 다 알거든."
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…너, 나한테 이런 걸 건네서, 어떻게 되는지 알고 있어?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "죄, 죄송합니다…!"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…위력은 인정해줄게. 받아둘게."
+      }
+    ]
+  },
+  "gift_massage_av": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…DVD?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "『인의 없는 시술 ~정체사에게 빠진 누님~』………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "…야. 이거, 모델이 나 닮지 않았어?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "기, 기분 탓 아닐까요…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "사채업의 누님이 정체사에게 빠진다…? 너, 싸움 걸고 있어?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…뭐, 어떤 내용인지 확인은 해주지. 압수야 압수."
+      }
+    ]
+  },
+  "gift_custom_dildo": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…야."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "특별한 심부 마사지 기구를 본떠서…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "angry",
+        "text": "네 자지 모양이잖아. 보면 알아."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…너, 내가 진짜로 화나면 어떻게 되는지 알아?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "……뭐, 안 버리고 놔둘게."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "(안 버린다고…!?)"
+      }
+    ]
+  },
+  "gift_luxury_bag": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…이거, 명품이잖아."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "네. 잘 어울리실 것 같아서요."
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "흐응… 뭐, 나도 같은 브랜드 갖고 있긴 하지만."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "(역시 사채업 사장님…)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "…근데, 남한테 받은 건 처음이네. 쓸게."
+      }
+    ]
+  },
+  "gift_luxury_watch": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "surprised",
+        "text": "…이거, 고급 시계잖아. 너 이런 거 살 수 있어?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "열심히 모았어요…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…내 시계 컬렉션에 추가해줄게."
+      },
+      {
+        "character": "tatsu",
+        "expression": "happysmile",
+        "text": "…농담이야. 제대로 차고 다닐게."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "(기뻐하시는 것 같다… 다행이다…)"
+      }
+    ]
+  },
+  "gift_luxury_car": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "surprised",
+        "text": "뭐? …차? 너, 차를 선물하겠다고?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "네…! 타츠네 누님께서 타셨으면 해서…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…제정신이야? 정체사 월급으로 고급차를 살 수 있을 리 없잖아."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "(말할 수 없어… 마사지로 번 뒷돈이라는 건…)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "…뭐, 돈 출처는 안 물을게. 나도 남 말 할 처지는 아니니까."
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…고마워. 다음에 드라이브라도 데려가줄게."
+      }
+    ]
+  },
+  "gift_tower_mansion": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "surprised",
+        "text": "…타워맨션 꼭대기 층이라고?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "surprised",
+        "text": "너… 진심이야?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "타츠네 누님께 어울리는 거처를… 해서요."
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…5억 엔이야. 너, 돈이 어디서 솟아나는 거야."
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "(정체 실력 하나로 벌었습니다… 라고는 말 못 해…)"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…너, 사실 나보다 더 위험한 장사하고 있는 거 아냐?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…뭐 됐어. 나도 슬슬 이사하고 싶었거든."
+      },
+      {
+        "character": "tatsu",
+        "expression": "happysmile",
+        "text": "…고마워. 너, 사채업 세계에서도 해먹겠다."
+      }
+    ]
+  },
+  "gift_diamond_ring_rejected": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…뭐? 반지? 다이아몬드?"
+      },
+      {
+        "character": "player",
+        "expression": "sweat",
+        "text": "네…! 열심히 모아서 샀어요."
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…너, 나한테 반지를 건넨다는 게 무슨 뜻인지, 알고 있어?"
+      },
+      {
+        "character": "player",
+        "expression": "normal",
+        "text": "받아주시면 안 될까요…?"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "normal",
+        "text": "…미안하지만. 이건 받을 수 없어."
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…너한테는 아직, 나한테 이걸 줄 자격이 없어."
+      },
+      {
+        "character": "player",
+        "expression": "closeeyes",
+        "text": "(…안 됐구나… 더 신뢰를 쌓아야 해…)"
+      }
+    ]
+  },
+  "gift_diamond_ring_accepted": {
+    "dialogues": [
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "…뭐? 반지? 다이아몬드?"
+      },
+      {
+        "character": "player",
+        "expression": "sweat",
+        "text": "네…! 열심히 모아서 샀어요."
+      },
+      {
+        "character": "tatsu",
+        "expression": "closemouth",
+        "text": "…너, 나한테 반지를 건넨다는 게 무슨 뜻인지, 알고 있어?"
+      },
+      {
+        "character": "player",
+        "expression": "sweat",
+        "text": "알고 있어요. 받아주세요."
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "………"
+      },
+      {
+        "character": "tatsu",
+        "expression": "smile",
+        "text": "…너, 배짱만은 대단하다. 사채업 사장한테 프로포즈라니."
+      },
+      {
+        "character": "player",
+        "expression": "shy",
+        "text": "끼워드려도 될까요?"
+      },
+      {
+        "character": "player",
+        "expression": "smile",
+        "text": "왼손 약지에…"
+      },
+      {
+        "character": "tatsu",
+        "expression": "sweat",
+        "text": "야, 야… 거기는…",
+        "cutInImage": "diamond_ring"
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "…딱 맞잖아…",
+        "cutInImage": "diamond_ring"
+      },
+      {
+        "character": "tatsu",
+        "expression": "closeeyes",
+        "text": "……예쁘네.",
+        "cutInImage": "diamond_ring"
+      },
+      {
+        "character": "tatsu",
+        "expression": "shy",
+        "text": "…젠장. 울리지 마… 바보."
+      },
+      {
+        "character": "player",
+        "expression": "smile",
+        "text": "(해냈다…!! 타츠네가… 울고 있어…?)"
+      },
+      {
+        "character": "player",
+        "expression": "smile",
+        "text": "(약지에 반지를 끼워주고… 김에 내 거시기도 끼워…!? 아니, 죽는다…!!)"
+      }
+    ]
+  }
+}

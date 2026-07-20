@@ -1,0 +1,517 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──12週目の朝。\n3ヶ月の施術を経て、タツ姐と整体師の関係は、もはや特別なものになっていた。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（12週目...来週で区切りだな。タツ姐との関係、どうなっていくんだろう...）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（順調だ...もうすぐ借金も完済できそうだ。全部タツ姐のおかげ...）"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...おう。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "タツ姐さん...って、なんか様子が変ですね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...別に。普通だ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "でも、顔が赤いですよ？熱でも？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。違う。ちょっと...恥ずかしいことがあってな...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "恥ずかしいこと？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...その...この店の前...何回も通っちまった。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "え？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "今日の予約、2時間後だったんだけどよ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...待ちきれなくて...この辺うろうろしてた...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "2時間も...！？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...5回くらい...店の前通った...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "運転手に『姐さん、どこ行くんスか？』って3回聞かれた...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完全に依存症だ...可愛いな...）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "笑うなよ...！アタシも...こんなの初めてなんだ...っ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "笑ってませんよ。それだけ、俺の施術を楽しみにしてくれてるってことですよね。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...楽しみっていうか...もう...必要なんだ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "お前の施術が...ねぇと...落ち着かない...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "タツ姐...。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...あとよ。もっと恥ずかしいことがあって...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "もっと？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...昨日...風呂入ってる時...変なこと考えちまった。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "変なこと？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...お前の手が...10本あったら...って...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "10本...！？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...全身同時に触られたら...どんな感じなんだろう...って...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...気づいたら...風呂の中で...一人で...その...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（妄想だけでイっちゃったのか...すごい開発されてる...）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "angry",
+      "text": "...だから！お前のせいだ！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "すみません。でも、それだけタツ姐の身体が正直になってるってことですよ。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...正直すぎて...組のボスとして...ヤバイ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "組の仕事は大丈夫なんですか？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "...ああ。一応な。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...でもよ。会議中も...お前のこと考えちまう。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "部下が真面目な話してる時に...頭の中で...お前の施術思い出してる...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完全に俺のことで頭いっぱいなんだな...）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "...なぁ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "はい？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...お前の前だとさ...肩の力抜けるんだよな。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "surprised",
+      "text": "え？"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "組のボスやってると...いつも気張ってなきゃいけねぇ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "弱いとこ見せらんねぇし...誰も信用できねぇ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...でも...お前の前だと...なんか...安心できる。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "タツ姐...。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...お前だけには...ありのままの自分を...見せられる。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...恥ずかしいことも...全部...知ってるしな...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "gentle",
+      "text": "俺は、タツ姐のこと全部受け入れますよ。組のボスとしても、一人の女性としても。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...っ。...ありがとな。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...でも、勘違いすんなよ？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...これは...身体のメンテナンスだ。...それだけ...だからな...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "はいはい。分かってますよ。"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（でも、そのツンデレが可愛いんだよな...）"
+    },
+    {
+      "id": "choice_massage12",
+      "character": "player",
+      "expression": "normal",
+      "text": "タツ姐は、俺にとって...",
+      "choices": [
+        {
+          "label": "かけがえのない大切な人です",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "precious_path"
+        },
+        {
+          "label": "最高のお客様です",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "customer_path"
+        },
+        {
+          "label": "もう完全に俺のものですね",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "mine_path"
+        }
+      ]
+    },
+    {
+      "id": "precious_path",
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...大切って...そういうこと言うなよ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "でも本当ですよ。タツ姐がいてくれたから、ここまで来れました。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。...アタシも...お前に会えて...良かった。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...これからも...よろしくな。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "はい。こちらこそ。",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "customer_path",
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "最高のお客様、か...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "smile",
+      "text": "ふっ。アタシも、お前は最高の整体師だと思ってるぜ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "ありがとうございます。これからも、タツ姐をしっかりケアしますから。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "ああ。期待してるぜ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（プロとして、いい関係だな...）",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "mine_path",
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...っ。お前のものって...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "そうでしょ？もう俺の施術なしじゃ生きていけない。俺の声聞いただけで濡れちゃう。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...っ。...それは...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "完全に、俺専用の身体になってますよ。タツ姐。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "...クソ...認める...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...アタシの身体は...もう...お前専用だ...。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（完璧だ...もう逃げられないぞ、タツ姐...）",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "normal",
+      "text": "じゃあ、今日も施術していきましょうか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...ああ。...たっぷり...頼む。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "タツ姐が着替え始める",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（...2時間も前からうろうろしてたなんて...恥ずかしすぎる...）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "embarrassed",
+      "text": "（...でも...本当なんだよな...。お前の施術が...もう...生活の一部になってる...）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "（...これから...どうなっていくんだろう...アタシ...）",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "（タツ姐...本音を話してくれるようになったな...。嬉しい。）"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "normal",
+      "text": "...着替えた。",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "今日もいい感じですね。じゃあ、始めましょうか。"
+    },
+    {
+      "character": "タツ姐",
+      "expression": "shy",
+      "text": "...ああ。...今日も...よろしく頼む。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "任せてください。タツ姐の全部、受け止めますから。"
+    }
+  ]
+}

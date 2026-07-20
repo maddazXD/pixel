@@ -1,0 +1,414 @@
+{
+  "full_repaid": {
+    "title": "借金完済達成記念 - 温泉旅行",
+    "dialogues": [
+      {
+        "character": "タツ姐",
+        "text": "……アタシが洗ってやるよ。お前を。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "いや、それは——",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "仕返しだ。黙って座ってろ。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "身体で洗うんだよ。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……同じこと？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "（仕返しだ……仕返しなんだ……！）",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "じっとしてろ。上に乗るからな。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "うえっ……！？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……石鹸、塗ったぞ。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "タツ姐さん……どこで洗う気ですか？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……全身に決まってんだろ！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "今の間は何……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "うるせぇ！ いくぞ！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……っ",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……な、なんだよこれ……あったかい……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "タツ姐さんのほうが……あったかいですよ……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……っ！ 変なこと言うな！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……ん…♡ 動くぞ。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……っ……ぬるぬるして……すべる…♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……っ……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "どうだ……アタシに触られる気分は。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……やばいです……直接当たって……",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "当たり前だろ。洗ってんだから。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "（洗ってるだけだ……洗ってるだけ……！）",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "ん……♡ こすれて……変な感じ…♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "タツ姐さん、声出てますよ。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "う、うるせぇ…！ 仕返しだっつって…♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "お前を困らせるのが目的で……♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "なんでアタシの方が……気持ちよくなって……♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "くそ、石鹸のせいで……滑りすぎる…♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "先っぽが……当たるたびに……♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "タツ姐さん……もう入りそうなくらい……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "入れてねぇからな！ 洗ってるだけだ！♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "あっ…♡ そこ……直接当たって……♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "やば……こんなの知らない……♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……もうダメです……",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "はぁ？ もうかよ。情けねぇ。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "アタシなんかまだ……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……っ♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "嘘……アタシも……なんか……♡",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "ちょ、待っ……お前だけ先にイくな…！♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……っっ……！",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "あっ……出てる……あったかい……！♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "お腹に……全部……♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "あ……っ♡♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "アタシまで……っ♡♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……っっ♡♡♡",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "はぁ…はぁ……",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "…………。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……入れてねぇからな。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……はい。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "洗ってただけだからな。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……はい。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……なのに二人ともイったのは……何なんだ……",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "…………。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……答えんなよ。聞いてねぇ。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……来週。予約入れといてやるよ。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……施術の？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "それ以外に何があんだよ。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……もう特別待遇じゃねぇ。金払うからな。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "はい。最高の施術を。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……客、か。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……それだけなのかよ。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "え？",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "何も言ってねぇ！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……今日のこと、誰かに言ったら殺す。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "言いません。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……ったく。仕返しのつもりが……最悪だ。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "……でも。",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "……何だよ。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "タツ姐さんに洗ってもらえて、嬉しかったです。",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "…………っ！",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "タツ姐",
+        "text": "バカ！ 二度と言うな！",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "（闇金の社長で、口が悪くて。）",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "（でも少女漫画が好きで、照れると耳が赤くなる。）",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "（俺にとってタツ姐は……もうそういう枠じゃ収まらない。）",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "（——本人に言ったら殺されるだろうけど。）",
+        "tatsuImage": "default"
+      }
+    ]
+  }
+}
