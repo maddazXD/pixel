@@ -1,0 +1,280 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Pagi minggu ke-5. Jumlah pelanggan tetap perlahan meningkat, dan toko jadi sedikit lebih santai."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Akhirnya minggu ke-5. Beberapa klien yang direkomendasikan Tatsu-nee mulai kembali sebagai pelanggan tetap. Mungkin semuanya mulai berjalan lancar...?)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Hei.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Selamat pagi, Tatsu-nee!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Ini.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Hah? Apa ini... café latte? Bukannya ini dari kafe mewah itu!?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Aku beli satu di kafe dekat sini dan tidak sengaja pesan dua. Bukan berarti apa-apa, ya!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Mana mungkin dia tidak sengaja pesan dua. ...Entah kenapa, dia terlihat lebih manis dari biasanya hari ini...)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Terima kasih! Aku akan langsung meminumnya."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Oh, ngomong-ngomong. Orang-orang yang Tatsu-nee rekomendasikan sudah mulai kembali sebagai pelanggan tetap. Itu sangat membantuku. (Tapi mereka semua cowok berotot sih...)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "Hmm. Yah, aku cuma memperkenalkan mereka. Kalau mereka balik lagi, itu karena keahlianmu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closeeyes",
+      "text": "Te-Terima kasih...! (Dia benar-benar memujiku secara langsung...!)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Ngomong-ngomong, anak buahku belakangan ini bilang hal-hal aneh.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Hal aneh?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "\"Bos, belakangan ini suasana hatimu lagi bagus ya.\" Hah? Aku kan selalu begini. ...Yah, bahuku yang kaku sudah mendingan jadi kerjaan jadi lebih lancar. Mungkin berkat perawatanmu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku senang mendengarnya."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "sweat",
+      "text": "...Jadi, soal hari ini. Rasa panas dari waktu itu sudah agak mendingan, tapi... sekarang kalau aku disentuh, tubuhku jadi gemetar.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Gemetar...? Di bagian mana tepatnya? Area dada, mungkin?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Apa yang kau katakan, bodoh. ...Saat aku mandi dan sebagainya... sensasinya benar-benar berbeda dari biasanya...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Begitu ya..."
+    },
+    {
+      "id": "choice_massage5",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tubuhmu benar-benar sedang berubah, Tatsu-nee...",
+      "choices": [
+        {
+          "label": "Itu respon yang sehat",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "healthy_path"
+        },
+        {
+          "label": "Sisi femininmu mulai kembali",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "feminine_path"
+        },
+        {
+          "label": "Kamu bisa merasakan sensasi yang lebih nikmat",
+          "trustDelta": 0,
+          "developDelta": 2,
+          "next": "pleasure_path"
+        }
+      ]
+    },
+    {
+      "id": "healthy_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tubuhmu yang kaku sudah melonggar, dan sensasi normal mulai kembali. Itu respon yang sangat sehat."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Sehat, ya. Yah, belakangan ini aku memang merasa lebih baik.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tidak perlu khawatir."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "...Yah, kalau kamu bilang begitu, aku akan percaya padamu.",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "feminine_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Keseimbangan hormonmu mulai membaik. Indera kewanitaanmu perlahan kembali."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Jangan bicara seolah-olah aku bukan wanita sebelumnya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Oh, bukan! Bukan itu maksudku... Aku cuma berpikir kamu jadi sangat cantik belakangan ini..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Hmph. Mulutmu manis sekali.",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "pleasure_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tubuhmu sudah lebih rileks dan sensitivitasmu meningkat. Masih ada lagi—kamu bisa merasa jauh lebih nikmat."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Cara bicaramu itu agak menggangguku.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Maksudku itu perawatannya! Ahaha..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Kalau aku jadi makin sensitif, itu bakal jadi masalah...",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Bagus! Kalau begitu, biar kubuat segalanya jadi lebih... bermasalah...!)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Ekspresi apa itu. Jangan macam-macam ya.",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tentu saja! Jadi, bisa tolong ganti ke baju perawatan?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Iya, iya. Aku sudah terbiasa pakai baju minim ini sekarang...",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "(...Belakangan ini, setiap kali aku pakai baju ini, aku merasa geli yang aneh...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "(Ini pasti karena perawatannya...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Sudah ganti.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "(Wow... lekuk tubuh yang luar biasa, seperti biasa...)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Hari ini aku akan melakukannya dengan sangat teliti. Kamu pelanggan spesial, Tatsu-nee, jadi aku akan memberimu perawatan VIP."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "VIP, ya. Hmph, aku andalkan kamu.",
+      "outfit": "bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Kalau begitu, mari kita mulai perawatannya."
+    }
+  ]
+}
