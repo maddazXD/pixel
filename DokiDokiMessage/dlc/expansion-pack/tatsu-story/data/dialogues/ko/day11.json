@@ -1,0 +1,551 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──11주 차의 아침.\n타츠네의 몸은 이미 시술 없이는 일상생활에 지장이 생길 수준이 되어 있었다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(11주 차…거의 3개월이다. 타츠네, 완전히 나 없이는 살 수 없는 몸이 됐어.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(덕분에 경영도 안정됐다…전부 타츠네 덕분이야.)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…왔어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타츠네! …근데, 기분 안 좋아 보이네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…그래. 너 때문이야.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네? 제 탓이요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…저번에 말야. 부하 혼내는 중에…네 시술이 떠올랐어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "혼내는 중에…?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "그래. 그랬더니…손에…힘이 빠져버렸어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "부하한테 '언니, 오늘 좀 부드러우시네요'라는 소리까지 들었다고…죽여버린다.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(혼내는 게 부드러워졌다고…대체 얼마나 시술 생각을 하고 있는 거야…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "사채업 사장이 일하는 중에 그런 생각을 하고 있다니…젠장…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그만큼 제 시술이 효과 있다는 거죠."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…잘난 체하지 마.",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…근데 말야. 더 심각한 게 있어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "더요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…네 목소리…예약 전화했을 때…네 목소리를 들었더니…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "목소리를 들으면?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그 자리에서…속옷이 안 되게 됐어…목소리만 들었을 뿐인데…몸이 멋대로…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(냄새 다음은 목소리인가…오감이 하나하나 나한테 지배당하고 있어…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…지난주는 냄새였잖아. 이번엔 목소리야. …내 몸이 어떻게 된 거야…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "후각, 청각…다음은 뭘까요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "재미있다는 듯이 말하지 마…!",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그래서 말야…나 생각했어. 이대로는 안 된다고.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "뭔가 대책을?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…혼자 할 수 있게 되면 여기 안 와도 되잖아…그래서 정체 공부를 시작했어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "정체 공부!? 타츠네가?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "그래. 책도 사고, 교재 DVD도 샀어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "교재 DVD? 혹시…무슨 시리즈예요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "음…'변태 정체사의 기술'이라는 시리즈. 전 20권 이상 나와 있고, 평판이 좋길래 전권 샀어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "('변태 정체사의 기술'…!? 그거…완전히 야동이잖아…!!)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…타츠네. 그거…보신 거예요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "전권 봤어. 처음에는 진지하게 메모하면서 봤는데…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "메모하면서…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…중간부터…뭔가…이상해졌어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "이상하다니…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…………저거, 야동이지…?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…제목 보고 눈치 못 채셨어요…? '변태 정체사'잖아요…?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "시, 시끄러! 나는 그쪽 방면에 어둡다고…! 표지 여자가 이상한 표정 짓고 있는 것도 시술이 너무 잘 돼서 그런 줄 알았다고…!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(사채업 사장이 야동 표지를 '시술이 잘 돼서 그런 거'라고…순수하다…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…그래서, 눈치챈 후에는 어쨌어요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "……………….",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "전권 봤다고 했잖아요? 눈치챈 후에도…?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…………멈출 수 없었어……네 시술이랑 겹쳐서 보게 돼버려서……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(사채업 사장이 마사지 야동 전권 감상…게다가 메모까지…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…보는 동안 내내…몸이 뜨겁고…네가 만지고 있는 것 같아서…",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…게다가 그것만이 아니야…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "아직 더 있어요…?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…부하가 내 방에 서류 가져왔을 때…DVD 더미랑 메모장이…책상 위에…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "들켰어요…?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "'언니…이 대량의 DVD가 뭐예요……? 잠깐……변태 정체사의……?'라고…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(부하한테 마사지 야동 더미를 들킨 사채업 사장…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "'교재야!! 공부용이야!! 더 이상 묻지 마!!'라고 소리쳤는데…절대 안 믿었어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…안 믿겠죠…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…게다가 메모장에 'Vol.7 여고○생 시술이 참고가 된다'라고 적은 것도 봤어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Vol.7…여고생 편인가…메모장까지 들킨 건 치명적이다…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "다음 날부터 부하들 눈이…뭔가…따뜻해졌어…'언니도 나름 사정이 있으시구나…' 같은 눈으로 보더라고…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타츠네…지난주 타올 도둑, 섬유유연제 조사, 이번엔 야동 전권 구입…매주 스케일이 올라가네요…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "나열하지 마!! 전부 너 때문이잖아!!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…그래서 결국, 직접 해보니까 어땠어요? 정체."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…전혀 안 됐어. 스스로 같은 데를 눌러도…아무것도 안 느껴져…",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…네 손이 아니면…안 돼……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(타올→섬유유연제→정체 공부→야동 감상→직접 해봄→전부 실패→결국 나. …최고의 루트다.)"
+    },
+    {
+      "id": "choice_massage11",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그렇군요…많이 노력하셨네요.",
+      "choices": [
+        {
+          "label": "그렇게까지 노력해주셔서 기뻐요",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "trust_path"
+        },
+        {
+          "label": "이제 저한테서 벗어날 수 없죠",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "captive_path"
+        },
+        {
+          "label": "야동으로 예습했으니 얘기가 빠르겠네요",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "av_path"
+        }
+      ]
+    },
+    {
+      "id": "trust_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타올을 가져가고, 섬유유연제를 조사하고, 정체 공부까지 하고…그렇게까지 해주셔서 솔직히 기쁩니다."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…! 기쁘다니…별로 너를 위해서 한 건 아니…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "하지만 결국 저한테 오잖아요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…………그래. …네 곳이 아니면…안 되니까…",
+      "outfit": "suit",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "captive_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타올도 섬유유연제도 DVD도 자기 손도, 전부 안 됐잖아요. 이제 저한테서 벗어날 수 없다는 뜻이에요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "벗어나다니…잡혀 있는 건 아니…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "냄새로 흥분하고, 목소리로 젖고, 뭘 해봐도 안 되고, 매주 여기 올 수밖에 없고. 그거 완전히 잡혀 있는 거 아닌가요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…………부정 못 하는 게 짜증나……",
+      "outfit": "suit",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "av_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그러면, DVD로 예습한 거네요. 오늘 시술에서 뭘 하는지 대충 알고 있다는 거잖아요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "뭐…? 너, 그 DVD랑 같은 걸 할 거야…!?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "글쎄요, 어떨까요. 타츠네, Vol.7을 메모하면서 봤잖아요? 그 편 어떤 시술이었는지 기억나요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…! 그, 그건…그게…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "전 20권을 메모하면서 완주한 사람이라면, 지금부터 뭘 하는지 전부 상상할 수 있겠죠."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그만해…상상하게 만들지 마…이미 몸이…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "DVD의 여자들, 마지막에 어떻게 됐어요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…………전부…………엉망진창으로…됐…어……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "오늘 타츠네도 그렇게 될지 모르겠네요.",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "자, 갈아입으시죠."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…그래.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "(타츠네가 갈아입기 시작한다…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…DVD에서 본 것들…전부 떠올라…그 여자들, 처음에는 싫어했는데…마지막엔 스스로 달라고 했어…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…나도…똑같아…처음엔 싫었는데…지금은 여기 오는 게 기다려지고…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…DVD로 지식이 생겨서…그 녀석이 뭘 할지 전부 알게 돼버렸어…그게 무서운데…기대하는 내가 있어…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…타올 훔치고, 섬유유연제 조사하고, 야동 전권 보고…나, 뭐 하는 거야……사채업 사장이……)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…갈아입었어.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(…온 순간부터 벌써 허벅지가 반짝이고 있어…DVD 얘기하는 동안 계속 흥분하고 있었구나…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "오늘은 DVD로 예습한 만큼, 어디를 만지는지 전부 알 수 있겠네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그만해…쓸데없는 소리 하지 마…빨리…시작해줘……",
+      "outfit": "bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네. 그러면…'변태 정체사의 기술' 실연편을 시작할까요."
+    }
+  ]
+}
