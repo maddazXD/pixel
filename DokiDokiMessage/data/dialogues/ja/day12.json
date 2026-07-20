@@ -1,0 +1,408 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──12週目の朝。\n施術の効果は、ついにナナの日常生活にも影響を及ぼし始めていた。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃんの体がすごく敏感になってきたな…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（そろそろ次の段階に進めるかも…）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "お、おはよう…ございます…。",
+      "voiceFile": "story_day12_001"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "おや？今日は特に顔色が…"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "あの…今日、ここに来るのも大変で…。",
+      "voiceFile": "story_day12_002"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "（歩くだけでそんなに敏感になってるのか…）"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "歩くたびに…なんだか…足に力が入らなくて…。",
+      "voiceFile": "story_day12_003"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "それは大変だったね。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "途中で何度も休憩しました…恥ずかしい…。",
+      "voiceFile": "story_day12_004"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "（そんなに頻繁に休憩が必要なんて…）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "先生…あの…重大な報告があります…。",
+      "voiceFile": "story_day12_005"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "何？まさか妊娠とか？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "ち、違います！",
+      "voiceFile": "story_day12_006"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "でも…それに近いかも…。",
+      "voiceFile": "story_day12_007"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "え！？"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "最近…胸が張って…なんだか変なんです…。",
+      "voiceFile": "story_day12_008"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "胸が！？（それは想定外だ！素晴らしい！）"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "触ると…すごく敏感で…。",
+      "voiceFile": "story_day12_009"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "制服も…きつくて…。",
+      "voiceFile": "story_day12_010"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "それは素晴らしい！究極のリラックス状態だよ！"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "リ、リラックス！？",
+      "voiceFile": "story_day12_011"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう！体が『絶頂している状態』を最高の健康状態だって認識したんだよ。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "つまり、ナナちゃんの体は常にピークコンディションを維持しようとしてるんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "そ、そうなんですか…でもブラがきつくて…。",
+      "voiceFile": "story_day12_012"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "今日は…その…着けてこれませんでした…。",
+      "voiceFile": "story_day12_013"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "（ノーブラ…だと…！？）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "それと…学校で問題が起きまして…。",
+      "voiceFile": "story_day12_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "また？"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "体育の授業で…バレーボールをしたら…",
+      "voiceFile": "story_day12_015"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "ジャンプして着地した瞬間に…ひゃん！って声が…",
+      "voiceFile": "story_day12_016"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "ジャンプの着地で？"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "振動が…体の中まで響いちゃって…",
+      "voiceFile": "story_day12_017"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "ランニングもダメで…太ももが擦れるたびに…んっ！って…",
+      "voiceFile": "story_day12_018"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "みんな『田中さん、足つった？』って心配してくれて…",
+      "voiceFile": "story_day12_019"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "（運動するだけでイッちゃうのか…）"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "もう体育の授業が怖いです…。",
+      "voiceFile": "story_day12_020"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "それは確かに困ったね〜。"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "先生…どうしたらいいんでしょう…。",
+      "voiceFile": "story_day12_021"
+    },
+    {
+      "id": "choice_massage12_final",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "なるほど。今日はいよいよ最終段階かな？",
+      "choices": [
+        {
+          "label": "これ以上は危険だから普通の施術にしよう",
+          "trustDelta": 3,
+          "developDelta": 0,
+          "next": "safe_ending"
+        },
+        {
+          "label": "完全覚醒コースでフィニッシュだ",
+          "trustDelta": 1,
+          "developDelta": 3,
+          "next": "awakening_ending"
+        },
+        {
+          "label": "究極奥義『無限絶頂地獄』を解禁しよう",
+          "trustDelta": 0,
+          "developDelta": 5,
+          "next": "ultimate_ending"
+        }
+      ]
+    },
+    {
+      "id": "safe_ending",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "普通の施術…？",
+      "voiceFile": "story_day12_022"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "うん。このままだと日常生活に支障が出そうだからね。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "でも大丈夫。いつでも戻せるから。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "そ、それなら…少し安心です…。",
+      "next": "final_treatment",
+      "voiceFile": "story_day12_023"
+    },
+    {
+      "id": "awakening_ending",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "完全覚醒！？",
+      "voiceFile": "story_day12_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう！君の身体の可能性を100％引き出す！"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "今でも大変なのに…これ以上は…。",
+      "voiceFile": "story_day12_025"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "大丈夫！俺を信じて！",
+      "next": "final_treatment"
+    },
+    {
+      "id": "ultimate_ending",
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "む、無限絶頂地獄！？",
+      "voiceFile": "story_day12_026"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう！一度始まったら、もう止まらない究極の施術！"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そ、それって…怖いです…。",
+      "voiceFile": "story_day12_027"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "大丈夫！気絶したら一旦止めるから！"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "気絶前提なんですか！？",
+      "next": "final_treatment",
+      "voiceFile": "story_day12_028"
+    },
+    {
+      "id": "final_treatment",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "さて、最後の施術の準備をしよう。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "最後…なんですか？",
+      "voiceFile": "story_day12_029"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "いや、最高のって意味だよ。これからもずっと来てもらうつもりだし。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "よ、良かった…もう{{playerName}}さんなしじゃ…普通の生活できないので…。",
+      "voiceFile": "story_day12_030"
+    },
+    {
+      "character": "player",
+      "expression": "blush_nervoussmile",
+      "text": "（一生俺の顧客確定…計画通り！）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "じゃあ、着替えてくれるかな。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "はい…",
+      "voiceFile": "story_day12_031"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "（もうこの部屋に入っただけで、身体が勝手に…）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day12_032"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "き、着替えました…。",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day12_033"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "（もう限界そうだな…すごい光景だ…）"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "そ、そんなに見ないでください……恥ずかしいです…。",
+      "voiceFile": "story_day12_034"
+    },
+    {
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "大丈夫だよ。"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "ecstatic",
+      "text": "さあ、史上最高の施術を始めよう。"
+    }
+  ]
+}
