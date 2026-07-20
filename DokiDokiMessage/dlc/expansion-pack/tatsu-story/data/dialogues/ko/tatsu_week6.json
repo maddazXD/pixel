@@ -1,0 +1,352 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──6주째 아침.\n새 손님도 정착하기 시작하고, 경영도 서서히 궤도에 오르고 있다. 그리고 타츠네와의 관계도 새로운 단계로…."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(6주…길기도 하고 짧기도 했다. 타츠네와의 관계도 꽤 많이 변했다.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(이 추세라면, 오늘은 좀 더 깊은 시술에 도전할 수 있을지도…)"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "triggerWeeklySettlement": true
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "왔어. 오늘도 와줬다.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "타츠네! 벌써 6주째네요.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "smile",
+      "text": "응. 네 시술, 나쁘지 않아.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "감사합니다! 덕분에 손님도 늘었어요.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "부하들도 만족하는 것 같더라. '언니 소개, 진짜 좋았습니다'라고 하더라고.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "smile",
+      "text": "다행이네요!",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "그런데, 오늘 컨디션은 어떠세요?",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…사실, 요즘 잠을 잘 못 자.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "잠을 못 주무세요? 스트레스인가요?",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "아니…스트레스라기보다는. 이상한 꿈만 자꾸 꿔.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "이상한 꿈이요. 어떤 꿈인데요?",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "…말할 리가 있나.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(아, 이건…그런 계열의 꿈이구나. 몸이 욕구불만 신호를 보내고 있어.)",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "어쨌든, 아침에 일어나면 묘하게 피곤해.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "그렇군요…몸이 뭔가를 원하고 있다는 신호일 수 있어요.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "alert",
+      "text": "원해? 뭘?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "억눌린 욕구가 꿈으로 나타나는 경우가 있거든요. 오늘은 좀 더 깊은 시술을 해볼게요.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "깊은…시술이라니?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "choice_massage6",
+      "character": "player",
+      "expression": "normal",
+      "text": "오늘은 특별한 시술을 시도해 볼게요.",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "심부 림프를 자극할게요",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "lymph_path"
+        },
+        {
+          "label": "민감한 부위를 집중적으로",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "sensitive_path"
+        },
+        {
+          "label": "성감대에 대한 의학적 접근입니다",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "erogenous_path"
+        }
+      ]
+    },
+    {
+      "id": "lymph_path",
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "림프라. 뭐, 그건 알겠어.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "심부까지 자극해서 몸의 긴장을 풀어드릴게요.",
+      "hideCharacter": true,
+      "next": "change_clothes"
+    },
+    {
+      "id": "sensitive_path",
+      "character": "타츠네",
+      "expression": "alert",
+      "text": "민감한 부위? …어디를 말하는 거야?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "신경이 집중되어 있는 부위예요. 거기를 자극하면 온몸이 릴랙스됩니다.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "…뭐, 이상한 짓만 안 하면 되지.",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "change_clothes"
+    },
+    {
+      "id": "erogenous_path",
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "하!? 성감대라고!? 장난하냐!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "의학적으로 유효한 접근법이에요. 성감대에 적절한 자극은 호르몬 밸런스를 조절하는 효과가 있습니다.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "너…진심으로 말하는 거야?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "네. 타츠네의 꿈 이야기로 보면, 몸이 그것을 원하고 있을 가능성이 높아요.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "……츠. 멋대로 분석하지 마.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "alert",
+      "text": "…진짜 제대로 된 시술이겠지?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "물, 물론이죠! 성감대는 신경이 집중된 부위로, 거기를 자극하면 호르몬 분비가 촉진되고, 자율신경의 밸런스가 잡히고, 혈행도 개선되고...",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "알았어 알았어. 주절주절 늘어놓지 마.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "…뭐, 맡길게.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(어라…? 화냈는데 거부를 안 해…이거 되는 건가…?)",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "…실제로, 네 시술 받고 나서 몸 상태가 좋아진 건 사실이니까.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…이상한 짓 하면 그때는 각오해라?",
+      "characterImage": "tatsu/tatsu.png",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "normal",
+      "text": "네, 네! …그럼, 평소 웨어로 갈아입어 주세요.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "응. 벌써 6번째니까, 익숙해.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "",
+      "expression": "normal",
+      "text": "타츠네가 옷을 갈아입기 시작한다",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "(…깊은 시술이라니, 뭘 할 생각인 거야…)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…뭐, 지금까지 이상한 짓은 안 했으니까…)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "embarrassed",
+      "text": "(…혹시 좀 기대하고 있는 거야, 나?)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "(…아니, 그럴 리가. 그냥 시술이야, 시술.)",
+      "characterImage": "tatsu/tatsu.png",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "갈아입었어.",
+      "characterImage": "tatsu/tatsu.png",
+      "outfit": "micro_bikini"
+    },
+    {
+      "character": "player",
+      "expression": "shy",
+      "text": "(6주째라 이 차림에 익숙해지긴 했는데…역시 엄청난 프로포션이야…)",
+      "hideCharacter": true
+    },
+    {
+      "character": "player",
+      "expression": "normal",
+      "text": "그럼, 침대에 누워주세요.",
+      "hideCharacter": true
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…응.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "normal",
+      "text": "그럼, 시술을 시작하겠습니다."
+    }
+  ]
+}
