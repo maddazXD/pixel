@@ -1,0 +1,45 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（7週目が終わった…時間が経つのは早いな）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃんが友達を紹介してくれたおかげで、新規客も増えてきた）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（評判も上々だし、売上も順調に伸びている）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（新しい器具を購入してもいいかもな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（技術向上のための高レベルなセミナーにも参加してみたいな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（それとも、ギャンブルで一発当てて返済を早めるか…？）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（いや、地道にバイトでも探すべきか…）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週は何をしようかな…）"
+    }
+  ]
+}
