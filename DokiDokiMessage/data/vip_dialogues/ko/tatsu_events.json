@@ -1,0 +1,545 @@
+{
+  "half_repaid": {
+    "title": "50% 빚 상환 축하",
+    "dialogues": [
+      {
+        "character": "player",
+        "text": "그럼 실례하겠습니다...",
+        "tatsuImage": "fadeout"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "뭐...!?",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "가슴 근육이 정말 긴장되어 있네요.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "제대로 마사지해야겠어요.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "야, 야! 거기는 안 돼...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "이건 치료의 일환입니다. 림프 순환을 위해서...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "림프 순환... 이랑 관계없잖아!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "그리고...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "왜 벗어야 하는 거야...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "그게...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "피부에 직접 닿는 게 더 효과적이거든요.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "이제 유륜을 자극할게요.",
+        "resetBubbles": true,
+        "tatsuImage": "default"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "그, 그만해! 거기는 안 돼...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "으으♡",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "player",
+        "text": "타츠-누나, 의외로 민감하시네요.",
+        "resetBubbles": true,
+        "tatsuImage": "close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "바, 바보! 그런 거 아니야...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "이제 젖꼭지를 자극할게요.",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "응♡ 안, 안 돼 젖꼭지는...!",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "아아...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "왜... 이렇게 기분 좋은 거야...♡",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "손가락으로 원을 그리면서...",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "아아아...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "부드럽게, 그리고 강하게...",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "꺄아...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "리듬을 바꾸는 게 포인트예요.",
+        "resetBubbles": true,
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "그, 그렇게 하면...!",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "이상해질... 것 같아...!",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "괜찮아요.",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "쾌락에 대한 자연스러운 반응이에요.",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "이제... 그만...!",
+        "tatsuImage": "nipple",
+        "resetBubbles": true
+      },
+      {
+        "character": "타츠 누나",
+        "text": "이제 그만해야지...",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "아직이에요.",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "이상해질... 것 같아...!",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "이게 보상이잖아요?",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "이, 이런 건... 원하지 않았어...!",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "player",
+        "text": "하지만 몸은 즐기고 있어요.",
+        "tatsuImage": "nipple"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "아아! 거기...! 안 돼...♡",
+        "tatsuImage": "nipple_close"
+      },
+      {
+        "character": "player",
+        "text": "그럼, 아래쪽으로...",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "뭐...! 그건... 정말 안 돼...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "하지만, 보상이...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "그, 그만!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "나머지는...",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "전부 갚고 나서.",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "player",
+        "text": "에...? 그게 무슨...?",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "(이 녀석이 전부 갚을 리가 없는데...)",
+        "tatsuImage": "close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "아, 아무튼!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "나머지도 제대로 갚으라고!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "알겠습니다!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "열심히 할게요!",
+        "tatsuImage": "default"
+      }
+    ]
+  },
+  "full_repaid": {
+    "title": "전액 빚 상환 축하",
+    "dialogues": [
+      {
+        "character": "player",
+        "text": "자, 침대에 누우세요.",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "응? 뭘 할 생각이야!",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "빚을 갚은 기념 특별 마사지요.",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "나머지는",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "전부 갚고 나서라고 하셨죠?",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "제, 제기랄... 약속은 약속이니까...",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "player",
+        "text": "이제 넣을게요.",
+        "vipImage": "fadeout"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "잠, 잠깐! 마음의 준비를...",
+        "tatsuImage": "fadeout"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "응응!",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "player",
+        "text": "이렇게 젖어있으니 바로 들어가네요.",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "player",
+        "text": "기대하고 계셨나요?",
+        "tatsuImage": "insert_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "그, 그럴 리 없잖아...!",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "player",
+        "text": "이제 움직일게요.",
+        "tatsuImage": "default"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "응응♡ 깊숙이 닿아...!",
+        "resetBubbles": true,
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "아, 아아...! 가슴이 흔들려...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "이렇게 많이 흔들리고 있어요. 본인도 보이죠?",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "시, 시끄러...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "클리토리스도 딱딱해졌네요.",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "기분 좋으시죠?",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "그, 그런 거 아니야...",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "으으아아♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "누가 보면...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "걱정 마세요. 오늘은 휴무예요.",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "그, 그런 게 문제가 아니야... 아!",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "깊은 곳을 쑤시면...",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "거기...! 자궁에 닿아...!",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "아, 아아...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "나... 갈 것 같아...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "player",
+        "text": "마음껏 가세요.",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "안 돼...! 안 돼...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "안에 쌀게요.",
+        "resetBubbles": true,
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "안, 안에는 안 돼...! 안에 싸면 안 돼...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "player",
+        "text": "괜찮아요. 책임질게요.",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "그, 그런 게 문제가 아니야...!",
+        "tatsuImage": "spanking"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "아...♡",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "안 돼... 간다...!",
+        "tatsuImage": "spanking_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "간다!!",
+        "tatsuImage": "ejaculation_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "아아아아♡♡",
+        "tatsuImage": "ejaculation"
+      },
+      {
+        "character": "player",
+        "text": "쌌어... 타츠-누나 안에 가득 쌌어요.",
+        "tatsuImage": "cum_close_tx"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "하아... 하아...",
+        "resetBubbles": true,
+        "tatsuImage": "cum_close_tx"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "정말... 안에 쌌어...",
+        "resetBubbles": true,
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "뜨거워... 안에서...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "타츠-누나가 가슴 흔들면서 가는 모습, 정말 귀여웠어요.",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "귀, 귀엽다고... 하지 마...!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "제기랄... 이럴 줄은 몰랐어...",
+        "tatsuImage": "cum_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "야, 야... 다시는 빚지지 마!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "네! 빚은 안 질게요!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "하, 하지만... 뭐...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "가끔은... 놀러 와도 돼...",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "타츠-누나...!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "자궁 마사지 언제든지 환영합니다.",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "바, 바보! 그런 뜻이 아니야...!",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "player",
+        "text": "하지만 몸은 가벼워지셨죠?",
+        "tatsuImage": "cum"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "........",
+        "tatsuImage": "cum_close"
+      },
+      {
+        "character": "타츠 누나",
+        "text": "...뭐, 나쁘지 않았어.",
+        "tatsuImage": "cum"
+      }
+    ]
+  }
+}
