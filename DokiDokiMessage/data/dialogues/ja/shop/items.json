@@ -1,0 +1,407 @@
+{
+  "lotion_basic": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "ローションですね♡　これ、とってもなめらかになりますよ♡\n使い方も丁寧にご説明させていただきますね♡"
+      }
+    ]
+  },
+  "secret_book": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "ツインテール教経典ですか…？　ふふっ♡ お客様って意外と大胆なんですね♡\nこの本、とってもエッチなことが書いてあるんですよ♡"
+      }
+    ]
+  },
+  "pillow_comfort": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "安眠枕ですね♡　この枕、すっごくふかふかで気持ちいいんです♡\n睡眠の質が格段に上がりますよ♡"
+      }
+    ]
+  },
+  "medical_equipment": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "白衣と人体模型のセットですね♡\nこれを着ると、凄腕の整体師さんに見えますよ♡"
+      }
+    ]
+  },
+  "drop_bed": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "わぁ♡ ドロップベッドをご検討ですか？\nプロ仕様の高級品ですけど、施術効果が本当に変わりますよ♡"
+      }
+    ]
+  },
+  "relax_oil": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "リラックスオイルですね♡　いい香りで心が落ち着くんです♡\n緊張しやすいお客様にぴったりですよ♡"
+      }
+    ]
+  },
+  "energy_drink": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "エナジードリンクですか♡\nこれを飲めば、一日中元気いっぱいで施術できますよ♡"
+      }
+    ]
+  },
+  "sleep_powder": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "天然安眠パウダーですね♡　ラベンダーの優しい香りがするんです♡\nすぐに深い眠りにつけますよ♡"
+      }
+    ]
+  },
+  "chili_powder": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "天然唐辛子パウダーですか♡　強力な眠気覚ましですが、刺激がかなり強いので、使い方には十分お気をつけくださいね♡"
+      }
+    ]
+  },
+  "aphrodisiac_herb": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "えっと…これは秘伝のハーブエキスです♡\nとっても強力な効果があるので、使うときは気をつけてくださいね♡"
+      }
+    ]
+  },
+  "beast_charge_drink": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "ふふっ♡ビーストチャージZですか…♡\nご使用後、すぐに…元気になっちゃうみたいです♡"
+      }
+    ]
+  },
+  "sleep_guard_tablet": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "スリープキープ錠ですね♡\n一度眠ったら、ずーっと深い眠りのままになるお薬です♡"
+      }
+    ]
+  },
+  "climax_blocker": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "寸止めローションですか…♡\nこれを塗ると、どんなに気持ちよくてもイけなくなっちゃうみたいです…♡"
+      }
+    ]
+  },
+  "incense_toroinkо": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "媚薬お香の『とろ淫香』ですね…♡\n甘い香りが部屋中に広がって…とっても敏感になっちゃうみたいです♡"
+      }
+    ]
+  },
+  "part_time_magazine": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "バイト情報誌ですね♡　お得なバイトの情報が載ってるんです♡\n新しいお仕事の選択肢が増えますよ♡"
+      }
+    ]
+  },
+  "keiba_magazine": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "競馬情報誌ですね♡　最新の競走馬データが満載なんです♡\n一攫千金のチャンスが広がりますね♡"
+      }
+    ]
+  },
+  "erotic_manual_nipple": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "…性感マッサージ大全の乳首編ですね♡\n専門的な技術書ですから、しっかり勉強して…お客様に喜んでもらってくださいね♡"
+      }
+    ]
+  },
+  "erotic_manual_vagina": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "わぁ…♡ 性感マッサージ大全の膣編ですね♡ これはかなり上級者向けの本ですね♡\nこの本でしっかり学んで…お客様を満足させてあげてくださいね♡"
+      }
+    ]
+  },
+  "erotic_manual_clitoris": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "性感マッサージ大全の…クリトリス編ですね♡ これは繊細な技術が必要な内容ですね♡\nしっかり勉強して、お客様を喜ばせてあげてくださいね♡"
+      }
+    ]
+  },
+  "erotic_manual_anal": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "性感マッサージ大全の…アナル編ですね♡ かなり高度な技術が必要な施術ですが…\n一流の{{playerName}}には必要な知識ですよね♡ がんばってください♡"
+      }
+    ]
+  },
+  "gift_flowers": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "花束ですね♡ 女性への贈り物の定番ですよね♡\n大切な方へのプレゼントですか？"
+      }
+    ]
+  },
+  "gift_matcha_chocolate": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "京都宇治抹茶のチョコレートですか♡ とっても美味しそうですね♡\n抹茶好きな方にはたまらない贈り物ですね♡"
+      }
+    ]
+  },
+  "gift_headphones": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "ヘッドホンですか♡ 音楽好きな方への最高のプレゼントですね♡\n少しお値段はしますが、音質は本当に素晴らしいですよ♡"
+      }
+    ]
+  },
+  "gift_music_box": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "オルゴールですか♡ ロマンチックで素敵な贈り物ですね♡\n優しい音色に心が癒されますよ♡"
+      }
+    ]
+  },
+  "gift_posture_support": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "姿勢矯正サポーターですね♡ 健康を気遣う優しい贈り物ですね♡\n長時間の勉強やデスクワークをされる方に喜ばれますよ♡"
+      }
+    ]
+  },
+  "gift_book_stand": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "木製のブックスタンドですか♡ 読書好きな方への気の利いた贈り物ですね♡\n天然木の温もりが素敵なんです♡"
+      }
+    ]
+  },
+  "gift_black_lingerie": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "黒レースのランジェリーセットですか…♡\nとっても大人っぽくて素敵ですよね♡ 特別な方への贈り物ですか？♡"
+      }
+    ]
+  },
+  "gift_pink_rotor": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "ピンクローターですね…♡ 小さくてかわいいけど、振動がとっても強力なんですよ♡\n私もお気に入りです…♡"
+      }
+    ]
+  },
+  "gift_custom_dildo": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "これ、整体師さんの…？すごく…立派なサイズですね♡ 血管まで再現されてて…♡\n特別な方へのプレゼントですか？きっと喜ばれますよ♡"
+      }
+    ]
+  },
+  "gift_massage_av": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "このシリーズ、すごく人気なんですよ♡ 施術シーンがとってもリアルで…\n女優さんが本当に感じちゃってるみたいで…見てるだけでドキドキしちゃいます♡"
+      }
+    ]
+  },
+  "banner_flag": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "のぼり旗ですね！これを設置すると、通りがかりの方も気づいてくれやすくなりますよ♡\nお手頃価格で集客効果抜群です！"
+      }
+    ]
+  },
+  "plant_decoration": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "観葉植物はお店の雰囲気をぐっと良くしてくれますよ♡\nお客様もリラックスできて、リピート率が上がるんです！お手入れも簡単ですよ♡"
+      }
+    ]
+  },
+  "premium_speaker": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "高級スピーカーですね。音質が全然違いますよ♡\nヒーリング音楽を流せば、まるで高級サロンみたいな雰囲気になります！"
+      }
+    ]
+  },
+  "air_purifier": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "空気清浄機は必須アイテムですね！空気がとってもきれいになりますよ♡\n清潔感があると、お客様の信頼度もぐっと上がります！"
+      }
+    ]
+  },
+  "led_signboard": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "LED看板は最高の投資ですよ！夜でもピカピカ光って、すごく目立つんです♡\n設置したお店は売上が大幅にアップしたって聞きます！"
+      }
+    ]
+  },
+  "gift_teddy_bear": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "わぁ、可愛いクマさんのぬいぐるみですね♡\n女の子はみんな大好きですよ♡ 抱きしめて寝ると安心できそうですね♡"
+      }
+    ]
+  },
+  "gift_aroma_diffuser": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "アロマディフューザーですか♡ とても実用的な贈り物ですね♡\nお部屋が良い香りで満たされて、リラックス効果も抜群ですよ♡"
+      }
+    ]
+  },
+  "gift_eye_mask": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "normal",
+        "text": "アイマスクですね♡ 勉強で疲れた目を癒やすのにぴったりです♡\nラベンダーの香り付きで、睡眠の質も向上しますよ♡"
+      }
+    ]
+  },
+  "gift_luxury_bag": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "これは高級ブランドの…\nこんな素敵なプレゼントをもらったら、誰でも嬉しいですよね♡"
+      }
+    ]
+  },
+  "gift_vibrator": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "電動マッサージ機ですか♡ これはかなり強力なタイプですね♡\n全身に…使えるそうですよ…♡"
+      }
+    ]
+  },
+  "gift_diamond_ring": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "ダイヤモンドの指輪ですね♡ すごく素敵ですね…♡\n大切な方にプレゼントされるんですか？"
+      }
+    ]
+  },
+  "gift_neck_pillow": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "温熱ネックピローですね♡ じんわり温かくて首や肩のコリがほぐれるんですよ♡\n肩こりがひどい方への贈り物にぴったりです♡"
+      }
+    ]
+  },
+  "gift_whiskey": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "smile",
+        "text": "高級ウイスキーですか♡ 25年熟成のシングルモルト…とっても贅沢ですね♡\nお酒が好きな方にはたまらない贈り物ですよ♡"
+      }
+    ]
+  },
+  "gift_hemp_rope": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "麻縄セットですか…♡ 上質な麻縄で肌触りがとても柔らかいんですよ♡\n特別な…ご関係の方への贈り物ですか？♡"
+      }
+    ]
+  },
+  "cheat_glasses": {
+    "dialogues": [
+      {
+        "character": "店員",
+        "expression": "shy",
+        "text": "イカサマメガネですか…♡ すぐ壊れちゃうんですけど、一瞬だけカードを透視できるみたいです♡\nあっ、裏カジノでは内緒にしてくださいね…♡"
+      }
+    ]
+  }
+}
