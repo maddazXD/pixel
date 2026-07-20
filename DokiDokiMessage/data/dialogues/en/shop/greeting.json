@@ -1,0 +1,16 @@
+{
+  "dialogues": [
+    {
+      "id": "greeting",
+      "character": "Clerk",
+      "expression": "smile",
+      "text": "Selamat datang♡ Apa ada yang sedang kamu cari?"
+    },
+    {
+      "id": "after_greeting",
+      "character": "Clerk",
+      "expression": "normal",
+      "text": "Kalau kamu menemukan sesuatu yang menarik, jangan ragu untuk bertanya ya♡"
+    }
+  ]
+}
