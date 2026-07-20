@@ -1,0 +1,302 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──3개월 후.\n정체원은 예약을 잡기 힘든 초인기 매장이 되어 있었다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "선생님, 안녕하세요...",
+      "voiceFile": "ending_true_001"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "나나, 오늘도 아침 일찍이네."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "네... 빨리 시술을 받고 싶어서...",
+      "voiceFile": "ending_true_002"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "그렇게 말해주니 기쁘네"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "그리고... 요즘 계속 몸이 이상해요...",
+      "voiceFile": "ending_true_003"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "응? 어떻게?"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "아직 아무것도 안 했는데... 젖꼭지가... 아플 정도로...",
+      "voiceFile": "ending_true_004"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "브래지어가 스치기만 해도... 소리가 나와버려요...",
+      "voiceFile": "ending_true_005"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(셔츠 위로도 명확히 돌기가 보이네...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "아래도... 걷기만 해도 마찰이... 허벅지까지 젖어버려요...",
+      "voiceFile": "ending_true_006"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(옷 갈아입기도 전에 이미 준비 완료네...)"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "어제 시술의 여운이 아직 남아있어서... 빨리 다음 걸... 부탁드려요...",
+      "voiceFile": "ending_true_007"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "어쩔 수 없네. 오늘도 정성껏 해줄게."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(완벽해... 이제 나 없이는 살 수 없는 몸으로...)"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "저... 오늘도 '특별 코스'로...",
+      "voiceFile": "ending_true_008"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "아, 특별성감 마사지 코스네."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "성, 성감!?",
+      "voiceFile": "ending_true_009"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "아, 실수. 특별정체 마사지 코스였지."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "(...하지만 틀린 건 아닐지도...)",
+      "voiceFile": "ending_true_010"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "아니면 역시 일반 코스로 할까?"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그, 그런...",
+      "voiceFile": "ending_true_011"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "이제 일반 코스로는... 만족할 수 없어요...",
+      "voiceFile": "ending_true_012"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "그러니까... '특별 코스'... 부탁드려요.",
+      "voiceFile": "ending_true_013"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "특별 코스를 받고 싶다면..."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "나나가 진심으로 그걸 원하는지 제대로 보여줘야 해."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "네...?",
+      "voiceFile": "ending_true_014"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "알지? 뭘 해야 하는지."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "그, 그건...",
+      "voiceFile": "ending_true_015"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "진심으로 특별 코스를 받고 싶다면 스스로 준비해야 해."
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "...알겠어요...",
+      "voiceFile": "ending_true_016"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "나나는 떨리는 손으로 천천히 옷을 벗기 시작했다."
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "outfit": "naked",
+      "text": "선, 선생님... 봐주세요...",
+      "voiceFile": "ending_true_017"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "전라가 된 나나는 부끄러운 듯 양손으로 비밀 부위를 벌렸다.",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "여, 여기... 벌써... 이렇게 젖어있어요...",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_018"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "특별 코스... 부탁드려요... 여기에... 해주세요...♡",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_019"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "애액이 허벅지를 타고 흘러 바닥에 작은 물웅덩이를 만들기 시작했다.",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "좋아... 스스로 보여주고 조르는 걸 할 수 있게 됐네.",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "왜냐하면... 더 이상 참을 수 없으니까...",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_020"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "대단하네... 아직 만지지도 않았는데... 클리토리스까지 발기해서... 흠뻑 젖어있어...",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "젖꼭지도 이렇게 부어올랐어...",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "옅은 분홍빛이던 젖꼭지는 반복된 시술로 민감해져 충혈되어 붉게 부어있었다.",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "후훗. 그럼 오늘도 특별히 정성껏 해줄까.",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "감사합니다...",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_021"
+    },
+    {
+      "character": "nana",
+      "expression": "ecstatic_openmouth",
+      "text": "빨리... 부탁드려요...♡",
+      "fullImage": "end_true",
+      "voiceFile": "ending_true_022"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(완벽해... 이제 완전히 내 거야...!)",
+      "fullImage": "end_true"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "나나의 몸은 이제 정상적인 생활을 할 수 없을 정도로 민감해져 있었다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "계단을 오르기만 해도 절정을 맞이하고, 전철의 진동을 견디지 못하며, 수업 중에도 가랑이를 눌러 참고 있다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "젖꼭지는 항상 발기해 있고 비밀 부위는 24시간 젖어있으며, 이제 {{playerName}}의 시술 없이는 정상 상태를 유지할 수 없다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "나나는 쾌락을 구해 매일같이 정체원에 다닌다.\n이제 그것이 나와 그녀의 일상이 되어버렸다."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "【TRUE END】",
+      "triggerEnding": "true"
+    }
+  ]
+}
