@@ -1,0 +1,521 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──10주차 아침.\n타츠네의 몸은 이제 시술 없이는 만족할 수 없는 상태가 되어 있었다."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(10주…타츠네는 완전히 나한테 의존하고 있어. 최고야…)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(덕분에 고객도 안정됐고…전부 타츠네 덕분이야.)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…왔어.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타츠네! …어라, 오늘도 얼굴이 빨갛네요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…! 아무것도 아냐.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "하지만 들어온 순간부터 빨개져 있었잖아요. 더워요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…덥다기보다…",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…여기 냄새가…잊혀지지 않아서…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네? 냄, 냄새가 나요…?"
+    },
+    {
+      "character": "player",
+      "text": "(충격이다…분명히 청소도 열심히 하는데…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "closemouth",
+      "text": "냄새나긴 하는데…그것만이 아니라, 이 아저씨 냄…",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…아니, '오크통에서 오랫동안 숙성된 위스키 같은 깊은 향기'가…맡기만 해도 취할 것 같아져…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(냄새나는 건 나는 거구나…그런데 위스키라니…그건 결국 내 체취 얘기 아닌가…?)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…혹시 그거 제 냄새 얘기예요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "……………뭐……그래…네 냄새 맡으면…몸이 자기 멋대로 뜨거워져…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(냄새만으로도 반응하다니…조건반사가 여기까지 진행됐구나…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…그러면 이 방에 들어온 순간부터 벌써 반응하고 있었다는 거예요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…응…문 여는 순간…네 냄새가 확 밀려와서…벌써 속옷이…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(가게에 들어온 것만으로도 젖었다고…!)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…최근에 속옷 여분을 들고 다니게 됐어…하루에 여러 번 갈아입어야 하거든…너 생각날 때마다…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "하루에 여러 번…! 그건 상당하네요…"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그래서…그게…사실…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "뭔데요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…지난번 시술에서 쓴 수건…가져가 버렸어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "네? 수건을?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…네 냄새가 배어 있어서…그거 안고 자니까…조금 안정됐거든…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(사채업 사장이 내 수건 훔쳐서 안고 잤다고…!? 대박…너무 귀엽잖아…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…근데…3일 정도 지나니까 냄새가 옅어졌어…",
+      "outfit": "suit"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…그래서…부하한테 '저 정체사가 쓰는 섬유유연제 브랜드 알아내'라고 지시했는데…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "부하한테…!?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "같은 거 사서 썼는데…! 전혀 달라…! 네 냄새가 아니야…!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(부하한테 섬유유연제 브랜드 조사시켰다고…사채업 정보망을 그런 데 쓰다니…)"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…역시 수건이나 섬유유연제로는 안 돼…진짜가 아니면…네 몸에서 직접 나오는 냄새가 아니면…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(수건 도둑→부하에게 섬유유연제 조사→결국 진짜가 아니면 안 돼…완전히 내 냄새 중독이야…최고다…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그렇군요…타츠네의 몸은 촉각뿐만 아니라 후각까지 제게 지배당하고 있네요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "지배라니…부정할 수 없는 게 짜증나…",
+      "outfit": "suit"
+    },
+    {
+      "id": "choice_massage10",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "냄새만으로 이 정도 반응하다니…10주간의 시술 성과네요.",
+      "choices": [
+        {
+          "label": "괜찮아요, 자연스러운 거예요",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "gentle_path"
+        },
+        {
+          "label": "완전히 페로몬에 지배당했네요",
+          "trustDelta": 1,
+          "developDelta": 2,
+          "next": "pheromone_path"
+        },
+        {
+          "label": "꼭 발정한 암캐 같네요",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "bitch_path"
+        }
+      ]
+    },
+    {
+      "id": "gentle_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "괜찮아요. 자연스러운 몸의 반응이에요. 냄새로 안심하는 건 신뢰의 증거니까요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…자연스럽다…뭐, 네가 그렇다면…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "오늘은 밀착해서 시술할 테니까, 제 냄새 마음껏 맡으세요.",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "pheromone_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "이건 페로몬에 대한 반응이에요. 타츠네의 몸은 제 냄새 성분에 완전히 지배당하고 있어요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "페로몬…? 내가 네 냄새로 발정하고 있다는 거야…?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "과학적으로 말하면 그렇죠. 촉각에 더해 후각까지…이제 전신으로 절 갈구하고 있는 상태예요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…솔직해도 너무 솔직해서 곤란하다고…이 몸은…",
+      "outfit": "suit",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "bitch_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "꼭 발정한 암캐 같네요, 타츠네."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "뭐!? 암캐라고!? 지랄하지 마…!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "하지만 사실이잖아요. 제 냄새만 맡고 흠뻑 젖고, 수건까지 훔쳐서 안고 자고, 부하한테 비누 브랜드까지 조사시키고."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…! 그건…",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "주인 냄새에 발정하는 암캐 그 자체잖아요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…! 주인이라니…! 나는 네 애완동물이 아니야!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그럼 오늘은 시술 안 할까요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…! 야, 야…!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "타츠네는 암캐가 아니라고 했잖아요? 그럼 제 냄새도 시술도 필요 없을 텐데요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…! 그건… …………갖고 싶어……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그럼 제대로 인정하세요. 타츠네는 뭐예요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "……………암캐……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "누구의 암캐요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…………너의……암캐……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(사채업 사장이 '너의 암캐'라고…최고야…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "착하네요. 그럼 좀 더 솔직해져 보세요. 지금 제 냄새 맡고 몸이 어떻게 됐어요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…! …………젖었어……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "어디가? 똑바로 말하세요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…! 그, 그런 건…!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "못 말하면 오늘 시술 없어요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "……………! ……보, 보지가……젖었어……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(왔다…! 타츠네 입에서 '보지'라는 말이…! 저 자존심 덩어리가…!)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "다른 건? 클리토리스는 어때요?"
+    },
+    {
+      "character": "타츠네",
+      "expression": "angry",
+      "text": "…! 이 자식…어디까지 말하게 할 거야…!",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "전부요. 타츠네 몸 상태를 자기 입으로 솔직하게 보고해 주세요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…………클리토리스가……발기…했어……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(말했다…! '거기'나 '제일 민감한 곳'이라고밖에 못 하던 타츠네가…!)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "전부 이어서 말해 보세요. 제 냄새를 맡으면 어떻게 되는지."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "……네 냄새 맡으면……보지가 흠뻑 젖고……클리토리스가 빳빳하게 발기해……",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(완벽하다…사채업 사장이 이런 음란한 고백을…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "착하네요. 그럼 오늘은 암캐 타츠네를 실컷 귀여워해 줄게요.",
+      "next": "prepare_massage"
+    },
+    {
+      "id": "prepare_massage",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그럼 갈아입으시죠."
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…응.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "(타츠네가 옷을 갈아입기 시작한다…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…젠장, 벌써 속옷이 흠뻑이야…냄새만 맡았는데 이 정도라니…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…이 방…저 녀석 냄새가 가득해…숨 쉴 때마다…거기가 콕콕 찌릿해져…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…암캐라고 불렸어…보지, 클리토리스라고…자기 입으로 말해버렸어…사채업 사장이…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…근데…사실은…표면만으로는…이제 부족해…속까지…저 녀석의 손가락을…넣어줬으면 해…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "(…처녀인데…속을 원하다니…완전히 망가졌어…)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "타츠네",
+      "expression": "normal",
+      "text": "…갈아입었어.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(…대단해…허벅지에 희미하게 빛나는 게…방 냄새만으로 이 정도라니…)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "오늘은 밀착해서 시술할 테니까요. 제 냄새 마음껏 즐기세요."
+    },
+    {
+      "character": "타츠네",
+      "expression": "shy",
+      "text": "…빨리…시작해줘…이제……한계야……",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(냄새만으로 벌써 한계라니…완전히 내 냄새 중독이야…참을 수가 없네…)"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "그럼 오늘은 밀착 시술 해드릴게요. 제 냄새, 마음껏 즐기세요."
+    }
+  ]
+}
