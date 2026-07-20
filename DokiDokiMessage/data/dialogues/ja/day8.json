@@ -1,0 +1,316 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "8週目の朝。\n2ヶ月にわたる施術で、ナナちゃんの身体は確実に変化していた。"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（8週間の施術…ナナちゃんの身体の反応は、日に日に良くなっている。）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（施術の効果が、しっかりと現れているようだ。）"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "おはようございます…。",
+      "voiceFile": "story_day8_001"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "おはよう、ナナちゃん。なんだか元気がないね？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…実は…週末、ずっと先生のことを考えてて…。",
+      "voiceFile": "story_day8_002"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "俺のこと？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "はい…土曜日の夜から、身体がずっと熱くて…。",
+      "voiceFile": "story_day8_003"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "自分で…その…触ってみたんですけど…全然満足できなくて…。",
+      "voiceFile": "story_day8_004"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（自慰をしたのか…それでも満足できないなんて、完璧じゃないか。）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "先生の手じゃないと…ダメみたいなんです…。",
+      "voiceFile": "story_day8_005"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "私の身体、どうしちゃったんでしょうか…？",
+      "voiceFile": "story_day8_006"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "それは…ナナちゃんの身体が、俺の施術を完全に覚えてしまったんだね。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "覚えて…？",
+      "voiceFile": "story_day8_007"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう。身体には記憶があるんだ。特に気持ちいい感覚は、強く記憶される。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "じゃあ…私の身体は、先生の手を覚えちゃったってことですか…？",
+      "voiceFile": "story_day8_008"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そういうことだね。ナナちゃんの身体は、もう俺の施術に完全に適応してしまったんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "確かに、先生の手じゃないと満足できなくなってるのは本当です…。",
+      "voiceFile": "story_day8_009"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "…私の身体…変になっちゃったんでしょうか…？",
+      "voiceFile": "story_day8_010"
+    },
+    {
+      "id": "choice_massage8",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（ナナちゃんの身体は完全に開発されてきている。ここでどう伝えるか…）",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "変じゃない、正常な反応だよ",
+          "trustDelta": 1,
+          "developDelta": 0,
+          "next": "customer_path"
+        },
+        {
+          "label": "ナナちゃんは特別に敏感なんだ",
+          "trustDelta": 2,
+          "developDelta": 1,
+          "next": "special_path"
+        },
+        {
+          "label": "変っていうか、俺好みになったんだ",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "possess_path"
+        }
+      ]
+    },
+    {
+      "id": "customer_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "変じゃないよ。これは正常な反応だ。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "毎週施術を受けて、身体がリラックスしやすくなっただけさ。"
+    },
+    {
+      "character": "nana",
+      "expression": "normal_smile_openmouth",
+      "text": "そう…なんですか…？安心しました…。",
+      "next": "continue_conversation",
+      "voiceFile": "story_day8_011"
+    },
+    {
+      "id": "special_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ナナちゃんは特別に敏感な体質なんだよ。"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "普通の人より感度が高くて、施術の効果が出やすい。だからこんなに反応してしまうんだ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "私、そんなに敏感なんですか…？",
+      "voiceFile": "story_day8_012"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "どうりで…先生の手が気持ちよすぎるんですね…。",
+      "next": "continue_conversation",
+      "voiceFile": "story_day8_013"
+    },
+    {
+      "id": "possess_path",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "変っていうか…俺好みの身体になったんだよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_surprised_sweat",
+      "text": "先生好み…？",
+      "voiceFile": "story_day8_014"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "そう。毎週施術を繰り返して、ナナちゃんの身体は俺の手に完璧に適応した。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "そんな…私の身体が、先生好みに…？",
+      "voiceFile": "story_day8_015"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "ナナちゃんも分かってるだろ？俺の手じゃないと満足できないって。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "…それは…そうですけど…。",
+      "next": "continue_conversation",
+      "voiceFile": "story_day8_016"
+    },
+    {
+      "id": "continue_conversation",
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "あの…今日は、お願いがあって…。",
+      "voiceFile": "story_day8_017"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "お願い？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "もっと…深いところまで、施術してもらえませんか…？",
+      "voiceFile": "story_day8_018"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "深いところ？"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_openmouth",
+      "text": "はい…最近、身体の奥の方が…ムズムズして…。",
+      "voiceFile": "story_day8_019"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway_openmouth",
+      "text": "特に…お腹の下の方とか…もっと奥の方が…。",
+      "voiceFile": "story_day8_020"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（ついに自分から求めてきたか…これは大きな進歩だ。）"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "わかった。今日は特別に、もっと深部までケアしてあげるよ。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "本当ですか…？ありがとうございます…。",
+      "voiceFile": "story_day8_021"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "じゃあ、着替えてもらおうか。"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_closeeyes_closemouth",
+      "text": "（今日は…もっと深いところまで…どんな感じなんだろう…）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day8_022"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_lookaway",
+      "text": "（ドキドキする…）",
+      "cutInImage": "nana_changing",
+      "voiceFile": "story_day8_023"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "着替えました…。",
+      "outfit": "micro_bikini",
+      "voiceFile": "story_day8_024"
+    },
+    {
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "（相変わらず素晴らしい身体だ…そして、明らかに期待してる表情…）"
+    },
+    {
+      "character": "nana",
+      "expression": "blush_nervoussmile",
+      "text": "{{playerName}}さん…よろしくお願いします…。",
+      "voiceFile": "story_day8_025"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "blush_closemouth",
+      "text": "うん、任せて。それじゃあ始めようか"
+    }
+  ]
+}
