@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(今天的治疗结束了...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(第5周了...奈奈酱的身体变化真大)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(她说\"离不开老师的治疗\"时，我真的很开心)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(治疗还没开始，身体就已经完全准备好了...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(她还说想介绍朋友来)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(她一定是真的信任我的技术)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(那么，这周该做什么呢...)"
+    }
+  ]
+}
