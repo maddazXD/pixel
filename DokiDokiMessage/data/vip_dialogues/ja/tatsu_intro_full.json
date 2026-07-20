@@ -1,0 +1,92 @@
+{
+  "title": "借金完済達成",
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "…よし！やっと借金が全額返せた…！"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "タツ姐",
+      "text": "おい！いるか！？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "タツ姐！？どうしたんですか、そんなに慌てて…",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "本当か！？本当に全額返したのか！？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "はい！全額返済完了です！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "本当に…全部返したのか…",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "これで借金はチャラだ。あんたはもう自由の身だぜ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "ありがとうございます！これも全部ナナちゃ…いえ、お客様のおかげです！",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "で、でもよ…その…",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "完済の約束、あったよな？",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "ああ、完済記念の特別なお祝いでしたね。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "ちっ…覚えてやがったか。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "タツ姐",
+      "text": "…約束は約束だからな。言ったことは守るよ。",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "ご褒美をもらう",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}
