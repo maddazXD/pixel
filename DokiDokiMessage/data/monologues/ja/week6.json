@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（6週間目の施術が終わった…）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃん、最近は週2回ペースで来てくれるようになったな）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（施術中の反応も…かなり敏感になってきてる）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（帰る時も脚元がふらついてたし、相当効いてるみたいだ）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『すみません…まだ余韻が…』って恥ずかしそうにしてたけど）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（俺の施術にかなり依存し始めてるのかもしれない）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週はどうしようかな…）"
+    }
+  ]
+}
