@@ -1,0 +1,383 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Pagi minggu ke-6. Dengan semakin banyaknya klien rujukan yang menjadi pelanggan tetap, bisnis ini perlahan mulai stabil."
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Sudah minggu ke-6 ya... Tatsu-nee belakangan ini jadi lebih lembut.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Membawakanku café latte, memberiku pujian yang tulus... Dia masih menakutkan, tapi ya begitulah.)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(...Dengan begini, mungkin hari ini aku bisa mencoba perawatan yang lebih mendalam.)"
+    },
+    {
+      "include": "common/weekly_settlement"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Hei.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Selamat pagi, Tatsu-nee! Ini sudah sesi ke-6 kita, lho."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "Ya. Perawatanmu lumayan juga.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Terima kasih! Dan berkat rujukanmu, banyak dari mereka yang jadi pelanggan tetap."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Orang-orangku bilang, \"Rujukan bos memang mantap.\" Bersyukurlah.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Aku sangat menghargainya!"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Ngomong-ngomong, kamu tidak menyuruh mereka memakai pakaian minim itu juga, kan?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Mana mungkin aku melakukan hal mesum begitu. Siapa yang mau lihat pria pakai mikro bikini? Mereka kutangani benar-benar telanjang, cuma ditutup handuk di bagian bawah."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Bukannya itu malah lebih parah...?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Bercanda! Kami punya pakaian yang pantas untuk mereka. Pakaian perawatan itu khusus untuk klien wanita saja."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Ya ampun, bercandamu kasar sekali.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Jadi, bagaimana perasaanmu hari ini?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Sebenarnya, belakangan ini aku susah tidur.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tidak bisa tidur? Apakah karena stres?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "Bukan... bukan stres juga sih. Aku terus-terusan mimpi aneh.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Mimpi aneh? Mimpi seperti apa?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Ya mana mungkin aku kasih tahu kamu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Ah, itu pasti... mimpi yang seperti itu.)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Pokoknya, pas bangun aku selalu basah kuyup oleh keringat... dan tubuhku terasa aneh. Terasa lelah juga, anehnya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Itu bukan cuma keringat... tapi biarlah, aku simpan sendiri saja.)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Begitu ya... Itu mungkin tanda kalau tubuhmu sedang mendambakan sesuatu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Mendambakan? Mendambakan apa?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Hasrat yang terpendam bisa muncul lewat mimpi. Mari kita coba perawatan yang lebih mendalam hari ini."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Mendalam... maksudnya?",
+      "outfit": "suit"
+    },
+    {
+      "id": "choice_massage6",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Mari kita coba perawatan spesial hari ini.",
+      "choices": [
+        {
+          "label": "Aku akan menstimulasi kelenjar getah bening bagian dalam.",
+          "trustDelta": 2,
+          "developDelta": 0,
+          "next": "lymph_path"
+        },
+        {
+          "label": "Fokus pada area-area sensitif.",
+          "trustDelta": 1,
+          "developDelta": 1,
+          "next": "sensitive_path"
+        },
+        {
+          "label": "Pendekatan medis untuk zona erotis.",
+          "trustDelta": 0,
+          "developDelta": 3,
+          "next": "erogenous_path"
+        }
+      ]
+    },
+    {
+      "id": "lymph_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Dengan menstimulasi kelenjar getah bening bagian dalam, kita bisa menyeimbangkan sistem saraf otonommu. Itu juga seharusnya bisa meningkatkan kualitas tidurmu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Kelenjar getah bening, ya. Yah, masuk akal sih.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Karena aku akan menstimulasi jaringan bagian dalam, perawatannya akan sedikit lebih intens dari biasanya... Apa tidak apa-apa?"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closeeyes",
+      "text": "...Aku percaya pada perawatanmu. Lagipula, ini sudah kali ke-6 kita melakukannya.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Tatsu-nee bilang dia percaya padaku... Itu membuatku senang.)",
+      "next": "change_clothes"
+    },
+    {
+      "id": "sensitive_path",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Terakhir kali kamu bilang tubuhmu jadi makin sensitif, kan? Aku akan fokus merawat area-area sensitif itu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Area sensitif? ...Di mana tepatnya?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Area tempat saraf terkonsentrasi. Menstimulasi area itu dengan benar akan membuat seluruh tubuhmu rileks dan memperbaiki kualitas tidurmu."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Yah, memang benar belakangan ini tubuhku jadi sangat sensitif sampai terasa mengganggu. Asal jangan coba-coba yang aneh-aneh saja.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Sensitivitas minggu lalu berlanjut ke sini... Mungkin aku bisa sedikit lebih berani.)",
+      "next": "change_clothes"
+    },
+    {
+      "id": "erogenous_path",
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Hah!? Zona erotis!? Kamu bercanda ya!?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ini pendekatan yang valid secara medis. Stimulasi yang tepat pada zona erotis bisa menyeimbangkan kadar hormon."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "Kamu... kamu serius?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Ya. Berdasarkan apa yang kamu ceritakan soal mimpimu, ada kemungkinan besar tubuhmu memang menginginkan ini."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...! Jangan sok menganalisisku sesukamu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "angry",
+      "text": "...Ini benar-benar perawatan yang sah, kan?",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "T-Tentu saja! Zona erotis adalah area di mana saraf terkonsentrasi, dan menstimulasinya akan memicu sekresi hormon, yang menyeimbangkan sistem saraf otonom..."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Iya, iya. Berhenti pakai istilah rumit itu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Ya sudah, aku serahkan padamu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "player",
+      "text": "(Hah...? Dia tadi marah tapi kok tidak menolak... Apa ini bisa berhasil...?)"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "...Sejujurnya, tubuhku terasa lebih baik sejak aku memulai perawatan darimu.",
+      "outfit": "suit"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "...Coba macam-macam dan kau akan menyesal, mengerti?",
+      "outfit": "suit",
+      "next": "change_clothes"
+    },
+    {
+      "id": "change_clothes",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Baiklah, silakan ganti pakaian seperti biasa."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Iya. Ini sudah keenam kalinya, aku sudah terbiasa sekarang.",
+      "outfit": "suit"
+    },
+    {
+      "character": "",
+      "expression": "closemouth",
+      "text": "(Tatsu-nee mulai berganti pakaian...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Perawatan mendalam... apa yang sebenarnya dia rencanakan...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "(...Yah, sejauh ini dia belum melakukan hal aneh...)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "shy",
+      "text": "(...Apa aku... mungkin menantikan ini...?)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "(...Tidak mungkin. Ini cuma perawatan. Cuma perawatan.)",
+      "cutInImage": "tatsu_changing"
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "normal",
+      "text": "Sudah ganti.",
+      "outfit": "bikini"
+    },
+    {
+      "character": "player",
+      "text": "(Bahkan setelah 6 kali, aku tetap tidak bisa terbiasa dengan... tubuh itu...)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Silakan berbaring di tempat tidur."
+    },
+    {
+      "character": "Tatsu-nee",
+      "expression": "closemouth",
+      "text": "...Ya.",
+      "outfit": "bikini"
+    },
+    {
+      "id": "massage_start",
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Kalau begitu, mari kita mulai perawatannya."
+    }
+  ]
+}
