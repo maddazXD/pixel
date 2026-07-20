@@ -1,0 +1,233 @@
+{
+  "intro": {
+    "dialogues": [
+      {
+        "character": "Bunny Clerk",
+        "text": "6 kali menang berturut-turut...♡ Kamu luar biasa♡",
+        "expression": "happy"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Tidak banyak orang yang bisa menang selama ini, tahu?"
+      },
+      {
+        "character": "player",
+        "text": "B-benarkah...?"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Iya♡ Jadi ini sangat spesial♡",
+        "expression": "happy"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Untuk pelanggan yang menang 6 kali berturut-turut..."
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Kamu boleh menyentuh lebih dari sekadar payudaraku... bagian bawah sana juga boleh kamu jamah♡",
+        "expression": "excited"
+      },
+      {
+        "character": "player",
+        "text": "Bagian bawah...?"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Vaginaku♡",
+        "expression": "excited"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Biar aku buka kakiku untukmu♡",
+        "expression": "excited"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Nah♡ Sentuh sesukamu, sepuasmu♡",
+        "expression": "happy"
+      }
+    ]
+  },
+  "interactive": {
+    "baseImage": "casino/reward_vagina_base.png",
+    "expressions": {
+      "pleasure": "casino/reward_vagina_pleasure.png",
+      "climax": "casino/reward_vagina_climax.png"
+    },
+    "gaugeLabel": "Kegembiraan",
+    "gaugeMax": 100,
+    "characterName": "Bunny Clerk",
+    "idleLines": [
+      "Tidak perlu malu♡",
+      "Dilihat saja olehmu, punyaku jadi sedikit...♡",
+      "Kalau kamu tidak menyentuhku... aku bakal kesepian♡"
+    ],
+    "progressLines": [
+      {
+        "gauge": 20,
+        "speech": "Mm...♡ Kamu menyentuhku begitu banyak...♡"
+      },
+      {
+        "gauge": 40,
+        "speech": "Haa...♡ Vaginaku... jadi makin basah dan basah...♡"
+      },
+      {
+        "gauge": 60,
+        "speech": "Ahh♡ Sudah... basah kuyup...♡ Ini semua salahmu...♡"
+      },
+      {
+        "gauge": 80,
+        "speech": "Ahh...♡ Belum pernah ada yang menyentuhku sebanyak ini... sebelumnya...♡"
+      }
+    ],
+    "hotspots": [
+      {
+        "id": "clitoris",
+        "area": {
+          "x": 42,
+          "y": 48,
+          "width": 16,
+          "height": 12
+        },
+        "isCorrect": true,
+        "gaugeIncrease": 5,
+        "expression": "climax",
+        "speeches": [
+          "Hyah♡ Di situ, tiba-tiba saja...♡",
+          "Mmm♡ Klitorisku... sensitif sekali...♡",
+          "Ahh♡ Menyentuhnya langsung...♡",
+          "Ahh♡ Kamu terus menyentuh bagian itu... jahat sekali♡",
+          "Ahh...♡ Klitorisku... rasanya enak sekali...♡",
+          "Ahh ahh♡ Kalau kamu memainkannya sebanyak itu...♡"
+        ]
+      },
+      {
+        "id": "vagina",
+        "area": {
+          "x": 40,
+          "y": 58,
+          "width": 20,
+          "height": 14
+        },
+        "isCorrect": true,
+        "gaugeIncrease": 4,
+        "expression": "pleasure",
+        "speeches": [
+          "Mm♡ Aku bisa merasakan sentuhanmu di lubangku...♡",
+          "Ah...♡ Kamu mau memasukkan jarimu ke dalam?♡",
+          "Mm...♡ Lubangku terus berdenyut...♡",
+          "Aku jadi basah sekali...♡ Ini semua salahmu♡",
+          "Mm...♡ Kamu ingin masuk lebih dalam, kan...♡",
+          "Ahh♡ Di situ... hampir saja masuk ke dalam...♡"
+        ]
+      },
+      {
+        "id": "thigh",
+        "area": {
+          "x": 20,
+          "y": 60,
+          "width": 18,
+          "height": 20
+        },
+        "isCorrect": true,
+        "gaugeIncrease": 3,
+        "expression": "pleasure",
+        "speeches": [
+          "Hehe♡ Itu geli...♡",
+          "Mulai dari paha... kamu benar-benar suka menggoda♡",
+          "Aku bisa merasakannya bahkan lewat stokingku♡",
+          "Mm...♡ Kamu semakin mendekat...♡",
+          "Saat kamu menyentuh paha bagian dalamku... punyaku mulai menginginkan lebih...♡"
+        ]
+      },
+      {
+        "id": "breast",
+        "area": {
+          "x": 30,
+          "y": 20,
+          "width": 40,
+          "height": 22
+        },
+        "isCorrect": true,
+        "gaugeIncrease": 3,
+        "expression": "pleasure",
+        "speeches": [
+          "Menyentuh bagian itu juga?♡ Rakus sekali♡",
+          "Mm♡ Punyaku dan payudaraku sekaligus... sungguh sebuah kemewahan♡",
+          "Haa...♡ Atas dan bawah... aku milikmu sepenuhnya♡"
+        ]
+      }
+    ]
+  },
+  "climax": {
+    "image": "images/live2devent/vagina_climax.png",
+    "afterImage": "images/live2devent/vagina_climax_after.png",
+    "dialogueDelay": 600,
+    "pulseDuration": 2500,
+    "dialogues": [
+      {
+        "character": "Bunny Clerk",
+        "text": "Ahh...♡ Mmm...♡ Aku... mau keluar...♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Vaginaku... bergetar...♡ Aku tidak... tahan lagi...♡♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Aku keluar...♡ Jari-jarimu membuatku... keluar...♡♡"
+      }
+    ]
+  },
+  "outro": {
+    "dialogues": [
+      {
+        "character": "Bunny Clerk",
+        "text": "Haa... haa...♡",
+        "expression": "pleasure"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Sentuhanmu tadi cukup berani ya...♡"
+      },
+      {
+        "character": "player",
+        "text": "...Maaf, aku tadi lepas kendali..."
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Jangan minta maaf♡ Aku menikmatinya kok♡",
+        "expression": "happy"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Lihat... aku basah sekali...♡",
+        "expression": "excited"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Mejanya sampai basah semua karenaku...♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "...Hei♡"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Kenapa tidak mengincar yang lebih tinggi lagi?♡",
+        "expression": "happy"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Hadiah berikutnya... mungkin lebih dari sekadar sentuhan♡",
+        "expression": "excited"
+      },
+      {
+        "character": "Bunny Clerk",
+        "text": "Nantikan saja ya♡",
+        "expression": "happy"
+      }
+    ]
+  }
+}
