@@ -1,0 +1,1655 @@
+{
+  "talks": {
+    "talk_sensitive": {
+      "topicName": "敏感な場所",
+      "trustEffect": 0,
+      "developEffect": 2,
+      "alertnessEffect": 3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃんって、特に敏感な場所とかある？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…そ、そんなこと聞くんですか…？",
+          "voiceFile": "talk_sensitive_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "施術の参考にね。苦手な場所があれば避けるし。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "…脇とか…首筋とか…触られるとビクッてなっちゃいます…",
+          "voiceFile": "talk_sensitive_002"
+        }
+      ]
+    },
+    "talk_sports_bra": {
+      "topicName": "スポーツブラの話",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "スポーツの時は専用のブラとか使ってる？"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "あ、はい…スポーツブラを…",
+          "voiceFile": "talk_sports_bra_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "そんなに大きいと…なかなか合うサイズもないんじゃない？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "そ、そうですね…。大きいサイズ専用のところで買ってます…",
+          "voiceFile": "talk_sports_bra_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "へぇ。そんなのあるんだ。走ったりすると揺れちゃって大変なんじゃない？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "えっと…そうですね……みんなに見られちゃうので恥ずかしいです…",
+          "voiceFile": "talk_sports_bra_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "（同じクラスの男どもが羨ましい…！）"
+        }
+      ]
+    },
+    "talk_underwear": {
+      "topicName": "パンツの話",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃんが今日履いてたパンツ、当ててみようかな。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ！？な、なんでそんなこと…！",
+          "voiceFile": "talk_underwear_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "うーん、白か…ピンクか……いや…やっぱり、水色でしょ？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "！！…ど、どうして…",
+          "voiceFile": "talk_underwear_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "あ、図星だ。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "も、もう…やめてください…恥ずかしいです…",
+          "voiceFile": "talk_underwear_003"
+        }
+      ]
+    },
+    "talk_embarrassing_memory": {
+      "topicName": "恥ずかしい体験",
+      "trustEffect": 1,
+      "developEffect": 2,
+      "alertnessEffect": 3,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "今まで一番恥ずかしかった体験って何？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "えっ…それは…",
+          "voiceFile": "talk_embarrassing_memory_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "言いたくなければいいんだけど…"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ナナちゃんのこと、もっと知りたくてさ…"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "{{playerName}}さん…",
+          "voiceFile": "talk_embarrassing_memory_002"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "あの…プールの授業で…水着が…",
+          "voiceFile": "talk_embarrassing_memory_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "水着が？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "ちょっとずれちゃって…みんなの前で……その…",
+          "voiceFile": "talk_embarrassing_memory_004"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "乳首がポロリしちゃったんだね！？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "そ、そんな大きな声で言わないでください…！",
+          "voiceFile": "talk_embarrassing_memory_005"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_03",
+          "text": "もう思い出したくないです…",
+          "voiceFile": "talk_embarrassing_memory_006"
+        }
+      ]
+    },
+    "talk_body_growth": {
+      "topicName": "体の成長",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "最近、体つきが大人っぽくなってきたね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "え…そ、そうですか…？",
+          "voiceFile": "talk_body_growth_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "胸とかも少し大きくなった？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "ちょ、ちょっと…！そんなところ見てるんですか…？",
+          "voiceFile": "talk_body_growth_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "仕事柄、体の変化は気になるんだ。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "もう…恥ずかしいです…でも確かに最近サイズが…",
+          "voiceFile": "talk_body_growth_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "成長期だからね。自然なことだよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "そういう話、誰にもできなくて……",
+          "voiceFile": "talk_body_growth_004"
+        }
+      ]
+    },
+    "talk_sensitive_spot": {
+      "topicName": "体の敏感な場所",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 4,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "施術してて気づいたけど、首筋触ると反応するよね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！そんな…気づいてたんですか…？",
+          "voiceFile": "talk_sensitive_spot_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "他にも敏感な場所ある？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "な、なんでそんなこと…",
+          "voiceFile": "talk_sensitive_spot_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "施術の時に気をつけたいから。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "耳とか…太ももの内側とか…ダメです…",
+          "voiceFile": "talk_sensitive_spot_003"
+        }
+      ]
+    },
+    "talk_swimsuit": {
+      "topicName": "水着の悩み",
+      "trustEffect": 1,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "プールの授業とかどうしてるの？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "あ…それが…すごく困ってて…",
+          "voiceFile": "talk_swimsuit_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "水着のサイズ？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "はい…学校指定のだと全然入らなくて…",
+          "voiceFile": "talk_swimsuit_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "特別に許可もらったりしてる？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "…はい…。でも、それでも目立っちゃって…男子とかにジロジロ見られて…",
+          "voiceFile": "talk_swimsuit_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "それは辛いね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "プールの日は休みたくなっちゃいます…",
+          "voiceFile": "talk_swimsuit_004"
+        }
+      ]
+    },
+    "talk_male_experience": {
+      "topicName": "恋愛経験",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "彼氏とかいたことある？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ！？そ、そんな…いません…",
+          "voiceFile": "talk_male_experience_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "そうなんだ。意外だな。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "だって…男の人と話すのも緊張しちゃって…",
+          "voiceFile": "talk_male_experience_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "そう？そんな風には見えないけどなぁ。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "そ、それは……たぶん…{{playerName}}さんだから……（小声）",
+          "voiceFile": "talk_male_experience_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ん？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "な、なんでもありません……",
+          "voiceFile": "talk_male_experience_004"
+        }
+      ]
+    },
+    "talk_secret_habit": {
+      "topicName": "秘密の習慣",
+      "trustEffect": 0,
+      "developEffect": 3,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "最近、エッチなことに興味持ったりする？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ！？な、何の話ですか…？",
+          "voiceFile": "talk_secret_habit_001"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "年頃だから自然なことだよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "そ、それは…その…ちょっとだけ…",
+          "voiceFile": "talk_secret_habit_002"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "どんなことに興味があるの？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっと…その…マンガとか読んで…でもよく分からなくて…",
+          "voiceFile": "talk_secret_habit_003"
+        },
+        {
+          "character": "player",
+          "expression": "sleepy_01",
+          "text": "そういうのも勉強の一つだよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "でも…怖いし恥ずかしいです……なのに、気になっちゃって…",
+          "voiceFile": "talk_secret_habit_004"
+        }
+      ]
+    },
+    "talk_erotic_study": {
+      "topicName": "エロい勉強",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "エッチなこと、どこで勉強してるの？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "べ、勉強なんてしてません…！",
+          "voiceFile": "talk_erotic_study_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "でも、この前興味あるって言ってたよね。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "それは…その…",
+          "voiceFile": "talk_erotic_study_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ネットで動画とか見たりする？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "た、たまに…少女漫画とか…読んだりは…",
+          "voiceFile": "talk_erotic_study_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "少女漫画のエッチなシーンで興奮しちゃうんだ。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "こ、興奮なんてしてません…！ただドキドキするだけで…",
+          "voiceFile": "talk_erotic_study_004"
+        }
+      ]
+    },
+    "talk_bra_size_virgin": {
+      "topicName": "ブラのサイズ",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ナナちゃんさ、施術着から…おっぱいがこぼれそうだね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！？",
+          "voiceFile": "talk_bra_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "何カップなの？見るからに相当大きいよね。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "あの…その……Hカップです…",
+          "voiceFile": "talk_bra_size_virgen_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "Hカップ！？（道理でマイクロビキニには収まらないわけだ…）"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "（乳輪見えてるもんな…）"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "す、すみません…サイズが合ってなくて…",
+          "voiceFile": "talk_bra_size_virgen_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "いいよいいよ。むしろそのはみ出してる感じがエロ…えっと、かわいいよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "？"
+        }
+      ]
+    },
+    "talk_bra_size_experienced": {
+      "topicName": "ブラのサイズ",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ナナちゃんさ、施術着から…おっぱいがこぼれそうだね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！？",
+          "voiceFile": "talk_bra_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "何カップなの？かなり大きいよね。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "あの…その……Iカップです…",
+          "voiceFile": "talk_bra_size_experienced_001"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "あ、Iカップ！？（そりゃマイクロビキニじゃ隠せないわけだ…）"
+        },
+        {
+          "character": "player",
+          "expression": "alert_01",
+          "text": "（乳輪見えてるもんな…）"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "す、すみません……最近どんどんサイズが大きくなってしまって……",
+          "voiceFile": "talk_bra_size_experienced_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "いいよいいよ。むしろそのはみ出してる感じがエロ…えっと、かわいいよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "？"
+        }
+      ]
+    },
+    "talk_breast_sensitivity": {
+      "topicName": "胸の敏感さ",
+      "trustEffect": 0,
+      "developEffect": 4,
+      "alertnessEffect": 5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "胸が大きいとリンパが滞りやすいからね。直接揉みほぐした方がいいかも。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "ちょ、直接…！？",
+          "voiceFile": "talk_breast_sensitivity_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Iあると乳首も敏感になってるでしょ？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "な、なんでそんなこと……",
+          "voiceFile": "talk_breast_sensitivity_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "経験上ね。服の上からでも乳首立ってるの分かるよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！？そ、そんな…！",
+          "voiceFile": "talk_breast_sensitivity_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "コリコリしてる。触られたらどうなるんだろうね。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "だ、だめ…です…",
+          "voiceFile": "talk_breast_sensitivity_004"
+        }
+      ]
+    },
+    "talk_body_temperature": {
+      "topicName": "体温の上昇",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ナナちゃんの体、すごく熱くなってきてるね。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "え…そうですか…？",
+          "voiceFile": "talk_body_temperature_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "特に下半身が熱い。血流が集中してるのかな？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "か、下半身…",
+          "voiceFile": "talk_body_temperature_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "顔も真っ赤だし、全身が火照ってる感じ。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "恥ずかしいです…体が勝手に…",
+          "voiceFile": "talk_body_temperature_003"
+        }
+      ]
+    },
+    "talk_butt_shape": {
+      "topicName": "お尻の形",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ナナちゃんのお尻、すごくプリプリしてるね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！お、お尻ですか…？",
+          "voiceFile": "talk_butt_shape_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "引き締まってて形がいいね。"
+        },
+        {
+          "character": "nana",
+          "expression": "normal_02",
+          "text": "そ、そうですか…？",
+          "voiceFile": "talk_butt_shape_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "触ると弾力があってモチモチしてる。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "ひゃっ…！触らないでください…！",
+          "voiceFile": "talk_butt_shape_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "お尻の谷間も深くてエロいね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "も、もう…そんなところ…見ないでください…",
+          "voiceFile": "talk_butt_shape_004"
+        }
+      ]
+    },
+    "talk_breast_bounce": {
+      "topicName": "胸の揺れ方",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -3,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "さっきから施術中におっぱいがプルンプルン揺れてるね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！？そ、そんなに揺れてますか…？",
+          "voiceFile": "talk_breast_bounce_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "Iカップだもんね。ちょっと動かすだけでブルンブルンって。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "恥ずかしいです…押さえようとしても…",
+          "voiceFile": "talk_breast_bounce_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "乳首も一緒に動いてるのが分かるよ。コリコリって。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "ひゃっ…！そんなところまで見てるんですか…！？",
+          "voiceFile": "talk_breast_bounce_003"
+        }
+      ]
+    },
+    "talk_body_hair": {
+      "topicName": "体毛の話",
+      "trustEffect": 0,
+      "developEffect": 5,
+      "alertnessEffect": 7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "さっきから気になってたんだけどさ。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "は、はい…？",
+          "voiceFile": "talk_body_hair_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "この際どい施術着…下の方、ツルツルなのが透けて見えてるよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "えっ…！そ、そんな…見えてるんですか…！？",
+          "voiceFile": "talk_body_hair_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "生えてないんだね。脱毛？それとも元から？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "も、元から…生えてないんです…",
+          "voiceFile": "talk_body_hair_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "へぇ〜、エロいね。触ったらどんな感じなんだろう。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "ひゃんっ…！さ、さわらないでください…！",
+          "voiceFile": "talk_body_hair_004"
+        }
+      ]
+    },
+    "talk_breathing_change": {
+      "topicName": "息遣いの変化",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ナナちゃん、息がハァハァって荒くなってるよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！？そ、そんなことないです…",
+          "voiceFile": "talk_breathing_change_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "鼻息も熱いし、興奮してるでしょ？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "ち、違います…！ただ暑いだけで…",
+          "voiceFile": "talk_breathing_change_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "時々「んっ…」って声も漏れてるよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "そ、それは…出ちゃうんです…我慢できなくて…",
+          "voiceFile": "talk_breathing_change_003"
+        }
+      ]
+    },
+    "talk_twitch_reaction": {
+      "topicName": "ビクビク反応",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "触るたびにビクッてなるね。そんなに感じやすいの？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "ひゃっ…！そ、そんなこと…",
+          "voiceFile": "talk_twitch_reaction_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "太ももの内側触っただけで全身がビクビクしてる。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "だ、だって…くすぐったくて…",
+          "voiceFile": "talk_twitch_reaction_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "くすぐったいだけじゃないでしょ？腰も浮いてるし。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "うぅ…体が勝手に反応しちゃうんです…",
+          "voiceFile": "talk_twitch_reaction_003"
+        }
+      ]
+    },
+    "talk_nipple_change": {
+      "topicName": "乳首の色の変化",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "あれ？ナナちゃん、乳首の色が変わってきてない？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ！？そ、そんなはずは…",
+          "voiceFile": "talk_nipple_change_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "さっきまで薄いピンクだったのに、今は濃いピンクになってるよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "そ、それは…その…",
+          "voiceFile": "talk_nipple_change_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "充血してるんだね。感じちゃってるんでしょ？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "ち、違います…！ただ…施術で血行が良くなって…",
+          "voiceFile": "talk_nipple_change_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ふーん、でも先っぽがプックリ膨らんでるけど？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "もう…！そんなに見ないでください…恥ずかしいです…",
+          "voiceFile": "talk_nipple_change_004"
+        }
+      ]
+    },
+    "talk_voice_suppression": {
+      "topicName": "声の我慢",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "口を噛んでるけど、声我慢してる？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！べ、別に…",
+          "voiceFile": "talk_voice_suppression_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "「んー！んー！」って必死に我慢してるのが分かるよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "だ、だって…声出したら恥ずかしいから…",
+          "voiceFile": "talk_voice_suppression_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "我慢しなくていいのに。可愛い声聞きたいな。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "や、やだ…絶対に声なんて出しません…！",
+          "voiceFile": "talk_voice_suppression_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "でももう喉の奥から漏れそうになってるよ？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "うぅ…もう限界かも…",
+          "voiceFile": "talk_voice_suppression_004"
+        }
+      ]
+    },
+    "talk_inner_thigh": {
+      "topicName": "太ももの内側",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 9,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "内ももがヌルヌルになってるけど、これ汗じゃないよね？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！？あ、汗です…汗だと思います…",
+          "voiceFile": "talk_inner_thigh_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "でも上から垂れてきてるみたいだけど？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "そ、それは…その…",
+          "voiceFile": "talk_inner_thigh_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "触るとネバネバしてるし、愛液だよね。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "もう…言わないでください…恥ずかしいです…",
+          "voiceFile": "talk_inner_thigh_003"
+        }
+      ]
+    },
+    "talk_wet_easily": {
+      "topicName": "濡れやすい体質",
+      "trustEffect": 0,
+      "developEffect": 6,
+      "alertnessEffect": 8,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ナナちゃん、なんか施術着の股のところが…"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ！？な、なんですか…？",
+          "voiceFile": "talk_wet_easily_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "濡れてない？汗かな？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "わ、わかりません……",
+          "voiceFile": "talk_wet_easily_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "もしかして感じちゃってる？濡れやすいタイプ？"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "…す、すぐに…濡れちゃうんです…恥ずかしい…",
+          "voiceFile": "talk_wet_easily_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "へぇ〜、敏感なんだね。エロい体してるね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "うう……",
+          "voiceFile": "talk_wet_easily_004"
+        }
+      ]
+    },
+    "talk_girl_smell": {
+      "topicName": "女の子の匂い",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ナナちゃんからすごく甘い匂いがするね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！？に、匂いですか…？",
+          "voiceFile": "talk_girl_smell_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "女の子特有の甘い匂いだよ。興奮すると強くなるらしいね。"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "特に股の辺りから…濡れてるからかな？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "そ、そんなこと…！",
+          "voiceFile": "talk_girl_smell_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "でも嫌いじゃないよ。むしろ興奮する。"
+        }
+      ]
+    },
+    "talk_clit_size": {
+      "topicName": "クリトリスの大きさ",
+      "trustEffect": 0,
+      "developEffect": 8,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ナナちゃん、施術着が薄いから形が分かるけど…"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！？な、何がですか…？",
+          "voiceFile": "talk_clit_size_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "クリトリスが結構大きいね。プックリしてる。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "やっ…！そ、そんなところ…見ないでください……",
+          "voiceFile": "talk_clit_size_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "結構発達してるんだね。敏感そうだけど、自分で触ったりしてるの？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "し…してません…",
+          "voiceFile": "talk_clit_size_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "でも今もピクピクしてるよ？感じやすそう。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "もう……恥ずかしすぎます…",
+          "voiceFile": "talk_clit_size_004"
+        }
+      ]
+    },
+    "talk_pussy_shape": {
+      "topicName": "おまんこの形",
+      "trustEffect": 0,
+      "developEffect": 9,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ナナちゃんのおまんこ、綺麗な形してるね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！？",
+          "voiceFile": "talk_pussy_shape_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "縦スジがくっきり見えてる。すごく締まってそうな感じ。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "み、見えてるんですか…！？やだ……だめです…",
+          "voiceFile": "talk_pussy_shape_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ビラビラも小さくて可愛いピンク色だね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "うう……見ないでください…！",
+          "voiceFile": "talk_pussy_shape_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "でも入り口がヒクヒクしてるよ？欲しがってるみたい。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "ち、違います…！そんなんじゃ…ないです…",
+          "voiceFile": "talk_pussy_shape_004"
+        }
+      ]
+    },
+    "talk_love_juice": {
+      "topicName": "愛液の量",
+      "trustEffect": 0,
+      "developEffect": 10,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "ナナちゃん、施術着に染みができてるよ。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ…！？し、染み…？",
+          "voiceFile": "talk_love_juice_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "愛液がすごい量出てるね。トロトロになってる。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "あ、愛液って…！そんな…出てません…！",
+          "voiceFile": "talk_love_juice_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "糸引いてるのが見えるよ。こんなに濡れやすいんだ。"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "うぅ…体質なんです…すぐ濡れちゃって…",
+          "voiceFile": "talk_love_juice_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "まんこがグチョグチョ音してるね。エロい体だな。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "や、やめてください…！恥ずかしくて死にそうです…",
+          "voiceFile": "talk_love_juice_004"
+        }
+      ]
+    },
+    "talk_anal": {
+      "topicName": "アナルの色",
+      "trustEffect": 0,
+      "developEffect": 7,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -4,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "うつ伏せの時に見えたけど、アナルも綺麗なピンク色だね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ！？ア…アナ…！？み、見てたんですか！？",
+          "voiceFile": "talk_anal_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "すごくキュッと締まってて、綺麗な形してる。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "そ、そんなところまで…恥ずかしいです…！",
+          "voiceFile": "talk_anal_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "でもさっきからヒクヒクしてるよ？興奮すると動くんだね。"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "う、動いてなんか…！もう見ないでください…！",
+          "voiceFile": "talk_anal_003"
+        }
+      ]
+    },
+    "talk_masturbation": {
+      "topicName": "オナニーについて",
+      "trustEffect": 0,
+      "developEffect": 9,
+      "alertnessEffect": 10,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -5,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "一人でする時はどんな風にしてるの？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "えっ！？ひ、一人でって…何の話ですか…？",
+          "voiceFile": "talk_musturbation_001"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "オナニーだよ。どこを触るの？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "そんな…恥ずかしいこと…",
+          "voiceFile": "talk_musturbation_002"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "クリトリス？それとも中に指入れたりする？"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "……"
+        },
+        {
+          "character": "nana",
+          "expression": "sleepy_02",
+          "text": "そ、その……上の方を…ちょっとだけ…",
+          "voiceFile": "talk_musturbation_003"
+        },
+        {
+          "character": "player",
+          "expression": "pleasure_01",
+          "text": "へぇ、クリ派なんだ。何分くらいでイっちゃう？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "もう…！そんなこと…聞かないでください…",
+          "voiceFile": "talk_musturbation_004"
+        }
+      ]
+    },
+    "talk_health_exam_experience": {
+      "topicName": "健康診断での初体験",
+      "trustEffect": 2,
+      "developEffect": 5,
+      "alertnessEffect": -6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "前の健康診断、すごかったんでしょ？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "は、はい…色々されて…",
+          "voiceFile": "talk_health_exam_experience_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "初めてだったのに気持ちよくなっちゃった？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "最初は嫌だったけど…体が勝手に…",
+          "voiceFile": "talk_health_exam_experience_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "処女奪われちゃったんだよね？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "検査だから仕方ないって…でも…",
+          "voiceFile": "talk_health_exam_experience_003"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "それ以来、体が敏感になった？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "はい…あれから変になっちゃって…",
+          "voiceFile": "talk_health_exam_experience_004"
+        }
+      ]
+    },
+    "talk_developed_sensitive": {
+      "topicName": "敏感になった体",
+      "trustEffect": 1,
+      "developEffect": 6,
+      "alertnessEffect": -7,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "健康診断以来、どこが一番感じるようになった？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "乳首と…下も…",
+          "voiceFile": "talk_developed_sensitive_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "詳しく教えて？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "触られるとすぐビクッてなって…",
+          "voiceFile": "talk_developed_sensitive_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "濡れやすくもなった？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "はい…すぐに…恥ずかしいです…",
+          "voiceFile": "talk_developed_sensitive_003"
+        }
+      ]
+    },
+    "talk_virgin_anxiety_curiosity": {
+      "topicName": "初体験への気持ち",
+      "trustEffect": 2,
+      "developEffect": 4,
+      "alertnessEffect": -5,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -1,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "エッチなこと、興味ある？"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "そ、そんな…！でも…",
+          "voiceFile": "talk_virgen_anxiety_curiosity_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "怖い？それとも気になる？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "両方です…怖いけど…知りたい気持ちも…",
+          "voiceFile": "talk_virgen_anxiety_curiosity_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "どんな風にされたい？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "優しく…してほしいです…",
+          "voiceFile": "talk_virgen_anxiety_curiosity_003"
+        }
+      ]
+    },
+    "talk_virgin_pure_body": {
+      "topicName": "経験ない体の反応",
+      "trustEffect": 1,
+      "developEffect": 5,
+      "alertnessEffect": -6,
+      "pleasureEffect": 0,
+      "sleepinessEffect": -2,
+      "dialogues": [
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "処女の体って、すごく敏感らしいよ"
+        },
+        {
+          "character": "nana",
+          "expression": "alert_02",
+          "text": "しょ…！？そ、そうなんですか…？",
+          "voiceFile": "talk_virgen_pure_body_001"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "ナナちゃんも最近感じやすくなってない？"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "確かに…マッサージ受けてると…変な感じが…",
+          "voiceFile": "talk_virgen_pure_body_002"
+        },
+        {
+          "character": "player",
+          "expression": "normal_01",
+          "text": "それが普通だよ。純粋な反応。"
+        },
+        {
+          "character": "nana",
+          "expression": "pleasure_02",
+          "text": "そうなんですか…安心しました…",
+          "voiceFile": "talk_virgen_pure_body_003"
+        }
+      ]
+    }
+  }
+}
