@@ -1,0 +1,25 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（9週目が終了…順調すぎて怖いくらいだ）",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（ナナちゃんの友達からの紹介も増えてきた）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（『ナナちゃんが絶賛してたから』って理由で来る客が多い）"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "（さて、今週は何に時間を使おうかな）"
+    }
+  ]
+}
