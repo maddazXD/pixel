@@ -1,0 +1,107 @@
+{
+  "title": "Pencapaian Pelunasan Utang 50%",
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "...Fiuh. Akhirnya separuh utangnya lunas."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "",
+      "playSE": "door_chime"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Yo! Kamu masih hidup?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "K-Kak Tatsu!? Ada apa ke sini...?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Maksudnya gimana? Ya jelas aku ke sini buat nengokin kamu.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Aku dengar kamu sudah bayar setengah utangmu?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "I-Iya! Aku kerja keras setiap hari!",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Tadinya kupikir kamu bakal kabur, tapi ternyata kamu hebat juga.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Nggak nyangka cowok kurus kayak kamu bisa sampai sejauh ini.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Tapi itu baru setengahnya, kan? Pastikan kamu bayar sisanya.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Yah... karena kamu sudah bayar setengahnya...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Kurasa nggak ada salahnya kasih sedikit hadiah.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Hadiah...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Bagaimana kalau aku pijat saja, Kak Tatsu? Kakak pasti capek belakangan ini.",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "Hah? Aku yang dipijat?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "Iya. Itu hadiahnya. ...Gimana?",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "Tatsu-nee",
+      "text": "...Yah, bahuku memang lagi kaku belakangan ini... kurasa boleh juga...",
+      "characterImage": "tatsu/tatsu.png"
+    },
+    {
+      "character": "player",
+      "text": "",
+      "hideCharacter": true,
+      "choices": [
+        {
+          "label": "Berikan pijatan pada Kak Tatsu",
+          "next": "trigger_manga"
+        }
+      ]
+    },
+    {
+      "character": "",
+      "text": "",
+      "hideCharacter": true
+    }
+  ]
+}
