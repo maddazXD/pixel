@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Nana-chan sudah pergi...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Minggu ke-4... belakangan ini dia benar-benar mulai rileks selama perawatan)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Selama perawatan hari ini, dia menunjukkan reaksi yang begitu jujur)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Mengatakan 'Sensei... di sana...' sementara tubuhnya merespons dengan jujur)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Kita sudah membangun kepercayaan, jadi mungkin sudah waktunya untuk lanjut ke tahap berikutnya)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Mungkin dia butuh perawatan di area yang lebih dalam...)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(Baiklah kalau begitu, apa yang harus kulakukan minggu ini...)"
+    }
+  ]
+}
