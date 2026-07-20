@@ -1,0 +1,235 @@
+{
+  "dialogues": [
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Beberapa bulan kemudian. Entah kenapa, aku malah terdampar jauh di pegunungan."
+    },
+    {
+      "character": "player",
+      "text": "(Bagaimana ceritanya bisa jadi begini? Aku buka klinik pijat, punya utang, Tatsu-nee terus datang… cuma sampai situ ingatanku. Setelah itu, Master bilang sesuatu seperti \"Sayang sekali kalau bakatmu disia-siakan,\" dan sebelum aku sadar, aku sudah berkemas dan diseret ke gunung.)"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Pagi! Bangun! Hari ini aku akan mengajarimu tahap ketujuh teknik meridian—\"Pembalikan Ki\"!"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Baik, Master! …Tunggu, kita sudah sampai tahap ketujuh? Yang pertama kan titik tekan kaki, yang kedua pelepasan pinggul… um…"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Kamu tidak ingat!? Yang ketiga \"Pembukaan Meridian Dada,\" yang keempat \"Sirkulasi Ki Perut Bawah\"! Kita sudah mempraktikkan semuanya di tubuhku!"
+    },
+    {
+      "character": "player",
+      "text": "(Aku samar-samar ingat melakukan berbagai hal pada tubuh Master. Meskipun aku masih tidak bisa membedakan apakah itu pengobatan atau tindakan seksual. Master bersikeras kalau itu semua adalah \"instruksi.\")"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Nah, tahap ketujuh, \"Pembalikan Ki\"—seni mengendalikan aliran ki di dalam tubuhmu sendiri dengan bebas. Alasan aku mempertahankan penampilan ini adalah berkat teknik yang satu ini."
+    },
+    {
+      "character": "player",
+      "text": "(Sepertinya Master terlihat seperti gadis kecil karena teknik \"Pembalikan Ki\" ini. Aslinya dia… tidak, jangan pikirkan wujud aslinya.)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Master… apakah ini benar-benar… masih dalam ranah terapi pijat…?"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "\"Seitai\" artinya \"menyelaraskan tubuh\"! Tidak ada batasan dalam cara seseorang menyelaraskannya!"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Mereka yang menguasai seitai bisa berubah bebas antara tua dan muda! Aku adalah bukti hidupnya!"
+    },
+    {
+      "character": "player",
+      "text": "(Logikanya benar-benar gila, tapi Master adalah bukti hidupnya, jadi…)"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Nah, sekarang coba sendiri. Pusatkan kesadaranmu pada dantian… Bayangkan membalikkan aliran ki-mu."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Beberapa jam kemudian"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…Hah? Tanganku… jadi mengecil…?"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Oh! Mencapai perubahan sebanyak itu di hari pertama! Kamu benar-benar berbakat!"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tunggu… tinggi badanku… menyusut…!? Sebentar, apa, tunggu sebentar!?"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Ho! Bahkan struktur kerangkamu ikut berubah! Luar biasa!"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Master!! Aku tidak bisa kembali ke semula!?"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Jangan panik. Kalau kamu mengalirkan ki ke arah sebaliknya, kamu akan kembali normal. …Mungkin."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Mungkin!?"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Beberapa minggu kemudian"
+    },
+    {
+      "character": "player",
+      "text": "(Sulit dipercaya, tapi aku benar-benar mulai terbiasa. Hanya dengan mengubah aliran ki, aku bisa dengan bebas mengubah komposisi otot, ukuran kerangka, bahkan ketebalan pita suara. Aku bisa jadi dewasa atau anak-anak sesuka hati. Aku bahkan tidak paham apa yang aku bicarakan, tapi itu kenyataannya, jadi mau bagaimana lagi?)"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Hari ini latihan praktik. Aku akan melakukan perawatan padamu saat kamu dalam wujud anak kecil."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…Hah?"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Tanpa merasakan tubuh kecil secara langsung, kamu tidak bisa menguasai cara kerja tubuh! Ini bagian dari instruksi!"
+    },
+    {
+      "character": "player",
+      "text": "(Alasan \"bagian dari instruksi\" itu lagi… Tapi aku tidak bisa menyangkalnya. Mengetahui rasanya berada di posisi penerima itu benar-benar penting bagi seorang terapis pijat… tunggu, apa aku benar-benar terpengaruh oleh argumen yang masuk akal ini?)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "…Ya, Guru."
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Saat aku memfokuskan ki-ku, tubuhku mulai berubah dengan cepat. Bahuku menyempit, anggota tubuhku memendek, dan tinggi pandanganku turun drastis."
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Hm. Ternyata kau shota kecil yang cukup manis, ya? …Nah, mari kita mulai. Bisa kau rasakan titik tekan di sini?"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Hyah…! D-di situ…! Tunggu… tubuh anak kecil ternyata sepeka ini…!?"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Lihat? Ingat sensasi ini baik-baik. Saat ukuran tubuh berbeda, lokasi dan efektivitas titik tekan berubah total."
+    },
+    {
+      "character": "player",
+      "text": "(I-ini luar biasa… Menerima perawatan dalam tubuh anak kecil dibandingkan tubuh dewasa—sensasinya benar-benar berbeda. Lokasi titik tekannya, bagian yang terasa enak, semuanya bergeser. Mengetahui hal ini dibandingkan tidak tahu benar-benar membuat perbedaan besar…!)"
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Guru… terapi pijat itu… benar-benar luar biasa…!"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Hmph. Jelas saja. Apa yang kau bicarakan sekarang?"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "──Beberapa bulan kemudian"
+    },
+    {
+      "character": "player",
+      "text": "(Aku sudah benar-benar terbiasa dengan kehidupan di gunung. Bangun, latihan, praktik perawatan, makan bersama Guru, latihan lagi. Terkadang aku berubah jadi anak kecil dan memanjat pohon untuk penyegaran. …Jika seseorang membaca ini secara objektif, mereka pasti mengira aku sudah gila, tapi inilah kehidupan sehari-hariku sekarang, jadi mau bagaimana lagi?)"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Kemampuanmu sudah meningkat pesat. Kau bisa beralih dengan bebas antara dewasa dan anak kecil sekarang, dan presisi perawatanmu sudah meningkat jauh melampaui apa pun."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Terima kasih, Guru. Ini semua berkat Anda."
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "…Hmph. Tapi biar kuberi tahu—kau baru menggores permukaannya saja."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "Tunggu… ini masih baru permukaannya saja…?"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Bentuk tertinggi dari seitai… adalah mampu mengubah tubuh orang lain dengan bebas juga, hanya dengan menyentuh mereka."
+    },
+    {
+      "character": "player",
+      "expression": "closemouth",
+      "text": "……………………Apa?"
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Kenapa dengan wajah itu? Kau bisa melakukannya. Hanya perlu sedikit latihan lagi."
+    },
+    {
+      "character": "Master",
+      "hideCharacter": true,
+      "text": "Ayo, berhenti berdiri di sana dengan mulut menganga dan mulai latihan paginya!"
+    },
+    {
+      "character": "",
+      "hideCharacter": true,
+      "text": "Jauh di pegunungan, hari-hari latihan yang menakjubkan terus berlanjut. Klinik, hutang—aku sudah lama melupakan semuanya."
+    },
+    {
+      "character": "player",
+      "text": "(Tapi ada satu hal yang aku yakin.)"
+    },
+    {
+      "character": "player",
+      "text": "(Terapi pijat… benar-benar luar biasa.)",
+      "triggerEnding": "shishou"
+    }
+  ]
+}
