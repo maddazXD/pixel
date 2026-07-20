@@ -1,0 +1,40 @@
+{
+  "dialogues": [
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(第6周的治疗结束了...)",
+      "playSE": "door_close"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(奈奈酱最近开始一周来两次了)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(她治疗时的反应...变得相当敏感)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(离开时双腿发软，看来效果真的很好)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(她害羞地说\"对不起...余韵还在...\"的样子)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(她可能已经相当依赖我的治疗了)"
+    },
+    {
+      "character": "player",
+      "hideCharacter": true,
+      "text": "(那么，这周该做什么呢...)"
+    }
+  ]
+}
